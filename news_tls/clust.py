@@ -97,113 +97,11 @@ class ClusteringTimelineGenerator():
 
         # word embedding & cluster
         vectorizer = None
-        embedder = SentenceTransformer('paraphrase-distilroberta-base-v1')
-        clusters = self.clusterer.cluster(collection, None, embedder)
-        #doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
-        #clusters = self.clusterer.cluster(collection, doc_vectorizer, None)
+        #embedder = SentenceTransformer('paraphrase-distilroberta-base-v1')
+        #clusters = self.clusterer.cluster(collection, None, embedder)
+        doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
+        clusters = self.clusterer.cluster(collection, doc_vectorizer, None)
         clusters_num = len(clusters)
-
-        # calculate tfidf for all topics
-        topic_model = lda_model
-        def get_topic_words():
-            topics = topic_model.print_topics()
-            v_list = []
-            w_list = []
-            for i, topic in topics:
-                terms = topic.split('+')
-                tmp_v = []
-                tmp_w = []
-                for term in terms:
-                    v, w = term.replace('\'', '').replace('\"', '').strip().split('*')
-                    tmp_v.append(float(v))
-                    tmp_w.append(w)
-                v_list.append(tmp_v)
-                w_list.append(tmp_w)
-            return v_list, w_list
-
-        def make_vocab(topic_words):
-            ret = dict()
-            for topic in topic_words:
-                for word in topic:
-                    if word in ret.keys():
-                        continue
-                    idx = len(ret)
-                    ret[word] = idx
-            return ret
-
-        v, w = get_topic_words()
-        n_topics = len(v)
-        for topic_id in range(n_topics):
-            row_sum = sum(v[topic_id])
-            for word_id in range(len(v[topic_id])):
-                v[topic_id][word_id] = v[topic_id][word_id] / row_sum
-        vocab = make_vocab(w)
-        n_vocab = len(vocab)
-
-        def count_word():
-            ret = np.zeros((n_topics, n_vocab))
-            for topic_id in range(n_topics):
-                for word_id, word in enumerate(w[topic_id]):
-                    ret[topic_id][vocab[word]] = v[topic_id][word_id]
-            return ret
-
-        term_topic_matrix = count_word()
-
-        def document_frequency(term_index):
-            df = 0
-            for d in range(n_topics):
-                if term_topic_matrix[d, term_index] != 0:
-                    df = df + 1
-            return df
-
-        def inverse_document_frequency(df):
-            idf = np.log((n_topics + 1) / (df + 1)) + 1
-            return idf
-
-        tfidf_matrix = np.zeros((n_topics, n_vocab))
-
-        for t in vocab:
-            t_index = vocab[t]
-            df = document_frequency(t_index)
-
-            for d in range(n_topics):
-                tf = term_topic_matrix[d, t_index]
-                idf = inverse_document_frequency(df)
-                tfidf_matrix[d, t_index] = tf * idf
-
-        for d in range(n_topics):
-            norm = np.sum(tfidf_matrix[d, :] ** 2)
-            norm = np.sqrt(norm)
-            tfidf_matrix[d, :] = tfidf_matrix[d, :] / norm
-
-        vocab_list = list(vocab.keys())
-        keywords = []
-        for topic_id in range(n_topics):
-            row = np.array(tfidf_matrix[topic_id, :])
-            max_id = row.argsort()[-3:][::-1]
-            tmp_word = [vocab_list[id] for id in max_id]
-            keywords.append(tmp_word)
-        print(keywords)
-
-        topics = lda_topics
-        centroid_list = [c.centroid for c in clusters]
-        weighted_sim = np.zeros((len(topics), clusters_num))
-        for j, topic in topics:
-            tmp = topic.split('+')
-            v_list = []
-            w_list = []
-            for t in tmp:
-                v, w = t.replace('\'', '').replace('\"', '').strip().split('*')
-                v_list.append(v)
-                w_list.append(w)
-            v_list = np.array(v_list, dtype=float)
-            w_list = embedder.encode(w_list)
-            unweighted_centroid_word_sim = cosine_similarity(centroid_list, w_list)
-            weighted_sim[j] = np.matmul(unweighted_centroid_word_sim, v_list)
-
-        weighted_sim = weighted_sim.transpose()
-        #print('weighted similarity between topics and clusters...')
-        #print(weighted_sim)
 
         # assign dates
         print('assigning cluster times...')
