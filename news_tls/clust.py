@@ -71,7 +71,6 @@ class ClusteringTimelineGenerator():
             return True
 
         print('summarization...')
-        del lda_model, hdp_model, embedder
         sys_l = 0
         sys_m = 0
         ref_m = max_dates * max_summary_sents
