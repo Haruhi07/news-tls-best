@@ -83,6 +83,7 @@ def evaluate(tls_model, dataset, result_path, trunc_timelines=False, time_span_e
         ref_timelines = [TilseTimeline(tl.date_to_summaries)
                          for tl in collection.timelines]
         topic = collection.name
+        print(topic)
         if topic == '.DS_Store':
             continue
         n_ref = len(ref_timelines)
