@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+` Lack of operating discipline ' contributed to BP spill , engineers ' report says <TIMEX3 tid="t5" type="DATE" value="2010-11-17">Wednesday</TIMEX3> , <TIMEX3 tid="t3" type="DATE" value="2010-11-17">November 17 , 2010</TIMEX3> ; <TIMEX3 tid="t6" type="TIME" value="2010-11-17T01:05">1:05 AM</TIMEX3> A panel of scientific experts studying the Gulf of Mexico oil spill has concluded that ` ` an insufficient consideration of risk and a lack of operating discipline '' contributed to the disaster , adding that key ` ` decisions also raise questions about the adequacy of operating knowledge on the part of key personnel '' on the ill - fated drilling rig .
+The interim report from the National Academy of Engineering and the National Research Council says that a variety of failures ` ` indicate the lack of a suitable approach for anticipating and managing the inherent risks , uncertainties , and dangers associated with deepwater drilling operations and a failure to learn from previous near misses . ''
+The report , set for <TIMEX3 tid="t10" type="TIME" value="2010-11-17TAF">Wednesday afternoon</TIMEX3> release but reported by the Wall Street Journal , draws largely on evidence that has already emerged in the course of other inquiries into the <TIMEX3 tid="t8" type="DATE" value="2010-04-20">April 20</TIMEX3> blowout at the Macondo well .
+The blowout killed 11 people aboard the Deepwater Horizon oil rig , which caught fire and sank , triggering the enormous oil spill .
+The committee of academics appears to have been taken aback by the education and training levels of people on the rig .
+The chairman of the committee is Donald C. <TIMEX3 tid="t11" type="DATE" value="2010-WI">Winter</TIMEX3> , professor in the University of Michigan 's Department of Naval Architecture and Marine Engineering .
+` ` Personnel on the Deepwater Horizon were mostly trained on the job , and this training was supplemented with limited short courses , '' the report said .
+` ` While this appears to be consistent with industry standard practice and <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">current</TIMEX3> regulations cents it is not consistent with other safety - critical industries such as nuclear power or chemical manufacturing . ''
+Like the presidential oil spill commission , the National Academy of Engineering took aim at the cementing job on the Macondo well .
+It pointed out that there had been a loss of drilling mud in the hole , indicating probable fractures in the rock that would weaken any cementing job .
+It noted that the well design complicated the drilling operation , especially given that there were multiple hydrocarbon zones .
+It also criticized the failure to run one kind of cement test and the failure to pay any attention to bad results from another test of the cement .
+With regard to rig workers ' failure to determine why a critical pressure test failed , the report says their conduct ` ` suggests a lack of onboard expertise and of clearly defined responsibilities '' and ` ` a lack of management discipline that is inconsistent with the stakes involved . ''
+That pressure test should have detected faults in cement designed to seal the well .
+</TimeML>

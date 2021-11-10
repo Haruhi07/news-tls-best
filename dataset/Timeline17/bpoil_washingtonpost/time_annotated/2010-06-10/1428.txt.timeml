@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+The stock price of BP plunged more than 15 percent <TIMEX3 tid="t1" type="DATE" value="2010-06-09">Wednesday</TIMEX3> to a 14 - year low as it became increasingly clear that the amount of oil spewing out of the Deepwater Horizon well is substantially greater than the company or the federal government initially estimated .
+Coast Guard Adm. Thad W. Allen , head of the government 's spill response , said that BP collected 15,000 barrels of oil -LRB- 630,000 gallons -RRB- from the blown well on <TIMEX3 tid="t2" type="DATE" value="2010-06-08">Tuesday</TIMEX3> but that significantly more was escaping the containment cap into the ocean .
+Allen said the company is moving a ` ` mobile drilling unit '' to the site that will increase the receiving capacity to 28,000 barrels -LRB- almost 1.2 million gallons -RRB- <TIMEX3 tid="t4" type="DURATION" value="P1D">a day</TIMEX3> .
+The quantity of oil spilling into the Gulf of Mexico has been the subject of speculation and controversy for weeks .
+Early in the crisis , the National Oceanic and Atmospheric Administration issued an estimate of 210,000 gallons <TIMEX3 tid="t7" type="DURATION" value="P1D">a day</TIMEX3> , but more <TIMEX3 tid="t5" type="DATE" value="PAST_REF">recently</TIMEX3> a government - appointed team of scientists known as the Flow Rate Technical Group produced estimates of 504,000 to 1.05 million gallons .
+Because the damages and penalties that could be levied against BP would be based on the amount of oil released into the gulf , investors interpreted <TIMEX3 tid="t8" type="DATE" value="2010-06-09">Wednesday</TIMEX3> 's news as substantially increasing the company 's potential liability .
+Allen also said <TIMEX3 tid="t9" type="DATE" value="2010-06-09">Wednesday</TIMEX3> that the 1,000 - foot shuttle tanker Loch Rannoch was headed to the gulf from the North Sea .
+The tanker is capable of withstanding rougher seas than the ships <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">currently</TIMEX3> in place at the crowded blowout site .
+Along the Gulf Coast , the damage to wildlife is becoming more apparent .
+A rescue center in Louisiana said it has gotten more than five times as many oily birds in <TIMEX3 tid="t13" type="DURATION" value="PXD">the past few days</TIMEX3> than in <TIMEX3 tid="t12" type="DURATION" value="P6W">the previous six weeks</TIMEX3> .
+The U.S. Fish and Wildlife Service 's rescue center in coastal Louisiana has reported a little more than 400 birds since the BP well blew out <TIMEX3 tid="t15" type="DATE" value="2010-04-20">April 20</TIMEX3> .
+Of those , 350 were brought in since <TIMEX3 tid="t16" type="DATE" value="2010-06-10">Thursday</TIMEX3> .
+Since the Deepwater Horizon explosion , BP 's stock price has dropped by more than 50 percent .
+<TIMEX3 tid="t17" type="DATE" value="2010-06-09">Wednesday</TIMEX3> 's decline was attributed to both the amount of oil flowing from the well and comments from Interior Secretary Ken Salazar that the Obama administration will ask BP to repay the salaries of workers laid off because of the six - month moratorium on deepwater exploratory drilling .
+Phil Weiss , an oil analyst with Argus Research in New York , said momentum is working against BP as the news gets progressively worse despite the increased capture of oil .
+He said he thinks the company can survive , ` ` but there 's more doubt in my mind than there was <TIMEX3 tid="t18" type="DATE" value="2010-W22">a week ago</TIMEX3> .
+Momentum is a powerful thing . ''
+Concerns have also grown that BP will have to suspend its dividend payment under pressure from U.S. lawmakers who say the money should go toward paying legal claims and for environmental repair in the gulf .
+In <TIMEX3 tid="t22" type="DURATION" value="P2D">the past two days</TIMEX3> , seven analysts have cut their expectations on the likely payout , giving more reason to sell the stock .
+Although officials of the administration and BP communicate <TIMEX3 tid="t24" type="SET" value="P1D" quant="EVERY">every day</TIMEX3> , President Obama told NBC 's Matt Lauer <TIMEX3 tid="t23" type="DATE" value="2010-06-08">Tuesday</TIMEX3> that he has not spoken directly with company chief executive Tony Hayward .
+He told Lauer he expected that Hayward would just tell him what he wanted to hear -- an explanation that was revised <TIMEX3 tid="t25" type="DATE" value="2010-06-09">Wednesday</TIMEX3> by White House press secretary Robert Gibbs .
+The spokesman said that Hayward had no independent authority and that decisions are made by the board of directors and its chairman .
+News , features , and opinions on environmental policy , the science of climate change , and tools to live a green life .
+</TimeML>

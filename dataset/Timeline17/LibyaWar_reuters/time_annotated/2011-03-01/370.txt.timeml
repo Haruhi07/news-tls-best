@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+PARIS | Tue <TIMEX3 tid="t2" type="DATE" value="2011-03-01">Mar 1 , 2011</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2011-03-01T10:18">10:18 am</TIMEX3> EST PARIS -LRB- Reuters -RRB- - Foreign military intervention in Libya will not happen without a clear United Nations mandate , French Foreign Minister Alain Juppe said on <TIMEX3 tid="t4" type="DATE" value="2011-03-01">Tuesday</TIMEX3> .
+` ` At the moment I speak , no military intervention is planned , '' Juppe , a veteran politician made foreign minister in a reshuffle on <TIMEX3 tid="t6" type="DATE" value="2011-02-27">Sunday</TIMEX3> , told the lower house of parliament .
+` ` Different options can be assessed , notably a no - fly zone .
+But let me put it clearly here -- no intervention will happen without a clear U.N. Security council mandate . ''
+-LRB-
+Reporting by Elizabeth Pineau ; Writing by Brian Love ; Editing by Peter Graff -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

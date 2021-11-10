@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Swine flu was <TIMEX3 tid="t1" type="DATE" value="2009-W24">last week</TIMEX3> declared a global pandemic South Africa 's first swine flu case - a 12 - year - old boy who flew in from the US - has been confirmed .
+The boy was admitted to a private hospital on <TIMEX3 tid="t3" type="TIME" value="2009-06-15TMO">Monday morning</TIMEX3> and discharged after treatment , said health ministry spokesman Fidel Hadebe .
+Laboratory tests came back positive on <TIMEX3 tid="t4" type="DATE" value="2009-06-18">Thursday</TIMEX3> for the H1N1 virus .
+While there have been nearly 30 cases of swine flu in Egypt and several in Morocco , this is the first known case of the virus in sub - Saharan Africa .
+<TIMEX3 tid="t5" type="DATE" value="2009-W24">Last week</TIMEX3> , the World Health Organization -LRB- WHO -RRB- declared the outbreak a pandemic .
+` ` The patient was kept in isolation and discharged after <TIMEX3 tid="t6" type="DURATION" value="PXD">a few days</TIMEX3> in hospital .
+He is well and recovering in isolation at home , '' said Mr Hadebe in a statement .
+Health officials have warned that countries in the southern hemisphere - which includes the bulk of sub - Saharan Africa - could see a leap in cases of H1N1 because they are <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">currently</TIMEX3> heading into <TIMEX3 tid="t8" type="DATE" value="2009-WI">winter</TIMEX3> and the height of flu season .
+Northern hemisphere countries are bracing for a surge in swine flu when their <TIMEX3 tid="t11" type="DATE" value="2009-WI">winter</TIMEX3> begins <TIMEX3 tid="t10" type="DATE" value="2009" mod="END">later this year</TIMEX3> .
+Correspondents say South Africa has good medical facilities well - equipped to deal with any swine flu epidemic .
+Swine flu has infected some 40,000 people in more than 70 countries and killed 167 since detected in Mexico in <TIMEX3 tid="t12" type="DATE" value="2009-04">April</TIMEX3> , says the WHO .
+</TimeML>

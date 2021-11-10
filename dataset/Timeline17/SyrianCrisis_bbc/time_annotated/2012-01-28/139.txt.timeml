@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t3" type="DATE" value="2012-01-28">28 January 12</TIMEX3> 22:46 GMT The Arab League says it is suspending its controversial monitoring mission in Syria because of the growing violence , although observers will remain in the country .
+The mission was set up in <TIMEX3 tid="t4" type="DATE" value="2011-12">December</TIMEX3> to monitor compliance by Damascus with the league 's plan to end bloodshed .
+Several countries have <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">now</TIMEX3> withdrawn their monitors because of the violence .
+Syria has accused the Arab League of trying to increase the pressure for foreign intervention .
+` ` Given the critical deterioration of the situation in Syria and the continued use of violence ... it has been decided to immediately stop the work of the Arab League 's mission to Syria , '' Secretary General Nabil el - Arabi said in a statement .
+He said the issue would <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">now</TIMEX3> be discussed at the league 's council .
+` ` Syria is surprised and regrets the decision taken by el - Arabi to suspend the observer mission after having decided -LRB- <TIMEX3 tid="t7" type="DATE" value="2012-W03">last week</TIMEX3> -RRB- to extend it for <TIMEX3 tid="t9" type="DURATION" value="P1M">a month</TIMEX3> , '' state news agency Sana said on its website .
+` ` This will have a negative impact and put pressure on -LRB- UN Security Council -RRB- deliberations with the aim of calling for foreign intervention and encouraging armed groups to increase violence , '' a Syrian official told the state channel , Syria TV .
+On <TIMEX3 tid="t10" type="DATE" value="2012-01-24">Tuesday</TIMEX3> the Arab League extended the mission for another month .
+
+But Saudi Arabia and other Gulf Arab states withdrew their monitors , reducing the total number to 110 .
+The mission has been criticised as toothless by Syria 's opposition .
+BBC Middle East analyst Sebastian Usher says it is not a big surprise that the mission has been halted , as activists and human rights groups have accused Syrian President Bashar al - Assad of using it to buy time .
+Conservative estimates are that about 200 people have been killed since the mission was renewed for a second month on <TIMEX3 tid="t11" type="DATE" value="2012-01-24">Tuesday</TIMEX3> .
+The diplomatic focus <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">now</TIMEX3> seems to be switching to the UN Security Council , with speculation that it may vote on a draft resolution on Syria in the <TIMEX3 tid="t13" type="DATE" value="FUTURE_REF">coming days</TIMEX3> - although Russia still opposes the move .
+The council met <TIMEX3 tid="t19" type="DATE" value="2012-W04" mod="START">earlier this week</TIMEX3> to discuss the document drafted by Arab states , the UK , France and Germany .
+Those countries supported the league 's call for President Assad to hand power to a deputy , who would form a national unity government with the opposition within <TIMEX3 tid="t20" type="DURATION" value="P2M">two months</TIMEX3> .
+The draft resolution also calls for further measures if the Syrian government does not comply .
+But Russia , an ally of Mr Assad , has said it will not back the text .
+Mr Arabi is due to address the Security Council on <TIMEX3 tid="t21" type="DATE" value="2012-01-24">Tuesday</TIMEX3> .
+He has also been talking directly to Russian officials to try to persuade them to drop their opposition .
+Meanwhile , the opposition Syrian National Council -LRB- SNC -RRB- urged Syria 's diaspora across the world to stage protests outside Russia 's diplomatic missions , the AFP news agency reports .
+The SNC also accused Iran of ` ` participation '' in the violent crackdown on protests across Syria .
+Activists in Syria say 30 people have been killed across Syria so far on <TIMEX3 tid="t22" type="DATE" value="2012-01-28">Saturday</TIMEX3> .
+The Local Co - ordination Committees , a network of anti - government groups , reported fighting and shelling in several cities , including Damascus .
+The group also said that a colonel and 300 troops had defected to the rebel Free Syrian Army near Damascus .
+The UN says more than 5,000 people have been killed since protests against the government of President Assad erupted <TIMEX3 tid="t24" type="DATE" value="2011-03">last March</TIMEX3> .
+Syrian officials say about 2,000 members of the security forces have been killed in the unrest , which has become increasingly violent as defectors from the army join the opposition .
+These claims have not been independently verified .
+</TimeML>

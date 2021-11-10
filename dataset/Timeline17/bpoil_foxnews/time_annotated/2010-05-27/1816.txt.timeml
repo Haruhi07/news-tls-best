@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+In <TIMEX3 tid="t5" type="DATE" value="2010-05-26">this May 26 , 2010</TIMEX3> photo , officials effort to plug the gushing oil well using a maneuver known as a ` ` top kill '' that has never before been tried 5,000 feet underwater .
+AP BP has launched a two - pronged attempt to plug the blown - out oil well in the Gulf of Mexico using heavy mud and dense rubber balls , but the company 's CEO said it wo n't be clear for <TIMEX3 tid="t8" type="DURATION" value="P2D">48 hours</TIMEX3> whether the efforts will stop the massive oil spill .
+CEO Tony Hayward said in an interview <TIMEX3 tid="t11" type="TIME" value="2010-05-21TMO">Friday morning</TIMEX3> that the ` ` junk shot '' method -- which pumps rubber and other man - made material into the gushing well -- has been added to the ` ` top kill , '' which has been slowing the flow of oil by pumping mud into the source since <TIMEX3 tid="t10" type="DATE" value="2010-05-27">Thursday</TIMEX3> .
+Speaking on the same program , U.S. incident commander Thad Allen said the flow of oil and gas from the broken well has been stopped , but that the real test will be whether the stoppage can be sustained .
+` ` The real challenge is to put enough mud into the well to keep the pressure where they can put a cement plug over the top , '' he said on ABC 's Good Morning America .
+The next <TIMEX3 tid="t14" type="DURATION" value="PT12H">12</TIMEX3> to <TIMEX3 tid="t13" type="DURATION" value="PT18H">18 hours</TIMEX3> will be ` ` very critical '' in the attempt to protect the fragile ecosystem in the Gulf , which is being overwhelmed by the largest oil spill in U.S. history .
+Hayward said BP 's efforts have been going ` ` pretty well according to plan , '' and that the company planned to begin pumping more mud into the well again <TIMEX3 tid="t16" type="DATE" value="2010-05-27" mod="END">later today</TIMEX3> .
+President Obama arrived <TIMEX3 tid="t17" type="DATE" value="2010-05-21">Friday</TIMEX3> in the Gulf , where he planned to tour a beach with Allen and visit with local officials .
+<TIMEX3 tid="t18" type="DURATION" value="P1D">A day</TIMEX3> earlier , he acknowledged that his administration could have done a better job dealing with the spill and that it misjudged the industry 's ability to handle a worst - case scenario .
+` ` I take responsibility .
+It is my job to make sure that everything is done to shut this down , '' he said .
+<TIMEX3 tid="t21" type="DATE" value="2010-05-21">Friday</TIMEX3> 's trip was the president 's second to the coast since the BP - leased oil rig Deepwater Horizon exploded <TIMEX3 tid="t20" type="DATE" value="2010-04-20">April 20</TIMEX3> , killing 11 workers and triggering the spill .
+He will be briefed in Grand Isle , La. , where the public beach has been closed since globs of oil started washing up <TIMEX3 tid="t22" type="DATE" value="2010-W20">a week ago</TIMEX3> .
+Buggie Vegas , who owns Bridge Side Cabins and Marina there , said Obama needs to see the disaster for himself .
+` ` I think he 's going to get the message when he comes down and sees how bad it is , '' Vegas said .
+The top kill is oil and gas giant BP PLC 's latest untested bid to end a spill that has , by the most conservative estimate , surpassed the Exxon Valdez disaster by gushing more than 18 million gallons into the Gulf .
+It has worked on land but never been tried 5,000 feet underwater , and Hayward gave it a 60 to 70 percent chance of success .
+He said <TIMEX3 tid="t26" type="TIME" value="2010-05-21TMO">Friday morning</TIMEX3> the top kill was progressing as planned and BP engineers had completed a second phase by pumping what he called ` ` loss prevention material '' into a crippled piece of equipment known as a blowout preventer to form a bridge against which crews could pump more heavyweight mud .
+` ` Clearly I ' m as anxious as everyone in America is to get this thing done , '' Hayward said .
+If the top kill fails , BP 's next best hope for controlling even part of the leak is a tinier version of something that has already been tried : a steel containment box to cap the well .
+A 100 - ton box lies junked on the ocean floor , abandoned by BP after ice - like crystals clogged it .
+While BP officials say the smaller box should n't have that problem , it 's clearly not their preferred method .
+It has been sitting in reserve on the seabed for <TIMEX3 tid="t28" type="DURATION" value="P1W" mod="MORE_THAN">more than a week</TIMEX3> while engineers first tried to siphon off oil through a mile - long tube .
+That succeeded in collecting 924,000 gallons before crews took it out to allow room for the top kill attempt .
+If the small box does n't work , BP officials say they will go back to the tube , crossing their fingers that a relief well still weeks away from being drilled far enough to affect the leak will help stop the bleeding .
+And even that 's not a sure bet .
+Obama said <TIMEX3 tid="t30" type="DATE" value="2010-05-27">Thursday</TIMEX3> that authorities insisted BP drill a second relief well as a backup since such wells often miss their mark .
+BP said in a regulatory filing <TIMEX3 tid="t31" type="DATE" value="2010-05-21">Friday</TIMEX3> that it has spent $ 930 million so far responding to the ruptured well , including costs for cleanup and prevention work , drilling relief wells , and paying grants to Gulf states , damage claims and federal costs .
+BP says it 's too early to quantify other potential costs and liabilities associated .
+Two teams of scientists calculated the well has been spewing between 504,000 and more than a million gallons <TIMEX3 tid="t34" type="DURATION" value="P1D">a day</TIMEX3> , which in the worst - case scenario means about 39 million gallons could have leaked .
+The larger figure would be nearly four times the size of the Exxon Valdez disaster , in which a tanker ran aground in Alaska in <TIMEX3 tid="t35" type="DATE" value="1989">1989</TIMEX3> , spilling nearly 11 million gallons .
+The new Gulf spill estimates released <TIMEX3 tid="t36" type="DATE" value="2010-05-27">Thursday</TIMEX3> were far higher than the 210,000 gallons that BP and the Coast Guard had guessed was pouring from the well .
+But even the highest estimate would not make the spill the biggest ever in the Gulf .
+In <TIMEX3 tid="t37" type="DATE" value="1979">1979</TIMEX3> , a drilling rig in Mexican waters -- the Ixtoc I -- blew up , releasing 140 million gallons of oil .
+The Associated Press contributed to this report .
+</TimeML>

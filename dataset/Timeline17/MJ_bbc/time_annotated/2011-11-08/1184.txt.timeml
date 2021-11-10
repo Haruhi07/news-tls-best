@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t3" type="DATE" value="2011-11-08">8 November 2011</TIMEX3> Last updated at 14:07 GMT Help Michael Jackson 's former doctor is facing a prison sentence of <TIMEX3 tid="t6" type="DURATION" value="P4Y" mod="EQUAL_OR_LESS">up to four years</TIMEX3> , for causing the singer 's death .
+
+A jury in Los Angeles found Conrad Murray guilty of involuntary manslaughter for giving the pop star a dose of the powerful anesthetic , Propofol , which killed him in <TIMEX3 tid="t7" type="DATE" value="2009">2009</TIMEX3> .
+From Los Angeles , Alastair Leithead reports .
+</TimeML>

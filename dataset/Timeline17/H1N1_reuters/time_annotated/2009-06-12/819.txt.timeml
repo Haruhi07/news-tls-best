@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+ZURICH | Fri <TIMEX3 tid="t2" type="DATE" value="2009-06-12">Jun 12 , 2009</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2009-06-12T16:45">4:45 pm</TIMEX3> EDT ZURICH -LRB-
+Reuters -RRB- - Novartis AG expects a vaccine for the H1N1 virus , the source of the first flu pandemic for <TIMEX3 tid="t7" type="DURATION" value="P40Y">40 years</TIMEX3> , to be available by <TIMEX3 tid="t4" type="DATE" value="2009-FA">the autumn</TIMEX3> after it produced the first batch for testing ahead of schedule .
+Meanwhile , U.S. company Baxter International Inc said it is in full - scale production of an A\/H1N1 flu pandemic vaccine that could be ready for commercial use as early as <TIMEX3 tid="t8" type="DATE" value="2009-07">next month</TIMEX3> .
+The Baxter and Novartis vaccines were both developed using cell - based technology that could allow for much more rapid production and distribution than traditional vaccines produced using chicken eggs .
+The Novartis vaccine will enter clinical trials <TIMEX3 tid="t9" type="DATE" value="2009-07">next month</TIMEX3> , the Swiss drugmaker said on <TIMEX3 tid="t10" type="DATE" value="2009-06-12">Friday</TIMEX3> , <TIMEX3 tid="t13" type="DURATION" value="P1D">a day</TIMEX3> after the World Health Organization declared a pandemic and warned governments to prepare for a long battle against the virus .
+Baxter said it had completed testing and evaluation of the virus and would submit its A\/H1N1 vaccine for approval upon completion of initial manufacturing runs .
+European drugmakers Novartis , Sanofi - Aventis , GlaxoSmithKline and Solvay all obtained the influenza A -LRB- H1N1 -RRB- seed virus in <TIMEX3 tid="t14" type="DATE" value="PAST_REF">recent weeks</TIMEX3> and aim to have a vaccine ready ahead of the northern hemisphere flu season .
+
+The WHO has estimated vaccine makers could produce up to 4.9 billion pandemic flu shots <TIMEX3 tid="t18" type="DURATION" value="P1Y">a year</TIMEX3> in a best - case scenario , leaving some of the world 's 6.5 billion population unprotected , particularly if more than one injection was needed to gain immunity .
+Novartis said first results with the H1N1 wild type strain showed it was quicker to make the vaccine through cell - based rather than through egg - based production , and it had completed its first batch weeks earlier than expected .
+Its cell - culture vaccine plant in Marburg , Germany had the potential to produce millions of doses per week , but it was difficult to predict output capacity for <TIMEX3 tid="t19" type="DATE" value="PRESENT_REF">now</TIMEX3> .
+Spokesman Eric Althoff said Novartis should have the vaccine ready in <TIMEX3 tid="t20" type="DATE" value="2008-09">September</TIMEX3> or <TIMEX3 tid="t21" type="DATE" value="2008-10">October</TIMEX3> .
+He was unsure if other companies had completed the first stage of the production process .
+Glaxo said <TIMEX3 tid="t22" type="DATE" value="2009-06-12">Friday</TIMEX3> it would be able to meet advance purchase commitments for 150 to 180 million doses , and the 50 million it donated to the WHO for developing countries .
+Wayne Pisano , head of vaccines at Sanofi , the world 's largest flu vaccine supplier , said on <TIMEX3 tid="t23" type="DATE" value="2009-06-11">Thursday</TIMEX3> his company would ` ` produce the largest number of doses of vaccine in the shortest time frame , '' though it would be another <TIMEX3 tid="t24" type="DURATION" value="P4M">four months</TIMEX3> before the first supply of bulk concentrate was ready .
+Novartis shares closed up 4.4 percent , while Baxter shares were up 3.5 percent .
+The H1N1 strain has spread widely , with 28,774 infections confirmed in 74 countries to date , including 144 deaths , according to the WHO 's latest tally .
+Although the strain seems mild at present , health officials are worried it might return in a more virulent form in the northern hemisphere <TIMEX3 tid="t27" type="DATE" value="2009-WI">winter</TIMEX3> .
+
+While commercial production of vaccines usually depends on how easily a virus strain grows in chicken eggs , Novartis said its cell - based technology means it can produce a vaccine without having to adapt the virus strain to grow in eggs .
+` ` The cell - based manufacturing puts Novartis at the forefront of supplying pandemic vaccines to governments around the world , '' said Helvea analyst Karl - Heinz Koch .
+A number of national public health authorities have agreements with Baxter that allow them to place orders for its vaccine <TIMEX3 tid="t28" type="DATE" value="PRESENT_REF">now</TIMEX3> that a pandemic has been declared by WHO , Baxter said .
+Novartis said more than 30 governments have made requests for vaccine ingredients , combining preexisting pandemic vaccine supply agreements and new requests for vaccines across all production platforms .
+The H1N1 flu outbreak is the first to be declared a pandemic since <TIMEX3 tid="t29" type="DATE" value="1968">1968</TIMEX3> , and WHO Director - General Margaret Chan said on <TIMEX3 tid="t30" type="DATE" value="2009-06-11">Thursday</TIMEX3> different regulatory authorities needed to work together to speed registration of a safe vaccine .
+The question of how the vaccine would be dispensed was still open , Novartis ' Althoff said .
+` ` This will depend on government programs and what health authorities , the WHO and others say on how they want to make it available , '' he said .
+-LRB-
+Reporting by Katie Reid ; Additional reporting by Bill Berkrot in New York , Sam Cage in Zurich and Ben Deighton in London ; Editing by Jon Loades - Carter , John Stonestreet ; Editing by Gary Hill -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

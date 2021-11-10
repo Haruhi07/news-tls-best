@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+WASHINGTON | We d <TIMEX3 tid="t2" type="DATE" value="2011-03-30">Mar 30 , 2011</TIMEX3> <TIMEX3 tid="t7" type="TIME" value="2011-03-30T16:54">4:54 pm</TIMEX3> EDT WASHINGTON -LRB-
+Reuters -RRB- -
+The Obama administration estimates U.S. military operations in Libya have cost about $ 550 million so far and will cost about $ 40 million <TIMEX3 tid="t9" type="DURATION" value="P1M">a month</TIMEX3> going forward , a U.S. lawmaker said on <TIMEX3 tid="t4" type="DATE" value="2011-03-30">Wednesday</TIMEX3> .
+` ` It 's about $ 550 million , '' said Norm Dicks , the senior Democrat on the House defense appropriations subcommittee .
+He spoke to reporters after a closed - door meeting with Defense Secretary Robert Gates , Secretary of State Hillary Clinton , Director of National Intelligence James Clapper , and Admiral Mike Mullen , the chairman of the U.S. Joint Chiefs of Staff .
+The officials estimated the operations would cost another $ 40 million between <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">now</TIMEX3> and <TIMEX3 tid="t12" type="DATE" value="2011-04-18">April 18</TIMEX3> , and then $ 40 million more <TIMEX3 tid="t18" type="DURATION" value="P1M">a month</TIMEX3> after that , Dicks said .
+The Pentagon said on <TIMEX3 tid="t19" type="DATE" value="2011-03-29">Tuesday</TIMEX3> spending of $ 550 million so far on military operations in Libya would stabilize at $ 40 million per month once U.S. forces are reduced and NATO takes over greater control .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

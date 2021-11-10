@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+MELBOURNE -LRB- Reuters -RRB- - Melbourne , Australia 's second - largest city , is a vibrant metropolis packed with cultural attractions , historical sites and charming back lane cafes .
+This southern city of many faces , some 970 km from Sydney , also plays host to major sporting events , including the Australian Open tennis tournament <TIMEX3 tid="t2" type="SET" value="XXXX-01" quant="EVERY" freq="1M">every January</TIMEX3> .
+For a truly local sports experience , take in an Australian Football League game where passions run high .
+Reuters correspondents with local knowledge help visitors get the most out of their stay .
+<TIMEX3 tid="t3" type="TIME" value="XXXX-XX-XXT17:00">5 p.m.</TIMEX3> - A taxi ride to the heart of the city from Tullamarine Airport costs about A$ 60 and will take <TIMEX3 tid="t5" type="DURATION" value="PT30M">30 minutes</TIMEX3> .
+There are plenty of great places to stay , but if you check into the Rialto Intercontinental Hotel at 495 Collins Street you 'll be staying in a unique building which began life as a wool shed .
+The heritage listed property is made up of two buildings with a generous open space running between , housing a restaurant and bar on the ground floor .
+While the rooms are modern , the exterior of the building and foyer are from a bygone era .
+<TIMEX3 tid="t6" type="TIME" value="XXXX-XX-XXT18:00">6 p.m.</TIMEX3> - Enjoy an evening drink in the hotel bar and savor the historic ambiance .
+Follow this with dinner at ` ` The Press Club , '' a restaurant just <TIMEX3 tid="t7" type="DURATION" value="PT5M">five minutes</TIMEX3> walk from the hotel known for its modern Greek cuisine .
+<TIMEX3 tid="t8" type="TIME" value="XXXX-XX-XXT20:00">8 p.m.</TIMEX3> -
+Whatever time of the year you visit Melbourne , there 's always an opportunity to take in an evening performance at the Comedy Theatre Melbourne .
+<TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">Currently</TIMEX3> showing is ` Rock of Ages ' set in Los Angeles in <TIMEX3 tid="t9" type="DATE" value="1987">1987</TIMEX3> .
+<TIMEX3 tid="t11" type="TIME" value="XXXX-XX-XXT23:00">11 p.m.</TIMEX3> - Stop by the Loft bar , at 117 Lonsdale Street in the heart of the theater district .
+Floor to ceiling windows provide great views over the city skyline , making the climb up two flights of stairs worthwhile .
+<TIMEX3 tid="t12" type="TIME" value="XXXX-XX-XXT09:00">9 a.m.</TIMEX3> - Take a stroll down Collins Street to Southgate , and pop into Le Camera Southbank for a breakfast of seasonal fruits , bacon and eggs , and fresh coffee and juices .
+It 's easy to while away <TIMEX3 tid="t14" type="DURATION" value="PT1H">an hour</TIMEX3> or more overlooking life on the banks of the Yarra River , with a constant stream of joggers , cyclists as well as oarsmen and women training in skiffs on the river .
+<TIMEX3 tid="t15" type="TIME" value="XXXX-XX-XXT10:30">10:30 a.m.</TIMEX3> - Take a sightseeing river cruise along the Yarra .
+Melbourne River Cruises offer several options including a 2.5 hour Melbourne Highlights Cruise .
+This voyage gives views of the landings of the early settlers , <TIMEX3 tid="t16" type="DATE" value="18">the 19th Century</TIMEX3> sailing ship ` ` Polly Woodside '' , Westgate Bridge , the Governor 's residence , and much more .
+The Victoria Docks provides a snapshot of the rich maritime heritage and boom of the gold rush area .
+<TIMEX3 tid="t17" type="TIME" value="XXXX-XX-XXT14:00">2 p.m.</TIMEX3> - Take a tram to Black Ruby 's restaurant at 344 Rathdown Street , Carlton North .
+This country - like cottage offers a great selection of food and a 100 percent gluten - free menu .
+Mains range between A$ 19 - A$ 28 , deserts about A$ 11 and a set three course menu can be enjoyed for a modest A$ 40 Jump on another tram to nearby Brunswick Street in Fitzroy .
+Walk off your lunch and enjoy the eclectic mix of shops that line this street .
+Brunswick Street has something to offer every style of visitor in particular the vintage shopper .
+If shopping proves tiring , take the time to check out some of the great selection of bohemian cafes and the colorful array of laneway murals which enhance the northern end of the street .
+<TIMEX3 tid="t18" type="TIME" value="XXXX-XX-XXT19:00">7 p.m.</TIMEX3> - Enjoy a pre - dinner drink at the Gin Palace , 190 Little Collins Street .
+This quirky little wine bar tucked away in a laneway provides an intimate setting for cocktails .
+<TIMEX3 tid="t19" type="TIME" value="XXXX-XX-XXT20:00">8 p.m.</TIMEX3> Vue de monde at 430 Little Collins Street allows visitors to experience French cuisine in the hub of the city 's laneways .
+The exposed beams on the ceiling and live piano and accordion music transport diners to the French countryside .
+Entrees range from A$ 12 - A $ 30 , Mains A$ 25 - A $ 80 and deserts A$ 12 .
+<TIMEX3 tid="t22" type="TIME" value="XXXX-XX-XXT09:00">9 a.m.</TIMEX3> - Enjoy a breakfast at Tropicana Juice Food Bar at 213 Elizabeth Street , Melbourne .
+This colorful cafe is easy to find , as it has hundreds of oranges hanging from net bags on the outside of the cafe .
+Tables are parked on the main foot path close to the road with pedestrians wandering past as you enjoy the fresh fruit juices and an array of delicious food .
+<TIMEX3 tid="t23" type="TIME" value="XXXX-XX-XXT10:00">10 a.m</TIMEX3> - Use the free City Circle tram , which operates daily until <TIMEX3 tid="t24" type="TIME" value="XXXX-XX-XXT18:00" mod="APPROX">about 6 p.m</TIMEX3> and takes <TIMEX3 tid="t26" type="DURATION" value="PT1H">about an hour</TIMEX3> to complete , providing a guided tour of the city landmarks .
+Jump on and off the tram to savor the delights of the city at your own pace .
+<TIMEX3 tid="t28" type="TIME" value="XXXX-XX-XXT14:00">2 p.m.</TIMEX3> - Pop by the Melbourne Museum , located at Nicholson Street , Carlton Gardens and enjoy an afternoon exhibition .
+` ` Tutankhamun and the Golden Age of the Pharaohs '' is on until <TIMEX3 tid="t29" type="DATE" value="2011-10">October</TIMEX3> .
+Enjoy afternoon tea at the Museum cafe before heading back to your hotel to check out and return to the airport .
+-LRB-
+Reporting by Pauline Askin ; editing by Elaine Lies -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

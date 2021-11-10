@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON | Mon <TIMEX3 tid="t2" type="DATE" value="2010-08-09">Aug 9 , 2010</TIMEX3> <TIMEX3 tid="t4" type="TIME" value="2010-08-09T07:34">7:34 am</TIMEX3> EDT LONDON -LRB- Reuters -RRB- - BP -LRB- BP .
+L -RRB- said the cost of dealing with its ruptured oil well in the Gulf of Mexico has risen to $ 6.1 billion , including $ 319 million in compensation payments to businesses and individuals affected by the spill .
+About 145,000 claims had been submitted as of <TIMEX3 tid="t7" type="DATE" value="2010-08-07">August 7</TIMEX3> , and 103,900 payments have been made , the company said on <TIMEX3 tid="t8" type="DATE" value="2010-08-09">Monday</TIMEX3> .
+BP also confirmed that no oil is leaking into the Gulf following a successful effort to plug the well on <TIMEX3 tid="t10" type="DATE" value="2011-07-15">July 15</TIMEX3> .
+-LRB-
+Reporting by Myles Neligan , editing by Sarah Young -RRB-
+We welcome comments that advance the story through relevant opinion , anecdotes , links and data .
+Views expressed in the comments do not represent those of Reuters .
+6.1 billion is a drop in the bucket and all you have to do is look north to Alaska to find some of the answers .
+This discussion is <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">now</TIMEX3> closed .
+We welcome comments on our articles for a limited period after their publication .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

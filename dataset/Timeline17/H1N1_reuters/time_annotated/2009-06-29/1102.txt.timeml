@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+ZURICH | Mon <TIMEX3 tid="t2" type="DATE" value="2009-06-29">Jun 29 , 2009</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2009-06-29T13:58">1:58 pm</TIMEX3> EDT ZURICH -LRB-
+Reuters -RRB- - A patient with H1N1 influenza in Denmark showed resistance to Roche Holding AG 's Tamiflu , the main antiviral flu drug , a company executive said on <TIMEX3 tid="t4" type="DATE" value="2009-06-29">Monday</TIMEX3> .
+` ` While receiving the drug , the patient appeared to develop resistance to it , '' David Reddy , Roche 's pandemic taskforce leader , told reporters on a conference call on the Danish case .
+` ` This is the first report we have of it in H1N1 . ''
+The World Health Organization has raised its pandemic flu alert on the H1N1 flu virus to phase 6 on a six - point scale , indicating the first influenza pandemic since <TIMEX3 tid="t6" type="DATE" value="1968">1968</TIMEX3> is under way .
+Common seasonal flu can resist Tamiflu and Reddy said a case of resistance in H1N1 was not unexpected , adding Roche has been working on strategies to counter such a development .
+-LRB-
+Reporting by Sam Cage and Paul Arnold ; Editing by David Holmes -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

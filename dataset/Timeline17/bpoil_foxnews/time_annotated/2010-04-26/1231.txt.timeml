@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Debris and oil from the Deepwater Horizon drilling platform float in the Gulf of Mexico after the rig sank , off Louisiana <TIMEX3 tid="t3" type="DATE" value="2010-04-22">April 22 , 2010</TIMEX3> , in this handout photograph .
+The oil drilling rig that had burned for <TIMEX3 tid="t7" type="DURATION" value="PT36H">36 hours</TIMEX3> in the Gulf of Mexico sank <TIMEX3 tid="t5" type="DATE" value="2010-04-22">Thursday</TIMEX3> as hopes dimmed for 11 missing workers and the risk of a major oil spill loomed , officials said -LRB- Reuters -RRB- .
+An oil slick covering 400 miles is threatening a slow - motion catastrophe for the Gulf of Mexico 's delicate marine life , with 42,000 gallons <TIMEX3 tid="t10" type="DURATION" value="P1D">a day</TIMEX3> <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">now</TIMEX3> gushing from an uncapped well after a rig explosion .
+<TIMEX3 tid="t14" type="DURATION" value="P2D">Two days</TIMEX3> after declaring that there was no leak and that oil on the surface was residue from on board the Deepwater Horizon drilling platform that burst into a fireball on <TIMEX3 tid="t12" type="DATE" value="2010-04-20">Tuesday</TIMEX3> , officials said the slick was coming from the seabed and was <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">now</TIMEX3> 25 times the size it was on <TIMEX3 tid="t13" type="DATE" value="2010-04-23">Friday</TIMEX3> .
+` ` It 's 1,000 barrels -LRB- <TIMEX3 tid="t16" type="DURATION" value="P1D">a day</TIMEX3> -RRB- emanating from 5,000 feet below the surface , '' said Rear - Admiral Mary Landry , of the U.S. Coast Guard , who is overseeing the emergency response .
+` ` Absolutely , this is a very serious oil spill . ''
+BP , which leased the rig , said <TIMEX3 tid="t17" type="DATE" value="2010-W16">last week</TIMEX3> that it was doing everything in its power to contain the spill and resolve the situation ` ` as rapidly , safely and effectively as possible , '' using underwater robots , 700 personnel , five aircraft , 32 vessels and nearly 200 miles of floating booms .
+One third of the global supply of oil dispersant is ready to be deployed .
+</TimeML>

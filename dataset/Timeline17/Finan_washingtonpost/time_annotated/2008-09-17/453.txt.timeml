@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+What Not to Do in a Financial Crisis : U.S. Learns From Japan How do we avoid becoming another Japan ?
+That question has prompted U.S. officials to move aggressively in <TIMEX3 tid="t2" type="DATE" value="PAST_REF">recent weeks</TIMEX3> as they seek to save the American financial system while avoiding the kinds of regulatory pitfalls that plunged Japan into economic quicksand <TIMEX3 tid="t1" type="DATE" value="198X" mod="APPROX">almost two decades ago</TIMEX3> .
+Although the world 's second - largest economy buckled during a collapse of its real estate and stock markets , it was , many analysts say , government mismanagement that made the crisis even worse .
+The result was a diminishing of Japan 's economic power and global influence lasting to <TIMEX3 tid="t7" type="DATE" value="XXXX-XX-XX">this day</TIMEX3> .
+After falling 66 percent from <TIMEX3 tid="t8" type="DATE" value="1990">1990</TIMEX3> to <TIMEX3 tid="t9" type="DATE" value="2005">2005</TIMEX3> , Japanese housing prices have climbed back to only 40 percent of their 1990 values .
+Tokyo 's key Nikkei stock index remains a dim echo of its former self , still 70 percent off its <TIMEX3 tid="t12" type="DATE" value="1989">1989</TIMEX3> high .
+<TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">Now</TIMEX3> , U.S. officials , who long argued that the Japanese needed to be more aggressive and hands - on , appear to be practicing what they preached .
+Aided by a far more transparent financial system that has made it more difficult for U.S. banks to hide the extent of their bad bets , regulators have accelerated a reckoning for some of the most vaunted names in American finance , generating a historic upheaval on Wall Street .
+The effect , leading analysts say , could ultimately be a briefer bout of economic pain than what the long - suffering Japanese have had to endure .
+` ` The U.S. is moving in dog years compared to Japan , '' said Adam Posen , deputy director of the Peterson Institute for International Economics and a former consultant to the U.S. government on the Japan crisis .
+` ` <TIMEX3 tid="t14" type="SET" value="P1Y" quant="EVERY">Every one year</TIMEX3> of action here is about equal to what it took Japan <TIMEX3 tid="t16" type="DURATION" value="P7Y">seven years</TIMEX3> to do . ''
+The sharply different U.S. approach is no coincidence .
+American regulators have been actively seeking advice from Japan , hoping that a better understanding of its mistakes will aid them in navigating their own country 's financial crisis .
+Advice has largely come during frequent talks over <TIMEX3 tid="t17" type="DATE" value="2007">the past year</TIMEX3> , during which U.S. financial officials met with their former and <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">current</TIMEX3> counterparts in Japan .
+` ` When things became quite turbulent in <TIMEX3 tid="t19" type="DATE" value="2008-07">July</TIMEX3> and <TIMEX3 tid="t20" type="DATE" value="2008-08">August</TIMEX3> of <TIMEX3 tid="t21" type="DATE" value="2007">last year</TIMEX3> , we were talking to them within weeks , '' said Clay Lowery , the Treasury Department 's assistant secretary for international affairs .
+He said government officials have been in close contact with a number of other countries , including Sweden , which is credited by experts with comparatively deft handling of its financial crisis in <TIMEX3 tid="t23" type="DATE" value="199" mod="START">the early 1990s</TIMEX3> .
+With the Japanese , he continued , ` ` we wanted to talk to them about some of their issues , some of their problems . ''
+Critics say Japanese regulators wrote the book on how not to handle a financial crisis , at first refusing to admit a problem , then moving slowly -- and often ineptly -- when they did .
+At the time , Ben S. Bernanke , then a Princeton University economist and <TIMEX3 tid="t24" type="DATE" value="PRESENT_REF">now</TIMEX3> chairman of the Federal Reserve , was among those to fault the recipes the Japanese were using .
+It is too early to gauge whether U.S. efforts will ultimately prove more effective than those taken by the Japanese , and economists on both sides of the Pacific warn that the biggest tests probably lie ahead .
+Analysts are questioning the health of regional and mid - size banks across America , and many economists are reserving judgment until they can assess how aggressively U.S. regulators move to force complete disclosure of bad debt and consolidation within the industry .
+But the Japanese say they have marveled at the relative speed at which U.S. regulators have moved <TIMEX3 tid="t25" type="DATE" value="PAST_REF">recently</TIMEX3> to sell off Bear Sterns , take over mortgage finance giants Fannie Mae and Freddie Mac , and encourage market solutions for Merrill Lynch and Lehman Brothers .
+By comparison , the Japanese came under heavy fire in <TIMEX3 tid="t26" type="DATE" value="199">the 1990s</TIMEX3> for allowing bad debt and ailing banks to linger for years .
+</TimeML>

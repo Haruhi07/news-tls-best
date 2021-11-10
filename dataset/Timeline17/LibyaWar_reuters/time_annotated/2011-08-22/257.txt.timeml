@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Mon <TIMEX3 tid="t4" type="DATE" value="2011-08-22">Aug 22 , 2011</TIMEX3> <TIMEX3 tid="t6" type="TIME" value="2011-08-22T09:01">9:01 am</TIMEX3> EDT -LRB- Reuters -RRB- -
+Here is a timeline on the civil war in Libya since the first protests began against the 42 - year rule of Muammar Gaddafi in <TIMEX3 tid="t3" type="DATE" value="2011-02">February</TIMEX3> : Feb 15\/16 , <TIMEX3 tid="t2" type="DATE" value="2011">2011</TIMEX3> - A riot in Benghazi is triggered by the arrest of human rights activist Fethi Tarbel , who has worked to free political prisoners , Quryna newspaper reports .
+<TIMEX3 tid="t9" type="DATE" value="2012-02-17">February 17</TIMEX3> - Activists designate <TIMEX3 tid="t11" type="DURATION" value="P1D">a day</TIMEX3> of rage on the <TIMEX3 tid="t7" type="DATE" value="2006">2006</TIMEX3> anniversary security forces killing protesters attacking the in Benghazi consulate of former colonial power , Italy .
+<TIMEX3 tid="t13" type="DATE" value="2012-02-24">February 24</TIMEX3> - Anti - Libyan government militias take control of Misrata after evicting forces loyal to Gaddafi .
+<TIMEX3 tid="t15" type="DATE" value="2012-02-26">February 26</TIMEX3> - The U.N. Security Council imposes sanctions on Gaddafi and his family , and refers Libya 's crackdown on rebels to the International Criminal Court -LRB- ICC -RRB- .
+<TIMEX3 tid="t17" type="DATE" value="2012-02-28">February 28</TIMEX3> - EU governments approve a package of sanctions against Gaddafi and his closest advisers including an arms embargo and bans on travel to the bloc .
+<TIMEX3 tid="t19" type="DATE" value="2012-03-05">March 5</TIMEX3> - The National Council meets in Benghazi and declares itself the sole representative for Libya .
+<TIMEX3 tid="t21" type="DATE" value="2012-03-10">March 10</TIMEX3> - France recognizes the Libyan National Council as the legitimate representative of Libya 's people .
+Libya suspends diplomatic relations with France <TIMEX3 tid="t22" type="DATE" value="2011-08-23">the next day</TIMEX3> .
+<TIMEX3 tid="t24" type="DATE" value="2012-03-16">March 16</TIMEX3> - Forces loyal to Gaddafi are near rebel - held Benghazi .
+Gaddafi 's son Saif al - Islam tells France - based TV channel Euronews : ` ` Everything will be over in <TIMEX3 tid="t28" type="DURATION" value="P2D">48 hours</TIMEX3> . ''
+<TIMEX3 tid="t30" type="DATE" value="2011-03-17">March 17</TIMEX3> - The U.N. Security Council votes to authorize a no - fly zone over Libya and ` ` all necessary measures '' -- code for military action -- to protect civilians against Gaddafi 's army .
+<TIMEX3 tid="t32" type="DATE" value="2012-03-19">March 19</TIMEX3> - The first air strikes halt the advance of Gaddafi 's forces on Benghazi and target Libya 's air defenses .
+<TIMEX3 tid="t34" type="DATE" value="2012-03-28">March 28</TIMEX3> - Qatar becomes the first Arab country to recognize Libya 's rebels as the people 's legitimate representatives .
+<TIMEX3 tid="t36" type="DATE" value="2012-03-29">March 29</TIMEX3> - A London conference of 40 governments and organizations agrees to set up a contact group comprising 20 countries to coordinate efforts in a post - Gaddafi Libya .
+<TIMEX3 tid="t38" type="DATE" value="2011-03-30">March 30</TIMEX3> - Libyan Foreign Minister Moussa Koussa defects and flies to Britain .
+<TIMEX3 tid="t40" type="DATE" value="2012-04-10">April 10</TIMEX3> - Gaddafi accepts a roadmap for ending the conflict , South African President Jacob Zuma says after leading a delegation of four African leaders at talks in Tripoli .
+Rebels reject the plan <TIMEX3 tid="t41" type="DATE" value="2011-08-23">the next day</TIMEX3> .
+<TIMEX3 tid="t43" type="DATE" value="2012-04-30">April 30</TIMEX3> - A NATO missile attack on a house in Tripoli kills Gaddafi 's youngest son and three grandchildren .
+<TIMEX3 tid="t45" type="DATE" value="2012-05-30">May 30</TIMEX3> - In his first appearance in <TIMEX3 tid="t47" type="DURATION" value="P1M">a month</TIMEX3> , Gaddafi renews a ceasefire call in talks with visiting South African President Zuma but gives no sign he will heed demands to step down .
+<TIMEX3 tid="t49" type="DATE" value="2012-06-01">June 1</TIMEX3> - Libya 's top oil official Shokri Ghanem appears in Rome , saying he defected after the relentless bloodshed .
+<TIMEX3 tid="t51" type="DATE" value="2012-06-08">June 8</TIMEX3> - Western and Arab nations meet rebels in Abu Dhabi discussing what U.S. officials call the ` ` end - game '' for Gaddafi .
+<TIMEX3 tid="t54" type="DATE" value="2012-06-15">June 15</TIMEX3> - Libya approves a $ 31.4 billion budget for the rest of <TIMEX3 tid="t52" type="DATE" value="2011">2011</TIMEX3> , to show it is functioning as normal .
+<TIMEX3 tid="t56" type="DATE" value="2012-06-27">June 27</TIMEX3> - The ICC issues arrest warrants for Gaddafi , his son Saif al - Islam and intelligence chief Abdullah al - Senussi , charged with crimes against humanity .
+<TIMEX3 tid="t58" type="DATE" value="2012-07-15">July 15</TIMEX3> - Libya 's rebel Transitional National Council -LRB- NTC -RRB- wins recognition as the legitimate government of Libya from the U.S. at a meeting in Turkey of the contact group on Libya .
+<TIMEX3 tid="t60" type="DATE" value="2012-07-26">July 26</TIMEX3> - U.N. envoy Abdul Elah al - Khatib says after talks with Libya 's prime minister , the government and the rebels remain far apart in efforts to end the crisis .
+<TIMEX3 tid="t62" type="DATE" value="2012-07-27">July 27</TIMEX3> - Rebels win diplomatic recognition from Britain which also expels the remaining Gaddafi diplomats from London .
+<TIMEX3 tid="t65" type="DATE" value="2011-07-28">July 28</TIMEX3> - Abdel Fattah Younes , Gaddafi 's former interior minister who defected to the rebels on <TIMEX3 tid="t66" type="DATE" value="2011-02-22">February 22</TIMEX3> and became their military chief , is killed .
+<TIMEX3 tid="t67" type="DATE" value="2011-08-09">Aug 9</TIMEX3> - Gaddafi 's government accuses NATO of killing 85 civilians , in an air strike near Zlitan , west of Misrata .
+<TIMEX3 tid="t68" type="DATE" value="2011-08-14">Aug 14</TIMEX3> - Libyan rebels take the center of Zawiyah , near Tripoli , cutting the coastal highway to Tunisia which keeps the capital supplied with food and fuel .
+<TIMEX3 tid="t69" type="DATE" value="2011-08-15">Aug 15</TIMEX3> - In a barely audible telephone call to state television , Gaddafi calls on his followers to liberate Libya from rebels and NATO .
+` ` Get ready for the fight ...
+The blood of martyrs is fuel for the battlefield , '' he says .
+--
+Rebels say they have captured Garyan , which controls the highway leading south from Tripoli .
+<TIMEX3 tid="t70" type="DATE" value="2011-08-16">Aug 16</TIMEX3> - Libya 's rebels say they have completed moves to cut off roads to the capital after rapid advances in the west .
+<TIMEX3 tid="t71" type="DATE" value="2011-08-20">Aug 20</TIMEX3> - Explosions and gunfire rattle Tripoli after days of battlefield defeats leave Gaddafi 's government and troops besieged in the capital .
+<TIMEX3 tid="t72" type="DATE" value="2011-08-21">Aug 21</TIMEX3> - Rebel fighters enter Tripoli with little resistance .
+-- Gaddafi makes two audio addresses over state television calling on Libyans to fight off the rebels ` ` rats , '' and saying he is in the capital and will be ` ` with you until the end . ''
+-- Rebels reach Green Square , the symbolic showcase the government had until <TIMEX3 tid="t73" type="DATE" value="PAST_REF">recently</TIMEX3> used for mass demonstrations in support of Gaddafi .
+Rebels rename it Martyrs Square .
+-- Libyan rebels say they have detained two of Gaddafi 's sons , Saif al - Islam , wanted for war crimes , and his eldest son Mohammed Al - Gaddafi .
+<TIMEX3 tid="t74" type="DATE" value="2011-08-22">Aug 22</TIMEX3> - Libyan government tanks and snipers put up scattered , last - ditch resistance in Tripoli after rebels sweep into the heart of the capital , cheered on by crowds .
+--
+Rebels say they are meeting resistance at Gaddafi 's compound at Bab al - Aziziyah .
+They also have said they have suffered a big number of casualties in the fight for Tripoli .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Data on Job Losses , U.S. Factory Orders Paint Bleak Picture Mark Lovell operates a lathe at the Zildjian factory in Norwell , Mass. .
+Orders for U.S. manufactured goods dipped 4 percent between <TIMEX3 tid="t1" type="DATE" value="2008-07">July</TIMEX3> and <TIMEX3 tid="t2" type="DATE" value="2008-08">August</TIMEX3> .
+-LRB-
+By Michael Fein -- Bloomberg News -RRB- U.S. factory orders sank by the largest amount in <TIMEX3 tid="t5" type="DURATION" value="P2Y" mod="LESS_THAN">nearly two years</TIMEX3> in <TIMEX3 tid="t3" type="DATE" value="2008-08">August</TIMEX3> and the number of workers filing new claims for unemployment benefits increased to a seven - year high <TIMEX3 tid="t4" type="DATE" value="2008-W39">last week</TIMEX3> , ominous signs that the economy is in sharp decline .
+The bleak reports released by the government <TIMEX3 tid="t9" type="DATE" value="2008-10-02">yesterday</TIMEX3> came after news <TIMEX3 tid="t8" type="DATE" value="2008-W40" mod="START">earlier this week</TIMEX3> that manufacturing activity had tumbled to its lowest level since <TIMEX3 tid="t6" type="DATE" value="2001">2001</TIMEX3> and consumer consumption had slowed sharply , heightening concern that the nation 's economy was sliding toward recession .
+Taken together , the data suggest the economy was struggling even before the financial crisis intensified <TIMEX3 tid="t10" type="DATE" value="2008-09">last month</TIMEX3> .
+` ` There has been a lot of bad news .
+There is no question that the U.S. economy is heading for a recession , '' said Nariman Behravesh , chief economist with Global Insight , a Massachusetts forecasting firm .
+` ` The only question is when did it start ? ''
+The bad economic news has rattled investors on Wall Street , even as Congress considers a $ 700 billion bailout of the teetering U.S. financial system .
+With the Senate 's approval of the package <TIMEX3 tid="t14" type="TIME" value="2008-10-01TNI">Wednesday night</TIMEX3> , the House is expected to vote on it <TIMEX3 tid="t12" type="DATE" value="2008-10-03">today</TIMEX3> .
+
+But even if the legislation is approved , a recession would only be tempered , not averted , analysts said .
+` ` The data we ' ve seen <TIMEX3 tid="t15" type="DATE" value="PAST_REF">recently</TIMEX3> suggests that the U.S. economy is entering a more dangerous phase and we are likely to see overall GDP contract , '' said Abiel Reinhart , an economist at J.P. Morgan Chase .
+
+While the U.S. economy expanded through <TIMEX3 tid="t18" type="DATE" value="2008-H1">the first half of this year</TIMEX3> , growing by 2.8 percent in <TIMEX3 tid="t17" type="DATE" value="2008-Q2">the second quarter</TIMEX3> , economists are predicting that it will contract in the last part of <TIMEX3 tid="t20" type="DATE" value="2008">this year</TIMEX3> and the early part of <TIMEX3 tid="t21" type="DATE" value="2009">next year</TIMEX3> .
+Some economists say it might not begin growing again until <TIMEX3 tid="t23" type="DATE" value="2009" mod="MID">the middle of 2009</TIMEX3> .
+` ` We 're in for a rough ride , '' Behravesh said .
+` ` If the bailout does not occur , I think we 're in deep trouble . ''
+On <TIMEX3 tid="t27" type="DATE" value="2008-10-01">Wednesday</TIMEX3> , industry research firm Autodata reported that sales of cars and light trucks in <TIMEX3 tid="t24" type="DATE" value="2008-09">September</TIMEX3> had declined 27 percent compared with <TIMEX3 tid="t26" type="DATE" value="2007-09">a year earlier</TIMEX3> .
+Speaking to reporters at the Paris auto show , Ford chief executive Alan Mulally said he believed the economic downturn would be ` ` deeper and longer '' than most people expected .
+He predicted the global auto market might not rebound until <TIMEX3 tid="t30" type="DATE" value="2010">2010</TIMEX3> .
+The Commerce Department reported that orders for manufactured goods dipped 4 percent in <TIMEX3 tid="t32" type="DATE" value="2008-08">August</TIMEX3> , the first decline after five consecutive <TIMEX3 tid="t35" type="SET" value="XXXX-XX">monthly</TIMEX3> increases and the largest decline since <TIMEX3 tid="t34" type="DATE" value="2006-10">October 2006</TIMEX3> .
+Analysts use the report to glean insight into how busy U.S. factories will be in <TIMEX3 tid="t36" type="DATE" value="FUTURE_REF">coming months</TIMEX3> and into the demand for such goods as refrigerators , cars , cigarettes and clothing .
+The report revealed weaknesses across the manufacturing sector .
+Aircraft orders were down 38.1 percent , and orders from iron and steel mills were down 16.7 percent from <TIMEX3 tid="t38" type="DATE" value="2008-09">the previous month</TIMEX3> .
+Semiconductor orders were down 17.1 percent , and household appliances were off 6.9 percent .
+The decline in factory orders started before the implosion on Wall Street , which caused borrowing costs for many firms to skyrocket , a development expected to further slow manufacturing activity .
+Also , with economies cooling in many parts of the world , demand for U.S. exports , which have been one of the strongest parts of the economy over <TIMEX3 tid="t39" type="DATE" value="2007">the past year</TIMEX3> , is expected to weaken .
+The economic slowdown will probably cause unemployment to spike .
+<TIMEX3 tid="t40" type="DATE" value="2008-09">Last month</TIMEX3> , unemployment stood at 6.1 percent -- a five - year high -- but some analysts predict that it will reach 7 or 7.5 percent before the economy rebounds .
+
+And if the financial bailout package is defeated , the rate could go as high as 10 percent , Behravesh said .
+A Labor Department report released <TIMEX3 tid="t45" type="DATE" value="2008-10-02">yesterday</TIMEX3> said the number of laid - off workers filing new claims for unemployment benefits increased to 497,000 <TIMEX3 tid="t42" type="DATE" value="2008-W39">last week</TIMEX3> , the highest level since just after the <TIMEX3 tid="t43" type="DATE" value="2001-09-11">Sept. 11 , 2001</TIMEX3> , terrorist attacks .
+Labor Department analysts said that the lingering impact of hurricanes Gustav and Ike raised that figure by about 45,000 .
+But even factoring in those special circumstances , economists said the number of unemployment claims was in line with an economy in recession . ''
+</TimeML>

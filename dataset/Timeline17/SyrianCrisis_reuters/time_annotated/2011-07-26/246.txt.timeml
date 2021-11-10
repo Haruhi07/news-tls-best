@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON , <TIMEX3 tid="t6" type="DATE" value="2011-07-26">July 26</TIMEX3> | Tue <TIMEX3 tid="t5" type="DATE" value="2011-07-26">Jul 26 , 2011</TIMEX3> <TIMEX3 tid="t9" type="TIME" value="2011-07-26T16:48">4:48 pm</TIMEX3> BST LONDON , <TIMEX3 tid="t8" type="DATE" value="2011-07-26">July 26</TIMEX3> -LRB- Reuters -RRB- - Reuters will publish shortly a poll of economists on the probability the U.S. will lose its top - notch ` ` AAA '' credit rating from one of the major ratings agencies , as well as the odds of a debt default in <TIMEX3 tid="t4" type="DATE" value="2011-08">August</TIMEX3> .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

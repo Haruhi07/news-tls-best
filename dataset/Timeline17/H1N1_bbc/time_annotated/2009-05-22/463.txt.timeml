@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Mexico City lifts swine flu curbs Businesses in Mexico City have been hit hard by the flu outbreak Mexico City has lifted all restrictions imposed <TIMEX3 tid="t1" type="DATE" value="2009-04">last month</TIMEX3> , following an outbreak of swine flu across Mexico .
+Mayor Marcelo Ebrard said no new infections had been reported for <TIMEX3 tid="t3" type="DURATION" value="P1W">a week</TIMEX3> in the capital and there was no longer a need to wear mask in public places .
+The city virtually ground to a halt at the height of the flu emergency , with schools , bars and cinemas closed .
+Mexico 's flu death toll rose by three to 78 on <TIMEX3 tid="t4" type="DATE" value="2009-05-21">Thursday</TIMEX3> , officials said .
+Some 4,000 people have been infected .
+Authorities in the sprawling capital on <TIMEX3 tid="t5" type="DATE" value="2009-05-21">Thursday</TIMEX3> lowered its four - level alert system from ` ` yellow '' to ` ` green '' - the lowest level .
+` ` We can calm down <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">now</TIMEX3> , '' Mayor Ebrard said .
+` ` <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">Now</TIMEX3> you can come to the city without any risk , '' he said , adding that there was ` ` no longer any need '' to wear masks in public places .
+However , the mayor urged residents of the city to remain .
+The World Health Organization said on <TIMEX3 tid="t8" type="DATE" value="2009-05-21">Thursday</TIMEX3> that 41 countries had reported 11,034 cases of swine flu , or influenza A -LRB- H1N1 -RRB- infection , including 85 deaths .
+The world remains at the second - highest flu alert level , which means an ` ` imminent pandemic '' .
+</TimeML>

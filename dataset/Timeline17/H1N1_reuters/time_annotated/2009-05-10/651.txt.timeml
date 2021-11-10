@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Sun <TIMEX3 tid="t4" type="DATE" value="2009-05-10">May 10 , 2009</TIMEX3> <TIMEX3 tid="t8" type="TIME" value="2009-05-10T16:12">4:12 pm</TIMEX3> EDT CAIRO <TIMEX3 tid="t6" type="DATE" value="2009-05-10">May 10</TIMEX3> -LRB- Reuters -RRB- - A five - year - old Egyptian girl has contracted the highly pathogenic bird flu virus after coming into contact with infected birds , the state news agency MENA reported on <TIMEX3 tid="t7" type="DATE" value="2009-05-10">Sunday</TIMEX3> .
+The case brings to 69 the number of people confirmed to have contracted the H5N1 avian influenza virus in Egypt , which has been hit harder than any another country outside Asia .
+
+While the avian influenza virus rarely infects people , experts say they fear it could mutate into a form people could easily pass to one another , sparking a pandemic that could kill millions .
+MENA , citing the Health Ministry , said the girl from Sohag province was admitted to hospital on <TIMEX3 tid="t9" type="DATE" value="2009-05-09">Saturday</TIMEX3> .
+It said she was being treated with the anti - viral drug Tamiflu and was in a stable condition .
+Some 26 Egyptians have died after contracting the virus .
+Most of those infected had come into contact with infected domestic birds in a country where roughly 5 million households depend on domestically raised poultry as a significant source of food and income .
+<TIMEX3 tid="t10" type="DATE" value="2009-04">Last month</TIMEX3> , Egypt ordered the culling of all the country 's 300,000 to 400,000 pigs as a precaution against the new H1N1 influenza strain , also known as swine flu .
+The World Health Organisation on <TIMEX3 tid="t13" type="DATE" value="2009-05-10">Sunday</TIMEX3> reported 4,379 people in 29 countries have been infected by the new virus .
+No cases have been reported in Egypt .
+</TimeML>

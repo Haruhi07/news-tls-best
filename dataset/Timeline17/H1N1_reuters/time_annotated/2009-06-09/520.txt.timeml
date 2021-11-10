@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+GENEVA | Tue <TIMEX3 tid="t2" type="DATE" value="2009-06-09">Jun 9 , 2009</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2009-06-09T13:54">1:54 pm</TIMEX3> EDT GENEVA -LRB-
+Reuters -RRB- -
+The World Health Organization -LRB- WHO -RRB- is on the verge of declaring the first influenza pandemic in <TIMEX3 tid="t7" type="DURATION" value="P40Y" mod="MORE_THAN">more than 40 years</TIMEX3> , but wants to ensure countries are well prepared to prevent a panic , its top flu expert said on <TIMEX3 tid="t4" type="DATE" value="2009-06-09">Tuesday</TIMEX3> .
+Keiji Fukuda , acting WHO assistant director - general , voiced concern at the sustained spread of the new H1N1 strain -- including more than 1,000 cases in Australia -- following major outbreaks in North America , where it emerged in <TIMEX3 tid="t8" type="DATE" value="2009-04">April</TIMEX3> .
+Confirmed community spread in a second region beyond North America would trigger moving to phase 6 -- signifying a full - blown pandemic -- from the <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">current</TIMEX3> phase 5 on the WHO 's 6 - level pandemic alert scale .
+` ` The situation has really evolved a lot <TIMEX3 tid="t11" type="DURATION" value="PXD" mod="MORE_THAN">over the past several days</TIMEX3> .
+We are getting really very close to knowing that we are in a pandemic situation , or I think , declaring that we are in a pandemic situation , '' Fukuda told a teleconference .
+Fukuda said a move to phase 6 would reflect the geographic spread of the new disease .
+` ` It does not mean that the severity of the situation has increased or that people are getting seriously sick at higher numbers or higher rates than they are <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">right now</TIMEX3> , '' he said .
+A decision to declare a pandemic involved more than simply making an announcement , he said .
+The United Nations agency had to ensure that countries were able to deal with the new situation and also handle any public reaction .
+` ` One of the critical issues is that we do not want people to ` over - panic ' if they hear that we are in a pandemic situation .
+That they understand , for example , that the <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">current</TIMEX3> assessment of the situation is that this is a moderate level , '' Fukuda said .
+The WHO and its 193 member states are working hard to prepare for a pandemic , for instance developing vaccines and building up supplies of anti - viral drugs , he said .
+The disease , which has infected over 26,500 people in 73 countries , with 140 deaths , has been most severe in Mexico , which has reported the highest number of fatalities , more than 100 .
+These include infections in otherwise healthy young people .
+A very real danger after declaring a pandemic was that hospitals could be overwhelmed by people seeking help when they did not really need it , while other patients requiring emergency treatment risked being neglected , according to Fukuda .
+` ` In earlier pandemics , in earlier outbreaks , we have often seen that people who are in the category of being worried but who are not particularly sick , have overrun hospitals , '' he said .
+Since the new flu strain first appeared , many people have stopped eating pork , pigs have been culled in some countries , trade bans on meat imposed , travelers quarantined , and some countries have discussed closing borders .
+` ` These are the kinds of potential adverse effects that you can have if you go out without making sure people understand the situation as well as possible , '' Fukuda said .
+Combining human , avian and swine viruses , the new strain has been dubbed ` swine flu ' , although scientists say this is misleading and stress there is no risk from eating pig meat .
+The world is better prepared but also more vulnerable to the adverse effects of a flu pandemic since the last one occurred in <TIMEX3 tid="t16" type="DATE" value="1968">1968</TIMEX3> , due to the speed and volume of international travel .
+An H3N2 virus caused an estimated 1 - 4 million deaths at the time , and became known as Hong Kong flu .
+But Fukuda said the WHO would not name the new disease after a country or animal to avoid misleading stigmas .
+He voiced concern that Canadian Inuits had suffered disproportionately in the <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">current</TIMEX3> outbreak , often needing hospitalization .
+It was not clear if this was due to higher levels of underlying chronic disease , genetics or poverty .
+` ` Inuit populations were very severely hit in some of the earlier pandemics .
+This is why these reports raise such concerns to us , '' he said .
+-LRB-
+For a WHO note on its pandemic alert scale go to :
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

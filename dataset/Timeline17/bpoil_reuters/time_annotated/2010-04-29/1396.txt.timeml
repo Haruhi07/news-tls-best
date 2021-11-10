@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON | Thu <TIMEX3 tid="t2" type="DATE" value="2010-04-29">Apr 29 , 2010</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2010-04-29T11:29">11:29 am</TIMEX3> EDT LONDON -LRB-
+Reuters -RRB- - Shares in London - based BP Plc fell 7 percent on <TIMEX3 tid="t4" type="DATE" value="2010-04-29">Thursday</TIMEX3> after the oil major said a leaking well in the Gulf of Mexico was gushing at five times the rate initially thought .
+Investors are growing increasingly concerned about the impact of the leak .
+Since the Deepwater Horizon drilling rig caught fire , BP 's shares have fallen 11 percent , knocking around $ 20 billion off its market capitalization .
+` ` It could have a material impact on the company 's financials , '' one fund manager said .
+The drop is despite the company reporting much better than expected <TIMEX3 tid="t7" type="DATE" value="2010-Q1">first quarter</TIMEX3> results on <TIMEX3 tid="t8" type="DATE" value="2010-04-27">Tuesday</TIMEX3> .
+BP 's shares traded down 6.8 percent at 582 pence at <TIMEX3 tid="t10" type="TIME" value="2010-04-27T15:16">1516 GMT</TIMEX3> , lagging a 1 percent drop in the STOXX Europe 600 oil and gas index .
+As happened in <TIMEX3 tid="t11" type="DATE" value="2010-04-28">previous days</TIMEX3> , the biggest share price drop came after markets opened in the United States where BP also has a listing .
+BP said the clean - up operation was costing it $ 4 million <TIMEX3 tid="t14" type="DURATION" value="P1D">a day</TIMEX3> , although this is likely to increase sharply if the slick hits land .
+BP could face much higher costs from potential lawsuits , punitive damages and reputational damage , which would hit its ability to grow output in the United States , its most important market .
+The clean - up team , which includes the U.S. Coast Guard and other agencies , began a controlled burn on parts of the slick on <TIMEX3 tid="t15" type="DATE" value="2010-04-28">Wednesday</TIMEX3> , to try and limit the amount of oil that looks set to hit the shore .
+Eleven workers are missing and presumed dead after the worst oil rig disaster in <TIMEX3 tid="t17" type="DURATION" value="P1DE" mod="LESS_THAN">almost a decade</TIMEX3> .
+Swiss - based Transocean Ltd 's Deepwater Horizon rig sank on <TIMEX3 tid="t20" type="DATE" value="2010-04-22">April 22</TIMEX3> , <TIMEX3 tid="t21" type="DURATION" value="P2D">two days</TIMEX3> after it exploded and caught fire while it was finishing a well for BP about 40 miles southeast of the mouth of the Mississippi River .
+Five thousand barrels of oil are leaking <TIMEX3 tid="t23" type="DURATION" value="P1D">a day</TIMEX3> , up from an earlier estimate of 1,000 barrels .
+Underwater robots failed to activate a cutoff valve on the ocean floor to stop the leak .
+BP is hoping a plan to cover the well with a steel cap and capture the leaking oil will avert an environmental disaster .
+However , this will take <TIMEX3 tid="t24" type="DURATION" value="P4W">four weeks</TIMEX3> to put in place , by which stage over 150,000 barrels could have been spilled .
+If the steel cap does not work , BP will have to rely on stemming the flow by drilling a relief well , which would take <TIMEX3 tid="t26" type="DURATION" value="P2M">two</TIMEX3> to <TIMEX3 tid="t25" type="DURATION" value="P3M">three months</TIMEX3> .
+By this stage , the spill could be over 300,000 barrels - larger than the 258,000 barrels leaked by the Exxon Valdez in the U.S. 's worst oil spill to date .
+However , a BP spokesman said the environmental damage from and cost of tackling the leak from the Macondo well would not be in the same range as the Exxon Valdez tragedy , which happened close to shore in the narrow Prince William Sound in Alaska .
+Exxon spent $ 3.5 billion cleaning up the Valdez spill and had hundreds of millions of dollars in damages awarded against it .
+The fact the Macondo spill can be treated offshore and that the oil involved is light , rather than the heavy crude the tanker Valdez carried , should reduce the environmental damage .
+</TimeML>

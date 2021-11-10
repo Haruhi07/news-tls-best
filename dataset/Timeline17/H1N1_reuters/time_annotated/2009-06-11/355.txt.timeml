@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+STOCKHOLM | Thu <TIMEX3 tid="t2" type="DATE" value="2009-06-11">Jun 11 , 2009</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2009-06-11T15:31">3:31 pm</TIMEX3> BST STOCKHOLM -LRB-
+Reuters -RRB- - Sweden 's Ministry of Health and Social Affairs said on <TIMEX3 tid="t4" type="DATE" value="2009-06-11">Thursday</TIMEX3> the World Health Organisation has decided to raise the new H1N1 virus threat level to phase six .
+` ` <TIMEX3 tid="t6" type="DATE" value="2009-06-11">Today</TIMEX3> ...
+the Minister for Elderly Care and Public Health Maria Larsson has called a press conference following a decision by the WHO to raise the pandemic level to six for the influensa A H1N1 virus . ''
+
+The WHO has said that phase six would reflect the fact that the disease , widely known as swine flu , is spreading geographically , but not necessarily indicate how virulent it is .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

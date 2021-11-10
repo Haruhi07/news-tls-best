@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+-LRB-
+By M. Spencer Green -- Associated Press -RRB-
+The facade of the New York Stock Exchange , where shares have tumbled .
+The Dow Jones industrial average is off 36 percent for the year ; many would - be retirees are anxious about their savings .
+-LRB-
+By Daniel Acker -- Bloomberg News -RRB- Rep. George Miller , chairman of the House Committee on Education and Labor , convened a hearing on 401 -LRB- k -RRB- s. -LRB-
+By Dennis Cook -- Associated Press -RRB-
+For many Americans , 401 -LRB- k -RRB- plans were supposed to be their own little golden parachutes into retirement .
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Now</TIMEX3> , it seems , those parachutes may not open in time .
+The global financial crisis that revealed the flaws of Wall Street has also exposed the vulnerability of America 's retirement system .
+Employers have increasingly abandoned traditional pensions , forcing workers to rely on 401 -LRB- k -RRB- s and similar plans that have a lot more exposure to the stock market .
+The assumption was that even if the market suffered short - term losses , over time it would rise , allowing workers to recoup their savings .
+
+But the steepness of <TIMEX3 tid="t5" type="DATE" value="2008">this year</TIMEX3> 's market collapse and the still - uncertain depth of the economic downturn has prompted lawmakers , academics and economists to question the wisdom of letting workers hitch their retirement fortunes to the precariousness of the stock market .
+So far <TIMEX3 tid="t6" type="DATE" value="2008">this year</TIMEX3> , the Dow Jones industrial average is down 36 percent , eroding the savings of millions of Americans and forcing those who had planned to retire in <TIMEX3 tid="t7" type="DURATION" value="PXY">the next few years</TIMEX3> to reconsider their plans .
+` ` <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Right now</TIMEX3> , we 're really seeing the risks come home , and people are recognizing the extent to which their retirement savings are on the line when the stock market goes down drastically , '' said Jacob Hacker , a political science professor at the University of California at Berkeley who chronicled the advent of 401 -LRB- k
+-RRB- plans in ` ` The Great Risk Shift . ''
+Until <TIMEX3 tid="t9" type="DATE" value="197X">three decades ago</TIMEX3> , Social Security and pensions , formally known as defined - benefit plans , were the main sources of retirement income .
+<TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">Now</TIMEX3> , Social Security is in danger of eventually running out of money .
+And defined - benefit plans , in which employers made the investment decisions and promised to pay employees a set amount <TIMEX3 tid="t12" type="SET" value="P1M" quant="EACH">each month</TIMEX3> for the rest of their lives , are quickly disappearing .
+Favored by the ` ` ownership society '' movement , defined - contribution plans , which 401 -LRB- k
+-RRB- s fall under
+, have picked up the slack .
+In <TIMEX3 tid="t16" type="DATE" value="1985">1985</TIMEX3> , there were 29 million participants in defined - benefit plans and 10 million in <TIMEX3 tid="t15" type="DATE" value="0401">401</TIMEX3>
+-LRB- k -RRB- s.
+In <TIMEX3 tid="t18" type="DATE" value="2005">2005</TIMEX3> , there were 21 million in defined - benefit plans and 47 million in <TIMEX3 tid="t17" type="DATE" value="0401">401</TIMEX3> -LRB- k
+-RRB- s.
+The government has encouraged that shift , providing $ 80 billion in tax breaks <TIMEX3 tid="t21" type="SET" value="P1Y" quant="EACH">each year</TIMEX3> to people who store their money in <TIMEX3 tid="t19" type="DATE" value="0401">401</TIMEX3> -LRB- k -RRB- s.
+But in return , workers have had to assume the investment responsibilities even if they know little about the stock market .
+They have also had to give up their lifetime guarantee of income .
+` ` Everyone wiped their hands of any obligation for retirement , and the burden shifted from the employer to the employee , and the risk is shifted from the employer to the employee , '' said Rep. George Miller -LRB-
+D - Calif .
+-RRB- , chairman of the House Committee on Education and Labor , who <TIMEX3 tid="t22" type="DATE" value="2008-W40">last week</TIMEX3> convened a hearing to examine 401
+-LRB- k
+-RRB- s. ` ` In the beginning , no one ever said , ` Would this be sufficient ?
+Would it work ? '
+and what you see is a plan that is highly responsive to external events unlike Social Security , unlike defined - benefit plans , unlike a public pension plan . ''
+Proponents of 401 -LRB- k -RRB- s say with those greater risks come greater rewards .
+` ` If you own equities , you really have to believe in the American capitalist system in that the dollars will find the highest and best use , '' said Mickey Cargile , a managing partner for WNB Private Client Services , a financial advisory firm in Texas .
+` ` Along with that , there will be a period in which the excesses in the market will be purged .
+That 's what we 're seeing <TIMEX3 tid="t23" type="DATE" value="PRESENT_REF">now</TIMEX3> .
+That 's what we saw in <TIMEX3 tid="t24" type="DATE" value="1987">1987</TIMEX3> . ''
+In the past15 months , Americans have lost about $ 2 trillion worth of retirement savings both in pensions and 401 -LRB- k -RRB- - style plans , Peter R. Orszag , director of the Congressional Budget Office , told Miller 's committee <TIMEX3 tid="t25" type="DATE" value="2008-W40">last week</TIMEX3> .
+
+Because 401 -LRB- k -RRB- s tend to have more stocks in their portfolios than pensions do , Orszag concluded that
+401 -LRB-
+k
+-RRB- s have been the biggest losers .
+<TIMEX3 tid="t27" type="DATE" value="2008">This year</TIMEX3> , the average account balance of 401 -LRB- k
+-RRB- participants has dropped 7.2 to 11.2 percent , according to an analysis of 2.2 million plans by the District - based Employee Benefit Research Institute .
+But many workers have seen even sharper declines in <TIMEX3 tid="t28" type="DATE" value="PAST_REF">recent months</TIMEX3> , analysts and economists say .
+Further draining retirement accounts is that many workers have been allowed to dip into their 401 -LRB-
+k -RRB- s for loans or so - called hardship withdrawals .
+That trend has been increasing in <TIMEX3 tid="t31" type="DATE" value="PAST_REF">recent months</TIMEX3> because people can no longer tap the equity in their homes to pay down credit card debt .
+The experts disagree over how long it takes to recover from a bear market .
+The financial firm T. Rowe Price found that in the past five bear markets going back to <TIMEX3 tid="t34" type="DATE" value="1976">1976</TIMEX3> , the longest it took for stocks to recover from their peak and then provide a 10 percent annual compound return was <TIMEX3 tid="t35" type="DURATION" value="P8Y">eight years</TIMEX3> .
+The shortest was <TIMEX3 tid="t36" type="DURATION" value="P5M">five months</TIMEX3> .
+</TimeML>

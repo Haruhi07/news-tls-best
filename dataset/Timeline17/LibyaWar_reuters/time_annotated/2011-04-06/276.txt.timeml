@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+We d <TIMEX3 tid="t3" type="DATE" value="2011-04-06">Apr 6 , 2011</TIMEX3> <TIMEX3 tid="t7" type="TIME" value="2011-04-06T06:31">6:31 am</TIMEX3> EDT -LRB- Adds foreign minister 's quotes -RRB-
+AMMAN , <TIMEX3 tid="t5" type="DATE" value="2011-04-06">April 6</TIMEX3> -LRB- Reuters -RRB- - Jordan has sent fighter aircraft to provide logistical support for the no - fly zone over Libya and to protect aid flights from the kingdom , Foreign Minister Nasser Judeh said on <TIMEX3 tid="t6" type="DATE" value="2011-04-06">Wednesday</TIMEX3> .
+He did not say how many Jordanian jets had been deployed , but another government official said six planes were involved .
+` ` The fighter planes were sent to a European base to protect our humanitarian corridor and provide logistical support for the no - fly zone , '' Judeh told Reuters .
+` ` The mission does not have a combat role '' .
+Jordan 's Petra news agency said the first Jordanian aid flight landed at Benghazi airport on <TIMEX3 tid="t8" type="DATE" value="2011-04-04">Monday</TIMEX3> .
+Qatar was the first Arab country to contribute planes to police the no - fly zone .
+<TIMEX3 tid="t9" type="DATE" value="2011-03-31">Last Thursday</TIMEX3> , a French armed forces spokesman said fighter jets from the United Arab Emirates had arrived at an air base in Sardinia to support NATO 's Libya operation , meant to protect civilians caught up in a civil war between Libyan leader Muammar Gaddafi and rebel forces .
+-LRB-
+Reporting by Suleiman al - Khalidi , Editing by Jeffrey Heller -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

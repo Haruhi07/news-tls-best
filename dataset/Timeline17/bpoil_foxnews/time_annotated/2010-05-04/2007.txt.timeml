@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+The ultra - deepwater semisubmersible rig Development Drill III begins operations for drilling a relief well <TIMEX3 tid="t5" type="DATE" value="2010-05-03">Monday</TIMEX3> , <TIMEX3 tid="t3" type="DATE" value="2010-05-03">May 3 , 2010</TIMEX3> .
+AP Photo\/Transocean BP has begun work on a relief well that could be used to plug the massive oil leak in the gulf coast .
+The new drill site is about half a mile on the seabed from the leaking well beneath the Gulf of Mexico , and drilling is estimated to take some <TIMEX3 tid="t6" type="DURATION" value="P3M">three months</TIMEX3> .
+The company began work on the well <TIMEX3 tid="t12" type="TIME" value="2010-05-02TAF" mod="START">early Sunday afternoon</TIMEX3> , but only announced that work had been begun <TIMEX3 tid="t11" type="TIME" value="2010-05-04TMO">Tuesday morning</TIMEX3> .
+The relief well also in 5,000 feet of water beneath the Gulf of Mexico , is planned to intercept the existing well around 13,000 feet below the seabed and permanently seal it .
+A relief well is designed to intersect an existing well bore and pump heavy fluids and cement in to stop the leaking oil .
+BP has described it as the only way to definitively plug the oil leak .
+` ` This is another key step in our work to permanently stop the loss of oil from the well , '' BP Group chief executive officer Tony Hayward said in a statement .
+The well is being drilled by the ultra - deepwater semisubmersible rig Development Drill III , owned and operated by Transocean , the world 's largest offshore drilling company .
+While waiting for the relief well to be completed , response crews have been testing a new technique to break up the oil before it reaches the surface -- a remotely operated underwater vehicle dispensing sub - surface dispersant at a rate of nine gallons per minute -- with encouraging results so far .
+According to a joint statement by BP , the NOAA and other government officials , nearly 3,000 gallons of subsea dispersants have already been applied , and scientists are monitoring the results to determine the feasibility of their continued use .
+</TimeML>

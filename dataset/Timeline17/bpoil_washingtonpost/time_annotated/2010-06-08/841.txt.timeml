@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Cleaning up the BP spill While the technology required to drill an oil well in deep water can be mind - boggling , cleaning up spilled oilrequires mostly tedious manual labor .
+No grand vacuum for tar balls has been created ; workers in disposable coveralls pick them up by hand .
+BP has no marsh hoses ; men in waders wipe sticky oil off dying grass one handful at a time .
+With fishing curtailed , BP offers cleanup jobs at $ 12 <TIMEX3 tid="t3" type="DURATION" value="PT1H">an hour</TIMEX3> .
+Some of the methods being used : SOURCES :
+Staff reports , U.S. Coast Guard , BP | GRAPHIC : Bonnie Berkowitz and Alberto Cuadra -
+The Washington Post - <TIMEX3 tid="t6" type="DATE" value="2010-06-08">June 8 , 2010</TIMEX3> .
+Note : All figures are as of <TIMEX3 tid="t9" type="DATE" value="2010-06-06">June 6</TIMEX3> , objects not to scale .
+</TimeML>

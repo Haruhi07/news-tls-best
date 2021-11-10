@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+People in Mexico have been wearing masks as a precaution A third of the world 's population could be infected with swine flu , expert projections suggest .
+Researchers say swine flu has ` ` full pandemic potential '' , spreading readily between people and is likely to go global in the next <TIMEX3 tid="t2" type="DURATION" value="P6M">six</TIMEX3> to <TIMEX3 tid="t1" type="DURATION" value="P9M">nine months</TIMEX3> .
+Although one in three who come in contact will likely become infected , the Imperial College London team declined to estimate the death toll .
+The study based on Mexico 's experience is published in the journal Science .
+The number of laboratory - confirmed swine flu cases has reached 5,251 in some 30 countries around the world , with 61 having died from the disease , the World Health Organization has confirmed .
+Working in collaboration with the WHO and public health agencies in Mexico , the researchers assessed the Mexico epidemic using data to <TIMEX3 tid="t4" type="DATE" value="2009-04" mod="END">the end of April</TIMEX3> and taking into account factors like international spread and viral genetic diversity .
+Lead researcher Professor Neil Ferguson said it was too early to say whether the virus will cause deaths on a massive scale , or prove little more lethal than normal seasonal flu .
+His ` ` fast and dirty '' analysis of Mexico 's swine flu outbreak suggests that the H1N1 virus is about as dangerous as the virus behind a <TIMEX3 tid="t5" type="DATE" value="1957">1957</TIMEX3> pandemic that killed 2 million people worldwide .
+
+But it 's not nearly as lethal as the bug that caused the <TIMEX3 tid="t6" type="DATE" value="1918">1918</TIMEX3> Spanish flu pandemic , which caused an estimated 50 million deaths in <TIMEX3 tid="t7" type="DATE" value="1918">1918</TIMEX3> .
+Its full impact on the UK is not likely to be known until the annual flu season in <TIMEX3 tid="t8" type="DATE" value="2009-FA">the autumn</TIMEX3> and <TIMEX3 tid="t9" type="DATE" value="2009-WI">winter</TIMEX3> , when a ` ` really major epidemic '' can be expected in the northern hemisphere , says Professor Ferguson .
+Prof Ferguson , who sits on the World Health Organisation 's emergency committee for the outbreak , told the BBC Radio 4 <TIMEX3 tid="t10" type="DATE" value="2009-05-12">Today</TIMEX3> program : ` ` This virus really does have full pandemic potential .
+It is likely to spread around the world in the next <TIMEX3 tid="t12" type="DURATION" value="P6M">six</TIMEX3> to <TIMEX3 tid="t11" type="DURATION" value="P9M">nine months</TIMEX3> and when it does so it will affect about one - third of the world 's population .
+` ` To put that into context , normal seasonal flu <TIMEX3 tid="t13" type="SET" value="P1Y" quant="EVERY">every year</TIMEX3> probably affects around 10 % of the world 's population <TIMEX3 tid="t14" type="SET" value="P1Y" quant="EVERY">every year</TIMEX3> , so we are heading for a flu season which is perhaps three times worse than usual - not allowing for whether this virus is more severe than normal seasonal flu viruses . ''
+His study suggests swine flu could kill four in every 1,000 infected people .
+Professor Ferguson said his findings confirmed that decisions must be taken swiftly on vaccine production .
+` ` We really need to be prepared , particularly for <TIMEX3 tid="t15" type="DATE" value="2009-FA">the autumn</TIMEX3> .
+At the moment , the virus is not spreading fast in the northern hemisphere , because we are outside the normal flu season , but come <TIMEX3 tid="t16" type="DATE" value="2009-FA">the autumn</TIMEX3> it is likely to cause a really major epidemic .
+` ` One of the key decisions which has to be made <TIMEX3 tid="t17" type="DATE" value="2009-W20">this week</TIMEX3> by the world community is how much do we switch over <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">current</TIMEX3> vaccine production for seasonal flu to make a vaccine against this particular virus ?
+I think those decisions need to be made quickly . ''
+</TimeML>

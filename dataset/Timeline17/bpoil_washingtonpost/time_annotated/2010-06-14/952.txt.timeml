@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t1" type="DURATION" value="P4W">Four weeks</TIMEX3> after the nation 's worst environmental disaster , the Obama administration saw no need to accept offers of state - of - the - art skimmers , miles of boom or technical assistance from nations around the globe with experience fighting oil spills .
+In <TIMEX3 tid="t2" type="DATE" value="2010-W23">the past week</TIMEX3> , the United States submitted its second request to the European Union for any specialized equipment to contain the oil <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3> seeping onto the Gulf of Mexico 's marshes and beaches , and it accepted Canada 's offer of 9,842 feet of boom .
+The government is soliciting additional boom and skimmers from nearly two dozen countries and international organizations .
+In <TIMEX3 tid="t5" type="DATE" value="2010-05" mod="END">late May</TIMEX3> , the administration accepted Mexico 's offer of two skimmers and 13,779 feet of boom ; a Dutch offer of three sets of Koseq sweeping arms , which attach to the sides of ships and gather oil ; and eight skimming systems offered by Norway .
+` ` As we understand what we need and identify domestic and foreign sources , we will act , '' said State Department spokesman P.J. Crowley , who said the United States has received 21 aid offers from 17 countries and four international groups .
+` ` We are maintaining contact with these countries , we are grateful for the offers , and we will take them up on these offers . ''
+But some lawmakers and outside experts are questioning whether the administration has been too slow to capitalize on these offers , lulled by BP 's estimates on the oil flow rate and on its capacity to cope with the aftermath of the <TIMEX3 tid="t7" type="DATE" value="2010-04-20">April 20</TIMEX3> explosion of the Deepwater Horizon rig .
+` ` We 're clearly behind the curve because BP did not have the game plan to deal with this spill , '' said Sen. Benjamin L. Cardin -LRB-
+D - Md .
+-RRB- , who visited Louisiana on <TIMEX3 tid="t8" type="DATE" value="2010-06-11">Friday</TIMEX3> .
+` ` I do n't know if the federal government has the capacity it needs at this point . ''
+Anthony H. Cordesman , a national security and energy analyst at the Center for Strategic and International Studies , said the administration has been hampered because the spill is ` ` a rare case '' where the traditional emergency response routine does not apply .
+` ` Most emergency relief is based on proven technology and precedence , '' he said .
+` ` We are <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">now</TIMEX3> confronted by something that does n't match any of the models . ''
+The State Department sent letters to some U.S. allies <TIMEX3 tid="t10" type="DURATION" value="P2W">two weeks</TIMEX3> after the accident , and the Coast Guard initially sought to assess what supplies might be available overseas , but the administration 's public posture on aid has been inconsistent .
+On <TIMEX3 tid="t13" type="DATE" value="2010-05-05">May 5</TIMEX3> , Crowley announced that 13 international offers had been received and that decisions on what to accept would be made ` ` in <TIMEX3 tid="t12" type="DATE" value="2010-06-15">the next day</TIMEX3> or two . ''
+<TIMEX3 tid="t14" type="DATE" value="2010-06-29">Two weeks later</TIMEX3> , the State Department said the government saw no reason to accept any of the offers .
+Crowley said the Obama administration is well aware of what happened after Hurricane Katrina , when the U.S. government failed to capitalize on an unprecedented amount of foreign aid offers .
+Allies offered $ 854 million in cash and in oil meant to be sold for cash .
+In the end , only $ 126 million in cash from 40 donors was received .
+News , features , and opinions on environmental policy , the science of climate change , and tools to live a green life .
+</TimeML>

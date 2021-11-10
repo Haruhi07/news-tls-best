@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Ongoing Boeing Strike Poses Threat to Industry Around 27,000 Boeing workers are on strike .
+The firm has halted production , a move that affects thousands of other industry workers .
+-LRB-
+By Ted S. Warren -- Associated Press -RRB-
+If ever there was a company built to withstand the global financial crisis , Boeing might be it .
+The aerospace and defense giant is well diversified .
+The world 's airlines are lining up with orders for the company 's latest commercial jets .
+
+But Boeing 's prospects appear cloudy as a machinist strike enters its seventh week .
+Analysts say the strike , if not resolved soon , could make it difficult for the world 's largest aircraft manufacturer to weather the recession , weakening a giant of industrial America .
+<TIMEX3 tid="t4" type="DATE" value="2008-W41">Last week</TIMEX3> , the Federal Reserve said the Boeing strike contributed to the 2.8 percent decrease in industrial production in <TIMEX3 tid="t3" type="DATE" value="2008-09">September</TIMEX3> , the steepest drop in <TIMEX3 tid="t6" type="DURATION" value="P34Y">34 years</TIMEX3> .
+Crunching the figures , economists estimate the strike could be shaving as much as one - tenth of a percentage point from the nation 's gross domestic product .
+Already , the strike , launched in <TIMEX3 tid="t8" type="DATE" value="2008-09" mod="START">early September</TIMEX3> by the International Association of Machinists and Aerospace Workers , is affecting thousands of U.S. workers whose jobs are tied to Boeing 's production lines .
+` ` My sense is that the impact is going to be much deeper than <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">currently</TIMEX3> perceived , '' said Wolfgang Demisch , a veteran industry consultant .
+` ` The world 's airlines are on a buying spree .
+All of this essentially relies on sustained global peace and prosperity .
+It also relies on the global availability of relatively inexpensive credit . ''
+Analysts estimate that Boeing has a six - or seven - year backlog of plane orders .
+The company 's newest model , the 787 or so - called Dreamliner , is the darling of the aviation world .
+American Airlines <TIMEX3 tid="t10" type="DATE" value="2008-W42">this week</TIMEX3> said it agreed to order as many as 100 new 787s over <TIMEX3 tid="t11" type="DATE" value="201">the next decade</TIMEX3> , which have a list price of $ 150 million to $ 200 million .
+
+But Boeing 's factories are shut down <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">now</TIMEX3> due to the strike , and they are n't producing any new airplanes .
+Boeing is offering to boost salaries in <TIMEX3 tid="t15" type="DATE" value="PRESENT_REF">current</TIMEX3> negotiations , but the company and the union have been unable to agree on outsourcing .
+The union wants to change contract provisions that allow Boeing to use outside companies to deliver parts inside plants .
+` ` It 's a slippery slope , '' said Connie Kelliher , an IAM spokeswoman .
+` ` If you allow employees from another company to do work that you ' ve traditionally done , people who bring in the engines will be asked to hang the engines . ''
+So far , it appears that both sides are digging in .
+Bargainers met <TIMEX3 tid="t16" type="DATE" value="2008-10-12">last Sunday</TIMEX3> and <TIMEX3 tid="t18" type="DATE" value="2008-10-13">Monday</TIMEX3> and adjourned without a new agreement .
+As of <TIMEX3 tid="t21" type="DATE" value="2008-10-17" mod="END">late yesterday</TIMEX3> , no talks were scheduled for <TIMEX3 tid="t19" type="DATE" value="2008-W42-WE">this weekend</TIMEX3> .
+Analysts say the union has the upper hand as long as Boeing 's order books remain filled .
+Boeing spokesman Jim Proulx said that the company wants its employees back at work but that in these tough economic times , Boeing could not ` ` lock ourselves into any agreement that would n't allow us to conduct our business in the most efficient manner possible . ''
+About 27,000 IAM workers at Boeing are on strike .
+
+But the shutdown is affecting thousands of workers outside Boeing .
+In Wichita , Ernest Gonzales , a 52 - year - old single father of two , works at Spirit AeroSystems , a Boeing contractor .
+Because of the strike , Gonzales and other workers have had their work schedules cut to <TIMEX3 tid="t23" type="DURATION" value="P3D">three days</TIMEX3> <TIMEX3 tid="t24" type="DURATION" value="P1W">a week</TIMEX3> .
+On <TIMEX3 tid="t25" type="DATE" value="2008-10-16">Thursday</TIMEX3> , Gonzales joined other workers affected by the strike at a pro - union rally outside an IAM union lodge .
+Workers were being handed $ 25 and $ 50 food vouchers .
+At Spirit headquarters , workers say Boeing parts are piling up .
+Finished fuselages sit on railcars waiting for delivery to Boeing 's shuttered Pacific Northwest assembly hangars .
+Gonzales said Spirit workers are using sick days , vacation time and unemployment insurance to fill the gaps and assemble regular 40 - hour paychecks .
+Jeff Turner , Spirit 's president and chief executive , sent out a memo <TIMEX3 tid="t28" type="DATE" value="2008-10-15">Wednesday</TIMEX3> telling 10,500 workers that the company was preparing for an extended strike .
+
+A work stoppage beyond <TIMEX3 tid="t29" type="DATE" value="2008-10">October</TIMEX3> could lead to broad shutdowns and temporary layoffs as early as mid - <TIMEX3 tid="t30" type="DATE" value="2007-11">November</TIMEX3> , he wrote .
+` ` We have to deal with that , '' Gonzales said .
+` ` There 's concern about holiday pay and what type of <TIMEX3 tid="t31" type="DATE" value="2008-12-25">Christmas</TIMEX3> we are going to have because most of us would be laid off out here . ''
+Demisch , the aerospace analyst , called the strike a ` ` tragedy '' that reflects years of poor labor relations at Boeing .
+He said if Boeing 's labor situation does n't improve , the American aerospace industry could go the way of the auto industry , with management and labor at loggerheads .
+` ` It seems there is no learning taking place , '' Demisch said .
+</TimeML>

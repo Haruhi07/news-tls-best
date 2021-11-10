@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Anne McDonald was one of tens of thousands of aid workers inside Haiti at the time of the quake .
+<TIMEX3 tid="t1" type="DATE" value="XXXX">A year ago</TIMEX3> , she moved to Haiti to work for an organization affiliated with Cornell University trying to fight the spread of HIV and AIDS .
+She was in Port au Prince when the quake hit on <TIMEX3 tid="t3" type="DATE" value="2010-01-19">Tuesday</TIMEX3> .
+</TimeML>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Testing of BP 's newly capped Gulf of Mexico oil well has been extended for a further <TIMEX3 tid="t2" type="DURATION" value="P1D">24 hours</TIMEX3> .
+The US official in charge of the spill clean - up , Admiral Thad Allen , said the ` ` integrity test '' would not stop until <TIMEX3 tid="t4" type="TIME" value="2010-07-18TAF">Sunday afternoon</TIMEX3> .
+He added that when the test ceased , containment of the spill using surface ships to collect oil would resume .
+The new cap has managed to stop the flow of oil for the first time since the well exploded <TIMEX3 tid="t5" type="DATE" value="2010-04">three months ago</TIMEX3> .
+The flow of oil was shut off at <TIMEX3 tid="t7" type="DATE" value="1425">1425</TIMEX3> local time -LRB- <TIMEX3 tid="t10" type="TIME" value="2010-07-18T19:25">1925 GMT</TIMEX3> -RRB- on <TIMEX3 tid="t9" type="DATE" value="2010-07-15">Thursday</TIMEX3> .
+In a statement , Adm Allen said : ` ` Based on the data and pressure readings compiled to date , the test has provided us with valuable information which will inform the procedure to kill the well and a better understanding of options for temporary shut - in during a hurricane .
+` ` As we continue to see success in the temporary halt of oil from the leak , the US government and BP have agreed to allow the well integrity test to continue another <TIMEX3 tid="t12" type="DURATION" value="P1D">24 hours</TIMEX3> . ''
+He added that at the end of the test , the surface ships resuming collection of leaking oil would have the capacity to take up to 80,000 barrels per day .
+Andy Gallacher BBC News , Washington If the pressure readings drop or a leak is discovered from the ocean bed , the valves will once again be opened .
+This time , though , BP says it is ready with four container ships on the surface to siphon off most if not all the oil .
+Work on two relief wells which will finally cap the well has restarted .
+They should be finished in <TIMEX3 tid="t13" type="DURATION" value="PXW">the next few weeks</TIMEX3> when concrete and mud will be pumped into the well , sealing it for good .
+Even if all that goes to plan , the Gulf of Mexico still faces a huge clean - up operation that could take years .
+Correspondents say this switch - over will see crude oil flowing into the Gulf once again , on temporary basis , as pressure is relieved .
+BP is drilling relief wells which aim to intercept the leaking one at <TIMEX3 tid="t16" type="DATE" value="2010-07" mod="END">the end of July</TIMEX3> , enabling it to be sealed by mid - <TIMEX3 tid="t15" type="DATE" value="2009-08">August</TIMEX3> .
+Adm Allen 's statement concluded : ` ` Progress also continues on the two relief wells the federal government has required BP to drill .
+The relief well remains the ultimate step in stopping the BP oil leak for good . ''
+The spill has been described as the worst environmental disaster the US has ever seen .
+Eleven workers were killed when the Deepwater Horizon rig blew up on <TIMEX3 tid="t18" type="DATE" value="2010-04-20">20 April</TIMEX3> .
+The subsequent spill has affected hundreds of miles of Gulf coastline since <TIMEX3 tid="t19" type="DATE" value="2010-04">April</TIMEX3> , with serious economic damage to the region as tourists have avoided Gulf Coast beaches and fishing grounds have remained closed .
+BP has put the costs of dealing with the disaster at over $ 3.5 bn -LRB- # 2.3 bn -RRB- .
+It has already paid out more than $ 200 m to 32,000 claimants .
+The company is evaluating a further 17,000 for payment and is seeking more information on 61,000 other claims .
+NEW CAP FOR LEAKING
+OIL WELL
+In <TIMEX3 tid="t21" type="DATE" value="2010-06">June</TIMEX3> , BP placed a cap , known as an LMRP cap , over the top of the Deepwater Horizon well so oil could be collected at the surface .
+However , this continued to leak oil and has <TIMEX3 tid="t22" type="DATE" value="PRESENT_REF">now</TIMEX3> been replaced with a better fitting device .
+NEW CAP FOR LEAKING OIL
+WELL When engineers removed the LMRP cap on <TIMEX3 tid="t24" type="DATE" value="2010-07-10">10 July</TIMEX3> , oil began to freely flow from the top of the blowout preventer once more .
+However , the Q4000 containment system continued to take some oil to the surface .
+NEW CAP FOR LEAKING OIL
+WELL Engineers then bolted on a new capping stack onto the blowout preventer
+-LRB- BOP -RRB- .
+This allowed them to conduct a series of tests to see if the flow of oil could be stopped using the newly installed equipment .
+NEW CAP FOR LEAKING OIL WELL
+During the test the three ram capping stack has been closed and all sub - sea containment systems collecting the oil temporarily suspended , effectively blocking the flow of oil from the well .
+NEW CAP FOR LEAKING OIL
+WELL
+Once the tests have been successfully completed , BP will resume collecting oil .
+The Helix Producer ship was <TIMEX3 tid="t25" type="DATE" value="PAST_REF">recently</TIMEX3> connected to the BOP to provide another collection route in addition to the Q4000 rig .
+BACK -LCB- <TIMEX3 tid="t26" type="DATE" value="PRESENT_REF">current</TIMEX3> -RCB- of -LCB- total -RCB- NEXT
+The pun - ancient artform , or the lowest form of wit ?
+</TimeML>

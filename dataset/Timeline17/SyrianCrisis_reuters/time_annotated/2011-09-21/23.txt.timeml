@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON | We d <TIMEX3 tid="t4" type="DATE" value="2011-09-21">Sep 21 , 2011</TIMEX3> <TIMEX3 tid="t6" type="TIME" value="2011-09-21T15:22">3:22 pm</TIMEX3> BST LONDON -LRB- Reuters -RRB- - UK unconventional gas company Cuadrilla Resources could sell first shale gas recovered from its Lancashire project by <TIMEX3 tid="t3" type="DATE" value="2013" mod="MID">mid-2013</TIMEX3> , its chief executive told Reuters , despite an exploration suspension after scientists measured tremors in the area .
+The Lichfield - based company has valued the amount of shale gas in place -- not the recoverable volume -- at its site near Blackpool at 200 trillion cubic feet , the top end of what is estimated can be recovered from Europe 's largest reserves in Poland .
+` ` If we were to have a field development plan we would guess that <TIMEX3 tid="t10" type="DURATION" value="P1Y">one</TIMEX3> or <TIMEX3 tid="t9" type="DURATION" value="P2Y">two years</TIMEX3> from <TIMEX3 tid="t7" type="DATE" value="2012-SU">next summer</TIMEX3> is when we 'd start selling gas on a well - by - well basis , '' said Cuadrilla Resources Chief Executive Mark Miller .
+Fracking work -- an exploration method used to retrieve gas trapped in rock formations by injecting high - pressure water , sand and chemicals -- at the site in the Bowland Basin was suspended in <TIMEX3 tid="t11" type="DATE" value="2011-06">June</TIMEX3> after scientists measured two earth tremors in the area .
+But Miller is confident the government will allow his company to continue operations after reviewing a report into the incidents due to be submitted to the energy ministry -LRB- DECC
+-RRB- <TIMEX3 tid="t13" type="DATE" value="2011-10" mod="START">early next month</TIMEX3> .
+` ` I am convinced that when the report is out the public , DECC and the regulatory authorities will look at that and be confident we can carry forward our fracking operations without any issues , '' Miller said .
+Countries like France have adopted a harsh stance against shale gas on grounds that it damages the environment and banned all exploration work .
+The UK government has not made any comments about banning the technology and a parliamentary report in <TIMEX3 tid="t14" type="DATE" value="2011-05">May</TIMEX3> said there was no need to impose a moratorium on conventional gas drilling .
+Within <TIMEX3 tid="t16" type="DURATION" value="P6M">six</TIMEX3> to <TIMEX3 tid="t15" type="DURATION" value="P8M">eight months</TIMEX3> Cuadrilla Resources will have carried out further tests to estimate how much of the vast reserves it can recover .
+The company 's high - end case foresees drilling 800 wells <TIMEX3 tid="t18" type="DURATION" value="P16Y" mod="MORE_THAN">over 16 years</TIMEX3> and hopes for a 20 percent recovery margin per well , Miller said .
+Cuadrilla Resources has a five - year licence until <TIMEX3 tid="t19" type="DATE" value="2013">2013</TIMEX3> to explore for gas in the Bowland Basin and will decide <TIMEX3 tid="t20" type="DATE" value="2012-SU">next summer</TIMEX3> whether to apply for a production licence .
+The firm estimates its business could generate 5 - 6 billion pounds in tax revenue for the government <TIMEX3 tid="t23" type="DURATION" value="P30Y" mod="MORE_THAN">over 30 years</TIMEX3> and 120 million pounds in income for local councils .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

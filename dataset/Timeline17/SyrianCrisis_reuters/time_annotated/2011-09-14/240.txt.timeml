@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+AMMAN | We d <TIMEX3 tid="t3" type="DATE" value="2011-09-14">Sep 14 , 2011</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2011-09-14T10:21">10:21 am</TIMEX3> EDT
+AMMAN -LRB-
+Reuters -RRB- - From his window on the corniche of Syria 's Mediterranean port city of Tartous , an international shipper bemoans the change since a popular uprising <TIMEX3 tid="t2" type="DATE" value="2011-03">six months ago</TIMEX3> engulfed the country and dealt a heavy blow to its economy .
+` ` At night , ship lights made Tartous extend into a city on the sea ; <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">now</TIMEX3> it 's like a small village .
+The port 's sealine was full of vessels -- <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">now</TIMEX3> the berths are nearly empty , '' said the shipper , who opened an agency in Tartous to cash in on a boom in traffic after the Iraq war wound down .
+Street protests demanding the removal of Syria 's President Bashar al - Assad , many of them bloodily suppressed , have shrunk traffic at the country 's ports and damaged its hopes of capitalizing on its position as a Middle East crossroads to grab a bigger share of transit business .
+The exact extent to Syria 's economy is being hurt by the unrest and resulting international sanctions is not clear ; official data is scarce .
+But many analysts expect gross domestic product to decline <TIMEX3 tid="t9" type="DATE" value="2011">this year</TIMEX3> , perhaps by several percent or more .
+At <TIMEX3 tid="t11" type="DATE" value="2011" mod="START">the start of this year</TIMEX3> , the International Monetary Fund predicted it would grow 3 percent .
+Shippers and businessmen say exports have dropped as foreign customers have cut orders , while Syrian importers have delayed orders because of the uncertainty .
+Meanwhile , companies which used Syria as a conduit to conduct trade with other countries in the region are seeking different routes .
+Syria 's principal port of Latakia , where the military deployed <TIMEX3 tid="t12" type="DATE" value="2011-06">three months ago</TIMEX3> , has been hit hard along with Tartous .
+` ` Even the Mediterranean cruise liners that came to Latakia and Tartous , and had hundreds of Italian and Spanish tourists , have not come <TIMEX3 tid="t14" type="DATE" value="2011">this year</TIMEX3> , '' said the international shipper , who did not want to be named because of the sensitivity of the issue .
+Shipping sources say traffic in general cargoes , dry and liquid bulk cargoes , and containers at Latakia and Tartous has been slipping since the uprising broke out in <TIMEX3 tid="t15" type="DATE" value="2011-03">March</TIMEX3> .
+They estimate volumes shrank an average 35 to 40 percent from <TIMEX3 tid="t18" type="DATE" value="2010-03">a year earlier</TIMEX3> in the first <TIMEX3 tid="t20" type="DURATION" value="P8M">eight months</TIMEX3> of <TIMEX3 tid="t16" type="DATE" value="2011">2011</TIMEX3> .
+` ` Importers and exporters are being very cautious , and that has led to imports of raw materials falling sharply as production slows down in many industries due to the troubles , '' a Syrian transportation official , who requested anonymity , told Reuters from Damascus .
+Shipping agents and industry experts said container volumes , the vast majority of which are handled by Latakia , dropped in <TIMEX3 tid="t22" type="DATE" value="2011-06">June</TIMEX3> alone by 36 percent from <TIMEX3 tid="t24" type="DATE" value="2010-06">a year earlier</TIMEX3> to 33,527 twenty - foot equivalent units -LRB- TEU -RRB- .
+Official Latakia port figures for the <TIMEX3 tid="t27" type="DATE" value="2012-04">April</TIMEX3> - <TIMEX3 tid="t28" type="DATE" value="2012-06">June</TIMEX3> period show a drop of 16 percent from <TIMEX3 tid="t30" type="DATE" value="2011-06">a year earlier</TIMEX3> , but industry sources said this data was misleading because it included many containers with empty space .
+In Tartous , which handles most of Syria 's bulk cargoes , or nearly 9 million tonnes of annual traffic in normal times , shipping sources said some European operators were avoiding the port after the European Union announced sanctions on Syrian oil exports at <TIMEX3 tid="t34" type="DATE" value="2011-09" mod="START">the start of September</TIMEX3> .
+They said they were also seeing less business from Iraqi and other Arab traders who were deterred by the increasing checkpoints and roadblocks in many parts of Syria .
+` ` We had 25 to 30 vessels daily arriving .
+This has dropped to between 10 to five daily , '' said a major shipping agent based in Tartous , referring to vessels between 8,000 and 35,000 tonnes .
+So far , major regular shipping lines such as Danish firm Maersk , French - based CMA CGM , Geneva - based MSC , and Germany 's Hamburg Sud have largely maintained normal vessel calls to Syrian ports despite lower cargo volumes , industry sources said .
+Shipping agents say the companies are reluctant to pull out of a transit market that has served the whole region and still has great long - term potential because of its location .
+` ` No major regular shipping lines are quitting at the moment .
+Once they withdraw from any service , it 's very hard to restore , '' said Talal Halawani , a shipper whose Amman - based Liberty Shipping is an agent of a leading Italian line .
+` ` Although they are suffering because cargo is not like before , they are still operating normally despite all the constraints .
+It 's a wait - and - see attitude . ''
+But other regional companies with no regular services have less ability to sustain losses , and they have omitted port calls or canceled visits to Syrian ports altogether .
+` ` Liners that made container ship calls <TIMEX3 tid="t36" type="SET" value="P1M" freq="4">four times a month</TIMEX3> are <TIMEX3 tid="t35" type="DATE" value="PRESENT_REF">now</TIMEX3> calling <TIMEX3 tid="t37" type="SET" value="P1M" freq="3">three times a month</TIMEX3> .
+Some regional liners , including one or two Turkish liners , have even dropped port calls altogether , '' said a second Syrian transportation official .
+Some shippers are seeking to offset the drop in their Syrian trade by offering more competitive rates for container slots in nearby Beirut , Mersin and Alexandria ports , which are in the same Europe - Mediterranean service .
+The turmoil has prompted many lines to suspend plans , some drawn up only <TIMEX3 tid="t42" type="DATE" value="PAST_REF">a few months ago</TIMEX3> , to add more container slots or introduce bigger vessels on Syrian port calls in anticipation of demand related to the reconstruction of Iraq .
+<TIMEX3 tid="t46" type="DURATION" value="P5Y" mod="MORE_THAN">Over the past five years</TIMEX3> , Syrian ports were able to boost their transit trade with Iraq , Jordan and the Arabian peninsula as Syria 's red tape and state controls , a legacy of <TIMEX3 tid="t45" type="DURATION" value="P5DE">five decades</TIMEX3> of Soviet - style economic management , were reduced .
+Latakia and Tartous were also revitalised by the award of contracts to manage their container terminals to foreign investors in partnership with local investors linked to the Assad family .
+The foreign investors -- CMA CGM in Latakia , and the Philippines ' International Container Terminal Services in Tartous -- upgraded the facilities and helped to nearly double the ports ' container traffic <TIMEX3 tid="t48" type="DATE" value="2010">last year</TIMEX3> to 620,000 TEU from around 365,000 TEU in <TIMEX3 tid="t47" type="DATE" value="2004">2004</TIMEX3> .
+Nearly 40 percent of Latakia 's total incoming cargo volume has been Iraq - bound , shippers and Syrian transportation officials say , while for Tartous the figure has been as high as 70 percent .
+Syrian ports ' flexibility and lower costs gave them a competitive advantage in Iraq - related business against Turkish and Lebanese ports and Jordan 's Aqaba .
+Lower land transport costs were also a plus , along with the ability to bypass Suez Canal fees paid by importers using Jordanian and Saudi ports on the Red Sea .
+<TIMEX3 tid="t50" type="DATE" value="PRESENT_REF">Now</TIMEX3> , Iraqi , Jordanian and Saudi Arabian importers , who have used Syrian ports in <TIMEX3 tid="t49" type="DATE" value="PAST_REF">recent years</TIMEX3> for bulk cargoes of wood , marble , steel and grains from the Black Sea area and North and Central Europe , are looking for alternatives .
+` ` We are getting increasing inquiries from local and Iraqi traders who want to bring their goods to Jordan by sea from Turkey or other markets .
+This business traditionally would go to Syrian ports .
+Even goods that would normally go by land via Syria are <TIMEX3 tid="t53" type="DATE" value="PRESENT_REF">now</TIMEX3> being shipped , '' said Captain Wahid Abu Ajamieh , general manager of CMA CGM Jordan .
+` ` This is an indication that something odd is happening . ''
+</TimeML>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+CAIRO | Tue <TIMEX3 tid="t2" type="DATE" value="2009-06-16">Jun 16 , 2009</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2009-06-16T10:20">10:20 am</TIMEX3> EDT CAIRO -LRB-
+Reuters -RRB- - Libyan authorities have reported an outbreak of bubonic plague in the Mediterranean coastal town of Tubruq , and the World Health Organization was sending a team to investigate , a WHO official said on <TIMEX3 tid="t4" type="DATE" value="2009-06-16">Tuesday</TIMEX3> .
+The cases -- approximately 16 to 18 have been reported -- would be the first in <TIMEX3 tid="t6" type="DURATION" value="P2DE" mod="MORE_THAN">more than two decades</TIMEX3> in Libya of the disease known in medieval times as the Black Death , according to John Jabbour , a Cairo - based emerging diseases specialist at WHO .
+` ` It is reported as bubonic plague , '' Jabbour said , adding WHO still did n't have ` ` a full picture '' of the situation .
+` ` It is officially reported by Libya ...
+<TIMEX3 tid="t7" type="DATE" value="2009-06-17">Tomorrow</TIMEX3> , WHO is deploying a mission to Libya to investigate the whole situation , to see how many of the cases are confirmed , or not confirmed . ''
+He said preliminary information from Libyan authorities showed 16 to 18 reported cases including one death , and that Tripoli had asked for assistance from the global health body .
+Bubonic plague , noticeable by black bumps that sometimes develop on victims ' bodies , causes severe vomiting and fever and still kills around 100 to 200 people <TIMEX3 tid="t8" type="SET" value="XXXX">annually</TIMEX3> worldwide .
+It can kill within days if not treated with antibiotics .
+A plague epidemic of <TIMEX3 tid="t9" type="DATE" value="1347">1347</TIMEX3> to <TIMEX3 tid="t10" type="DATE" value="1351">1351</TIMEX3> was one of the deadliest recorded in human history , killing about 75 million people , according to some estimates , including more than a third of Europe 's population .
+That pandemic was thought to have begun in Asia , then spread into the Middle East , Africa and Europe .
+Tubruq , where the new cases were reported , is approximately 125 km from the Egyptian border and was the scene of previous plague cases decades ago , Jabbour said .
+Egypt , already fighting to contain an outbreak of the H1N1 flu virus , said it had no reported cases of plague .
+Rodents carry plague , which is virtually impossible to wipe out and moves through the animal world as a constant threat to humans .
+Globally the World Health Organization reports about 1,000 to 3,000 plague cases <TIMEX3 tid="t11" type="SET" value="P1Y" quant="EACH">each year</TIMEX3> , with most in <TIMEX3 tid="t13" type="DURATION" value="P5Y">the last five years</TIMEX3> occurring in Madagascar , Tanzania , Mozambique , Malawi , Uganda and the Democratic Republic of Congo .
+The United States sees about 10 to 20 cases <TIMEX3 tid="t14" type="SET" value="P1Y" quant="EACH">each year</TIMEX3> .
+-LRB-
+Reporting by Cynthia Johnston ; Editing by Matthew Jones -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

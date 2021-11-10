@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Mike O'Berry , US Coast Guard : ` ` We 'll search until all likelihood of success has passed ''
+The US Coast Guard says that no oil appears to be leaking from a rig that sank off Louisiana on <TIMEX3 tid="t1" type="DATE" value="2010-04-22">Thursday</TIMEX3> .
+Crews will continue to monitor the rig closely amid concerns over a possible environmental disaster .
+BP chief executive Tony Hayward vowed that the company would do everything in its power to contain any spills and limit the environmental impact .
+The Coast Guard is continuing its search for 11 missing workers , but hopes for their survival are dimming .
+Coast Guard Rear Adm Mary Landry told Associated Press news agency that there was no leak at either the water 's surface or the well head at the ocean floor .
+A visible sheen on the ocean 's surface is residual oil from <TIMEX3 tid="t3" type="TIME" value="2010-04-20TNI">Tuesday night</TIMEX3> 's explosion and the subsequent blaze .
+Fearing a major spill , BP PLC said on <TIMEX3 tid="t4" type="DATE" value="2010-04-23">Friday</TIMEX3> that it had ` ` activated an extensive oil spill response '' , which included a 32 - vessel clean - up flotilla and remotely controlled vehicles capable of assessing damage to the subsea well .
+In <TIMEX3 tid="t5" type="DATE" value="2009">2009</TIMEX3> , BP PLC was fined a record $ 87 m for failing to improve safety conditions following a massive explosion that killed 15 people at its Texas City refinery .
+But the US Mineral Management Services found no violations on the Deepwater Horizon rig when it carried out routine inspections in <TIMEX3 tid="t7" type="DATE" value="2010-02">February</TIMEX3> , <TIMEX3 tid="t8" type="DATE" value="2010-03">March</TIMEX3> and <TIMEX3 tid="t11" type="DATE" value="2010-04">April this year</TIMEX3> .
+Built in <TIMEX3 tid="t12" type="DATE" value="2001">2001</TIMEX3> by South Korea 's Hyundai Heavy Industries Shipyard Size : 396 ft -LRB- 120 m -RRB- long by 256 ft -LRB- 78 m -RRB- wide Designed to operate in water depths of up to 8,000 ft Should the rig leak , officials estimate that up to 336,000 gallons of oil <TIMEX3 tid="t14" type="DURATION" value="P1D">a day</TIMEX3> could be released .
+At that rate , it would take <TIMEX3 tid="t17" type="DURATION" value="P1M" mod="MORE_THAN">more than a month</TIMEX3> for a spill to reach levels of the Exxon Valdez disaster in Alaska in <TIMEX3 tid="t15" type="DATE" value="1989">1989</TIMEX3> .
+President Barack Obama said on <TIMEX3 tid="t19" type="DATE" value="2010-04-22">Thursday</TIMEX3> that the government was providing ` ` all assistance needed '' for both the rescue and clean up efforts in the troubled area .
+He described the crisis on the Deepwater Horizon , the BP leased rig , as his administration 's ` ` number one priority '' .
+The rig was carrying out exploratory drilling 84 km -LRB- 52 miles -RRB- south - east of the Louisiana port of Venice when the blast occurred .
+Seventeen workers were injured and taken for treatment , and more than 100 were evacuated .
+The rig had been burning for <TIMEX3 tid="t22" type="DURATION" value="PT36H">36 hours</TIMEX3> when it sank on <TIMEX3 tid="t20" type="DATE" value="2010-04-22">Thursday</TIMEX3> in 5,000 ft -LRB- 1,500 m -RRB- of water , despite efforts to control the flames .
+</TimeML>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Dr Conrad Murray faces <TIMEX3 tid="t2" type="DURATION" value="P4Y">four years</TIMEX3> in prison if convicted A US judge has delayed the involuntary manslaughter trial of Michael Jackson 's doctor , Conrad Murray , until <TIMEX3 tid="t1" type="DATE" value="2010-05">May</TIMEX3> to allow both sides more time to prepare .
+Dr Murray told the judge he accepted the delay , so long as it was ` ` not strung along over a long period of time '' .
+Opening statements , due to commence on <TIMEX3 tid="t5" type="DATE" value="2011-03-24">24 March</TIMEX3> , will <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">now</TIMEX3> begin on <TIMEX3 tid="t6" type="DATE" value="2011-05-09">9 May</TIMEX3> .
+Dr Murray denies illegally giving Jackson drugs which led to the singer 's death in <TIMEX3 tid="t10" type="DATE" value="2009-06">June 2009</TIMEX3> .
+Lawyers for both sides said they would be ready by the new trial date , after having more time to share information and receive reports from experts .
+Screening of prospective jurors will begin , as scheduled , on <TIMEX3 tid="t12" type="DATE" value="2011-03-24">24 March</TIMEX3> .
+Prosecutors claim Dr Murray gave Jackson a lethal dose of the anesthetic propofol , which is normally administered in hospital settings .
+Dr Murray 's lawyers have argued that the singer 's poor health contributed to his death .
+The doctor faces <TIMEX3 tid="t13" type="DURATION" value="P4Y" mod="EQUAL_OR_LESS">up to four years</TIMEX3> in prison if convicted .
+The pun - ancient artform , or the lowest form of wit ?
+</TimeML>

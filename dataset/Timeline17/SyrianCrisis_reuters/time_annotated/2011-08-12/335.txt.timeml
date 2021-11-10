@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+A gas nozzle is used to pump petrol at a station in New York <TIMEX3 tid="t3" type="DATE" value="2011-02-22">February 22 , 2011</TIMEX3> .
+LONDON | Fri <TIMEX3 tid="t7" type="DATE" value="2011-08-12">Aug 12 , 2011</TIMEX3> <TIMEX3 tid="t11" type="TIME" value="2011-08-12T15:55">3:55 pm</TIMEX3> BST LONDON -LRB- Reuters -RRB- -
+If history is any guide , another oil - induced recession may be just around the corner , at least for the United States and some of the other developed economies .
+Every time that the cost of oil relative to global economic output has hit <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">current</TIMEX3> levels -- and that 's even after sharp falls in spot prices <TIMEX3 tid="t12" type="DATE" value="2011-08">this month</TIMEX3> -- it has heralded a slump .
+And while economists and analysts say a serious slowdown can still be avoided , many add that unless oil and energy prices fall much further and -- most important -- stay down , the world economy could be in serious trouble .
+` ` We are in a danger area for the world economy , '' said Christophe Barret , global oil analyst at Credit Agricole .
+The warning signal flashing is what economists call the ` ` oil expense indicator '' : the share of oil expenses as a proportion of worldwide gross domestic product -LRB- GDP -RRB- -LRB- oil prices times oil consumption divided by world GDP -RRB- .
+Since <TIMEX3 tid="t16" type="DATE" value="1965">1965</TIMEX3> , this has averaged roughly 3 percent of GDP , and it has only exceeded 4.5 percent during three periods : in <TIMEX3 tid="t17" type="DATE" value="1974">1974</TIMEX3> , between <TIMEX3 tid="t18" type="DATE" value="1979">1979</TIMEX3> and <TIMEX3 tid="t19" type="DATE" value="1985">1985</TIMEX3> and in <TIMEX3 tid="t20" type="DATE" value="2008">2008</TIMEX3> .
+Each period has seen severe global recessions .
+In 1973\/74 , during the first global ` ` oil shock , '' oil prices rocketed after an Arab oil embargo in response to an Arab - Israeli war disrupted oil flows and triggered panic buying .
+In <TIMEX3 tid="t21" type="DATE" value="1979">1979</TIMEX3> , revolution in Iran knocked out much of the country 's oil output and was followed by a long Iran - Iraq war , bringing a second ` ` oil shock . ''
+In <TIMEX3 tid="t22" type="DATE" value="2008">2008</TIMEX3> , propelled by a housing bubble , speculative buying of new debt instruments and a commodities boom , oil prices exceeded $ 100 per barrel for the first time and soared to a record high above $ 147 , helping trigger financial crisis and the worst slump since World War II .
+This time , oil prices have soared following the loss of around 1.6 million barrels per day -LRB- bpd -RRB- of Libyan oil , uprisings across the Middle East and North Africa and rapid economic growth in China , India and other developing economies .
+Using the oil expense indicator , economists say Brent crude , the international oil benchmark , would need to be in the low $ <TIMEX3 tid="t25" type="DATE" value="199">90s</TIMEX3> per barrel to be under the 4.5 percent danger mark .
+In fact , Brent hit a two - and - a - half - year high of more than $ 127 per barrel in <TIMEX3 tid="t26" type="DATE" value="2011-04">April</TIMEX3> and , with the exception of an intra - day dip <TIMEX3 tid="t27" type="DATE" value="2011-08-09">Tuesday</TIMEX3> , has been over $ 100 for <TIMEX3 tid="t30" type="DURATION" value="P6M">six months</TIMEX3> .
+Even after a fall of more than $ 20 from its early - <TIMEX3 tid="t31" type="DATE" value="2011-08">August</TIMEX3> high on worries over a slowdown in the developed economies , Brent is still not far off $ 110 per barrel .
+Oil is a key global cost because it is crucial to every part of the economy , powering manufacturing and the production of food and other commodities , fuelling transport as well as being a building block for industries such as plastics and electronics .
+If it is too high for too long , the results are dramatic .
+` ` The last two times that energy as a share of global GDP neared ...
+the <TIMEX3 tid="t38" type="DATE" value="PRESENT_REF">current</TIMEX3> level , the world economy experienced severe crises : the double dip recession of <TIMEX3 tid="t37" type="DATE" value="198">the 1980s</TIMEX3> and the Great Recession of <TIMEX3 tid="t36" type="DATE" value="2008">2008</TIMEX3> , '' Merrill Lynch analysts led by Francisco Blanch said in a note to clients .
+Economists reinforce their warnings over the possibility of an impending slowdown with data showing that oil demand has begun to shrink in some countries in response to high prices .
+Oil data lags , but the latest U.S. figures , for <TIMEX3 tid="t39" type="DATE" value="2012-05">May</TIMEX3> , show a drop of 4.7 percent year - on - year in U.S. gasoline demand .
+Deutsche Bank analyst Adam Sieminski says he is concerned by a trend towards lower U.S. oil demand evident since <TIMEX3 tid="t43" type="DATE" value="2010-SU">last summer</TIMEX3> : ` ` The last time U.S. oil demand was falling was in <TIMEX3 tid="t40" type="DATE" value="2007">2007</TIMEX3> and <TIMEX3 tid="t42" type="DATE" value="2008" mod="START">early 2008</TIMEX3> , '' Sieminski said in a note written with analyst Michael Lewis .
+` ` This was a leading indicator of the economic troubles that would hit the U.S. in <TIMEX3 tid="t46" type="DATE" value="2008" mod="MID">the middle of 2008</TIMEX3> . ''
+Analysts differ on exactly how high oil prices need to be and how long they need to stay up before they slow growth .
+Some economists argue the impact of oil prices has been exaggerated , and others note that not all recessions are caused by oil , such as slowdowns in <TIMEX3 tid="t48" type="DATE" value="199" mod="START">the early 1990s</TIMEX3> and again <TIMEX3 tid="t49" type="DATE" value="200">a decade later</TIMEX3> .
+But most economists argue there is a level at which fuel input costs become incompatible with continuing economic growth .
+James Zhang , an analyst at Standard Bank , says the danger level comes with the oil expense indicator at around 5 percent : ` ` $ 100 per barrel represents about 5 percent for the ` oil expense indicator ' , which we think would be a threshold on an annual average level to potentially kill off global growth , '' he said .
+` ` Absent any shocks , I do n't believe an oil price , say in the range of $ 100 to $ 130 , will necessary bring a recession itself , but a slower growth is almost ensured -- another sharp jump in oil prices could act as a shock , '' Zhang said .
+Barret said record high oil and commodity prices were putting unsustainable pressure on household expenditure , and while he like other economists is reluctant to predict recession , he thinks the warnings should be heeded : ` ` There is still a chance that oil prices will go down very significantly , and that could be a strong support to the economy .
+
+But if prices stay near $ 110 per barrel until the end of the year , we will have a major problem by <TIMEX3 tid="t56" type="DATE" value="2012" mod="START">the start of 2012</TIMEX3> , '' he said .
+` ` We either get sharply lower prices or a recession that will bring down prices .
+Either way , oil prices must come down . ''
+</TimeML>

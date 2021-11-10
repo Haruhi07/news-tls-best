@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Some 38 countries have reported 8453 cases of the disease India and Turkey have recorded their first cases of swine flu , giving further evidence that the disease is spreading .
+In both countries the H1N1 virus was detected following the screening of passengers arriving at airports .
+Meanwhile , health officials in Japan have identified the first domestic case of the disease in a 17 - year - old student in the western port city of Kobe .
+Two others are thought to be infected .
+None had been overseas <TIMEX3 tid="t1" type="DATE" value="PAST_REF">recently</TIMEX3> .
+Some 39 countries have reported 8,453 cases of the virus , a rise of nearly 1,000 in <TIMEX3 tid="t5" type="DURATION" value="P1D">24 hours</TIMEX3> .
+At least 72 people have died of the virus , the World Health Organization says .
+In <TIMEX3 tid="t6" type="DATE" value="2009-W19">the past week</TIMEX3> the number of people infected by the virus has risen sharply with the US , followed by Mexico , where the epidemic began , recording the highest number of cases .
+</TimeML>

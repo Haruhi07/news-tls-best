@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON | Thu <TIMEX3 tid="t3" type="DATE" value="2011-05-19">May 19 , 2011</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2011-05-19T11:32">11:32 am</TIMEX3> EDT LONDON -LRB- Reuters -RRB- -
+The European Union is considering tightening sanctions on the government of Libyan leader Muammar Gaddafi by blacklisting ports to prevent exports of oil and imports of fuel , a Western diplomatic source told Reuters .
+The source said European Union experts have reached an agreement over putting the Libyan ports of Tripoli , Zuara , Zawiyah , Al - Khoms , Ras Lanuf and Brega on the sanctions list and proposals could be submitted to the EU sanctions committee <TIMEX3 tid="t6" type="DATE" value="2011-W21">next week</TIMEX3> .
+Gaddafi 's government is seeking to raise fuel imports by using a loophole in international sanctions after <TIMEX3 tid="t7" type="DURATION" value="P2M">two months</TIMEX3> of western air strikes against Libya . .
+Civil war has crippled the refining industry and Gaddafi urgently needs fuel imports for his military and to keep civilian vehicles running in the areas he controls .
+` ` West Libya 's supply of refined products is still sufficient .
+Western powers want a lot more control over supplies to Libya , '' the source said .
+` ` The concern is that a stalemate will ensue in the war . ''
+The discussions will likely take place at the level of the EU sanctions committee <TIMEX3 tid="t10" type="DATE" value="2011-W21">next week</TIMEX3> and could become law by <TIMEX3 tid="t9" type="DATE" value="2011-06" mod="START">early June</TIMEX3> if it is successful , he said .
+The discussions may also involve the Libyan state - owned shipping company General National Maritime Transport Company -LRB- GNMTC -RRB- which is not on the sanctions list and has managed to bring at least one fuel cargo into west Libya .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

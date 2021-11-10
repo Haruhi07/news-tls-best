@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t3" type="DATE" value="2010-07-13">13 July 2010</TIMEX3> Last updated at 09:43 GMT Help BP has installed a new sealing cap on the leaking Gulf of Mexico oil well , company officials say .
+It is hoped the new cap will stop the leak and capture the oil before more of it can pour into the sea but it could be another <TIMEX3 tid="t6" type="DURATION" value="P2D">two days</TIMEX3> before BP know whether the latest attempt is successful .
+The explosion of the Deepwater Horizon rig in <TIMEX3 tid="t7" type="DATE" value="2010-04">April</TIMEX3> killed 11 people .
+</TimeML>

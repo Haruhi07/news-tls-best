@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Too bad the U.S. Centers for Disease Control and Prevention -LRB- CDC -RRB- does n't charge for its information or make money off its website -- they could have made a pile of cash on the swine flu scare .
+-LRB-
+You know , if it was n't a government site .
+-RRB- Web traffic measurement firm comScore says traffic soared at CDC .
+gov <TIMEX3 tid="t1" type="DATE" value="2009-04">last month</TIMEX3> , as people visited the website amid concerns over the H1N1 , or swine , flu .
+In <TIMEX3 tid="t2" type="DATE" value="2009-04">April</TIMEX3> , CDC .
+gov saw a 142 percent increase in traffic , or 5.7 million visitors , making it the top audience gainer among websites , comScore said .
+` ` When news of the swine flu pandemic erupted , many Americans turned to the Internet as their primary source of information for how to keep themselves and their families safe , '' said Jack Flanagan , executive vice president at comScore Media Metrix .
+Social networks also continued their tear <TIMEX3 tid="t3" type="DATE" value="2009-04">last month</TIMEX3> , growing 12 percent to nearly 140 million visitors .
+That 's about three - quarters of the U.S. online population , comScore says , so chances are someone you know is either is Twittering , Facebook - ing or on MySpace .
+Twitter jumped 83 percent to 17 million visitors , while Facebook grew 10 percent in <TIMEX3 tid="t4" type="DATE" value="2009-04">April</TIMEX3> from <TIMEX3 tid="t5" type="DATE" value="2009-04">the previous month</TIMEX3> to reach 67.5 million visitors .
+MySpace had 71 million visitors .
+Will The Boston Globe 's biggest union balk at the New York Times Co offer ?
+-LRB-
+The Boston Phoenix -RRB- Web entrepreneurs may no longer need venture capital dollars -LRB-
+The New York Times Bits blog -RRB-
+MGM scrambles to restructure its $ 3.7 billion debt pile -LRB- Financial Times -RRB-
+First they were blamed for the swine flu that caused a worldwide stir after it was discovered in Mexico -- and <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">now</TIMEX3> everyone 's likening them to Members of Parliament with their snouts in the trough .
+
+But look at the facts .
+The genetic make - up of the virus may have been predominantly porcine
+but the pigs themselves did n't have it .
+Even at the supposed epicentre of the outbreak in Mexico they showed no symptoms -- things reached such a state that owners of some pig farms in the US were stopping humans coming near them in case they infected their animals .
+The pigs were innocent OK ?
+
+And yet the name ` ` swine flu '' stuck , lots of people stopped eating pork and in Egypt they were even culled .
+Use Twitter 's name even when you 're dissing it : that could be a good way to ensure some publicity , given the hype around everyone 's <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">current</TIMEX3> sweetheart .
+
+But maybe Scribd , the social publishing startup that lets you upload all kinds of documents online and embed them into blog posts , does have a point about the misinformation that Twitterers could be putting up in <TIMEX3 tid="t14" type="DATE" value="0140">140</TIMEX3> - character bursts .
+After all , at the Society of American Business Editors and Writers -LRB- SABEW -RRB- conference <TIMEX3 tid="t15" type="DATE" value="2009-W19">last week</TIMEX3> , CUNY J - school professor Sandeep Junnarkar did begin his workshop on Twitter for journalists with a caveat : ` ` Everything you find on Twitter is rumors , false information .
+That 's the default position . ''
+Kind of like what journalists and students are always told about Wikipedia .
+A press release that landed in my inbox from Scribd seeks to distinguish the San Francisco - based startup as ` ` anti - Twitter '' -- the antithesis of Twitter .
+Scribd is ` ` quickly becoming a trusted source for unfiltered , detailed information about the swine flu , '' the release says .
+Facebook has been mapping swine flu discussions among its members for <TIMEX3 tid="t17" type="DURATION" value="PXD">the past few days</TIMEX3> using its Lexicon application , and it 's pretty cool to see how the conversation on Wall posts shot up over <TIMEX3 tid="t16" type="DATE" value="2009-W19-WE">the weekend</TIMEX3> as more and more cases of the disease came to light in the United States .
+Lexicon , for those who do n't have to follow Facebook 's every move , is a tool the social networking site uses to follow trends on words and phrases that are being used on ` ` Walls , '' the open space on each member 's profile where friends can post comments .
+Kind of like how you can take the pulse of topics trending up or down in Twitter search .
+The chart below , courtesy of Facebook , shows how there were no mentions of the term ` ` swine flu '' before <TIMEX3 tid="t20" type="TIME" value="2010-04-23TEV">the evening of April 23</TIMEX3> on any of its 200 million members ' walls , but people start discussing it quite a bit <TIMEX3 tid="t22" type="DURATION" value="P2D" mod="MORE_THAN">over the next two days</TIMEX3> , causing a sharp upward spike .
+</TimeML>

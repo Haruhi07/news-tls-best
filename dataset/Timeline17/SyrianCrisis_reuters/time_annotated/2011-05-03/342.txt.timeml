@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON | Tue <TIMEX3 tid="t3" type="DATE" value="2011-05-03">May 3 , 2011</TIMEX3> <TIMEX3 tid="t6" type="TIME" value="2011-05-03T10:51">10:51 am</TIMEX3> BST LONDON -LRB-
+Reuters -RRB- -
+It was back to the day job for Prince William on <TIMEX3 tid="t5" type="DATE" value="2011-05-03">Tuesday</TIMEX3> , <TIMEX3 tid="t7" type="DURATION" value="P4D">four days</TIMEX3> after he married long - term girlfriend Kate Middleton in a royal wedding watched by hundreds of millions of people around the world .
+The 28 - year - old returned to his Royal Air Force -LRB- RAF -RRB- base in Anglesey , Wales , in time to resume his job as a search and rescue pilot , after a short break at a secret location .
+The couple have delayed announcing their overseas honeymoon , which they had been expected to reveal on <TIMEX3 tid="t8" type="DATE" value="2011-04-30">Saturday</TIMEX3> , the day after their wedding .
+` ` He will return to work , '' said a spokesman for the Ministry of Defense .
+` ` It is a normal working day . ''
+Media estimates put the global audience for the wedding at between several hundred million and 2.4 billion , helped by extensive international broadcast coverage and live streaming of the event on YouTube .
+Around one million people lined the streets of central London to share in the show of royal pomp and pageantry laid on for the biggest royal wedding since William 's parents Prince Charles and Diana married in <TIMEX3 tid="t9" type="DATE" value="1981">1981</TIMEX3> .
+Speculation about where William and Middleton , 29 , would spend their honeymoon has been rife , with Kenya and the Caribbean seen as possible destinations .
+The couple are <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">now</TIMEX3> officially known as the Duke and Duchess of Cambridge .
+-LRB-
+Reporting by Mike Collett - White , editing by Paul Casciato -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+HOUSTON | We d <TIMEX3 tid="t2" type="DATE" value="2010-11-24">Nov 24 , 2010</TIMEX3> <TIMEX3 tid="t6" type="TIME" value="2010-11-24T13:53">1:53 pm</TIMEX3> EST
+HOUSTON -LRB- Reuters -RRB- -
+The administrator of BP Plc 's $ 20 - billion fund for victims of the worst U.S. offshore oil spill on <TIMEX3 tid="t4" type="DATE" value="2010-11-24">Wednesday</TIMEX3> encouraged claimants to file early for final settlements to get the most generous terms .
+` ` I am determined to be more generous than the courts would be ... '' said Kenneth Feinberg of the Gulf Coast Claims Facility on a conference call as the program stopped taking emergency claims and started work on final settlements .
+He warned that Gulf Coast people and businesses who decline to settle and refuse to give BP and its contractors a release from future risk of lawsuits might end up getting less money .
+` ` There is no guarantee that , in the future , a lump sum final payment will be as generous as it will be <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">currently</TIMEX3> , '' Feinberg said .
+The <TIMEX3 tid="t9" type="DATE" value="2010-04-20">April 20</TIMEX3> blowout of BP 's Macondo well while it was being drilled in the Gulf of Mexico off the coast of Louisiana killed 11 rig workers and spewed more than 4 million barrels of oil , closing fisheries and stunting tourism from Louisiana to Florida .
+After the emergency claims filing period ended <TIMEX3 tid="t10" type="DATE" value="2010-11-23">Tuesday</TIMEX3> , Feinberg outlined a final settlement process starting <TIMEX3 tid="t11" type="DATE" value="2010-11-24">Wednesday</TIMEX3> that gives claimants two options .
+They can accept a lump sum final payment in exchange for releasing BP and its contractors from future liability .
+Or they can continue to receive interim payments in hopes of a bigger final payment in the future .
+Interim payments to claimants who filed by <TIMEX3 tid="t12" type="DATE" value="2010-11-23">Tuesday</TIMEX3> could continue on a quarterly basis for as long as <TIMEX3 tid="t13" type="DURATION" value="P3Y">three years</TIMEX3> , the planned life of the fund , while they await final resolution .
+Claimants also have the option to appeal inside the program .
+A process allows claimants and BP limited opportunities to challenge the fund 's decisions .
+A three - judge panel will handle appeals , Feinberg said .
+Those who elect not to settle have the right to go outside the claims payment program and appeal to the U.S. Coast Guard and the U.S. federal courts , Feinberg said .
+Critics , who note that BP hired Feinberg , have questioned the speed and fairness of compensation and the fairness of demanding that claimants promise never to sue BP or its contractors before they can get a final settlement .
+` ` Until we finish our negotiations with Mr. Feinberg , I advise claimants against signing a release or accepting a final payment without first consulting an attorney , '' Mississippi Attorney General Jim Hood said in a statement .
+Feinberg said final settlements <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">now</TIMEX3> will be more generous to cover possible future losses .
+He also said he is listening to critics , has made adjustments and expects to make more changes as the process evolves .
+` ` I plan to deal with the problem , '' Feinberg said .
+` ` There 's going to be inconsistencies .
+There 's going to be mistakes .
+
+And I plan to address those mistakes . ''
+Feinberg declined to estimate how many people will seek final settlements through the process .
+Some 7,000 already have filed final claims , he said .
+BP paid hundreds of millions of dollars to victims before the fund , set up after meetings with President Barack Obama , began operation in <TIMEX3 tid="t15" type="DATE" value="2010-08">August</TIMEX3> .
+The spill was halted in <TIMEX3 tid="t16" type="DATE" value="2010-07">July</TIMEX3> and the well permanently capped in <TIMEX3 tid="t17" type="DATE" value="2010-09">September</TIMEX3> .
+Since it began , the fund has made $ 2 billion in emergency payments to 125,000 claimants , and the final emergency tally probably will reach $ 2.3 billion to 175,000 individuals and businesses , Feinberg said .
+More than 400,000 claims have been filed , including a <TIMEX3 tid="t20" type="DATE" value="PAST_REF">recent</TIMEX3> surge of emergency claims that could take until mid - <TIMEX3 tid="t19" type="DATE" value="2009-12">December</TIMEX3> to clear before his staff can turn to final settlements , Feinberg said .
+The fund is privately operated , but is intended to comply with the Oil Pollution Act of <TIMEX3 tid="t21" type="DATE" value="1990">1990</TIMEX3> , which requires responsible parties to compensate victims of spills .
+-LRB-
+Reporting by Bruce Nichols .
+Additional reporting by Anna Driver .
+Editing by Robert MacMillan -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

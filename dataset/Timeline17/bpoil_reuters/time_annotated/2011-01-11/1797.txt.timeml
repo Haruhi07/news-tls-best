@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Tue <TIMEX3 tid="t2" type="DATE" value="2011-01-11">Jan 11 , 2011</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2011-01-11T16:17">4:17 pm</TIMEX3> EST <TIMEX3 tid="t4" type="DATE" value="2011-01-11">Jan 11</TIMEX3> -LRB- Reuters -RRB- -
+The BP -LRB- BP .
+L -RRB- -LRB- BP .
+N -RRB- oil spill in the Gulf of Mexico killed 11 workers and unleashed the worst offshore oil spill in U.S. history .
+<TIMEX3 tid="t8" type="DATE" value="2010-04-20">April 20 , 2010</TIMEX3> - Explosion and fire on BP 's Deepwater Horizon drilling rig kills 11 workers .
+The rig , owned by Transocean Ltd and licensed to BP -LRB- BP .
+L -RRB- -LRB- BP .
+N -RRB- , was drilling 42 miles -LRB- 68 km -RRB- southeast of Venice , Louisiana , in 5,000 feet -LRB- 1,525 metres -RRB- of water .
+The well had reached 13,000 feet -LRB- 4,000 metres -RRB- under the seabed .
+<TIMEX3 tid="t11" type="DATE" value="2010-04-22">April 22</TIMEX3> -
+The rig , valued at more than $ 560 million , sinks and a 5 - mile -LRB- 8 - km -RRB- oil slick forms .
+<TIMEX3 tid="t14" type="DATE" value="2011-04-30">April 30</TIMEX3> - BP CEO Tony Hayward says the company takes full responsibility and will pay all legitimate claims and the cost of the cleanup .
+Analysts say containment and cleanup costs could top $ 3 billion .
+<TIMEX3 tid="t17" type="DATE" value="2011-05-10">May 10</TIMEX3> - BP says it has spent $ 350 million dealing with the leak .
+Analysts at Exane say it may have to take a $ 10 billion provision for the incident .
+Other analysts estimate the total cost between $ 5.1 billion and $ 8.2 billion .
+<TIMEX3 tid="t23" type="DATE" value="2011-05">May</TIMEX3> 11\/12 - Executives from BP , Transocean -LRB- RIG .
+N -RRB- and Halliburton -LRB- HAL .
+N -RRB- appear at congressional hearings in Washington .
+The executives blame each other 's companies .
+<TIMEX3 tid="t25" type="DATE" value="2011-06-09">June 9</TIMEX3> - U.S. Interior Secretary Ken Salazar says BP must pay the salaries of thousands of workers laid off because of the moratorium on deep - sea drilling .
+<TIMEX3 tid="t27" type="DATE" value="2011-06-16">June 16</TIMEX3> - Hayward and BP Chairman Carl - Henric Svanberg meet White House officials and announce a deal to set up a $ 20 billion fund for damage claims from the spill .
+BP also suspends dividend payments to shareholders ; says it will pay $ 100 million to workers idled by the six - month drilling moratorium .
+<TIMEX3 tid="t31" type="DATE" value="2010-06-22">June 22</TIMEX3> - Hayward hands day - to - day control of spill operations to managing director Bob Dudley , who had been CEO of BP 's Russian joint venture , TNK - BP .
+<TIMEX3 tid="t33" type="DATE" value="2011-06-25">June 25</TIMEX3> - BP says it has spent $ 2.35 billion on the response effort , including $ 126 million in claims to those affected by the disaster .
+<TIMEX3 tid="t36" type="DATE" value="2011-07-19">July 19</TIMEX3> - BP says it has spent $ 3.95 billion so far on efforts to tackle its well .
+<TIMEX3 tid="t38" type="DATE" value="2011-07-20">July 20</TIMEX3> - BP says it has reached a deal to sell $ 7 billion in assets to Apache Corp as it raises money to cover costs related to the spill .
+It later says it plans to sell assets worth up to $ 30 billion <TIMEX3 tid="t42" type="DURATION" value="P18M" mod="MORE_THAN">over 18 months</TIMEX3> .
+<TIMEX3 tid="t44" type="DATE" value="2011-07-27">July 27</TIMEX3> - BP names Bob Dudley as its next CEO .
+<TIMEX3 tid="t45" type="DATE" value="2011-08-02">Aug. 2</TIMEX3> - U.S. government data shows 4.9 million barrels of oil leaked before the well was capped .
+<TIMEX3 tid="t46" type="DATE" value="2011-09-16">Sept. 16</TIMEX3> - Relief well intercepts the Macondo well .
+<TIMEX3 tid="t47" type="DATE" value="2011-09-19">Sept. 19</TIMEX3> - With a final shot of cement , BP permanently ` ` kills '' the leaking well .
+<TIMEX3 tid="t48" type="DATE" value="2010-09-23">Sept. 23</TIMEX3> - Researchers put the spill at around 4.4 million barrels .
+The figure comes from the first independent study of the disaster .
+<TIMEX3 tid="t49" type="DATE" value="2010-09-26">Sept. 26</TIMEX3> - Halliburton , the oilfield services company that cemented the blown - out well , says a BP report laying the blame on the cement job offers a questionable account of events and ` ` erroneous conclusions . ''
+<TIMEX3 tid="t50" type="DATE" value="2011-10-04">Oct. 4</TIMEX3> - BP says it is to raise 2 billion euros -LRB- $ 2.7 billion -RRB- via a bond issue to help finance its $ 20 billion compensation fund .
+<TIMEX3 tid="t52" type="DATE" value="2010-10-26">Oct. 26</TIMEX3> - The Gulf Coast Claims Facility , created to compensate people and businesses , says it has paid $ 1.55 billion in claims since it took over the process from BP on <TIMEX3 tid="t53" type="DATE" value="2010-08-23">Aug. 23</TIMEX3> .
+<TIMEX3 tid="t54" type="DATE" value="2011-11-02">Nov. 2</TIMEX3> - BP increases its estimate of the likely cost of its Gulf of Mexico oil spill to $ 40 billion from $ 32 billion .
+<TIMEX3 tid="t57" type="DATE" value="2011-11-09">Nov. 9</TIMEX3> - Shares in BP rise after a U.S. presidential panel says it found no evidence that BP deliberately chose to cut corners to save costs .
+<TIMEX3 tid="t58" type="DATE" value="2011-11-24">Nov. 24</TIMEX3> - Kenneth Feinberg , administrator of BP 's fund for victims , encourages claimants to file early for final settlements to get the most generous terms .
+--
+The fund has made $ 2 billion in emergency payments to 125,000 claimants .
+The final amount is likely to reach $ 2.3 billion and compensate 175,000 individuals and businesses , Feinberg says .
+Around 400,000 claims have been filed .
+<TIMEX3 tid="t60" type="DATE" value="2011-12-15">Dec. 15</TIMEX3> - The Obama administration launches a legal battle against BP and its partners by suing them for the oil spill , which could cost the companies billions of dollars .
+--
+The lawsuit seeks damages from the well owners BP , Anadarko Petroleum Corp -LRB- APC .
+N -RRB- and Mitsui & Co Ltd unit MOEX , and well driller Transocean Ltd -LRB- RIGN .
+VX -RRB- and its insurer QBE Underwriting\/Lloyd 's Syndicate <TIMEX3 tid="t61" type="DATE" value="1036">1036</TIMEX3> , part of Lloyds of London , for their roles in the disaster .
+<TIMEX3 tid="t62" type="DATE" value="2011-12-28">Dec. 28</TIMEX3> - Kenneth Feinberg , administrator of BP 's victims fund , has paid $ 43 million to Gulf Coast resident who agree not to sue BP for damages .
+To date , the fund has paid $ 2.6 billion to 467,889 claimants .
+<TIMEX3 tid="t64" type="DATE" value="2011-01-05">Jan. 5</TIMEX3> - BP and its partners made a series of cost - cutting decisions that ultimately contributed to an oil spill , the White House oil spill commission says in its final report on the causes of the largest offshore oil spill in U.S. history .
+--
+The commission says BP and its collaborators lacked a system to ensure their actions were safe .
+<TIMEX3 tid="t65" type="DATE" value="2011-01-11">Jan. 11</TIMEX3> - The White House oil spill commission , in its final report of the BP drilling disaster , says the U.S. government needs to expand its drilling regulations , as well as set up an independent drilling safety agency , because the regulatory system was unprepared for the disaster .
+--
+Most of the recommendations require approval from the U.S. Congress , which will be difficult as Republican lawmakers fear extensive new regulations would slow oil drilling .
+Oil companies expressed similar concerns , saying hampering offshore production with burdensome rules would drive up oil prices .
+</TimeML>

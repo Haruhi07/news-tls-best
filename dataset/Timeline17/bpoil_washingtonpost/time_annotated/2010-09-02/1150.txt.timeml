@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t5" type="DATE" value="2010-09-02">Thursday</TIMEX3> , <TIMEX3 tid="t3" type="DATE" value="2010-09-02">September 2 , 2010</TIMEX3> ; <TIMEX3 tid="t8" type="TIME" value="2010-09-02T23:48">11:48 PM</TIMEX3> An oil and gas production platform in the Gulf of Mexico caught fire <TIMEX3 tid="t7" type="TIME" value="2010-09-02TMO">Thursday morning</TIMEX3> , reigniting the political debate over the safety of offshore wells .
+The fire began near an oil storage tank on top of the platform about 80 miles south of Vermilion Bay , La. , while 13 workers were painting and water - blasting , forcing them to evacuate as flames engulfed the facility , according to Mariner Energy , the platform operator .
+A dozen of the workers were able to don brightly colored survival gear known as ` ` Gumby suits . ''
+Clinging together in the water for <TIMEX3 tid="t9" type="DURATION" value="PT2H">two hours</TIMEX3> , they drifted about a mile before they were rescued by the Crystal Clear , a supply vessel that rushed over from a rig about 25 miles away .
+The blaze was extinguished in the late afternoon .
+It did not appear that the fire triggered a crude oil leak like the one that occurred after the <TIMEX3 tid="t11" type="DATE" value="2010-04-20">April 20</TIMEX3> blowout of BP 's Macondo well .
+That blowout , about 200 miles east of the Mariner platform , caused the worst oil spill in U.S. history and has forced BP to set aside billions to clean up the environmental damage and compensate gulf businesses and residents .
+A Coast Guard official initially said that Mariner Energy , which has a history of fires and safety violations , reported an oil sheen 100 feet wide and a mile long .
+
+But Patrick Cassidy , director of investor relations for the company , later said that automated equipment on the platform had shut down its seven producing wells and that ` ` in an initial flyover of the facility , no oil sheen was seen on the water . ''
+Over <TIMEX3 tid="t12" type="DATE" value="2010-W34">the past week</TIMEX3> , the platform , in the Vermilion block 380 , had been producing 1,400 barrels <TIMEX3 tid="t15" type="DURATION" value="P1D">a day</TIMEX3> of crude oil and 9.2 million cubic feet <TIMEX3 tid="t16" type="DURATION" value="P1D">a day</TIMEX3> of natural gas .
+Nonetheless , with the Gulf Coast still reeling from the massive BP spill , the fire brought new calls for tougher regulation just as the oil industry and the White House were hoping that public concerns would abate .
+House Energy and Commerce Chairman Henry A. Waxman -LRB- Calif.
+-RRB- and two other top Democrats on the committee sent a letter to Mariner Energy chief executive Scott D. Josey demanding a briefing by <TIMEX3 tid="t17" type="DATE" value="2010-09-10">Sept. 10</TIMEX3> .
+Rep. Edward J. Markey -LRB-
+D - Mass .
+-RRB- issued a statement saying the incident shows ` ` that much is left to be done to keep America 's workers and waters safe from those risks . ''
+The Mariner Energy fire also occurred as the oil industry has been battling to stop tougher regulations in the wake of the BP accident .
+The American Petroleum Institute is planning to hold rallies nationwide <TIMEX3 tid="t18" type="DATE" value="2010-W36">next week</TIMEX3> to urge the Obama administration to lift its moratorium on deep - water drilling and to pressure Congress to back away from new tax and liability measures .
+Oil industry executives stressed the differences between the new incident and the BP blowout , but the differences also underline the magnitude of regulating the industry .
+The blowout that sank the Deepwater Horizon drilling rig on <TIMEX3 tid="t20" type="DATE" value="2010-04-20">April 20</TIMEX3> occurred at the bottom of an exploration well in water a mile deep .
+<TIMEX3 tid="t21" type="DATE" value="2010-09-02">Thursday</TIMEX3> 's fire began on top of a production platform in about 320 feet of water .
+There are just under three dozen deep - water exploration rigs in the Gulf of Mexico but thousands of shallow - water production wells .
+The timing of the fire overshadowed positive developments on <TIMEX3 tid="t22" type="DATE" value="2010-09-02">Thursday</TIMEX3> related to the BP spill .
+The National Oceanic and Atmospheric Administration reopened 5,130 square miles of fisheries .
+NOAA administrator Jane Lubchenco said it was ` ` another signal to tourists that the northern gulf is open for business . ''
+Separately , BP removed the capping stack on the Macondo well , a prerequisite for retrieving the blowout preventer that failed .
+Like the BP well , the Mariner Energy platform was staffed almost exclusively by workers from oil service firms .
+Mariner 's Cassidy said that only one of the 13 was a Mariner employee .
+Unlike BP , Mariner is a relatively small , independent oil and gas company .
+Once part of Enron , it was caught up in the financial scandal that sent Enron into bankruptcy in <TIMEX3 tid="t23" type="DATE" value="2001">2001</TIMEX3> .
+A group of private equity firms led by Acon , a firm with offices in Washington , bought Mariner in <TIMEX3 tid="t26" type="DATE" value="2004-03">March 2004</TIMEX3> and took it public later .
+The company has been exploring in the gulf since <TIMEX3 tid="t27" type="DATE" value="1996">1996</TIMEX3> , and at <TIMEX3 tid="t29" type="DATE" value="2009" mod="END">the end of 2009</TIMEX3> had interests in nearly 350 federal offshore leases , with more than 110 of those in development .
+The company has participated in more than 35 deep - water projects .
+It effectively doubled the size of its operations in <TIMEX3 tid="t30" type="DATE" value="2006">2006</TIMEX3> , when it acquired Forest Oil , including the Vermilion field .
+In <TIMEX3 tid="t31" type="DATE" value="2010-04">April</TIMEX3> , Apache Energy agreed to acquire Mariner , whose shares then more than doubled .
+The acquisition has not been completed .
+On <TIMEX3 tid="t32" type="DATE" value="2010-09-02">Thursday</TIMEX3> , Mariner shares fell 60 cents , or 2.57 percent , to $ 22.75 a share on <TIMEX3 tid="t34" type="DURATION" value="P1D">a day</TIMEX3> when the broader stock market rose .
+According to Bloomberg News , the largest shareholder is John Paulson , a hedge fund manager known for shorting subprime mortgage derivatives through Goldman Sachs before the housing market collapse .
+He owned 9.7 percent of the firm at <TIMEX3 tid="t36" type="DATE" value="2010-06" mod="END">the end of June</TIMEX3> .
+In its <TIMEX3 tid="t37" type="DATE" value="2008">2008</TIMEX3> annual report , Mariner said that the Vermilion 380 field was its largest in the gulf 's Outer Continental Shelf .
+The platform was damaged by Hurricane Ike in <TIMEX3 tid="t38" type="DATE" value="2008">2008</TIMEX3> and production was shut down for most of <TIMEX3 tid="t39" type="DATE" value="2009">2009</TIMEX3> .
+<TIMEX3 tid="t40" type="DATE" value="2010-09-02">Thursday</TIMEX3> 's fire is a new setback .
+` ` We saw the fire from 20 miles away , smoke from it , '' said Dan Shaw , captain of the Crystal Clear supply boat that rescued the platform workers .
+As they got closer , the boat 's four - man crew saw a Coast Guard helicopter hovering over the 13 workers , a few of whom waved .
+Shaw said that 12 were wearing survival suits .
+They stayed in a pack and helped the one man without a suit .
+Shaw said his boat pulled alongside the group , in three - foot swells -LRB- ` ` a little bit lumpy , '' he said -RRB- , and a crewman hauled the 13 aboard one by one .
+They were dropped off at another rig about seven miles away , where they were picked up by helicopters for the trip to land .
+` ` They were pretty calm .
+They were pretty tired , though .
+They 'd been treading water for a couple hours , '' Shaw said , speaking by satellite phone from the boat .
+News , features , and opinions on environmental policy , the science of climate change , and tools to live a green life .
+</TimeML>

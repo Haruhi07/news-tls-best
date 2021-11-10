@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Professor Bill Rawlinson , medical virologist , is tracking swine flu 's spread The number of swine flu cases in Australia has doubled in <TIMEX3 tid="t1" type="DATE" value="2009-05-26">the last day</TIMEX3> to 59 .
+The government warned that the virus , spreading fast , has been confirmed in most Australian states and territories .
+Health experts have said its rapid transmission was coinciding with the southern hemisphere 's traditional <TIMEX3 tid="t2" type="DATE" value="2009-WI">winter</TIMEX3> flu season .
+The epicentre of the outbreak is in Victoria , where a group of children are among those being treated .
+In New South Wales health authorities have been criticised for not quarantining hundreds of passengers on board a cruise ship where 14 people were diagnosed with swine flu .
+
+Although some of those who disembarked the vessel in Sydney had complained of sickness , they were allowed to travel home .
+The virus 's spread in Australia has come at the start of the southern hemisphere 's annual flu season .
+Professor Bill Rawlinson from Sydney 's Prince of Wales hospital says the country is preparing for an onslaught .
+` ` It is of concern because as we go into <TIMEX3 tid="t3" type="DATE" value="2009-WI">winter</TIMEX3> that is when we see our peak of flu
+and I think that is why we are all gearing up to deal with this problem and why public health authorities as well as the laboratories as well as clinicians , emergency departments are all putting in place practices that have been developed over other outbreaks such as Sars and the H5 avian strain , '' he said .
+In an attempt to stop the virus spreading to Tasmania , students and toddlers who have <TIMEX3 tid="t4" type="DATE" value="PAST_REF">recently</TIMEX3> traveled to Mexico , the United States , Canada , Panama or Japan have been told to stay away from schools and childcare centres for <TIMEX3 tid="t5" type="DURATION" value="P7D">seven days</TIMEX3> .
+Australia 's federal health minister , Nicola Roxon , has said the number of confirmed swine flu cases was expected to rise significantly in the <TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">coming days</TIMEX3> .
+</TimeML>

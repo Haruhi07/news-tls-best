@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+NEW YORK | Mon <TIMEX3 tid="t3" type="DATE" value="2009-05-18">May 18 , 2009</TIMEX3> <TIMEX3 tid="t6" type="TIME" value="2009-05-18T16:02">4:02 pm</TIMEX3> EDT NEW YORK -LRB-
+Reuters -RRB- - A New York City school principal suffering from swine flu died on <TIMEX3 tid="t5" type="DATE" value="2009-05-17">Sunday</TIMEX3> , becoming the city 's first death due to H1N1 flu , medical officials said .
+Mitchell Wiener , 55 , died after being admitted to Flushing Hospital Medical Center <TIMEX3 tid="t7" type="DATE" value="PAST_REF">several days ago</TIMEX3> with the H1N1 flu virus , said Dr. Andrew Rubin , a hospital spokesman .
+A city Health Department spokeswoman also confirmed a death , but could not confirm the victim 's identity .
+It was the first death in New York City , where many of the U.S. cases have been reported but with mostly mild symptoms .
+Wiener had been in and out of consciousness and was being treated with an experimental drug , but family members had said as <TIMEX3 tid="t9" type="DATE" value="PAST_REF">recently</TIMEX3> as <TIMEX3 tid="t10" type="DATE" value="2009-05-16">Saturday</TIMEX3> that he was making some progress .
+Wiener was the assistant principal of Intermediate School 236 in Hollis in the New York borough of Queens .
+The school was one of several city schools to be shuttered after the illness afflicted patients and staff members .
+Three additional schools will be closed beginning <TIMEX3 tid="t11" type="DATE" value="2009-05-18">Monday</TIMEX3> in Queens for up to five school days after officials documented increasing levels of influenza - like illnesses .
+` ` Given the large number of cases , it is entirely possible that in the <TIMEX3 tid="t12" type="DATE" value="FUTURE_REF">coming days</TIMEX3> there will be people with severe illness from flu , particularly among people who have underlying health problems , '' city Health Commissioner Thomas Frieden warned .
+The department said it would evaluate more school closings on the case - by - case basis .
+-LRB- Writing and reporting by Chris Michaud , editing by Philip Barbara -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

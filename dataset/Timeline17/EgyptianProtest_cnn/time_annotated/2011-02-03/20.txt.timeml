@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+President Abdelaziz Bouteflika will lift Algeria 's state of emergency following protests in Algiers <TIMEX3 tid="t1" type="DATE" value="2011-W03">two weeks ago</TIMEX3> .
+Algerian President Abdelaziz Bouteflika said <TIMEX3 tid="t3" type="DATE" value="2011-02-03">Thursday</TIMEX3> he will soon end a two - decades - long state of emergency in that county , according to a news report .
+Bouteflika said he would lift the ban in the ` ` very close future . ''
+The announcement was reported by the Algerian Press Service .
+Experts say the announcement is a clear attempt by the Algerian leader to head off the kind of social unrest that toppled the autocratic Tunisian government and <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">now</TIMEX3> threatens the regime of Egyptian President Hosni Mubarak .
+Bouteflika 's announcement comes <TIMEX3 tid="t5" type="DURATION" value="P2W" mod="APPROX">about two weeks</TIMEX3> after government opponents marched in the North African nation to demand that the ban be lifted .
+The demonstrators also called for the release of detainees and the restoration of individual and collective freedoms .
+` ` I think you have to consider Algeria just as vulnerable to the ripple effect running through Tunisia , Egypt , Jordan or Yemen , '' said Andrew J. Pierre , a Jennings Randolph senior fellow at the United States Institute of Peace .
+` ` You have a high rate of unemployment .
+You ' ve got a lot of societal unhappiness , so you have the potential for a social eruption there as well . ''
+The state of emergency was imposed in <TIMEX3 tid="t6" type="DATE" value="1992">1992</TIMEX3> to quell a civil war between the Algerian government and Islamist forces .
+However , opponents of the Bouteflika regime say the Islamist threat has long since diminished and that the state of emergency <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">now</TIMEX3> exists only to muzzle any public criticism of the government .
+Saad Djebbar , a London - based Algerian lawyer and political analyst , said the regime has clearly been affected by the democratic protest movements across the region .
+` ` My take is that the regime may be preparing -LRB- for public protests -RRB- , '' Djebbar said from London .
+` ` They want to produce some sort of trick that would show that reform is under way , like what Mubarak is doing in Egypt , who appears to be using all of the tricks in the book to avoid being removed . ''
+A <TIMEX3 tid="t11" type="DATE" value="2001">2001</TIMEX3> law indefinitely banned all demonstrations in the capital , Algiers , according to the monitoring group Human Rights Watch .
+The measure said the government could ban any event that is ` ` likely to disturb public order and tranquility . ''
+Public protests have swept across North Africa and the Middle East in <TIMEX3 tid="t14" type="DURATION" value="PXW">the last few weeks</TIMEX3> , prompting major changes in several countries , most notably in Tunisia , where President Zine El Abidine Ben Ali left power after <TIMEX3 tid="t13" type="DURATION" value="P23Y">23 years</TIMEX3> , and in Egypt , where Mubarak has announced , amid massive unrest , that he will not seek re - election .
+</TimeML>

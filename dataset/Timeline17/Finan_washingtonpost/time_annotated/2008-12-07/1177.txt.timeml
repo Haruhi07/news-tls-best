@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+'' This Story : Read + | Watch + | Icelanders protest outside the parliament in Reykjavik , demanding elections for a new government .
+The currency 's sudden decline is making the country an international destination for shopping as well as for more - traditional tourism activities .
+-LRB-
+By Brynjar Gunnarsson -- Associated Press -RRB- Iceland gets <TIMEX3 tid="t3" type="DURATION" value="PT5H" mod="LESS_THAN">less than five hours</TIMEX3> of sunlight <TIMEX3 tid="t4" type="DURATION" value="P1D">a day</TIMEX3> in <TIMEX3 tid="t1" type="DATE" value="2008-WI">winter</TIMEX3> , but bookings from the United States are up 90 percent .
+-LRB- Visit
+Reykjavik -RRB-
+<TIMEX3 tid="t5" type="DATE" value="2008-10">Two months ago</TIMEX3> , Iceland , a cold and ruggedly beautiful chunk of volcanic rock on the edge of the Arctic Circle , was one of the world 's most expensive nations .
+Then the global financial crisis hit , the country went bust , and almost overnight the Icelandic currency , the krona , lost half its value and prices of everything from boots to beer returned to earth .
+<TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">Now</TIMEX3> , as thousands of angry Icelanders protest in the streets over disappearing wealth and jobs , their nation 's tourism industry is enjoying a boom in bargain - hunters .
+People from Boston to Beijing , many of them younger and less - affluent travelers who said they had always considered Iceland prohibitively expensive , are filling planes heading to Reykjavik , the world 's northernmost capital .
+Many are even coming for weekend shopping trips to a city that , until <TIMEX3 tid="t8" type="DATE" value="PAST_REF">recently</TIMEX3> , made the glitzy shopping districts of New York and London seem reasonable .
+` ` You do n't do this <TIMEX3 tid="t9" type="SET" value="P1D" quant="EVERY">every day</TIMEX3> -- it 's cool , '' said Andonis Marden , 19 , a student at Boston 's Northeastern University , who was standing near one of Iceland 's famous hot - water spouts as the geyser blasted steam 50 feet into the frigid air .
+` ` I would have come when I was older and had more money , but <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">now</TIMEX3> it 's cheap , '' said Marden , who heard about Iceland 's sudden affordability in an e - mail alert , paid $ 475 for round - trip airfare and spent the <TIMEX3 tid="t10" type="DATE" value="2008-11-27">Thanksgiving</TIMEX3> weekend in a $ 23 - a - night Reykjavik youth hostel .
+Officials at Icelandair said bookings from the United States are up 90 percent over <TIMEX3 tid="t16" type="DATE" value="2007">last year</TIMEX3> for the period from <TIMEX3 tid="t14" type="DATE" value="2008-12">December</TIMEX3> through <TIMEX3 tid="t17" type="DATE" value="2009-03">next March</TIMEX3> .
+Bookings from Britain for the same period are up 48 percent .
+Those spikes in reservations are especially unusual because <TIMEX3 tid="t18" type="DATE" value="2008-WI">winter</TIMEX3> , when Iceland gets <TIMEX3 tid="t20" type="DURATION" value="PT5H" mod="LESS_THAN">less than five hours</TIMEX3> of sunlight <TIMEX3 tid="t21" type="DURATION" value="P1D">a day</TIMEX3> , is generally the slowest season for tourism .
+The Blue Lagoon , a large hot <TIMEX3 tid="t23" type="DATE" value="2008-SP">spring</TIMEX3> powered by the island 's potent geothermal energy , had its busiest <TIMEX3 tid="t22" type="DATE" value="2008-11">November</TIMEX3> ever , despite Iceland 's worst financial crisis in modern history .
+` ` It 's a peculiar situation that the economy has created an opportunity to come , but people are grabbing at it , '' said Blue Lagoon chief executive Grimur Saemundsen .
+</TimeML>

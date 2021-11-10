@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Mon <TIMEX3 tid="t3" type="DATE" value="2010-06-28">Jun 28 , 2010</TIMEX3> <TIMEX3 tid="t6" type="TIME" value="2010-06-28T24:19">12:19 pm</TIMEX3> EDT -LRB-
+Reuters -RRB- - Millions of gallons\/liters of oil have spewed into the Gulf of Mexico since an <TIMEX3 tid="t5" type="DATE" value="2010-04-20">April 20</TIMEX3> explosion on a drilling rig triggered the worst spill in U.S. history .
+Below is a timeline of the disaster and its impact .
+<TIMEX3 tid="t9" type="DATE" value="2010-04-20">April 20 , 2010</TIMEX3> - Explosion and fire on Transocean Ltd 's drilling rig Deepwater Horizon licensed to BP Plc ; 11 workers are killed .
+The rig was drilling in BP 's Macondo project 42 miles southeast of Venice , Louisiana , beneath about 5,000 feet of water and 13,000 feet under the seabed .
+<TIMEX3 tid="t12" type="DATE" value="2010-04-22">April 22</TIMEX3> - The Deepwater Horizon rig , valued at more than $ 560 million , sinks and a 5 - mile oil slick forms .
+<TIMEX3 tid="t15" type="DATE" value="2010-04-25">April 25</TIMEX3> - Efforts to activate the well 's blowout preventer fail .
+<TIMEX3 tid="t17" type="DATE" value="2011-04-29">April 29</TIMEX3> - U.S. President Barack Obama pledges ` ` every single available resource , '' including the U.S. military , to contain the spreading spill and says BP is responsible for the clean - up .
+<TIMEX3 tid="t19" type="DATE" value="2011-04-30">April 30</TIMEX3> - An Obama aide says no drilling will be allowed in new areas , as the president had <TIMEX3 tid="t20" type="DATE" value="PAST_REF">recently</TIMEX3> proposed , until the cause of the Deepwater Horizon accident is known .
+-- BP Chief Executive Tony Hayward says the company takes full responsibility and will pay all legitimate claims and the cost of the clean - up .
+<TIMEX3 tid="t22" type="DATE" value="2011-05-02">May 2</TIMEX3> - Obama visits the Gulf Coast .
+U.S. officials close areas affected by the spill to fishing for <TIMEX3 tid="t24" type="DURATION" value="P10D">10 days</TIMEX3> .
+BP starts drilling a relief well alongside the failed well , a process that may take <TIMEX3 tid="t29" type="DURATION" value="P2M">two</TIMEX3> to <TIMEX3 tid="t28" type="DURATION" value="P3M">three months</TIMEX3> to complete .
+<TIMEX3 tid="t31" type="DATE" value="2011-05-07">May 7</TIMEX3> - An attempt to place a containment dome over the spewing well fails when the device is rendered useless by frozen hydrocarbons that clogged it .
+<TIMEX3 tid="t33" type="DATE" value="2011-05-09">May 9</TIMEX3> - BP says it might try to plug the undersea leak by pumping materials such as shredded tires and golf balls into the well at high pressure , a method called a ` ` junk shot . ''
+<TIMEX3 tid="t34" type="DATE" value="2011-05">May</TIMEX3> 11\/12 - Executives from BP , Transocean and Halliburton appear at congressional hearings in Washington .
+The executives blame each other 's companies .
+<TIMEX3 tid="t36" type="DATE" value="2011-05-14">May 14</TIMEX3> - Obama slams companies involved in the spill , criticizing them for a ` ` ridiculous spectacle '' of publicly trading blame in his sternest comments yet .
+<TIMEX3 tid="t38" type="DATE" value="2011-05-19">May 19</TIMEX3> - The first heavy oil from the spill hits fragile Louisiana marshlands .
+Part of the slick enters a powerful <TIMEX3 tid="t39" type="DATE" value="PRESENT_REF">current</TIMEX3> that could carry it to the Florida Keys and beyond .
+<TIMEX3 tid="t41" type="DATE" value="2011-05-28">May 28</TIMEX3> - Obama tours the Louisiana coast , saying ` ` I am the president and the buck stops with me . ''
+-- BP 's Hayward flies over the Gulf .
+<TIMEX3 tid="t44" type="DATE" value="2011-05-29">May 29</TIMEX3> - BP says the complex ` ` top kill '' maneuver , started <TIMEX3 tid="t43" type="DATE" value="2011-05-26">three days earlier</TIMEX3> to plug the well , has failed .
+<TIMEX3 tid="t47" type="DATE" value="2010-06-01">June 1</TIMEX3> - BP shares plunge 17 percent in London trading , wiping $ 23 billion off its market value , on news the latest attempt to plug the well has failed .
+-- U.S. Attorney General Eric Holder says the Justice Department has launched a criminal and civil investigation into the rig explosion and the spill .
+<TIMEX3 tid="t50" type="DATE" value="2010-06-02">June 2</TIMEX3> - BP tries another capping strategy but has difficulty cutting off a leaking riser pipe .
+-- U.S. authorities expand fishing restrictions to cover 37 percent of U.S. federal waters in the Gulf .
+<TIMEX3 tid="t52" type="DATE" value="2010-06-04">June 4</TIMEX3> - Obama , on his third trip to the region , warns BP against skimping on compensation to residents and businesses .
+<TIMEX3 tid="t54" type="DATE" value="2010-06-08">June 8</TIMEX3> - Obama says he wants to know ` ` whose ass to kick '' over the spill , adding to the pressure on BP .
+-- U.S. weather forecasters give their first confirmation that some of the oil leaking has lingered beneath the surface rather than rising to the top .
+<TIMEX3 tid="t56" type="DATE" value="2010-06-09">June 9</TIMEX3> - U.S. Interior Secretary Ken Salazar says BP must pay the salaries of thousands of workers laid off by a moratorium on drilling , at a congressional hearing .
+<TIMEX3 tid="t58" type="DATE" value="2010-06-10">June 10</TIMEX3> - In his first comments , Prime Minister David Cameron says Britain is ready to help BP deal with the spill .
+-- U.S. scientists double their estimates of the amount of oil gushing from the well , saying between 20,000 and 40,000 barrels -LRB- 840,000 and 1.7 million gallons\/3 .2 million and 6.4 million liters -RRB- flowed out before <TIMEX3 tid="t60" type="DATE" value="2010-06-03">June 3</TIMEX3> .
+<TIMEX3 tid="t62" type="DATE" value="2010-06-11">June 11</TIMEX3> - Supportive comments from Britain lift BP 's shares in London by 6.4 percent .
+
+But the rise does not mend the damage done -- the company is worth 70 billion pounds -LRB- $ 102 billion -RRB- against more than 120 billion pounds in <TIMEX3 tid="t63" type="DATE" value="2011-04">April</TIMEX3> .
+<TIMEX3 tid="t67" type="DATE" value="2010-06-14">June 14</TIMEX3> - Obama , on his fourth trip to the Gulf , says he will press BP executives at a White House meeting on <TIMEX3 tid="t68" type="DATE" value="2010-06-16">June 16</TIMEX3> to deal ` ` justly , fairly and promptly '' with damage claims .
+-- Two U.S. lawmakers release a letter to Hayward saying : ` ` It appears that BP repeatedly chose risky procedures in order to reduce costs and save time and made minimal efforts to contain the added risk . ''
+<TIMEX3 tid="t70" type="DATE" value="2010-06-15">June 15</TIMEX3> - Lawmakers summon top executives from Exxon Mobil , Chevron , ConocoPhillips , Royal Dutch Shell and BP .
+-- Obama says in his first televised speech from the Oval Office : ` ` But make no mistake : we will fight this spill with everything we ' ve got for as long it takes .
+We will make BP pay for the damage their company has caused . ''
+<TIMEX3 tid="t72" type="DATE" value="2010-06-16">June 16</TIMEX3> - BP agrees to set up a $ 20 billion fund for damage claims from the spill , suspends dividend payments to shareholders and says it will pay $ 100 million to workers idled by the six - month moratorium on deep - sea drilling .
+<TIMEX3 tid="t76" type="DATE" value="2010-06-17">June 17</TIMEX3> - Hayward faces the wrath of U.S. lawmakers as he appears before a congressional hearing .
+He apologizes for the spill and says everything is being done to stop it .
+Members of Congress accuse BP of cutting corners and ignoring warnings for the sake of profit .
+<TIMEX3 tid="t78" type="DATE" value="2010-06-18">June 18</TIMEX3> - Anadarko Petroleum , part owner of the gushing well , says BP 's behavior before the blowout was ` ` reckless '' and likely represented ` ` gross negligence or willful misconduct '' that would affect obligations of the well owners under their operating agreement .
+<TIMEX3 tid="t80" type="DATE" value="2010-06-22">June 22</TIMEX3> - Hayward is handing day - to - day control of the spill operation to Bob Dudley -- a reflection , says BP , of the need for the chief executive to return to other aspects of the energy giant 's business .
+<TIMEX3 tid="t82" type="DATE" value="2010-06-24">June 24</TIMEX3> - A U.S. judge refuses to put on hold his decision to lift a ban on deepwater drilling imposed in response to the spill .
+<TIMEX3 tid="t84" type="DATE" value="2010-06-27">June 27</TIMEX3> - Oil washes ashore in mainland Mississippi for the first time , although some had tainted its barrier islands .
+<TIMEX3 tid="t86" type="DATE" value="2010-06-28">June 28</TIMEX3> - BP is forced to defend its chief executive after Russia 's deputy prime minister said he expected Hayward to resign soon .
+-- BP says it is <TIMEX3 tid="t87" type="DATE" value="PRESENT_REF">now</TIMEX3> spending $ 100 million <TIMEX3 tid="t90" type="DURATION" value="P1D">a day</TIMEX3> on efforts to cap the well , clean up the spill and compensate those affected , bringing the total bill so far to $ 2.65 billion .
+Views expressed in the comments do not represent those of Reuters .
+Most the headlines on this page state ` ` Oil Spill '' -- not accurate ...
+This discussion is <TIMEX3 tid="t91" type="DATE" value="PRESENT_REF">now</TIMEX3> closed .
+We welcome comments on our articles for a limited period after their publication .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

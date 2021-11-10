@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t3" type="DATE" value="2010-05-01">May 1</TIMEX3> : Birds fly past oil booms that were placed in preparation of the looming oil spill from <TIMEX3 tid="t2" type="DATE" value="2010-W17">last week</TIMEX3> 's collapse and spill of the Deepwater Horizon oil rig along the shoreline , south of Venice , La. .
+Energy giant BP vowed <TIMEX3 tid="t4" type="DATE" value="2010-05-03">Monday</TIMEX3> to pay ` ` all necessary and appropriate clean - up costs '' from the massive oil spill in the Gulf of Mexico .
+The promise came after the White House demanded that BP step up efforts to contain the oil slick that is threatening the Gulf coastline from Louisiana to the Florida Panhandle .
+` ` BP takes responsibility for responding to the Deepwater Horizon oil spill .
+We will clean it up , '' the company said in a statement .
+` ` BP will pay all necessary and appropriate clean - up costs , '' it said , adding that BP was ` ` committed to pay legitimate and objectively verifiable claims for other loss and damage caused by the spill . ''
+In an interview <TIMEX3 tid="t8" type="DATE" value="2010-05-03">Monday</TIMEX3> with NBC 's ` ` <TIMEX3 tid="t7" type="DATE" value="2010-05-03">Today</TIMEX3> Show , '' BP Chief Executive Tony Hayward reiterated the promise , saying said company was ` ` absolutely responsible '' for cleaning up the oil spill that resulted when a well exploded on <TIMEX3 tid="t6" type="DATE" value="2010-04-20">April 20</TIMEX3> .
+Hayward also said BP preparing for a ` ` worst case scenario '' that it would need to contain the spill for <TIMEX3 tid="t10" type="DURATION" value="P2M">two</TIMEX3> to <TIMEX3 tid="t9" type="DURATION" value="P3M">three months</TIMEX3> .
+Hayward said crews have been able to reduce the amount of oil reaching the surface from a massive underwater gusher with a new approach of using chemicals at the gusher .
+He said BP is injecting dispersant chemicals into the oil as it pours out of an undersea well .
+He said it was a new approach and appeared to be having a significant impact on the amount that reaches the spreading surface slick .
+He did not elaborate .
+The Associated Press contributed to this report .
+</TimeML>

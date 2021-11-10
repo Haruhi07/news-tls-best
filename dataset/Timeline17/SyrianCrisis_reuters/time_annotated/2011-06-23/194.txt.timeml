@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON | Thu <TIMEX3 tid="t2" type="DATE" value="2011-06-23">Jun 23 , 2011</TIMEX3> <TIMEX3 tid="t4" type="TIME" value="2011-06-23T07:53">7:53 am</TIMEX3> BST LONDON -LRB-
+Reuters -RRB- - Concerns about the future of the NHS have boosted support for the opposition 's healthcare policies , but that has yet to translate into increased support for Labor as a whole , according to the latest Reuters\/Ipsos MORI poll .
+<TIMEX3 tid="t5" type="DATE" value="2011-06">June</TIMEX3> 's survey shows a third of people <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">now</TIMEX3> think that Labor has the best policies on healthcare -LRB- 37 percent -RRB- compared to 21 percent .
+This is a Labor lead of 16 points , compared to 9 points in <TIMEX3 tid="t9" type="DATE" value="2010-03">March last year</TIMEX3> , when the question was last asked .
+It is the highest lead Labor has enjoyed on healthcare - a key voting issue - since <TIMEX3 tid="t10" type="DATE" value="2002">2002</TIMEX3> .
+Healthcare was the second most important issue to voting at the <TIMEX3 tid="t11" type="DATE" value="2010">2010</TIMEX3> general election after the economy .
+The Conservative - led coalition government <TIMEX3 tid="t12" type="DATE" value="2011-W24">last week</TIMEX3> diluted plans for radical reform of the cherished National Health Service after complaints from nurses , doctors and patients .
+Prime Minister David Cameron said his government had got things wrong after draft legislation prompted fears it planned to dismantle a system that gives patients free access to doctors and hospitals .
+When asked about the NHS <TIMEX3 tid="t15" type="DURATION" value="P1Y" mod="MORE_THAN">over the next 12 months</TIMEX3> , the most negative impact of the government 's reforms was expected to be seen on waiting times ; two in five of those surveyed by Ipsos MORI thought waiting times will get worse .
+While a significant minority thought <TIMEX3 tid="t18" type="DURATION" value="P1Y">the next 12 months</TIMEX3> would bring greater efficiency to the NHS -LRB- 20 percent -RRB- , twice as many thought the efficiency with which the NHS spends public money will get worse -LRB- 39 percent -RRB- .
+A similar proportion thought it would stay the same -LRB- 35 percent -RRB- .
+However , the poll also suggests that concerns about healthcare have not yet shifted people 's voting plans .
+In fact , support for the Conservatives increased slightly <TIMEX3 tid="t19" type="DATE" value="2011-06">this month</TIMEX3> while the Labor vote share fell .
+Among all those who are certain to vote , 37 percent would vote Conservative , 39 percent would vote Labor while 11 percent would vote Liberal Democrat , the government 's junior coalition partners .
+The public is evenly split on whether public sector workers are right to go on strike , suggesting public sector workers could struggle to win the battle for hearts and minds over their plans to stage mass stoppages .
+Public sector union Unison has threatened a program of rolling , widescale industrial action over changes to public pensions , and teachers and other groups have already voted to strike as the government slashes spending to rein in its deficit .
+A third of the public thought trade unions had too much power <TIMEX3 tid="t21" type="DATE" value="2011-06-23">today</TIMEX3> , although three - quarters believed they were essential to protect workers ' rights -- a level that has changed little since Ipsos MORI first asked the question in <TIMEX3 tid="t20" type="DATE" value="1975">1975</TIMEX3> .
+-RRB-
+And while agreement that unions have too much power has increased since Ipsos MORI last asked the question in <TIMEX3 tid="t22" type="DATE" value="1995">1995</TIMEX3> -LRB- 35 percent compared to 24 percent -RRB- , this is much lower than during <TIMEX3 tid="t23" type="DATE" value="197">the 1970s</TIMEX3> and <TIMEX3 tid="t24" type="DATE" value="198">80s</TIMEX3> when over two - thirds of the public consistently agreed that unions were too powerful .
+Technical data :
+Ipsos MORI interviewed a representative sample of 1,003 adults aged 18 + across Great Britain .
+Interviews were conducted by telephone <TIMEX3 tid="t30" type="DATE" value="2011-06-17">17</TIMEX3> - <TIMEX3 tid="t27" type="DATE" value="2011-06-19">19 June 2011</TIMEX3> .
+Data are weighted to match the profile of the population .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

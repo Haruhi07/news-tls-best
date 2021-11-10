@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Bailout Could Deepen Crisis , CBO Chief Says Peter R. Orszag , director of the Congressional Budget Office , testifies on Capitol Hill <TIMEX3 tid="t1" type="DATE" value="2008-09-24">yesterday</TIMEX3> .
+-LRB-
+By Brendan Hoffman -- Getty Images -RRB-
+The director of the Congressional Budget Office said <TIMEX3 tid="t2" type="DATE" value="2008-09-24">yesterday</TIMEX3> that the proposed Wall Street bailout could actually worsen the <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">current</TIMEX3> financial crisis .
+` ` Ironically , the intervention could even trigger additional failures of large institutions , because some institutions may be carrying troubled assets on their books at inflated values , '' Orszag said in his testimony .
+` ` Establishing clearer prices might reveal those institutions to be insolvent . ''
+In an interview <TIMEX3 tid="t8" type="DATE" value="2008-09-24" mod="END">later yesterday</TIMEX3> , Orszag explained using the following example : Suppose a company has Asset X , whose value is recorded on the books as $ 100 .
+Because of the <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">current</TIMEX3> economic decline , Asset X 's real value has dropped to $ 50 .
+If the company takes part in the government bailout and sells Asset X for $ 50 , the company has to report a $ 50 loss on its books .
+On a scale of millions of dollars , such write - downs could ruin a company .
+Such companies ` ` look solvent <TIMEX3 tid="t14" type="DATE" value="2008-09-25">today</TIMEX3> only because it 's kind of hidden , '' Orszag said .
+` ` They actually are insolvent '' already , he said .
+In hearings on Capitol Hill so far <TIMEX3 tid="t15" type="DATE" value="2008-W39">this week</TIMEX3> , criticism of the bailout plan put forward by Treasury Secretary Henry M. Paulson Jr. and Federal Reserve Chairman Ben S. Bernanke has largely been restricted to the shape of the $ 700 billion proposal , how the money will be spent and what sort of oversight Treasury should have .
+But Orszag <TIMEX3 tid="t17" type="DATE" value="2008-09-24">yesterday</TIMEX3> questioned the wisdom of the plan itself , testifying that ` ` it therefore remains uncertain whether the program will be sufficient to restore trust . ''
+In <TIMEX3 tid="t18" type="DATE" value="2008-09-24">yesterday</TIMEX3> 's interview , Orszag said , ` ` The key question is : What are we buying and what are we paying for it ? ''
+Orszag offered alternatives , such as equity injections into particularly troubled companies , but allowed that those could lead to further problems , as well .
+In the end , he said , Congress must pass some sort of relief , if only because Wall Street is expecting it .
+` ` If we did nothing , there is a significant risk of another collapse of confidence in the financial markets , '' he said .
+Then , there is the paperwork cost of the bailout .
+The budget office ` ` expects that the administrative costs of operating the program could amount to a few billion dollars per year , as long as the government held all or most of the purchased assets , '' he testified , without defining what he meant by ` ` a few . ''
+</TimeML>

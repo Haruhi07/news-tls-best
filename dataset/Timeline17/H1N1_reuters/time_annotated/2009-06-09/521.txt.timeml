@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+SINGAPORE , <TIMEX3 tid="t5" type="DATE" value="2009-06-09">June 9</TIMEX3> | Tue <TIMEX3 tid="t4" type="DATE" value="2009-06-09">Jun 9 , 2009</TIMEX3> <TIMEX3 tid="t8" type="TIME" value="2009-06-09T05:33">5:33 am</TIMEX3> EDT SINGAPORE , <TIMEX3 tid="t7" type="DATE" value="2009-06-09">June 9</TIMEX3> -LRB- Reuters -RRB- - GlaxoSmithKlyne -LRB- GSK .
+L -RRB- plans to start producing vaccines from <TIMEX3 tid="t9" type="DATE" value="2011">2011</TIMEX3> in Singapore to fight pneumonia - causing bacteria , which kills more than 1 million children <TIMEX3 tid="t10" type="SET" value="P1Y" quant="EACH">each year</TIMEX3> around the world .
+The world 's second biggest drugmaker opened a S$ 600 million -LRB- $ 411 million -RRB- plant in the city - state on <TIMEX3 tid="t11" type="DATE" value="2009-06-09">Tuesday</TIMEX3> , its second global site to manufacture the pneumococcal conjugate vaccine after Belgium .
+GSK would take <TIMEX3 tid="t13" type="DURATION" value="P2Y" mod="EQUAL_OR_LESS">up to two years</TIMEX3> to test run the plant before commercial production starts , CEO Andrew Witty said .
+` ` It is going to take <TIMEX3 tid="t15" type="DURATION" value="P1Y">a year</TIMEX3> or two to finally make sure all the production processes are running at the appropriate level of quality , '' Witty told reporters .
+The pneumococcal conjugate vaccine protects infants and children under age 2 from the bacterium streptococcus pneumoniae , which causes diseases like pneumonia , meningitis , bronchitis , acute sinusitis and inflammation of the inner layer of the heart or endocarditis .
+Those kill nearly a million children worldwide <TIMEX3 tid="t16" type="SET" value="P1Y" quant="EACH">each year</TIMEX3> , 90 percent of them in developing countries .
+The vaccine was introduced in <TIMEX3 tid="t17" type="DATE" value="2000">2000</TIMEX3> in the United States and resulted in a sharp drop in pneumococcal disease in children , but is still unavailable in many underdeveloped countries , where it is most urgently needed , because of high costs .
+Witty said GSK 's new policy on price flexibility would make its vaccines and other drugs more affordable to poor nations .
+` ` Vaccine is particularly important , a potential important product line for the emerging markets and Asia , '' he said .
+Witty welcomed a World Health Organisation recommendation <TIMEX3 tid="t18" type="DATE" value="2009-W23">last week</TIMEX3> that oral rotavirus vaccines be included in all national immunisation programs , but said they would not make a significant contribution to GSK 's revenues .
+` ` I am excited about that .
+It 's great news , but that in itself is n't going to be a commercial opportunity , because obviously we are talking about product at much lower price being supplied to the developing world , '' Witty said .
+WHO 's new global guidance , aiming to avert half a million diarrhoeal deaths and 2 million hospitalisations <TIMEX3 tid="t20" type="DURATION" value="P1Y">a year</TIMEX3> , is expected to boost demand form Merck 's -LRB- MRK .
+N -RRB- and RotaTeq , GSK 's Rotarix vaccines in Africa and Asia .
+Rotavirus is a leading cause of severe gastroenteritis , including vomiting and diarrhoea , in infants and young children .
+The contagious infection kills an estimated 1,600 children under the age of 5 <TIMEX3 tid="t21" type="SET" value="P1D" quant="EVERY">every day</TIMEX3> , mostly in Africa and Asia .
+-LRB- $ 1 = 1.460 Singapore dollar -RRB- -LRB-
+Reporting by Nopporn Wong - Anan ; Editing by Tan Ee Lyn and Jerry Norton -RRB- -LRB- nopporn.wong-anan@thomsonreuters.com , +6564035665
+-RRB- -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

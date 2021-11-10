@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+A small amount of the disease agent Francisella tularensis , or ` ` rabbit fever '' , was detected on Washington DC 's national mall during <TIMEX3 tid="t1" type="DATE" value="PAST_REF">recent</TIMEX3> Iraq war protests .
+The Centre for Disease Control and Prevention said an environmental air monitor on <TIMEX3 tid="t3" type="DATE" value="2005-09-24">September 24</TIMEX3> detected the non - contagious disease , which causes sudden fever , chills , muscle aches and pneumonia - like symptoms but which is easily treated with antibiotics .
+Local health department officials said further sampling had proved negative and said they thought the bacteria had not been intentionally released .
+</TimeML>

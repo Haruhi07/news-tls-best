@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Swine flu closes London schools Tamiflu is being given to pupils , staff and parents at Alleyn 's School A third school in London has closed after eight more people were diagnosed with swine flu in the city .
+The Dolphin School in Battersea , south London , has become the latest to announce it will close for <TIMEX3 tid="t1" type="DURATION" value="PXD">several days</TIMEX3> after two pupils contracted the virus .
+The two are siblings and are close contacts of a previous confirmed case , the Health Protection Agency said .
+Alleyn 's School , in Dulwich , south - east London and South Hampstead High School in north London , have already closed .
+An adult from Fulham , west London , who had <TIMEX3 tid="t2" type="DATE" value="PAST_REF">recently</TIMEX3> returned from Mexico has also been diagnosed with the swine flu virus .
+The new cases take the total number in London to 13 .
+
+A telephone answering message at Dolphin School , an independent primary , informed parents that the decision had been taken as a precautionary measure by the board of governors .
+Dolphin School has also closed its nursery Noah 's Ark as a precautionary measure .
+Other <TIMEX3 tid="t3" type="DATE" value="PAST_REF">recent</TIMEX3> cases included <TIMEX3 tid="t5" type="DURATION" value="P5Y">five Year</TIMEX3> Seven pupils at Alleyn 's School who were off sick on <TIMEX3 tid="t4" type="DATE" value="2009-05-01">Friday</TIMEX3> .
+A pupil who visited the US during the <TIMEX3 tid="t6" type="DATE" value="2009-04-12">Easter</TIMEX3> holidays had already been diagnosed with the H1N1 virus .
+The school , which will remain shut until <TIMEX3 tid="t7" type="DATE" value="2009-05-11">next Monday</TIMEX3> , announced Tamiflu anti - viral medication would be supplied to all 1,200 pupils as well as staff and parents .
+It said 90 % of parents had <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">now</TIMEX3> collected Tamiflu anti - viral medication being offered by the Health Protection Agency -LRB- HPA -RRB- .
+
+A statement on the school 's website said it was rescheduling A - level exams in art , biology and foreign languages for <TIMEX3 tid="t10" type="DATE" value="2009-W20">next week</TIMEX3> .
+It said : ` ` The examinations officer is contacting the examination boards at the highest level to ensure that they are fully aware of the disruption for public examination candidates that the closure of the school has entailed .
+` ` In line with procedure , the school will be writing to the examination boards , who are always sympathetic to students in these circumstances . ''
+</TimeML>

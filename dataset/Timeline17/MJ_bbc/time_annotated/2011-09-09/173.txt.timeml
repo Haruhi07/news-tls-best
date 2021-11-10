@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Trial of Michael Jackson 's doctor to begin in America The trial of Michael Jackson 's doctor is expected to start in America in <TIMEX3 tid="t1" type="DURATION" value="PXD">the next few days</TIMEX3> .
+The singer died at his Los Angeles home on <TIMEX3 tid="t4" type="DATE" value="2009-06-25">25 June 2009</TIMEX3> .
+His doctor , Conrad Murray , is accused of giving him a dose of strong medication which may have played a part in his death .
+Dr Murray says he did nothing wrong .
+The case was due to start on <TIMEX3 tid="t10" type="DATE" value="2011-09-08">Thursday</TIMEX3> , but the men and women on the jury have taken longer than expected to choose .
+They have to answer lots of questions before lawyers decide if they can sit on the jury .
+Dr Murray has been charged with involuntary manslaughter , which is when a person did n't mean to kill someone but may be responsible for their death .
+</TimeML>

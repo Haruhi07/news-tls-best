@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+BEIRUT | Fri <TIMEX3 tid="t2" type="DATE" value="2011-04-22">Apr 22 , 2011</TIMEX3> <TIMEX3 tid="t4" type="TIME" value="2011-04-22T24:12">12:12 pm</TIMEX3> EDT BEIRUT -LRB-
+Reuters -RRB- - President Bashar al - Assad is in a quandary as the challenge to his autocratic rule grows in the streets of Syria : more concessions could signal weakness , but harsher repression risks radicalizing a growing opposition .
+While some analysts believe Assad can contain the revolt through bold reforms , others believe he missed the chance to open up Syria 's dictatorship when he inherited the presidency from his strongman father , the late Hafez al - Assad , in <TIMEX3 tid="t5" type="DATE" value="2000">2000</TIMEX3> .
+` ` The regime is in trouble .
+People have been repressed for <TIMEX3 tid="t7" type="DURATION" value="P40Y">40 years</TIMEX3> but suddenly the wall of fear has crumbled and they are no longer frightened , '' Sarkis Naoum of Beirut 's an - Nahar newspaper told Reuters .
+` ` Each time the regime makes new concessions , the people get bolder and ask for more .
+They see it as a sign of weakness .
+The regime does n't know how to respond -- it 's like an old grudge people have been waiting to avenge . ''
+Close observers of Syria argue that -- as in the Tunisian and Egyptian revolutions that ousted Hosni Mubarak and Zine al - Abidine Ben Ali -- citizens are rebelling not just against a lack of freedom and opportunity .
+They are also enraged by suffocating corruption that has enriched the elites while one - third of Syrians live below the poverty line .
+` ` It was a combination of repression , corruption , incompetence and the degeneration of the system , '' says analyst Jamil Mroue .
+` ` It became combustible and people suffocated . ''
+While crackdowns continued against activists who challenged Baath party rule , economic reforms since <TIMEX3 tid="t8" type="DATE" value="2005">2005</TIMEX3> created lucrative new monopolies controlled by senior officials and Assad family insiders , among them his billionaire cousin Rami Makhlouf .
+` ` The Baath Party is ancient , outdated and obsolete .
+The decisions are being made by the security forces and services who play a fundamental role in the country .
+They are the real force , '' said Talal Salman , publisher of Beirut 's as - Safir daily , traditionally sympathetic to Syria .
+A caste of army officers and clans of the dominant Alawite minority has sprung up , using its clout to suppress dissent and extort kickbacks , often demanding a share of the profits private business generates , observers said .
+` ` The essential spark was ignited by the privatizing and franchising of corruption , which along with repression violated the fabric of society , '' Mroue said .
+As with their Arab peers from Egypt to Yemen and Libya , young Syrians ' aspirations have risen in tandem with their access to satellite TV , mobile phones , Facebook and the Internet .
+The regional explosion that began in Tunisia and Egypt propelled people to seek a new way of life .
+What adds an edge to Syria 's crisis is the heavy - handedness of one - party rule , the sectarian rift between the ruling Alawite minority and the Sunni majority , and the brutality and impunity of the security forces .
+Facing the most alarming challenge of his <TIMEX3 tid="t11" type="DURATION" value="P11Y">11 years</TIMEX3> in power , Assad has juggled repression , economic handouts and calibrated concessions in an attempt to quash <TIMEX3 tid="t12" type="DURATION" value="P1M">a month</TIMEX3> of protests .
+Yet the unrest , which rights groups say has cost more than 200 lives , shows no signs of going away without radical change .
+On <TIMEX3 tid="t13" type="DATE" value="2011-04-21">Thursday</TIMEX3> , ahead of mass protests that broke out again on <TIMEX3 tid="t14" type="DATE" value="2011-04-22">Friday</TIMEX3> , Assad ended a draconian state of emergency , in place for <TIMEX3 tid="t16" type="DURATION" value="P48Y">48 years</TIMEX3> , that allowed blanket repression with impunity .
+` ` President Assad might be able to overcome this crisis and contain the situation but the cost may be high ...
+He has to change the regime or the people will force him to , '' said Salman .
+Analysts say toppling the system is harder because Syria 's power structure differs from that of Egypt and Tunisia , where senior generals refused to open fire on demonstrators .
+Alawite loyalists occupy the key positions in the Syrian military and Assad family insiders run the crucial security bodies , tying senior officers closely to Assad 's own fate .
+
+Yet the bulk of the army is Sunni and there have been persistent but unconfirmed reports of soldiers refusing to fire on protesters .
+` ` There is a big possibility that the army will split or they wo n't accept to take part in a crackdown , if ordered .
+It is not easy to bring the regime down but it is easy to divide the regime , '' An - Nahar 's Naoum said .
+<TIMEX3 tid="t20" type="DATE" value="1981" mod="APPROX">Nearly 30 years ago</TIMEX3> , the elder Assad ruthlessly put down an armed Islamist uprising , killing tens thousands of people in the city of Hama in a bombardment cloaked from international view .
+That level of brutality would be harder to get away with <TIMEX3 tid="t23" type="DATE" value="2011-04-22">today</TIMEX3> , when Syrians , despite state curbs on media , use mobile phone cameras to post instant images of protests on YouTube .
+` ` Bashar 's father killed 20,000 to 30,000 people in Hama ...
+If Bashar wants to do another Hama in the first <TIMEX3 tid="t24" type="DURATION" value="PT2H">two hours</TIMEX3> the whole world will rise up , '' Naoum said .
+While holding Assad responsible for failing to enact sweeping reforms , some analysts say issues beyond his control played a role , although he should have addressed them faster .
+The country has been plagued by drought for <TIMEX3 tid="t25" type="DURATION" value="PXY">several years</TIMEX3> , slowing its rise as a middle income economy .
+Syria has 20 million people with a population growth rate of 2.4 percent .
+
+But entrants to the labor market are increasing at double that pace due to a faster birth rate in earlier decades , that far outstrips the capacity of the economy to create jobs .
+Per capita gross domestic product languishes at $ 2,500 <TIMEX3 tid="t27" type="DURATION" value="P1Y">a year</TIMEX3> .
+The official unemployment rate stands at 10 percent but independent estimates are double that , with about a quarter of a million youngsters arriving in the jobs market <TIMEX3 tid="t28" type="SET" value="P1Y" quant="EVERY">every year</TIMEX3> .
+Some Syrians believe the protest movement , unthinkable <TIMEX3 tid="t33" type="DATE" value="PAST_REF">a few months ago</TIMEX3> , has <TIMEX3 tid="t34" type="DATE" value="PRESENT_REF">now</TIMEX3> gained an irreversible momentum .
+` ` There is n't anything impossible any more after Egypt and Tunisia , '' said a Syrian who refused to give her name .
+` ` Seeing Syrians defying the security forces on the streets while knowing that they might be shot dead is something beyond imagination .
+` ` Do you think these people are willing to die just for some reforms or for an increase in wages ?
+These people want the Assad regime out , '' she added .
+Even if Assad , 45 , concedes far - reaching democratic reforms , activists and protesters will want proof that he is making a real break with the past , testing the president 's power over his own family and the Baathist elite .
+` ` Assad has to carry out a white coup to clean his entourage of corrupt figures linked to the regime , '' Mroue said .
+` ` He has to show people that there is dramatic change , that there will be elections in <TIMEX3 tid="t36" type="DURATION" value="PXY">a few years</TIMEX3> , that he wo n't be president for life , that it is no longer a dynasty . ''
+Such a high - risk course would entail confronting his own entourage and ditching a structure in place for <TIMEX3 tid="t38" type="DURATION" value="P40Y">40 years</TIMEX3> .
+No one knows what might come next -- a peaceful transition of power , a military coup , prolonged instability or civil war .
+` ` Either he will opt for transformation of the regime or it will be torn apart , '' Mroue said .
+We welcome comments that advance the story through relevant opinion , anecdotes , links and data .
+Views expressed in the comments do not represent those of Reuters .
+They want the nation broken into cultural enclaves protected by small militias .
+National boundaries in North Africa have got to go , they are a stranglehold on multi - cultural needs .
+The outlook is dim in Syria , but the Syrian protesters do mean business and they are impressive .
+This discussion is <TIMEX3 tid="t39" type="DATE" value="PRESENT_REF">now</TIMEX3> closed .
+We welcome comments on our articles for a limited period after their publication .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

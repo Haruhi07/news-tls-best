@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+WASHINGTON | Sat <TIMEX3 tid="t2" type="DATE" value="2011-04-09">Apr 9 , 2011</TIMEX3> <TIMEX3 tid="t4" type="TIME" value="2011-04-09T11:46">11:46 am</TIMEX3> EDT WASHINGTON -LRB-
+Reuters -RRB- -
+A Libyan opposition group is asking the United States for immediate access to frozen assets of Libyan leader Muammar Gaddafi to pay for humanitarian needs in rebel - held areas .
+Ali Aujali , who resigned in <TIMEX3 tid="t5" type="DATE" value="2011-02">February</TIMEX3> as Libya 's ambassador to the United States and <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">now</TIMEX3> heads Libya 's most prominent rebel organization , in a letter to U.S. Treasury Secretary Timothy Geithner said the humanitarian conditions have deteriorated in areas held by the rebels .
+Rebel groups seeking to overthrow the Libyan leader have been fighting pro - Gaddafi forces in a civil war ignited in <TIMEX3 tid="t7" type="DATE" value="2011-02">February</TIMEX3> when Gaddafi tried to crush pro - democracy rallies .
+Aujali , in the letter dated <TIMEX3 tid="t8" type="DATE" value="2011-04-07">Thursday</TIMEX3> , said his group , the transitional national council , ` ` needs immediate access to the Gaddafi regime 's frozen assets in U.S. financial institutions to meet the basic needs of the Libyan people . ''
+The United States has frozen more than $ 34 billion in assets as part of sanctions against Gaddafi and his top officials .
+The Treasury Department on <TIMEX3 tid="t10" type="DATE" value="2011-04-08">Friday</TIMEX3> added five senior officials -- Libya 's prime minister , finance minister , oil minister , internal security director and Gaddafi 's chief of staff -- and two entities controlled by Gaddafi 's children to its sanctions blacklist .
+Obama administration officials have said they were looking into whether some of the frozen cash , securities and other financial instruments could be used to aid the Libyan rebel effort .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

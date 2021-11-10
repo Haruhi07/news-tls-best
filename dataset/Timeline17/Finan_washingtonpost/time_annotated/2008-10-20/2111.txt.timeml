@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+The article misspelled the name of Jay Shepherd , the chief executive of Shepherd Law Group in Boston .
+Rethinking Legal Fees for Lean Times
+The economic crisis is giving the prosecution a boost in the case of Fixed Fee v. Billable Hours .
+Corporate legal department officials say fees to outside law firms have risen faster than energy costs , salaries and other expenditures .
+Some senior partners in the most prestigious firms charge up to $ 1,000 <TIMEX3 tid="t4" type="DURATION" value="PT1H">an hour</TIMEX3> and require their associates to bill up to 2,000 hours <TIMEX3 tid="t3" type="DURATION" value="P1Y">a year</TIMEX3> .
+Since becoming commonplace in <TIMEX3 tid="t5" type="DATE" value="197">the 1970s</TIMEX3> , hourly billing has been the subject of criticism by clients and debates by legal experts , who say they give lawyers incentive to work inefficiently .
+
+But law firms have been slow to embrace alternative billing .
+` ` I think the financial crisis will exacerbate everybody 's pain point , '' said Pam Rothenberg , managing member of Womble Carlyle Sandridge & Rice 's D.C. office .
+Rothenberg said the firm , which has 550 lawyers in 11 offices , works within a budget that the client and firm set ahead of time .
+` ` There will still be firms resistant to change , '' she said .
+` ` But those that embrace change will likely gain more market share . ''
+New efforts to jettison hourly billing are being driven by in - house corporate lawyers , who say they have grown frustrated seeing fees to outside firms soar even as they slash their own costs .
+They said they want more certainty in their legal budgets and worry that outside firms are spending unnecessary amounts of time on their matters .
+Some lawyers say they resent that assessment .
+` ` An honest lawyer works efficiently and does not charge clients for inefficient use of time .
+If I go to a meeting and learn it 's the wrong day , I ' m not going to charge the client for that , '' said Joel P. Bennett , who handles employment cases in a solo practice in the District and supports hourly billing .
+In a <TIMEX3 tid="t10" type="DATE" value="PAST_REF">recent</TIMEX3> survey conducted by the Arlington - based Corporate Executive Board , a for - profit organization that does research on best practices , 800 in - house lawyers said they spent 50 percent more <TIMEX3 tid="t9" type="DATE" value="2007">last year</TIMEX3> on large outside law firms than in <TIMEX3 tid="t8" type="DATE" value="2002">2002</TIMEX3> .
+They said the hourly rates they paid jumped 70 percent between <TIMEX3 tid="t11" type="DATE" value="1996">1996</TIMEX3> and <TIMEX3 tid="t12" type="DATE" value="2005">2005</TIMEX3> .
+Steven Williams , managing director of the Corporate Executive Board 's General Counsel Roundtable , said those increases ca n't continue : 57 percent of the corporate lawyers he surveyed <TIMEX3 tid="t13" type="DATE" value="2008-10">this month</TIMEX3> said they plan to cut their budgets for outside legal help <TIMEX3 tid="t14" type="DATE" value="2009">next year</TIMEX3> .
+The Association of Corporate Counsel , which represents 23,000 in - house corporate lawyers , <TIMEX3 tid="t15" type="DATE" value="2008-09">last month</TIMEX3> launched the ` ` Value Challenge , '' an initiative aimed at spurring corporate lawyers and outside law firms to develop alternative pricing plans , including fixed rates , volume discounts and lower rates in exchange for performance bonuses .
+` ` When we started looking at this project , we were thinking , ` How do we make people realize <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">now</TIMEX3> is the time ' -LRB- to stop charging by the hour ?
+-RRB- , '' said Susan Hackett , the association 's general counsel .
+` ` Then the economic crisis happened .
+There 's going to be a heck of a lot of directives for folks at the firms to lower their costs . ''
+Law firms are divided over the calls to abandon hourly billing .
+Joseph E. Lynch , a partner at King & Spalding 's Healthcare Practice Group in the District , said he would work under fixed fees only in rare circumstances .
+It 's often difficult to assess how much work a project will actually need , he said .
+` ` Counsel does n't want a fee arrangement that 's insufficient to cover the work that 's necessary , '' Lynch said .
+Jay Shepard , chief executive of Shepard Law Group in Boston , said his <TIMEX3 tid="t17" type="DATE" value="2007">2007</TIMEX3> revenue doubled after switching from his firm 's $ 250 - to $ 500 - an - hour rates to fixed and negotiated fees <TIMEX3 tid="t18" type="DATE" value="2007">the previous year</TIMEX3> .
+` ` Before the financial crisis happened , I thought in <TIMEX3 tid="t24" type="DURATION" value="P10Y">10 years</TIMEX3> the billable hour would be on the way out .
+I <TIMEX3 tid="t25" type="DATE" value="PRESENT_REF">now</TIMEX3> think that will be sped up , '' said Shepherd , who has represented Adobe , Samsonite and Costco in labor cases .
+` ` A lot of clients are saying , ` Enough is enough , ' '' he said . ''
+</TimeML>

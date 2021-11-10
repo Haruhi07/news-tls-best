@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t2" type="DATE" value="2010-07-17">July 17</TIMEX3> : Work boats operate next to the Transocean Development Driller III at the site of the Deepwater Horizon oil spill in the Gulf of Mexico .
+AP <TIMEX3 tid="t5" type="DATE" value="2010-07-16">July 16 , 2010</TIMEX3> : Workboats operate near the Transocean Development Drilling Rig II at the site of the Deepwater Horizon incident in the Gulf of Mexico .
+The wellhead has been capped and BP is continuing to test the integrity of the well before resuming production .
+AP ON THE GULF OF MEXICO -- Key ships stationed over BP 's crippled well in the Gulf of Mexico were ordered to evacuate <TIMEX3 tid="t7" type="DATE" value="2010-07-15">Thursday</TIMEX3> ahead of Tropical Storm Bonnie , and engineers have grown so confident in the leaky cap fixed to the well head that they will leave it closed while they are gone .
+Tropical Storm Bonnie , which blossomed over the Bahamas and was to enter the Gulf of Mexico by <TIMEX3 tid="t8" type="DATE" value="2010-W28-WE">the weekend</TIMEX3> , could delay by another <TIMEX3 tid="t10" type="DURATION" value="P12D">12 days</TIMEX3> the push to plug the broken well for good using mud and cement , retired Coast Guard Adm. Thad Allen and BP officials conceded .
+Even if it 's not a direct hit , the rough weather will push back efforts to kill the well by <TIMEX3 tid="t12" type="DURATION" value="P1W" mod="EQUAL_OR_MORE">at least a week</TIMEX3> .
+` ` While this is not a hurricane , it 's a storm that will have probably some significant impacts , we 're taking appropriate cautions , '' Allen said in Mobile , Ala. .
+Allen issued the order <TIMEX3 tid="t15" type="TIME" value="2010-07-15TNI">Thursday night</TIMEX3> to begin moving dozens of vessels from the spill site , including the rig that 's drilling the relief tunnel engineers will use to permanently throttle the free - flowing crude near the bottom of the well .
+Some vessels could stay on site , he said .
+` ` While these actions may delay the effort to kill the well for <TIMEX3 tid="t19" type="DURATION" value="PXD">several days</TIMEX3> , the safety of the individuals at the well site is our highest concern , '' he said in a statement .
+<TIMEX3 tid="t20" type="DURATION" value="P1W">A week</TIMEX3> of steady measurements through cameras and other devices convinced Allen they do n't need to open vents to relieve pressure on the cap , which engineers had worried might contribute to leaks underground and an even bigger blowout .
+The cap was attached <TIMEX3 tid="t21" type="DATE" value="2010-W28">a week ago</TIMEX3> , and only minor leaks have been detected .
+Allen said earlier in the day that evacuating the vessels could leave the well head unmonitored for <TIMEX3 tid="t24" type="DURATION" value="PXD" mod="EQUAL_OR_LESS">up to a few days</TIMEX3> .
+He said he ordered BP to make sure that the ships carrying the robotic submarines watching the well are the last to leave and the first to return .
+It was unclear <TIMEX3 tid="t26" type="TIME" value="2010-07-15TNI">Thursday night</TIMEX3> whether some of the vessels would go back to port or head further south in the Gulf out of the path of the storm and await orders once the storm passes .
+The Coast Guard cutter Decisive , the hurricane guard for the vessels at the spill site , was awaiting instructions .
+In an evacuation , the Decisive is the last vessel to leave the area .
+Bonnie caused flooding in Puerto Rico , the Dominican Republic and Haiti before reaching tropical storm strength <TIMEX3 tid="t29" type="DATE" value="2010-07-15" mod="END">later Thursday</TIMEX3> , and Allen said crews expected sustained wind above 39 mph at the spill site by <TIMEX3 tid="t30" type="DATE" value="2010-07-17" mod="START">early Saturday</TIMEX3> .
+Seas already were choppy in the Gulf , with waves up to five feet rocking boats as crews prepared to leave , and more of the smaller boats involved in the coastal cleanup were called into port , Coast Guard Rear Adm. Paul Zukunft said .
+Louisiana Gov. Bobby Jindal said he expects local leaders in coastal parishes to call for evacuation of low - lying areas as early as <TIMEX3 tid="t32" type="TIME" value="2010-07-16TMO">Friday morning</TIMEX3> .
+At the spill site , the water no longer looks thick with gooey tar .
+
+But the oil is still there beneath the surface , staining the hull of cutters motoring around in it .
+One large vessel -- the Helix Q4000 -- is burning off oil collected from the water , and bright orange flames flared at the side of the ship .
+Scientists say even a severe storm should n't affect the well cap , nearly a mile beneath the ocean surface 40 miles from the Louisiana coast .
+` ` Assuming all lines are disconnected from the surface , there should be no effect on the well head by a passing surface storm , '' said Paul Bommer , professor of petroleum engineering at University of Texas at Austin .
+Charles Harwell , a BP contractor monitoring the cap , was also confident .
+` ` That cap was specially made , it 's on tight , we ' ve been looking at the progress and it 's all good , '' he said after his ship returned to Port Fourchon , La. .
+Before the cap was attached and closed <TIMEX3 tid="t34" type="DATE" value="2010-W28">a week ago</TIMEX3> , the broken well spewed 94 million to 184 million gallons into the Gulf after the BP - leased Deepwater Horizon rig exploded <TIMEX3 tid="t35" type="DATE" value="2010-04-20">April 20</TIMEX3> , killing 11 workers .
+Work on plugging the well came to a standstill <TIMEX3 tid="t38" type="DATE" value="2010-07-21">Wednesday</TIMEX3> , just days before authorities had hoped to complete the relief shaft .
+Allen said <TIMEX3 tid="t39" type="DATE" value="2010-07-15">Thursday</TIMEX3> he has told BP to go ahead preparing for a second measure called a static kill that would pump mud and cement into the well from the top , a move he said would increase the relief
+well 's chances for success .
+BP will have to get final approval from Allen before starting the procedure .
+Vice President Joe Biden visited cleanup workers in southern Alabama , and said he was cheered the cap could remain on .
+Associated Press writers Colleen Long in Port Fourchon , La. , Michael Kunzelman in New Orleans and Melissa Nelson in Theodore , Ala. , contributed to this report .
+</TimeML>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+BP 's Twitter feed , where the company has been distributing the most up to date information about the oil spill in the Gulf of Mexico .
+BP BP 's Twitter account looked to have fallen victim to hackers <TIMEX3 tid="t2" type="DATE" value="2010-05-27" mod="START">early Thursday</TIMEX3> , with a post referencing a fictional character from a popular fake BP microblog page .
+Followers to the genuine account were told : ` ` Terry is <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3> in charge of operation Top Kill , work will recommence after we find a XXL wetsuit .
+` ` Terry '' ordinarily features on a satirical Twitter account confusingly called @BPGlobalPR , which has poured ridicule on the oil giant 's efforts to plug the Gulf oil spill .
+The fake BP Twitter page was created <TIMEX3 tid="t4" type="DATE" value="2010-W20">a week ago</TIMEX3> and as of <TIMEX3 tid="t5" type="DATE" value="2010-05-27">Thursday</TIMEX3> had more than 54,000 followers -- dwarfing BP 's real account , @BP_America , which has just over 6,700 .
+A BP spokesman previously told The Wall Street Journal the company was aware of the @BPGlobalPR account .
+` ` It 's a shame , but obviously people are entitled to their views , '' he said .
+<TIMEX3 tid="t8" type="DATE" value="2010-05-27">Thursday</TIMEX3> 's post about Terry on the official account was quickly removed .
+</TimeML>

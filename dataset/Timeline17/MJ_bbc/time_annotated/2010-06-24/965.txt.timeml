@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t3" type="DATE" value="2010-06-24">24 June 2010</TIMEX3> Last updated at 14:59 GMT Help <TIMEX3 tid="t6" type="DURATION" value="P1Y">A year</TIMEX3> on from the death of Michael Jackson , the singer 's fans are as passionate about their idol as ever .
+Many have traveled from around the world to be in Los Angeles , US , to mark the anniversary .
+These fans spoke to the BBC outside the LA courthouse where Dr Conrad Murray <TIMEX3 tid="t7" type="DATE" value="PAST_REF">recently</TIMEX3> appeared on a charge of involuntary manslaughter .
+</TimeML>

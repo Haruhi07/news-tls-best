@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON | Mon <TIMEX3 tid="t2" type="DATE" value="2010-06-28">Jun 28 , 2010</TIMEX3> <TIMEX3 tid="t6" type="TIME" value="2010-06-28T09:15">9:15 am</TIMEX3> EDT LONDON -LRB-
+Reuters -RRB- - BP said it had spent $ 300 million on its Gulf of Mexico oil spill response effort in <TIMEX3 tid="t8" type="DURATION" value="P3D">the past three days</TIMEX3> , hitting the $ 100 million\/day spend rate for the first time and bringing its total bill to $ 2.65 billion so far .
+The figures , which BP released in a statement on <TIMEX3 tid="t9" type="DATE" value="2010-06-28">Monday</TIMEX3> , include the cost of trying to cap the well , clean up the environmental damage caused by the leaking crude and pay compensation to those affected by the spill .
+BP added it remained on track to complete its relief well , which aims to kill the leaking well at the point it meets the reservoir , in <TIMEX3 tid="t12" type="DURATION" value="P3M">the three month</TIMEX3> timeframe initially envisaged , despite progress slowing on the well in <TIMEX3 tid="t10" type="DATE" value="PAST_REF">recent days</TIMEX3> .
+<TIMEX3 tid="t14" type="DATE" value="2010-W25">Last week</TIMEX3> , the well was being drilled at the rate of 1,000 feet per day , but the pace dropped to less than 100 feet <TIMEX3 tid="t17" type="DURATION" value="P1D">a day</TIMEX3> over <TIMEX3 tid="t15" type="DATE" value="2010-W25-WE">the weekend</TIMEX3> , as the delicate task of closing in on the leaking well is conducted .
+-LRB-
+Reporting by Tom Bergin ; Editing by David Holmes -RRB-
+We welcome comments that advance the story through relevant opinion , anecdotes , links and data .
+Views expressed in the comments do not represent those of Reuters .
+Tons of documentation
+This discussion is <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">now</TIMEX3> closed .
+We welcome comments on our articles for a limited period after their publication .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

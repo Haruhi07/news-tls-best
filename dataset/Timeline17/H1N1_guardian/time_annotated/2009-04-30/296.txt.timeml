@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+cents One sufferer in Newcastle and two in London <TIMEX3 tid="t6" type="DATE" value="2009-04-30">Thursday</TIMEX3> <TIMEX3 tid="t3" type="DATE" value="2009-04-30">30 April 2009</TIMEX3> 19.10 BST Watch the Department of Health advert showing how to prevent swine flu Link to video : Department of Health releases advert showing how to prevent swine flu
+Three new cases of swine flu have been diagnosed in the UK , one in the north - east and two in London , making eight in total , the Department of Health said <TIMEX3 tid="t5" type="DATE" value="2009-04-30">today</TIMEX3> .
+All three new British victims are said to have mild symptoms and to be responding to treatment at home .
+The Health Protection Agency said 230 possible other cases were under investigation in the UK .
+In Scotland , the health secretary , Nicola Sturgeon , said it was ` ` probable '' that one of the people in contact with honeymooners Iain and Dawn Askham had contracted the disease .
+
+If so , he would be the first person to be diagnosed who had not traveled to Mexico <TIMEX3 tid="t8" type="DATE" value="PAST_REF">recently</TIMEX3> .
+Sturgeon said : ` ` If this case was confirmed it would be the first case in Scotland of onward transmission , but I stress it 's not confirmed at this stage . ''
+She said the person , a male , had tested positive for type A flu and was having further tests to determine whether it was H1N1 .
+The new victim from the north - east , who had <TIMEX3 tid="t9" type="DATE" value="PAST_REF">recently</TIMEX3> returned from Mexico , shares a house with two Newcastle University students living off - campus , the university said <TIMEX3 tid="t10" type="DATE" value="2009-04-30">today</TIMEX3> .
+It said it had spoken to the Health Protection Agency and had decided not to shut down .
+In a statement , the university said : ` ` Neither of the students concerned has so far displayed any flu - like symptoms .
+Both students have received the anti - viral Tamiflu , and they and the university have been advised by the Health Protection Agency that there is no need for the students to isolate themselves from the community unless they show symptoms . ''
+Ireland also reported its first probable case of swine flu <TIMEX3 tid="t12" type="TIME" value="2009-04-30TAF">this afternoon</TIMEX3> , a man who has <TIMEX3 tid="t11" type="DATE" value="PAST_REF">recently</TIMEX3> returned from Mexico .
+The chief medical officer Dr Tony Holohan said tests had shown the man had Influenza A , and he was <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">now</TIMEX3> being tested for H1N1 .
+Pat Wall , professor of public health at University College Dublin , said the case was ` ` likely to be positive '' .
+The latest cases came as the UK 's chief medical officer , Sir Liam Donaldson , said <TIMEX3 tid="t14" type="DATE" value="2009-04-30">today</TIMEX3> he was ` ` concerned but not alarmed '' after the World Health Organisation raised its swine flu global epidemic threat level to phase five , the second highest .
+He said the UK would see ` ` many more cases '' of swine flu but most people would make a good recovery .
+From <TIMEX3 tid="t15" type="DATE" value="2009-05-05">next Tuesday</TIMEX3> , all UK households will receive an information leaflet on swine flu outlining the Department of Health 's to encourage people to use tissues when they sneeze .
+The first Britons confirmed with swine flu have left hospital and are ` ` very well '' , Scotland 's first minister , Alex Salmond , said <TIMEX3 tid="t17" type="DATE" value="2009-04-30">today</TIMEX3> .
+The Askhams had been treated in an isolation ward after falling ill after their honeymoon in Mexico .
+A second newlywed couple who feared they had contracted swine flu in Mexico were among those given the all - clear .
+Pete and Jenny Marshall had been on honeymoon in Canc n , the same resort as the Askhams , and reported flu - like symptoms and other illnesses .
+After the three British cases of swine flu confirmed <TIMEX3 tid="t18" type="DATE" value="2009-04-29">yesterday</TIMEX3> the Department of Health stepped up its emergency response with plans to purchase additional stocks of antiviral drugs and face masks .
+Those three Britons a 12 - year - old girl from Paignton , Devon ; a 41 - year - old woman from Redditch , Worcestershire ; and a 22 - year - old man from north - west London had <TIMEX3 tid="t19" type="DATE" value="PAST_REF">recently</TIMEX3> returned from Mexico .
+The child was on the same flight into Birmingham as the Askhams .
+Her school , Paignton community college , has been closed for <TIMEX3 tid="t21" type="DURATION" value="P1W">a week</TIMEX3> .
+All 267 pupils in her school year and all teachers who might have come into contact with her have been given the antiviral drug Tamiflu , the college principal , Jane English , told a press conference <TIMEX3 tid="t22" type="DATE" value="2009-04-30">today</TIMEX3> .
+English said the girl attended school on <TIMEX3 tid="t24" type="DATE" value="2009-04-29">Wednesday</TIMEX3> to <TIMEX3 tid="t25" type="DATE" value="2009-04-24">Friday</TIMEX3> <TIMEX3 tid="t23" type="DATE" value="2009-W17">last week</TIMEX3> after returning from holiday but had not been in since .
+Dr Sarah Harrison , a public health consultant for Torbay Care trust , said of the afflicted pupil : ` ` She is suffering from flu , so she 's not feeling very well , but she 's improving . ''
+She said 340 courses of Tamiflu had been given out in Devon and dozens of people were being monitored for the virus in the area .
+Chemists in Torbay were selling out of face masks , nasal sprays and hand washes <TIMEX3 tid="t26" type="DATE" value="2009-04-30">today</TIMEX3> .
+A spokesman for Crossways pharmacy , also in Paignton , said : ` ` Our customers are very keen to take precautionary measures against swine flu .
+So far we have sold out of medicated hand gels and completely sold out of face masks .
+We sold out within hours of the first case in Torbay being announced . ''
+</TimeML>

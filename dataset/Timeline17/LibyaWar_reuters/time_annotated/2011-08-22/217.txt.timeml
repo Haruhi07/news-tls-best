@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Mon <TIMEX3 tid="t2" type="DATE" value="2011-08-22">Aug 22 , 2011</TIMEX3> <TIMEX3 tid="t4" type="TIME" value="2011-08-22T09:12">9:12 am</TIMEX3> EDT -LRB-
+Reuters -RRB- - <TIMEX3 tid="t5" type="DURATION" value="P6M">Six months</TIMEX3> of civil war have left Libya 's oil industry in chaos , with fields that once pumped around 1.6 million barrels per day -LRB- bpd -RRB- deserted and export terminals , pumping stations and pipelines damaged by fighting and sabotage .
+But with opposition fighters <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">now</TIMEX3> in control of most parts of the capital , Tripoli , and the battle for control of the country probably in its final phase , industry executives and analysts say much of the country 's oil output could be resurrected within months if peace can be established quickly .
+Although it will struggle to return to pre - war output for the foreseeable future , output of as much as 1 million bpd could be feasible within months , they say .
+Much will depend on the damage done to infrastructure and equipment in the last stages of the fighting between forces loyal to Muammar Gaddafi and rebels trying to end his <TIMEX3 tid="t8" type="DURATION" value="P41Y">41 years</TIMEX3> of rule .
+An official working for Libya 's Arabian Gulf Oil Company -LRB- AGOCO -RRB- , which has been operating the Sarir and Mesla oilfields under rebel control , said on <TIMEX3 tid="t9" type="DATE" value="2011-08-19">Friday</TIMEX3> that output from its area could resume within <TIMEX3 tid="t10" type="DURATION" value="P3W">three weeks</TIMEX3> .
+` ` Our fields are under maintenance and we 're still waiting for security , '' Abdeljalil Mayouf , information manager at AGOCO told Reuters .
+` ` When the security is OK we will start .
+Perhaps <TIMEX3 tid="t12" type="DURATION" value="P2W">two</TIMEX3> or <TIMEX3 tid="t11" type="DURATION" value="P3W">three weeks</TIMEX3> after the improvement in security .
+In <TIMEX3 tid="t13" type="DURATION" value="P3W">three weeks</TIMEX3> maybe . ''
+But even if Gaddafi avoids a bloody finish , his departure could usher in a new period of instability and uncertainty .
+Analysts , oil companies and Western governments worry that the opposition is riven by internal division , which could prompt new fighting after Gaddafi has been removed from power , jeopardizing both post - war recovery and the resumption of oil exports .
+War and other traumas in oil producing nations have typically had a lasting impact on output .
+The speed of recovery in oil output depends crucially on how quickly international companies with highly evolved skills can be brought in .
+Following are details of Libya 's oil industry , production and assessments of how long it may take to restore output .
+\
+*
+Until <TIMEX3 tid="t18" type="DATE" value="2011" mod="START">the beginning of this year</TIMEX3> , OPEC member Libya was the world 's 17th - largest oil producer and Africa 's third - largest .
+It holds the continent 's largest crude oil reserves .
+It sold about 85 percent of its exports to Europe .
+\ * Oil production was equivalent to about 2 percent of global consumption , but fighting and social disruption have cut this to less than 100,000 bpd , and exports have stopped altogether .
+Many oilfields are dependent on foreign workers , who have almost all left the country .
+\ *
+Most of Libya 's oilfields are around the Sirte Basin , which contains around 80 percent of its proven reserves and spans the front line between rebel and government forces .
+Many other key parts of the country 's oil industry are still held by forces loyal to Gaddafi .
+\ *
+Libya has six major oil export terminals , listed with loading volumes for <TIMEX3 tid="t19" type="DATE" value="2011-01">January</TIMEX3> from the IEA .
+The condition of these facilities <TIMEX3 tid="t20" type="DATE" value="PRESENT_REF">now</TIMEX3> is not clear : - Es Sider -LRB- 447,000 bpd
+-RRB- - Ras Lanuf -LRB- 195,000 bpd -RRB- \ *
+Damage to infrastructure was reported to be light during the first few months of fighting as both sides hoped to take full control of the country 's oil industry .
+In <TIMEX3 tid="t21" type="DATE" value="2011-03">March</TIMEX3> , officials said the terminals of Ras Lanuf , Zueitina and Es Sider had suffered only minor damage during fighting and some other oil towns had been left untouched .
+\ *
+But damage has increased as fighting has continued and rebels have reported significant damage to oil infrastructure <TIMEX3 tid="t22" type="DATE" value="2011-08">this month</TIMEX3> .
+It has not been possible to independently confirm reports of damage being done to oil installations , an accusation rebels have previously leveled at government forces .
+\
+*
+Libya 's oil industry was formerly run by the state National Oil Co , which accounted for around 50 percent of the country 's output .
+\ * Since fighting began , the Libyan National Council , with the help of Qatar has been able to export a minimal amount of crude oil in the form of two partially laden tankers .
+The oil for these cargoes was reported previously to have been in storage .
+One of these cargoes went to a U.S. refinery and the other to Italy .
+No exports have been reported for <TIMEX3 tid="t23" type="DURATION" value="PXW">several weeks</TIMEX3> .
+\
+*
+It is not clear how the oil industry will be structured after the war , but it may be placed in the hands of AGOCO .
+\ *
+A Reuters poll of 20 analysts and industry officials <TIMEX3 tid="t27" type="DATE" value="2011-07">last month</TIMEX3> forecast it would take <TIMEX3 tid="t28" type="DURATION" value="P1Y" mod="EQUAL_OR_LESS">up to one year</TIMEX3> to restore Libyan output to at least 1 million bpd but <TIMEX3 tid="t29" type="DURATION" value="P2Y" mod="EQUAL_OR_LESS">up to two years</TIMEX3> to get back to pre - civil war levels of 1.6 million bpd .
+\
+*
+The longest forecast for a full recovery of oil output came from David Wech , head of research at Vienna - based consultants JBC Energy .
+He said a return to full output capacity could take <TIMEX3 tid="t31" type="DURATION" value="P3Y">three</TIMEX3> to <TIMEX3 tid="t30" type="DURATION" value="P4Y">four years</TIMEX3> because significant investment in infrastructure would be necessary .
+\ * Oil industry consultancy Wood Mackenzie said it would take <TIMEX3 tid="t33" type="DURATION" value="P3Y" mod="APPROX">around 36 months</TIMEX3> for the country to recover its full production capacity , from whenever the crisis is resolved .
+It estimates that substantial oil volumes could be back in the market by <TIMEX3 tid="t36" type="DATE" value="2012" mod="END">late 2012</TIMEX3> if a resolution is achieved by <TIMEX3 tid="t37" type="DATE" value="2011" mod="END">the end of 2011</TIMEX3> .
+But the recovery period will extend if production remains shut - in for longer , as infrastructure continues to deteriorate .
+\ * Samuel Ciszuk , senior Middle East & North Africa energy analyst with IHS Energy , said oil output could theoretically be restored in <TIMEX3 tid="t41" type="DURATION" value="P18M">18 months</TIMEX3> but that this would be the most optimistic scenario .
+\
+* ` ` Once there is a degree of security for their personnel , it should not take too long for the oil firms to get their workers back in .
+If the money 's right they will go back , '' said Mike Wittner , Societe Generale head of oil market research in New York .
+But it was difficult to assess how much damage had been done to oil facilities during the war , he said .
+` ` No one really has a clear idea of how much damage to the oil infrastructure there has been ...
+Anytime you shut a field down quickly and run off in a panic there will be problems . ''
+\ * Foreign oil firms , essential for the quick resumption of production , have spoken to rebels at length , but the future of existing contracts with Gaddafi 's government is uncertain .
+\ * Italian producer ENI , present in Libya since <TIMEX3 tid="t43" type="DATE" value="195">the 1950s</TIMEX3> , is the biggest foreign oil company there , producing 270,000 boed -LRB- barrels of oil equivalent per day -RRB- in <TIMEX3 tid="t42" type="DATE" value="2010">2010</TIMEX3> .
+Its contracts are in force to <TIMEX3 tid="t44" type="DATE" value="2042">2042</TIMEX3> for oil production , but it is not yet clear if they would be honored by any future government .
+\
+*
+The total equity share of the following foreign companies -- many of which operated fields on behalf of Libya 's National Oil Co -- amounted to almost 500,000 bpd before the conflict began .
+The legal status of contracts after the civil war will need to be clarified .
+We welcome comments that advance the story through relevant opinion , anecdotes , links and data .
+Views expressed in the comments do not represent those of Reuters .
+The local work force is either unwilling , untrained , or just plain lazy to perform operations at the refineries .
+This sadly is the underlying motives NATO and USA , Inc. have for regime change in Libya .
+If it were not for the petroleum reserves and the opportunity for controlling them , I seriously doubt if NATO would have ever stepped in to help .
+This discussion is <TIMEX3 tid="t45" type="DATE" value="PRESENT_REF">now</TIMEX3> closed .
+We welcome comments on our articles for a limited period after their publication .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

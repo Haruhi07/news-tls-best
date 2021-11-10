@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t5" type="DATE" value="2010-11-28">Sunday</TIMEX3> , <TIMEX3 tid="t3" type="DATE" value="2010-11-28">November 28 , 2010</TIMEX3> ; <TIMEX3 tid="t7" type="TIME" value="2010-11-28T18:43">6:43 PM</TIMEX3> BP has agreed to sell its share of an Argentina - based oil and gas company for $ 7.06 billion in cash , bringing to about $ 21 billion its total sales of assets to help cover costs stemming from the Gulf of Mexico oil spill .
+After the sale , BP will be most of the way toward its goal of selling as much as $ 30 billion in assets by <TIMEX3 tid="t9" type="DATE" value="2011" mod="END">the end of 2011</TIMEX3> to help cover spill costs and bolster cash holdings to assure investors and lenders of the oil giant 's financial stability .
+The sales are expected to reduce BP 's assets by 10 to 15 percent .
+The price of the Argentina operations fell $ 2 billion to $ 3 billion short of what many analysts expected .
+Nonetheless , the latest sale of what is considered a non - core asset for BP demonstrates the huge scale of the London - based oil firm 's operations .
+In addition to asset sales , BP is raising more than $ 2.5 billion a quarter for spill costs from the suspension of its dividend .
+BP announced <TIMEX3 tid="t16" type="DATE" value="2010-11-28">Sunday</TIMEX3> that it would sell its 60 percent interest in Pan American Energy 's oil and gas operations in Argentina to Bridas Corp. , which already owns the other 40 percent .
+BP acquired the interest when it bought Amoco in <TIMEX3 tid="t17" type="DATE" value="1999">1999</TIMEX3> .
+Since then , BP has revived output from the aging Argentine fields , which <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">now</TIMEX3> produce about 100,000 barrels of oil <TIMEX3 tid="t20" type="DURATION" value="P1D">a day</TIMEX3> and 450 million cubic feet of natural gas per day .
+The vast bulk of that production comes from one field , Cerro Dragon , about 900 miles south of Buenos Aires .
+But Argentina 's tax policies have diminished the attractiveness of operating there , analysts said .
+Bridas was founded by the Bulgheroni family of Argentina .
+In <TIMEX3 tid="t21" type="DATE" value="2011-05">May</TIMEX3> , the China National Offshore Oil Corp. , which has been expanding its worldwide operations , bought 50 percent of Bridas for $ 3.1 billion .
+CNOOC 's deep pockets helped make the BP sale possible ; it will provide much of the cash for the transaction .
+The price CNOOC paid <TIMEX3 tid="t23" type="DATE" value="2010" mod="START">earlier this year</TIMEX3> for its share of Bridas led many analysts to believe that BP would get more for its interests .
+The CNOOC purchase of Bridas implied a value of $ 15.5 billion for the entire Pan American Energy operation .
+That would have translated into a price of $ 9.3 billion for BP 's share .
+The sale does not include Pan American 's operations in Bolivia .
+` ` <TIMEX3 tid="t24" type="DATE" value="2010-11-28">Today</TIMEX3> 's agreement further demonstrates both the high quality and attractiveness of the assets throughout BP 's global portfolio and also the company 's ability to meet our significant financial commitments arising from the Gulf of Mexico tragedy , '' BP chief executive Bob Dudley said in a statement .
+At the end of <TIMEX3 tid="t25" type="DATE" value="2010-Q3">the third quarter</TIMEX3> , BP had incurred costs of $ 11.6 billion as a result of the oil spill , not counting the $ 3 billion first installment it had paid into a $ 20 billion escrow fund .
+Even after those payments , the company had nearly $ 13 billion in cash and $ 17 billion of bank facilities it could draw down .
+The company expects the total cost of the oil spill to ultimately reach $ 40 billion .
+Dudley said BP would seek to sell other assets that might be ` ` strategically more valuable to others than to BP . ''
+Under the terms of the agreement , Bridas will pay BP a cash deposit of $ 3.53 billion , with the balance of the proceeds due on completion of the sale , which is expected to be completed by <TIMEX3 tid="t31" type="DATE" value="2009-12-28">Dec. 28</TIMEX3> .
+In China , CNOOC announced that it would join with Bridas 's Argentine shareholders to provide $ 4.94 billion , or 70 percent , of the purchase price .
+The remaining 30 percent will be covered by loans , or additional cash contributions if necessary .
+As of <TIMEX3 tid="t33" type="DATE" value="2009-12-31">Dec. 31 , 2009</TIMEX3> , BP 's 60 percent interest in Pan American accounted for 917 million barrels of oil equivalent reserves , about 5 percent of the company 's overall reserves .
+Production from Pan American accounted for 3.6 percent of BP 's global output . ''
+</TimeML>

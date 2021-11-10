@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+There are hundreds of earthquakes around the world <TIMEX3 tid="t1" type="SET" value="P1Y" quant="EACH">each year</TIMEX3> but only a few cause serious damage .
+The figures above seek to measure an earthquake in terms of the energy it releases .
+The scale used to measure earthquakes is unusual .
+For example , the difference in strength between an earthquake of magnitude five and a magnitude six earthquake is much more dramatic than a rise of just one unit would suggest .
+In fact a magnitude six earthquake possesses 32 times more energy than a magnitude five quake , as seismologists use a logarithmic scale to record these natural disasters .
+That means that a gap of two steps , from five to seven , represent an earthquake nearly 1,000 times stronger .
+Those quakes likely to cause the most destruction measure 7.0 and above .
+The <TIMEX3 tid="t2" type="DATE" value="2004">2004</TIMEX3> earthquake which triggered the Asian tsunami was the third biggest quake since <TIMEX3 tid="t3" type="DATE" value="1900">1900</TIMEX3> .
+There are an estimated 20 major quakes in the world <TIMEX3 tid="t4" type="SET" value="P1Y" quant="EVERY">every year</TIMEX3> according to the US Geological Survey .
+The Haiti quake measured 7.0 and because the epicentre was so close to the ill prepared capital , Port - au - Prince , the damage was severe , and over 200,000 people died as a result .
+The death toll in Haiti is in stark contrast to the magnitude 8.8 earthquake that struck Chile in <TIMEX3 tid="t7" type="DATE" value="2010-02">February 2010</TIMEX3> where less than 1,000 people died .
+Chile has a long history of strong earthquakes .
+The largest recorded earthquake took place there in <TIMEX3 tid="t8" type="DATE" value="1960">1960</TIMEX3> .
+It measured 9.5 and was also followed by tsunamis .
+About 1,655 people were killed - it 's thought the casualties were comparatively light because there were a number of warning shocks which sent people running out of their homes before the main quake .
+</TimeML>

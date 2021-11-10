@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+A man looks at an electronic board at a brokerage house in Shanghai <TIMEX3 tid="t3" type="DATE" value="2011-04-06">April 6 , 2011</TIMEX3> .
+NEW YORK | Fri <TIMEX3 tid="t6" type="DATE" value="2011-04-08">Apr 8 , 2011</TIMEX3> <TIMEX3 tid="t10" type="TIME" value="2011-04-08T23:29">11:29 pm</TIMEX3> BST NEW YORK -LRB-
+Reuters -RRB- - Oil rose to a 32 - month high on <TIMEX3 tid="t8" type="DATE" value="2011-04-08">Friday</TIMEX3> above $ 126 a barrel on concerns of long - term supply cuts as expectations of more interest rate hikes in the euro zone drove the euro to a 15 - month peak against the dollar .
+Commodities , including metals , gained broadly on expectations of stronger demand , the weak U.S. dollar and , in some cases , the threat of supply shortages .
+Global equities were boosted by optimism the worldwide economic recovery will fuel demand for commodities , and shares earlier hit their highest level in <TIMEX3 tid="t11" type="DURATION" value="P3Y" mod="LESS_THAN">almost three years</TIMEX3> .
+
+But lofty oil prices became less appealing as the day wore on , and Wall Street was lower by mid afternoon .
+Brent crude surged $ 3.74 to $ 126.41 per barrel , its highest level since <TIMEX3 tid="t14" type="DATE" value="2008-08">August 2008</TIMEX3> as the war in Libya , unrest elsewhere in the Arab world and postponed elections in Nigeria drove a bullish attitude on oil .
+U.S. crude rose to a 30 - month high , up $ 2.27 at $ 112.57 .
+` ` It 's definitely momentum trading on all the troubles :
+Libya , Nigeria , Yemen , Bahrain and also on the uncertainty about a -LRB- U.S. -RRB- budget deal .
+No one is going to want to go home too short <TIMEX3 tid="t15" type="DATE" value="2011-W14-WE">this weekend</TIMEX3> , '' said Dan Flynn , analyst at PFGBest Research in Chicago .
+The greenback was pressured by the prospect of a U.S. government shutdown .
+Republicans and Democrats have been in budget talks trying to reach an agreement that would avert a government shutdown at midnight .
+
+A stopgap bill that Democrats hope to pass in the Senate on <TIMEX3 tid="t17" type="DATE" value="2011-04-08">Friday</TIMEX3> would fund the Pentagon through the rest of the fiscal year and other arms of government for another week at <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">current</TIMEX3> levels , Senate Democratic Leader Harry Reid said .
+Boosted by <TIMEX3 tid="t20" type="DATE" value="2011-04-07">Thursday</TIMEX3> 's European Central Bank rate hike , the euro rose to its highest since <TIMEX3 tid="t21" type="DATE" value="2010-01">January 2010</TIMEX3> .
+The currency was up 0.9 percent at $ 1.4432 with a session peak of $ 1.4444 .
+The ECB 's move to raise its key interest rate to 1.25 percent has widened the euro zone 's yield advantage over the United States , Britain and Japan , where rates remain at record lows .
+ECB President Jean - Claude Trichet said policymakers were ready to tighten further if needed .
+But he stressed the ECB had not decided that <TIMEX3 tid="t22" type="DATE" value="2011-04-07">Thursday</TIMEX3> 's move was the first in a series .
+Stronger - than - expected German trade data helped underscore the health of the euro zone 's largest economy , helping investors sidestep resurgent doubts over the resilience of the zone following Portugal 's request <TIMEX3 tid="t23" type="DATE" value="2011-W14">this week</TIMEX3> for aid to cope with its debt .
+Libyan rebels said they repulsed a government assault on the besieged city of Misrata but prospects faded for a military overthrow of Muammar Gaddafi .
+Protests erupted across much of the Arab world on <TIMEX3 tid="t24" type="DATE" value="2011-04-08">Friday</TIMEX3> , the Muslim day of prayer , with demonstrators dying in Syria and Yemen .
+Egyptians staged one of the biggest rallies since President Hosni Mubarak 's fall .
+Spot gold hit a record high for the fourth day in a row and silver climbed past the $ 40 an ounce level for the first time since <TIMEX3 tid="t27" type="DATE" value="1980">1980</TIMEX3> .
+Miners drove European stocks and the FTSEurofirst 300 index .
+FTEU3 closed up 0.4 percent at a five - week closing high .
+` ` The next big thing is the U.S. earnings season , '' said Matt Brown , trader at Catalyst Markets .
+` ` If we want the market to have further momentum we need the upside surprises to continue , otherwise investors may step away . ''
+The MSCI main world equity index .
+MIWD00000PUS rose 0.4 percent , earlier rising to its highest since <TIMEX3 tid="t34" type="DATE" value="2008-07">July 2008</TIMEX3> and on track for its third consecutive weekly gain .
+The Dow Jones industrial average .
+DJI fell 67.47 points , or 0.54 percent , to 12,342.02 .
+The Standard & Poor 's 500 Index .
+SPX gave up 7.88 points , or 0.59 percent , to 1,325.63 .
+The Nasdaq Composite Index .
+IXIC lost 20.10 points , or 0.72 percent , to 2,776.04 .
+In Washington , the White House and Congress worked to break a budget deadlock and avoid a federal government shutdown , after President Barack Obama and congressional leaders failed to reach a deal in late - night talks .
+Investment firm Goldman Sachs -LRB- GS .
+N -RRB- estimated a government shutdown lasting <TIMEX3 tid="t37" type="DURATION" value="P1W" mod="MORE_THAN">more than a week</TIMEX3> could cost the economy $ 8 billion in missed federal spending , dragging down growth .
+</TimeML>

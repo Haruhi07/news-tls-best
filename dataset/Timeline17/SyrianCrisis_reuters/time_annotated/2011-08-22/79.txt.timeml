@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON | Mon <TIMEX3 tid="t2" type="DATE" value="2011-08-22">Aug 22 , 2011</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2011-08-22T15:39">3:39 pm</TIMEX3> BST LONDON -LRB-
+Reuters -RRB- - Bank of England policymaker Ben Broadbent has softened his hawkish stance on inflation because of concerns over economic weakness , he said in an interview on <TIMEX3 tid="t4" type="DATE" value="2011-08-22">Monday</TIMEX3> , his first since joining the rate - setting Monetary Policy Committee .
+The former Goldman Sachs economist succeeded arch - hawk Andrew Sentance on the Bank 's nine - man rate - setting body , but has not copied Sentance 's stance , voting to leave monetary policy unchanged in <TIMEX3 tid="t6" type="DATE" value="2011-06">June</TIMEX3> , <TIMEX3 tid="t7" type="DATE" value="2011-07">July</TIMEX3> and <TIMEX3 tid="t8" type="DATE" value="2011-08">August</TIMEX3> .
+The UK economy is squeezed between high inflation -- more than double the Bank 's two percent target -- and low growth , and a Reuters poll consensus <TIMEX3 tid="t10" type="DATE" value="2011-W33">last week</TIMEX3> was for interest rates to be kept at record lows at least until <TIMEX3 tid="t11" type="DATE" value="2011-10">next October</TIMEX3> .
+` ` It 's clear that the outlook has softened since <TIMEX3 tid="t13" type="DATE" value="2011" mod="START">earlier this year</TIMEX3> , and the latest forecasts both internationally and for the domestic economy are for continued growth but at a rate lower than people expected <TIMEX3 tid="t14" type="DATE" value="PAST_REF">some months ago</TIMEX3> and certainly lower than one would expect in a , quote , normal economic recovery , '' Broadbent told BBC Radio 4 .
+` ` I was probably on that -LRB-
+hawkish -RRB- side of the debate when I arrived at the Bank <TIMEX3 tid="t17" type="DATE" value="2011" mod="START">earlier this year</TIMEX3> ...
+I was concerned that a long period of above - target inflation might dislodge medium - term expectations of future inflation and find their way into other prices and wages , '' he added .
+` ` That has n't happened and , as I say , the outlook for growth domestically as well as globally has weakened in the last <TIMEX3 tid="t20" type="DURATION" value="P3M">three</TIMEX3> or <TIMEX3 tid="t19" type="DURATION" value="P4M">four months</TIMEX3> , so I would describe myself <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">now</TIMEX3> as much more in the middle of the debate . ''
+Broadbent said the MPC 's assumption was that there had been a permanent loss of output in Britain and appeared to hint at a scenario in which more quantitative easing would be considered .
+` ` I still believe there 's significant spare capacity in the economy , and that means that interest rates are low , '' he said .
+` ` If that outlook changed in a way which would lower the prospects for inflation over the medium term , maybe more could be done . ''
+The Bank <TIMEX3 tid="t21" type="DATE" value="2011-W33">last week</TIMEX3> inched closer to launching a second round of quantitative easing after two policymakers unexpectedly dropped their call for higher interest rates .
+Only long - standing dove Adam Posen called for more QE <TIMEX3 tid="t22" type="DATE" value="2011-08">this month</TIMEX3> but other policymakers considered it .
+The Bank has held rates at a record low of 0.5 percent since <TIMEX3 tid="t27" type="DATE" value="2009-03">March 2009</TIMEX3> and purchased 200 billion pounds of financial assets , mostly gilts , with newly - created money between then and <TIMEX3 tid="t28" type="DATE" value="2010-01">January 2010</TIMEX3> .
+-LRB-
+Reporting by Keith Weir and Olesya Dmitracova ; editing by Stephen Nisbet -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

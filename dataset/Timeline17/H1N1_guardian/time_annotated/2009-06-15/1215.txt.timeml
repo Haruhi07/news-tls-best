@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Family devastated by death of Scottish swine flu victim
+The prematurely born son of Jacqui Fleming , the mother who died <TIMEX3 tid="t1" type="DATE" value="2009-06-14">yesterday</TIMEX3> from swine flu , has also died <TIMEX3 tid="t2" type="TIME" value="2009-06-15TNI">tonight</TIMEX3>
+The Royal Alexandra Hospital in Paisley , Scotland .
+Photograph : David Moir\/Reuters The family of the first British swine flu patient to die said <TIMEX3 tid="t3" type="DATE" value="2009-06-15">today</TIMEX3> they were ` ` absolutely devastated '' as health experts tried to allay public fears about the virulence of the virus .
+Jacqui Fleming , 38 , from Carnwadric in south Glasgow , was named <TIMEX3 tid="t5" type="DATE" value="2009-06-15">today</TIMEX3> as the first person outside the Americas to have died since the H1N1 virus first emerged in Mexico <TIMEX3 tid="t4" type="DATE" value="2009-03" mod="MORE_THAN">more than three months ago</TIMEX3> .
+Fleming had underlying health problems , and died in intensive care at the Royal Alexandra hospital in Paisley on <TIMEX3 tid="t7" type="DATE" value="2009-06-14">Sunday</TIMEX3> , <TIMEX3 tid="t8" type="DURATION" value="P2W">two weeks</TIMEX3> after giving birth prematurely to her third child .
+The birth was induced <TIMEX3 tid="t9" type="DURATION" value="P3M" mod="LESS_THAN">nearly three months</TIMEX3> early because of her critical condition .
+NHS Greater Glasgow said <TIMEX3 tid="t11" type="TIME" value="2009-06-15TNI">tonight</TIMEX3> that her son , named Jack , also died <TIMEX3 tid="t10" type="DATE" value="2009-06-15">today</TIMEX3> .
+An NHS spokesman said the baby did not die from swine flu .
+A statement issued on behalf of Ms Fleming 's partner William McCann , said : ` ` My beautiful son was born on <TIMEX3 tid="t14" type="DATE" value="2009-06-01">1st June 2009</TIMEX3> , <TIMEX3 tid="t18" type="DURATION" value="P11W">11 weeks</TIMEX3> early .
+` ` He suffered from a number of complications and despite his brave fight he passed away <TIMEX3 tid="t19" type="TIME" value="2009-06-15TEV">earlier this evening</TIMEX3> at the Special Care Baby Unit at the Royal Alexandra Hospital in Paisley .
+` ` Coming so soon after the death of his mum , this is an extremely distressing and difficult time for our family and I would ask the media to respect our privacy as we try to cope with the loss of Jacqueline and Jack . ''
+A statement from NHS Greater Glasgow said : ` ` <TIMEX3 tid="t20" type="TIME" value="2009-06-15TEV">Earlier this evening</TIMEX3> , baby Jack , the son of Jacqueline Fleming and her partner William McCann , tragically passed away . ''
+She leaves two other children , one boy aged 18 and another at primary school .
+Her family said : ` ` Our whole family is absolutely devastated and we are doing everything we can to support Jacqueline 's two sons and her partner .
+` ` Jacqueline has been ill in hospital for a number of weeks but nothing can prepare you for such shattering news . ''
+Alex Salmond , the Scottish secretary , and Nicola Sturgeon , the Scottish health secretary , were joined by Ed Balls , the UK government 's children , schools and families secretary , in sending the family condolences .
+A family friend said the death was a tragedy .
+` ` I think they are taking it really badly , '' she said .
+` ` They hoped she was going to pull through and it was a shock when she died .
+She was a really nice lady , really kind , a quiet woman , just a family person really . ''
+Fleming was one of 10 people in hospital with swine flu in Scotland , where hospitalisation rates are the same as in the United States , the second worst affected country .
+The total UK figure jumped to 1,320 <TIMEX3 tid="t21" type="DATE" value="2009-06-15">today</TIMEX3> , with a further 59 cases in England , chiefly in the West Midlands .
+However , Sir Liam Donaldson , the chief medical officer for England and Wales , said the virus was causing very few illnesses compared with normal seasonal flu viruses , although a ` ` large surge '' in numbers was likely <TIMEX3 tid="t22" type="DATE" value="2009-FA">this autumn</TIMEX3> .
+With more than 30,000 people affected worldwide , the World Health Organisation reported <TIMEX3 tid="t24" type="DATE" value="2009-06-12">last Friday</TIMEX3> that only 145 had died .
+Pregnant women were more vulnerable to this particular virus , Donaldson added .
+` ` If we look at the pattern of this illness worldwide , generally for most people it has n't been a severe illness , '' he said .
+` ` In a bad seasonal flu <TIMEX3 tid="t26" type="DATE" value="2009-WI">winter</TIMEX3> we would get between 400,000 to 500,000 people falling ill with flu . ''
+Professor Hugh Pennington , a bacteriologist at Aberdeen University , said that swine flu deaths were not unexpected .
+` ` It does not point to the virus getting nastier .
+All the evidence to date suggests the virus is not changing at all , '' he said .
+` ` This is a flu virus , it is in no way different from an ordinary <TIMEX3 tid="t27" type="DATE" value="2009-WI">winter</TIMEX3> flu virus , so if there are enough cases some people will have to be admitted to hospital and some will die . ''
+</TimeML>

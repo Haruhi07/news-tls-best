@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t4" type="DURATION" value="P3M">Three months</TIMEX3> after the earthquake of <TIMEX3 tid="t3" type="DATE" value="2010-01">January 2010</TIMEX3> , Haiti is still trying to recover .
+President Rene Preval thanks the world for the aid , but says that Haiti must not become reliant on the aid .
+Michel Chancy , the Agriculture Minister says that foreign food aid risks flooding the market and bringing prices too low for local producers to compete .
+Reporter Mark Doyle visits a large temporary camp for people who have lost their homes .
+The children recieve <TIMEX3 tid="t7" type="DURATION" value="PTXH">a few hours</TIMEX3> schooling <TIMEX3 tid="t6" type="SET" value="P1D" quant="EACH">each day</TIMEX3> , but it is <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">now</TIMEX3> a priority for Haiti to re - house people more premanently ahead of the rainy season .
+This BBC News clip is published as part of BBC News Online and was first broadcast on <TIMEX3 tid="t10" type="DATE" value="2010-03-10">10 March 2010</TIMEX3> .
+Please note this clip is only available in Flash .
+Ideas for use in class To support debate on the value of international aid and how it should be used , how to avoid unintended consequences such as those suggested in the video .
+To support project work on Haiti following the earthquake .
+</TimeML>

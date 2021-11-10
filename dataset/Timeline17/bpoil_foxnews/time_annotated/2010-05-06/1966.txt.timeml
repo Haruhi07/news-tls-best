@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t2" type="DATE" value="2010-05-06">May 6</TIMEX3> : Oil collects just offshore of Freemason Island , La. .
+Oil giant BP PLC 's oil rig exploded <TIMEX3 tid="t4" type="DATE" value="2010-04-20">April 20</TIMEX3> , in the Gulf of Mexico killing 11 workers .
+It sank <TIMEX3 tid="t5" type="DATE" value="2010-04-22">two days later</TIMEX3> , and oil is still pouring into the Gulf .
+-LRB- AP -RRB- U.S. officials confirmed <TIMEX3 tid="t7" type="DATE" value="2010-05-06">Thursday</TIMEX3> the first oil sheen to reach land from the massive spill in the Gulf of Mexico -- washing up on a beach on an uninhibited Louisiana island .
+There had been reports for <TIMEX3 tid="t8" type="DATE" value="2010-W17">the past week</TIMEX3> that oil had washed ashore , but Coast Guard officials told FoxNews.com that until <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">now</TIMEX3> , none of those reports had been confirmed by the government agencies responding to the spill .
+The bulk of the oil spill remains off the coast , and what is arriving on shore <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">now</TIMEX3> is ` ` largely just sheen , '' Coast Guard Petty Officer Connie Terrell told Reuters .
+` ` There is no evidence of medium or heavy oil . ''
+Officials were first notified <TIMEX3 tid="t13" type="TIME" value="2010-05-05TNI">Wednesday night</TIMEX3> about the oil on Freemason Island in the Chandeleur chain , and it was confirmed <TIMEX3 tid="t12" type="DATE" value="2010-05-06">Thursday</TIMEX3> , a Coast Guard official told FoxNews.com .
+Winds in the Gulf region are expected to pick up <TIMEX3 tid="t14" type="DATE" value="2010-05-01">Saturday</TIMEX3> into <TIMEX3 tid="t15" type="DATE" value="2010-05-02">Sunday</TIMEX3> causing the spill to be tougher to contain .
+Workers , meanwhile , gathered <TIMEX3 tid="t16" type="DATE" value="2010-05-06">Thursday</TIMEX3> to begin lowering a giant concrete - and - steel box over the blown - out oil well at the bottom of the sea in a risky and untested bid to capture most of the gushing crude and avert a wider environmental disaster .
+` ` We have n't done this before .
+It 's very complex and we ca n't guarantee it , '' BP spokesman David Nicholas warned .
+The 100 - ton containment vessel is designed to collect as much as 85 percent of the oil spewing into the Gulf and funnel it up to a tanker .
+It could take <TIMEX3 tid="t17" type="DURATION" value="PTXH">several hours</TIMEX3> to lower it into place by crane , after which a steel pipe will be installed between the top of the box and the tanker .
+The whole structure could be operating by <TIMEX3 tid="t18" type="DATE" value="2010-05-02">Sunday</TIMEX3> .
+The technology has been used a few times in shallow waters , but never at such extreme depths -- 5,000 feet down , where the water pressure is enough to crush a submarine .
+The box -- which looks a lot like a peaked , 40 - foot - high outhouse , especially on the inside , with its rough timber framing -- must be accurately positioned over the well , or it could damage the leaking pipe and make the problem worse .
+Other risks include ice clogs in the pipes -- a problem that crews will try to prevent by continuously pumping in warm water and methanol -- and the danger of explosion when separating the mix of oil , gas and water that is brought to the surface .
+` ` I ' m worried about every part , as you can imagine , '' said David Clarkson , BP vice president of engineering projects .
+If the box works , a second one <TIMEX3 tid="t20" type="DATE" value="PRESENT_REF">now</TIMEX3> being built may be used to deal with a second , smaller leak from the sea floor .
+` ` Hopefully , it will work better than they expect , '' first mate Douglas Peake told The Associated Press aboard the ship that brought the box to the site .
+The well blew open on <TIMEX3 tid="t24" type="DATE" value="2010-04-20">April 20</TIMEX3> when the Deepwater Horizon drilling platform exploded 50 miles out in the Gulf of Mexico , killing 11 workers .
+The well has been spewing an estimated 200,000 gallons <TIMEX3 tid="t27" type="DURATION" value="P1D">a day</TIMEX3> in the nation 's biggest oil spill since the Exxon Valdez disaster in Alaska in <TIMEX3 tid="t25" type="DATE" value="1989">1989</TIMEX3> .
+Oil slicks stretched for miles off the Louisiana coast , where desperate efforts were under way to skim , corral and set the petroleum ablaze .
+People in Mississippi , Alabama and Florida watched in despair .
+</TimeML>

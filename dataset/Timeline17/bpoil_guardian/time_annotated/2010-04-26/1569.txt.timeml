@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Industry officials acknowledge it could take months to entirely contain leak from well on ocean floor The Deepwater Horizon oil rig burning <TIMEX3 tid="t1" type="DATE" value="2010-W16">last week</TIMEX3> .
+It later sank with the presumed loss of 11 lives .
+Photograph : Gerald Herbert\/AP Underwater robots dived to the ocean floor <TIMEX3 tid="t4" type="DATE" value="2010-04-25">yesterday</TIMEX3> in a new effort to staunch the 42,000 gallons of oil <TIMEX3 tid="t8" type="DURATION" value="P1D">a day</TIMEX3> being pumped into the Gulf of Mexico in America 's worst offshore oil rig spill in <TIMEX3 tid="t7" type="DURATION" value="P40Y">40 years</TIMEX3> .
+The robots will attempt to activate a blowout preventer , a 450 - tonne valve on the ocean floor that offers the only timely option for stemming the flow .
+With the oil <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">now</TIMEX3> coating 1,800 square miles of water , BP officials acknowledge it could take months to entirely contain two separate leaks from the wrecked oil rig .
+The US coastguard discovered the leaks on <TIMEX3 tid="t10" type="DATE" value="2010-04-24">Saturday</TIMEX3> , <TIMEX3 tid="t11" type="DURATION" value="P2D">two days</TIMEX3> after the Deepwater Horizon oil rig leased by BP sank off the coast of Louisiana .
+The rig was destroyed in an explosion <TIMEX3 tid="t12" type="DATE" value="2010-04-20">last Tuesday</TIMEX3> , with 11 workers missing and presumed dead .
+What initially seemed a manageable spill is <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">now</TIMEX3> rated by the US coastguard as a serious environmental problem , with 1,000 barrels of oil <TIMEX3 tid="t16" type="DURATION" value="P1D">a day</TIMEX3> being pumped into the Gulf of Mexico , an area rich with dolphins , whales and other marine life .
+Three sperm whales have been sighted in the area of the slick , officials said <TIMEX3 tid="t17" type="DATE" value="2010-04-25">yesterday</TIMEX3> .
+The spill , which occurred just as senators were preparing to roll out energy and climate proposals , has deepened debate about America 's energy policies .
+In an effort to win support for the proposals , Barack Obama had come out in favor of more oil and gas drilling in the Gulf of Mexico .
+High winds and big waves forced clean - up vessels , which have been trying to skim the oil from the surface of the water before it washes up on shore , to remain in port at <TIMEX3 tid="t18" type="DATE" value="2010-W16-WE">the weekend</TIMEX3> .
+
+But Mary Landry , the coast guard commander , insisted the four states that lie in the path of the slick would have ample warning to protect fragile wetlands .
+Forecasts suggest the oil will make landfall on <TIMEX3 tid="t19" type="DATE" value="2010-04-29">Thursday</TIMEX3> .
+The plan put into operation <TIMEX3 tid="t20" type="DATE" value="2010-04-25">yesterday</TIMEX3> called for four underwater robots to dive 1,500 metres -LRB- 5,000 ft -RRB- below the surface of the water to try to activate the gargantuan system of pipes and valves that sits next to the well on the ocean floor .
+BP said it was the first time such an operation had been mounted at this depth .
+` ` It is a slow process , '' said Ron Rybarczyk , a spokesman at the command center in Louisiana .
+` ` If you can visualise it , it 's like robotic arms doing something outside the space station .
+It is operating something with a mechanical claw on it that grasps things and turns things and adjusts equipment way down at the floor of the ocean . ''
+BP also admits that the robots may not be successful .
+Doug Suttles , the chief operating officer of BP 's exploration unit , said activating the blowout preventer was a highly complex task in part because it remains unclear whether the valve is working .
+The valve should have stopped the leak at the outset .
+` ` The issue we have is that we do n't know the condition inside that blowout valve , '' he said .
+The laborious effort is by far the quickest means available for capping the leak .
+Another option being pursued would be to lower a giant , upside - down funnel to the ocean floor , which would collect the escaping oil and divert it to a barge or a pipeline .
+That too would be a first the method has only been deployed in shallow waters and it would take time .
+Rybarczyk noted the device would have to be custom - built , though he did not give an estimate of how long that would take .
+BP is also pursuing a more traditional fix , which would involve drilling relief wells nearby .
+Suttles said the first rig was due to arrive in the Gulf <TIMEX3 tid="t24" type="TIME" value="2010-04-25TNI">last night</TIMEX3> .
+The last spill from an oil rig in the Gulf of Mexico of similar magnitude took <TIMEX3 tid="t26" type="DURATION" value="P10M" mod="MORE_THAN">more than 10 months</TIMEX3> to contain , said Dagmar Schmidt Etkin , president of Environmental Research Consulting .
+But that was <TIMEX3 tid="t27" type="DATE" value="1970" mod="MORE_THAN">more than 40 years ago</TIMEX3> , and technology has advanced since then .
+But she warned cleaning up after this accident would also prove challenging , especially if there continue to be stormy seas .
+Collecting such thin surface deposits is an inefficient process .
+` ` Even under the best circumstances you might get 10 % -25 % at most and that is when the weather is co - operative , '' she said .
+` ` That is really pushing it . ''
+As of <TIMEX3 tid="t31" type="TIME" value="2010-04-25TMO">yesterday morning</TIMEX3> , the crews have retrieved about 1,152 barrels of an oil - and - water mix , BP said .
+Louisiana , which is in the most immediate path of the slick as it moves north , has been putting in place containment booms to try to keep the oil away from fisheries and wetlands .
+` ` With this kind of concentration coming in one particular location like that you could have some localized toxic impacts on fish and fish eggs , '' said Etkins .
+So long as the oil stays offshore , the greatest threat is to fish and fish eggs , which could affect future populations .
+But if it hits the coast , it could damage wildlife and commercial shrimp and crab operations .
+</TimeML>

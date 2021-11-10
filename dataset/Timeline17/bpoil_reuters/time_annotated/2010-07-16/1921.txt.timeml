@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+MIAMI | Fri <TIMEX3 tid="t2" type="DATE" value="2010-07-16">Jul 16 , 2010</TIMEX3> <TIMEX3 tid="t4" type="TIME" value="2010-07-16T06:27">6:27 am</TIMEX3> EDT MIAMI -LRB-
+Reuters -RRB- -
+The BP Plc oil leak contaminating the Gulf of Mexico will muck up for years the governmental finances and economies of America 's Gulf coast region .
+Beyond directly sea - related sectors such as fishing and offshore energy production , the gushing oil leak is fouling other drivers of the economy like lodging , casinos , real estate and governments as the overall U.S. economy emerges from the worst recession since <TIMEX3 tid="t5" type="DATE" value="193">the 1930s</TIMEX3> .
+As BP 's heavy spending to stop the leak , company compensation payouts and its $ 20 billion escrow fund blunts some immediate financial damage , policy makers , executives , business owners and economists are beginning to gauge the disaster 's long - term consequences .
+The spill and its consequences , such as the federal government 's deepwater - drilling moratorium , threatens coastal property values , thousands of energy sector jobs and tourism businesses reliant on pristine beaches and sparkling waters .
+` ` <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">Right now</TIMEX3> tax revenues are a secondary issue to the economic growth over the long term , '' said economist Mark McMullen of Moody 's economy.com .
+` ` What 's scary is : when will it bounce back ?
+And what will be the lasting damage to the economy and government coffers ? ''
+Looking at those questions , Mississippi 's governor <TIMEX3 tid="t9" type="DATE" value="2010-W27">last week</TIMEX3> ordered economists , state tax officials , business leaders and marine experts to put aside <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">current</TIMEX3> finance pressures and spend <TIMEX3 tid="t13" type="DURATION" value="P1Y">a year</TIMEX3> studying the ramifications of the <TIMEX3 tid="t10" type="DATE" value="2010-04-20">April 20</TIMEX3> catastrophe .
+` ` We need a clear grasp on how this oil spill will impact the State of Mississippi and local communities for years to come , '' Mississippi Governor Haley Barbour said .
+Even before the disaster , in the first <TIMEX3 tid="t16" type="DURATION" value="P3M">three months</TIMEX3> of <TIMEX3 tid="t14" type="DATE" value="2010">2010</TIMEX3> , the revenue of states in the Gulf region shrank , according to a report <TIMEX3 tid="t15" type="DATE" value="2010-W28">this week</TIMEX3> from the Rockefeller Institute of Government .
+While all 50 state governments across America had an overall 2.5 percent rise in revenues , Louisiana , Mississippi , Alabama , Florida and Texas all showed declines in year - over - year comparisons .
+
+A scramble for revenue will remain feverish for the foreseeable future .
+The Center for Budget and Policy Priorities <TIMEX3 tid="t17" type="DATE" value="2010-06">last month</TIMEX3> forecast states face revenue shortfalls of $ 140 billion in the <TIMEX3 tid="t18" type="DATE" value="FUTURE_REF">coming fiscal year</TIMEX3> .
+The projected <TIMEX3 tid="t22" type="DATE" value="2011">fiscal 2011</TIMEX3> budget gaps for Gulf states total at least $ 11 billion , including ones for Florida of $ 4.7 billion , Texas of $ 4.6 billion , and Louisiana at $ 1 billion , according to the center .
+Beyond hiking taxes , lifting fees and cutting spending , some governments look to tax medical marijuana and sugared drinks .
+Others such as Florida are clearing the way for more gambling or casinos , at least in part to raise revenue .
+In Louisiana , the Gulf state most reliant on energy businesses , the economic costs of the federal moratorium on deepwater oil drilling , in place through <TIMEX3 tid="t26" type="DATE" value="2010-11-30">November 30</TIMEX3> , will be severe and long lasting , according to Eric Smith , associate director of Tulane University 's Energy Institute .
+Smith estimated the moratorium affects dozens of deepwater rigs that ordinarily employ as many as 10,000 crew making about $ 100,000 each <TIMEX3 tid="t27" type="SET" value="XXXX">annually</TIMEX3> , with most of those wages spent in Louisiana and nearby states .
+The ripples from the moratorium may take the number of lost jobs in Louisiana to 24,000 , according to Michael Hecht , head of Greater New Orleans Inc , an economic development agency .
+` ` The economic impact from the oil spill itself , however broad and long - lasting , will likely be dwarfed by the impact from the moratorium , '' Hecht <TIMEX3 tid="t31" type="DATE" value="2010-W28">this week</TIMEX3> told a presidential panel investigating the disaster .
+Many of the rigs , their high - paying jobs and supply requirements will move elsewhere , Smith said , and slow the region 's economy for years .
+One big driller , Diamond Offshore Drilling , has already announced it is moving two of its five rigs in the Gulf to other regions .
+The likelihood of tougher U.S. regulations after the BP disaster for Gulf offshore drilling may drive operators to send rigs to Brazil and other regions , Standard & Poor 's said .
+` ` This is a case of the regulators not understanding the business they are regulating , '' Smith said .
+` ` They do n't understand the contracts .
+These things cost $ 500 million to $ 600 million to build .
+They have to operate . ''
+In west Florida 's Panhandle , an area with many tourist businesses , officials in Escambia County worry that property prices already hit by the prolonged U.S. housing market slump will fall further .
+The county 's property <TIMEX3 tid="t39" type="DATE" value="2009">last year</TIMEX3> was appraised a total 6 percent <TIMEX3 tid="t40" type="DATE" value="2008" mod="LESS_THAN">less than a year earlier</TIMEX3> at $ 27.6 billion .
+That meant lower property tax revenue and a $ 24 - million reduction in county spending .
+Florida 's tourist - dependent coastal economies stand to lose as much as 39,000 jobs and $ 2.2 billion or more in business because of the BP oil spill , according to University of Central Florida economist Sean Snaith .
+` ` The idea that a great environmental disaster could become a great economic one is n't inconceivable , but neither is it a certainty , '' S&P said <TIMEX3 tid="t46" type="DATE" value="2010-W27">last week</TIMEX3> in a report that concluded state and local governments were so far managing the BP leak ably .
+</TimeML>

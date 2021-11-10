@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+The Financial Crisis and You Eve Applebaum and Scott Dominick wonder whether they should buy that perfect condo in Brooklyn .
+-LRB- Courtesty Of Eve Applebaum -RRB-
+When Cynthia Shank , 51 , looked at her individual retirement account summary <TIMEX3 tid="t2" type="DATE" value="2007-12">last December</TIMEX3> , she had $ 448,000 .
+When she looked at it <TIMEX3 tid="t3" type="DATE" value="PAST_REF">recently</TIMEX3> , she had $ 349,000 .
+` ` I ' m afraid to look , '' she said .
+Shank , a Hagerstown resident , is not alone .
+More and more employers have stopped offering their employees pensions with fixed amounts and have instead moved them into defined - contribution plans that fluctuate with the stock market .
+Lately , there 's been a lot of fluctuating , and Americans are increasingly watching their retirement cushions lose much of their padding .
+Shank , who is single , is already stretching to meet her financial obligations .
+She has a mortgage , $ 9,000 in credit card debt and a $ 7,000 home - equity line of credit .
+Eventually , she will have student loans to pay off , as she is taking classes to get into library science , a career path that seems steadier than the one she is on <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">now</TIMEX3> .
+She is a technical writer working on a $ 63,000 contract that may or may not be renewed <TIMEX3 tid="t7" type="DATE" value="2009">next year</TIMEX3> .
+Even the cost of gasoline is taking a toll .
+She has a 50 - mile round - trip commute each workday .
+` ` That alone has been a killer , '' she said .
+As of <TIMEX3 tid="t12" type="DATE" value="2008-W38">last week</TIMEX3> , she had negative $ 25 in her checking account , which makes her wonder : How is she ever going to live comfortably in retirement when she ca n't even live comfortably with a full - time job ?
+And <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">now</TIMEX3> , she has even less saved for retirement .
+Shank wrote to us seeking advice on rebuilding her retirement savings , or at least stopping it from dwindling away .
+<TIMEX3 tid="t15" type="DATE" value="PRESENT_REF">Right now</TIMEX3> , she has it all in mutual funds , with about 80 percent in stocks and 20 percent in bonds .
+` ` How should I reconfigure it <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">now</TIMEX3> ? ''
+Should she move money into certificates of deposit , which tend to be safer ?
+
+But what is safe these days , she wonders .
+Money - market funds were considered safe until just <TIMEX3 tid="t17" type="DATE" value="PAST_REF">a couple of weeks ago</TIMEX3> , when a major one foundered and the federal government had to promise to insure the rest .
+
+As for the money she has lost , ` ` Am I going to recover it ? ''
+Daniel P. Crimmins , founder and president of DPC Wealth Management in Ramsey , N.J. , urged her to remain calm .
+` ` The timing of the stock market recovery is unknown , but investing in the equity markets requires a long - term perspective , '' he said .
+` ` An asset allocation mix of 80 percent in equities requires this long - term perspective and would be acceptable at her age if this amount is truly for her retirement . ''
+That said , he did advise her to study her portfolio to make sure she has a diverse mix of stocks and bonds .
+` ` Unless she had a sizeable amount in her IRA , a loss of $ 100,000 since <TIMEX3 tid="t19" type="DATE" value="2007-12">December</TIMEX3> seems to be the result of a less - than - diversified portfolio , '' he said .
+Domenic DiPiero , president of Newport Capital Group in Red Bank , N.J. , said she might want to consider keeping 60 percent in stocks and 40 percent in bonds instead .
+As for the safety of bank CDs , the Federal Deposit Insurance Corp. will cover $ 100,000 or less .
+Money - market funds owned before <TIMEX3 tid="t21" type="DATE" value="2008-09-19">Sept. 19</TIMEX3> of <TIMEX3 tid="t20" type="DATE" value="2008">this year</TIMEX3> are <TIMEX3 tid="t22" type="DATE" value="PRESENT_REF">now</TIMEX3> insured by the federal government for <TIMEX3 tid="t23" type="DURATION" value="P1Y">one year</TIMEX3> .
+</TimeML>

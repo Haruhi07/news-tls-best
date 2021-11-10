@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+BP oil spill : testing begins after installation of new containment cap Engineers to see if Gulf of Mexico wellhead can withstand pressure and halt oil flow ahead of completion of relief wells <TIMEX3 tid="t5" type="DATE" value="2010-07-13">Tuesday</TIMEX3> <TIMEX3 tid="t3" type="DATE" value="2010-07-13">13 July 2010</TIMEX3> 10.20 BST BP oil spill : company hopes new containment cap can temporarily halt oil gushing into Mexican Gulf Photograph : guardian .
+co. uk Engineers will <TIMEX3 tid="t7" type="DATE" value="2010-07-13">today</TIMEX3> begin testing a new sealing cap on BP 's gushing wellhead in the Gulf of Mexico as hopes rise of containing the oil spill during the looming hurricane season .
+Work on installing the cap using robots a mile below the surface of the sea was successfully completed <TIMEX3 tid="t10" type="TIME" value="2010-07-12TNI">last night</TIMEX3> as efforts intensified to capture all the oil that has poured into the sea since the Deepwater Horizon explosion killed 11 people on <TIMEX3 tid="t9" type="DATE" value="2010-04-12">12 April</TIMEX3> .
+Tests on the well 's internal pressure will take between six and <TIMEX3 tid="t12" type="DURATION" value="P2D">48 hours</TIMEX3> to establish whether the flow has been stopped or leaks remain elsewhere .
+The developments may mark a turning point in efforts to stop the flow until more permanent measures , including the drilling of two relief wells , can be completed by <TIMEX3 tid="t15" type="DATE" value="2010-08" mod="MID">the middle of next month</TIMEX3> .
+BP said : ` ` It is expected , though can not be assured , that no oil will be released to the ocean for the duration of the test .
+This will not , however , be an indication that flow from the wellbore has been permanently stopped . ''
+The company added that the sealing system had never before been deployed at such depths or under such conditions .
+It replaces a previous cap , fitted <TIMEX3 tid="t18" type="DATE" value="2010-06">last month</TIMEX3> , which managed to contain only about half the escaping oil .
+Estimates put this as between 35,000 - 60 , 000 barrels <TIMEX3 tid="t20" type="DURATION" value="P1D">a day</TIMEX3> .
+It is hoped the new cap will be able to siphon the entire flow for collection on the surface .
+Former US coastguard Admiral Thad Allen , who is overseeing the US government response operation , said measurements during the test would ` ` provide valuable information about the condition of the well below the sea level and help determine whether or not it is possible to shut the well for a period of time , such as during a hurricane or bad weather , between <TIMEX3 tid="t21" type="DATE" value="PRESENT_REF">now</TIMEX3> and when the relief wells are complete '' .
+He said the tests could continue for <TIMEX3 tid="t22" type="DURATION" value="P2D" mod="MORE_THAN">more than two days</TIMEX3> if necessary , adding that ` ` the government will halt the test if the risks of doing further damage to the surrounding formation are significant '' .
+The new cap - and - seal stack is larger than the previous one and is bolted over the top of the wellhead rather than clamped loosely over it .
+Allen said it was possible the new cap could be used to shut down the wellhead again temporarily ` ` for a period of time , such as during a hurricane or bad weather '' .
+Doug Suttles , BP 's chief operating officer of exploration and production , suggested the cap might be used to keep the well closed for a longer stretch .
+` ` Depending on the results , we 'll either continue to contain the flow while we wait on the relief well or potentially be able to close the flow in , '' he said .
+The news comes as BP revealed the cost of clearing up the environmental and economic disaster in the Gulf and on its damaged shoreline had reached $ 3,5 bn -LRB- # 2.33 bn -RRB- and amid a growing public row over Barack Obama 's efforts to stop new drilling projects in the Gulf .
+The White House has outlined a more limited ban following anger at attempts to implement a six - month moratorium .
+
+A federal court in Louisiana struck down the proposals , ruling that they were too broad .
+<TIMEX3 tid="t25" type="DATE" value="2010-07-12">Yesterday</TIMEX3> , the first of two relief wells , begun on <TIMEX3 tid="t24" type="DATE" value="2010-05-02">2 May</TIMEX3> , was about 190 ft -LRB- 58 m -RRB- from intersecting the blown - out well 13,000 ft beneath the seabed , Suttles said .
+The relief well could reach its target by <TIMEX3 tid="t28" type="DATE" value="2010-07" mod="END">the end of this month</TIMEX3> , keeping it on schedule to actually kill the leak by mid - <TIMEX3 tid="t26" type="DATE" value="2010-08">August</TIMEX3> .
+If the relief wells fail , BP could install a new permanent oil - capture system by <TIMEX3 tid="t31" type="DATE" value="2010-08" mod="END">late August</TIMEX3> or <TIMEX3 tid="t32" type="DATE" value="2010-09" mod="START">early September</TIMEX3> , Kent Wells , senior vice - president of exploration and production , told Obama 's commission investigating the spill .
+Anyone can help and contribute to project .
+</TimeML>

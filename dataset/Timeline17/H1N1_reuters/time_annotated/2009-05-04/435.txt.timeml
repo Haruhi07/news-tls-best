@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+MEXICO CITY | Mon <TIMEX3 tid="t4" type="DATE" value="2009-05-04">May 4 , 2009</TIMEX3> <TIMEX3 tid="t7" type="TIME" value="2009-05-04T15:56">3:56 pm</TIMEX3> EDT MEXICO CITY -LRB-
+Reuters -RRB- - Mexico will keep most of its schools closed until <TIMEX3 tid="t6" type="DATE" value="2009-05-11">May 11</TIMEX3> due to the flu outbreak that has killed at least 26 people in Mexico and raised fears of a pandemic in the rest of the world .
+The government had originally shut schools throughout the country until <TIMEX3 tid="t9" type="DATE" value="2009-05-06">May 6</TIMEX3> to avoid children catching the H1N1 swine flu virus but extended the shutdown , Mexico City Mayor Marcelo Ebrard said on <TIMEX3 tid="t10" type="DATE" value="2009-05-04">Monday</TIMEX3> .
+All schoolchildren up to the age of about 15 years old will stay off but older students will return on <TIMEX3 tid="t11" type="DATE" value="2009-05-07">Thursday</TIMEX3> , he said .
+-LRB-
+Reporting by Cyntia Barrera , Editing by Sandra Maler -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

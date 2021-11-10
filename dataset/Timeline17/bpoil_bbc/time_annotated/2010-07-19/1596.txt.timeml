@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Vessels on the surface are ready to resume collecting the oil The US fears oil may be seeping from the ocean floor near the stricken Gulf of Mexico oil well .
+The official in charge of the clean - up , Thad Allen , said if a substance leaking from the seabed was found to be methane this might mean oil was also leaking .
+He ordered BP to submit a plan to reopen the capped well if the seepage was confirmed , so that oil could be funnelled to the surface .
+But BP says it would take <TIMEX3 tid="t4" type="DURATION" value="P3D">three days</TIMEX3> to start this process .
+During this time , the daily leakage of tens of thousands of barrels of oil , which had been capped <TIMEX3 tid="t5" type="DATE" value="2010-07-15">last Thursday</TIMEX3> , could resume .
+The well began leaking oil into the Gulf after BP 's Deepwater Horizon oil rig exploded on <TIMEX3 tid="t9" type="DATE" value="2010-04-20">20 April</TIMEX3> , killing 11 workers , and capsized <TIMEX3 tid="t8" type="DATE" value="2010-04-22">two days later</TIMEX3> .
+BP had hoped the cap could stay in place until relief wells stopped the leak for good .
+I direct you to provide me a written procedure for opening the choke valve as quickly as possible ''
+End Quote Thad Allen Letter to BP But with pressure readings from within the well lower than expected , scientists had raised concerns that oil could be leaking into the surrounding undersea bedrock .
+And in a letter to BP chief managing director Bob Dudley , Adm Allen said : ` ` Given the <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">current</TIMEX3> observations ... including the detected seep a distance from the well and undetermined anomalies at the well head , monitoring of the seabed is of paramount importance ...
+` ` I direct you to provide me a written procedure for opening the choke valve as quickly as possible without damaging the well should hydrocarbon seepage near the wellhead be confirmed . ''
+The flow of oil from the well was shut off by the cap at <TIMEX3 tid="t12" type="DATE" value="1425">1425</TIMEX3> local time -LRB- <TIMEX3 tid="t15" type="TIME" value="2010-04-22T19:25">1925 GMT</TIMEX3> -RRB- on <TIMEX3 tid="t14" type="DATE" value="2010-07-15">Thursday</TIMEX3> and testing has continued since then .
+Work on both of the relief wells designed to close off the well permanently is <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">currently</TIMEX3> suspended because of the testing .
+The Gulf of Mexico spill has been described as the worst environmental disaster the US has seen .
+The BBC 's Laura Trevelyan explains why BP is being ordered to provide the plan The subsequent spill has affected hundreds of miles of Gulf coastline since <TIMEX3 tid="t17" type="DATE" value="2010-04">April</TIMEX3> , with serious economic damage to the region as tourists have avoided Gulf Coast beaches and fishing grounds have remained closed .
+BP has put the costs of dealing with the disaster at over $ 3.95 bn -LRB- # 2.6 bn -RRB- .
+It has already paid out more than $ 200 m to 32,000 claimants .
+The company is evaluating a further 17,000 for payment and is seeking more information on 61,000 other claims .
+British Prime Minister David Cameron is to meet Mr Obama in Washington on <TIMEX3 tid="t19" type="DATE" value="2010-07-13">Tuesday</TIMEX3> , and BP - formerly British Petroleum - is expected to be a key topic of discussion .
+NEW CAP FOR LEAKING
+OIL WELL
+In <TIMEX3 tid="t20" type="DATE" value="2010-06">June</TIMEX3> , BP placed a cap , known as an LMRP cap , over the top of the Deepwater Horizon well so oil could be collected at the surface .
+However , this continued to leak oil and has <TIMEX3 tid="t21" type="DATE" value="PRESENT_REF">now</TIMEX3> been replaced with a better fitting device .
+NEW CAP FOR LEAKING OIL
+WELL When engineers removed the LMRP cap on <TIMEX3 tid="t23" type="DATE" value="2010-07-10">10 July</TIMEX3> , oil began to freely flow from the top of the blowout preventer once more .
+However , the Q4000 containment system continued to take some oil to the surface .
+NEW CAP FOR LEAKING OIL
+WELL Engineers then bolted on a new capping stack onto the blowout preventer
+-LRB- BOP -RRB- .
+This allowed them to conduct a series of tests to see if the flow of oil could be stopped using the newly installed equipment .
+NEW CAP FOR LEAKING OIL WELL
+During the test the three ram capping stack has been closed and all sub - sea containment systems collecting the oil temporarily suspended , effectively blocking the flow of oil from the well .
+NEW CAP FOR LEAKING OIL
+WELL
+Once the tests have been successfully completed , BP will resume collecting oil .
+The Helix Producer ship was <TIMEX3 tid="t24" type="DATE" value="PAST_REF">recently</TIMEX3> connected to the BOP to provide another collection route in addition to the Q4000 rig .
+BACK -LCB- <TIMEX3 tid="t25" type="DATE" value="PRESENT_REF">current</TIMEX3> -RCB- of -LCB- total -RCB- NEXT
+The pun - ancient artform , or the lowest form of wit ?
+</TimeML>

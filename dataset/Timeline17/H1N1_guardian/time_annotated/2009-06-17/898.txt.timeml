@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Swine flu diagnosis doubts prompt tests rethink Scottish suspected swine flu cases to be checked by labs before being announced after apparent misdiagnoses by doctors <TIMEX3 tid="t7" type="DATE" value="2009-06-17">Wednesday</TIMEX3> <TIMEX3 tid="t4" type="DATE" value="2009-06-17">17 June 2009</TIMEX3> 19.29 BST Scores of swine flu cases in Scotland may have been wrongly diagnosed by family doctors , it emerged <TIMEX3 tid="t6" type="DATE" value="2009-06-17">today</TIMEX3> , forcing health officials to abandon a new testing regime .
+Scottish ministers announced <TIMEX3 tid="t11" type="DATE" value="2009-W24">last week</TIMEX3> that GPs were to be allowed to diagnose the virus at their surgeries , rather than rely on lab tests .
+The number of cases soared to 498 by <TIMEX3 tid="t13" type="DATE" value="2009-W24-WE">the weekend</TIMEX3> , followed on <TIMEX3 tid="t12" type="DATE" value="2009-06-14">Sunday</TIMEX3> by the first death of someone with swine flu outside the Americas .
+The victim , Jacqui Fleming , 38 , from Carnwadric , Glasgow , also had underlying health problems .
+After doctors reported 351 cases in Glasgow and Paisley <TIMEX3 tid="t14" type="DATE" value="2009-06-16">yesterday</TIMEX3> a dramatic increase on previous daily results doubts emerged about the accuracy of their diagnoses .
+<TIMEX3 tid="t15" type="TIME" value="2009-06-17TEV">This evening</TIMEX3> , the Scottish government confirmed that further analysis of these results suggested a large majority of these were wrong .
+As a result , every suspected case of H1N1 swine flu will <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">now</TIMEX3> be checked by laboratories before being announced .
+The reverse in policy will be studied carefully by health officials in Birmingham .
+They said <TIMEX3 tid="t17" type="DATE" value="2009-06-17">today</TIMEX3> that efforts to control swine flu in the city the worst affected in England were failing .
+Giving GPs the authority to diagnose the virus at their surgeries was one option being considered .
+Nicola Sturgeon , the Scottish health secretary , said : ` ` It is important that we have accurate figures to give us a true picture of how the virus is spreading .
+That is why we have resumed laboratory testing for all cases in the Greater Glasgow and Clyde area .
+` ` Clinical diagnosis has not proven to be as effective as originally thought .
+Further assessment is being carried out to assess the accuracy of the clinical diagnosis process . ''
+The official number of swine flu cases in Scotland increased by 22 to 530 <TIMEX3 tid="t18" type="DATE" value="2009-06-17">today</TIMEX3> , and there were 110 new cases in England , taking the UK total to 1,604 .
+</TimeML>

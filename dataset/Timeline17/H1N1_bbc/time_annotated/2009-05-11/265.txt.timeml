@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Swine flu found on China mainland People in China are taking no chances in the fight against H1N1 China has confirmed the first case of swine flu on the Chinese mainland , and is searching for people who could have been in contact with the infected man .
+The 30 - year - old student , who has been named only as Mr Bao , had <TIMEX3 tid="t1" type="DATE" value="PAST_REF">recently</TIMEX3> flown into the country from the US .
+The authorities say he traveled from St Louis to Tokyo , then to Beijing and finally landed in Chengdu on <TIMEX3 tid="t2" type="DATE" value="2009-05-09">Saturday</TIMEX3> .
+<TIMEX3 tid="t4" type="DATE" value="2009-05" mod="START">Earlier this month</TIMEX3> China diagnosed a case of the H1N1 virus in a Mexican traveller in Hong Kong .
+Mr Bao has <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">now</TIMEX3> been transferred to an infectious diseases hospital in Chengdu , according to state media .
+The Chinese Ministry of Health says it has asked authorities across the country to track down anyone who may have come into contact with the patient on his journey .
+About 130 people from the patient 's flight to Chengdu have already been quarantined , state media says .
+In the past , China has been accused of not doing enough to combat the spread of diseases , especially the <TIMEX3 tid="t9" type="DATE" value="2003">2003</TIMEX3> outbreak of Sars .
+This time the government has acted quickly and decisively , but some of its measures have been criticised as excessive .
+Anyone who came into contact with the Mexican traveller who was diagnosed in Hong Kong was put into isolation for <TIMEX3 tid="t10" type="DURATION" value="P7D">seven days</TIMEX3> .
+Hundreds of Mexicans have been quarantined in China , and the Mexican government said some were singled out solely on their nationality , when there was no chance they could have been in contact with the virus .
+</TimeML>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t2" type="DATE" value="2010-04-20">20 April</TIMEX3> :
+A surge in oil and gas causes an explosion on the Deepwater Horizon oil drilling rig .
+The blowout preventer system of valves -LRB- BOP -RRB- at the well head on the seabed is believed to have failed .
+<TIMEX3 tid="t4" type="DATE" value="2011-04-22">22 April</TIMEX3> :
+The oil rig sinks and the riser pipe that connected it to the well falls to the seabed .
+Oil and gas continue to flow from the pipe and blowout preventer , causing a five mile -LRB- 8 km -RRB- oil slick .
+The blowout preventer is meant to be the ultimate fail safe against pressure surges .
+Its valves should have closed , shutting off the oil and gas from the reservoir and sealing the well .
+The initial failure of the blowout preventer , and subsequent efforts to remotely shut it down , result in a constant leak of oil and gas from holes in the bent riser pipe on the seabed and above the BOP .
+As oil continues to flow into the sea , initial efforts are made on the surface to contain the leak using booms and dispersants .
+The response grows daily and soon hundreds of vessels are involved , including skimmers , tugs and recovery ships as well as dozens of aircraft and multiple mobile
+offshore drilling units .
+<TIMEX3 tid="t6" type="DATE" value="2010-05-02">2 May</TIMEX3> : BP starts drilling the first of two relief wells .
+The aim is to connect with the original well and then pump in heavy liquid to stem the flow of oil .
+Drilling for the second starts on <TIMEX3 tid="t8" type="DATE" value="2010-05-16">16 May</TIMEX3> .
+Both are expected to take <TIMEX3 tid="t10" type="DURATION" value="P2M">two</TIMEX3> to <TIMEX3 tid="t9" type="DURATION" value="P3M">three months</TIMEX3> to complete .
+<TIMEX3 tid="t12" type="DATE" value="2011-05-05">5 May</TIMEX3> : BP successfully stops the flow of oil from the end of the drilling pipe - one of three leak points .
+Around the same time , a huge containment dome is lowered over the main leak but this fails on <TIMEX3 tid="t14" type="DATE" value="2011-05-08">8 May</TIMEX3> as the dome is blocked by frozen hydrate crystals caused by leaking gas .
+<TIMEX3 tid="t16" type="DATE" value="2011-05-16">16 May</TIMEX3> : A tube is inserted into the leaking pipe to funnel off leaking oil and gas to a ship on the surface .
+<TIMEX3 tid="t18" type="DATE" value="2011-05-26">26 May</TIMEX3> : BP starts its ` ` top kill '' procedure in an attempt to plug the well by pumping mud into the blowout preventer from a vessel on the surface .
+A manifold system of pipes and valves is connected to the BOP and a drill pipe from the vessel .
+Pipes from the manifold are attached to the ` ` choke and kill '' bypass systems inside the blowout preventer .
+This gives access to the BOP system 's main valves .
+Heavy mud with a large proportion of clay is pumped into the BOP under high pressure .
+The aim is to force enough mud into the well to stop it flowing .
+A ` ` junk shot '' mixture of materials such as rubber , golf balls and rope is injected in an effort to help block the flow .
+<TIMEX3 tid="t20" type="DATE" value="2011-05-29">29 May</TIMEX3> : BP announces that the top kill system has failed and the oil spill continues .
+<TIMEX3 tid="t22" type="DATE" value="2010-06-02">2 June</TIMEX3> : BP starts the next procedure - to lower a cap over the blowout preventer to capture the leaking oil and funnel it to a surface vessel .
+The riser pipe is cut and removed and the cap is lowered onto the top section of the blowout preventer , known as the lower marine riser package or LMRP .
+The cap is not a tight fit and oil is still leaking around it , but it does collect about 15,000 barrels of oil <TIMEX3 tid="t24" type="DURATION" value="P1D">a day</TIMEX3> .
+<TIMEX3 tid="t26" type="DATE" value="2010-06-16">16 June</TIMEX3> : Engineers open a second route to the surface by connecting the lines used in the top kill procedure to a floating rig called Q4000 .
+This collects about 10,000 barrels <TIMEX3 tid="t28" type="DURATION" value="P1D">a day</TIMEX3> .
+<TIMEX3 tid="t30" type="DATE" value="2010-07-10">10 July</TIMEX3> : The LMRP cap is removed to be replaced with a tightly fitting capping stack , designed to seal the well .
+<TIMEX3 tid="t33" type="DATE" value="2009-07-15">15 July</TIMEX3> : With the sealing cap fitted , all three rams - or valves - inside are turned off and the flow of oil is stopped for the first time since <TIMEX3 tid="t34" type="DATE" value="2010-04-20">20 April</TIMEX3> .
+In <TIMEX3 tid="t35" type="DATE" value="2010-04-21">the following days</TIMEX3> , tests are conducted to check whether pressure will cause oil to leak from elsewhere in the BOP or well .
+The tests are successful .
+Work begins on the next process : a ` ` static kill '' which involves pumping drilling mud through the blowout preventer into the well and reservoir .
+<TIMEX3 tid="t37" type="DATE" value="2010-08-05">5 August</TIMEX3> : Engineers follow up the mud with cement , blocking the well .
+US Government scientists announce the total estimated amount of oil spilt into the Gulf of Mexico is 4.9 million barrels .
+Work continues on the relief wells .
+The plan is to use at least one relief well to pump more mud and cement into the main well to totally seal or ` ` kill '' it .
+The well can then be abandoned although BP says it will continue clean - up work in the area for ` ` as long as it takes '' .
+The cost of cleaning up the oil spillage in the Gulf of Mexico <TIMEX3 tid="t38" type="DATE" value="PRESENT_REF">now</TIMEX3> runs into billions of dollars , according to BP estimates .
+The company has tried a number of methods to shut down the leak from the damaged oil well - often innovating as subsequent attempts fail .
+Although some of the methods have been tried and tested at incidents elsewhere in the world , they have not been carried out at such great depth as the Deepwater Horizon leak - 5,000 feet -LRB- 1.5 km -RRB- below the surface .
+The pun - ancient artform , or the lowest form of wit ?
+</TimeML>

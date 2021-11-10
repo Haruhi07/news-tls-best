@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t5" type="DATE" value="2005-02-04">Friday</TIMEX3> <TIMEX3 tid="t3" type="DATE" value="2005-02-04">4 February 2005</TIMEX3> 15.55 GMT An Italian woman journalist has been kidnapped in Baghdad as she interviewed local people on the street .
+Iraqi police sources said Giuliana Sgrena , a journalist on the Rome based Il Manifesto paper , was abducted outside Baghdad University .
+She was conducting interviews near the university when four gunmen snatched her from her car at <TIMEX3 tid="t7" type="TIME" value="2005-02-04T14:00" mod="APPROX">about 2 pm</TIMEX3> , the Italian news agency ANSA said in a report after speaking to Sgrena 's interpreter .
+Two Iraqi journalists traveling with Sgrena were released after the gunmen stopped the car they were traveling in .
+Italian Foreign Ministry officials said they were investigating the report , while Il Manifesto said Sgrena had been working for the paper in Iraq since <TIMEX3 tid="t10" type="DATE" value="2005-01-23">January 23</TIMEX3> and had called in just <TIMEX3 tid="t9" type="DATE" value="UNDEF-REF-hour-MINUS-2">two hours earlier</TIMEX3> .
+She is the second Italian journalist to be kidnapped in Iraq since the start of the war .
+<TIMEX3 tid="t13" type="DATE" value="2004-08">Last August</TIMEX3> Enzo Baldoni , an Italian freelance journalist working for Milan weekly Diario , was killed <TIMEX3 tid="t14" type="DURATION" value="P8D">eight days</TIMEX3> after he went missing en route to Najaf , then the scene of heavy fighting between US troops and supporters of Shia cleric Muqtada al - Sadr .
+Sgrena 's kidnapping comes <TIMEX3 tid="t17" type="DURATION" value="P1M">a month</TIMEX3> after French reporter Florence Aubenas and her Iraqi assistant Hanoun Al - Saadi went missing in Baghdad .
+<TIMEX3 tid="t18" type="DATE" value="2005-02-04">Today</TIMEX3> international press freedom lobby group Reporters Sans Frontieres said that , though they could not rule out any other explanation for Aubenas 's disappearance , ` ` kidnapping with no political motive seems the most likely scenario at the moment '' .
+Since US forces invaded the country , Iraq has become the most dangerous country in the world for journalists and media workers , journalist groups have said .
+In a report <TIMEX3 tid="t21" type="DATE" value="2005" mod="START">earlier this year</TIMEX3> the International Federation of Journalists called on governments to do more to protect journalists after 129 media workers were killed <TIMEX3 tid="t20" type="DATE" value="2004">last year</TIMEX3> ,
+69 of them in Iraq .
+To contact the MediaGuardian news desk email editor@mediaguardian.co.uk or phone 02072399857
+If you are writing a comment for publication , please mark clearly ` ` for publication '' .
+</TimeML>

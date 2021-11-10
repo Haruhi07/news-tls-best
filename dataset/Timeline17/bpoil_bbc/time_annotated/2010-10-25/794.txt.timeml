@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+BP sells Gulf of Mexico oil field assets to Marubeni BP faces paying out billions of dollars to compensate victims of the oil spill BP has said it will sell its interests in four Gulf of Mexico oil fields to Japan 's Marubeni as part of its moves to pay for the oil spill there .
+The deal , which is subject to regulatory approval , is expected to raise $ 650 m -LRB- # 413 m -RRB- .
+BP is in the process of selling assets worth up to $ 30bn to meet clean - up and compensation costs .
+<TIMEX3 tid="t2" type="DATE" value="2010-W42">Last week</TIMEX3> , the company announced it would sell business interests in Vietnam and Venezuela for $ 1.8 bn .
+BP has owned the assets in the four fields for <TIMEX3 tid="t4" type="DURATION" value="P1Y" mod="LESS_THAN">less than a year</TIMEX3> .
+It bought them from Devon Energy alongside other assets in the Gulf of Mexico , Brazil and Azerbaijan .
+Andy Hopwood , a BP executive , said : ` ` When BP acquired Devon 's Gulf of Mexico assets , it was clear that these four fields did not fit well with the rest of our business in the region . ''
+A company statement added that BP 's other interests in the Gulf of Mexico would not be affected by the sale - which is expected to be completed in <TIMEX3 tid="t7" type="DATE" value="2011" mod="START">early 2011</TIMEX3> - and that the company remained both the largest producer of oil and gas in the region as well as being the largest holder of leases .
+BP 's Deepwater Horizon rig exploded on <TIMEX3 tid="t9" type="DATE" value="2010-04-20">20 April</TIMEX3> , killing 11 workers , and ultimately leaking an estimated 4.9 million barrels of oil into the Gulf .
+The well was finally permanently sealed on <TIMEX3 tid="t11" type="DATE" value="2010-09-19">19 September</TIMEX3> .
+The total bill for compensating victims <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">currently</TIMEX3> stands at about $ 11.2 bn -LRB- # 7bn -RRB- .
+The pun - ancient artform , or the lowest form of wit ?
+</TimeML>

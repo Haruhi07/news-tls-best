@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+The slick has <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> grown to about 1,500 sq km There are fears of an environmental disaster in the Gulf of Mexico , as efforts to clear up an oil spill have been suspended because of bad weather .
+A drilling rig leased by the oil company BP exploded and sank off the Louisiana coast <TIMEX3 tid="t2" type="DATE" value="2010-W16">last week</TIMEX3> .
+Some 1,000 barrels of oil <TIMEX3 tid="t4" type="DURATION" value="P1D">a day</TIMEX3> are leaking into the sea from the damaged well , officials say .
+They say the oil leak has the potential to damage beaches , barrier islands and wetlands across the coastline .
+Eleven workers are still missing and presumed to have been killed in the accident .
+The search for them has been called off .
+More than 100 other workers were rescued .
+The Deepwater Horizon had been burning for <TIMEX3 tid="t7" type="DURATION" value="PT36H">36 hours</TIMEX3> when it sank on <TIMEX3 tid="t5" type="DATE" value="2010-04-22">Thursday</TIMEX3> in 5,000 ft -LRB- 1,500 m -RRB- of water , despite efforts to control the flames .
+It was carrying out exploratory drilling 84 km -LRB- 52 miles -RRB- south - east of Venice , Louisiana when the blast occurred .
+Bad weather caused cleanup efforts to be suspended over <TIMEX3 tid="t8" type="DATE" value="2010-W16-WE">the weekend</TIMEX3> , allowing the slick to grow to about 580 sq miles -LRB- 1,500 sq km -RRB- , officials say .
+Oil leaks from a sunken drill pipe 5,000 ft beneath the ocean surface BP has been using a robot submarine to try to activate a blowout preventer - a series of pipes and valves that could stop the leak .
+However , this was a ` ` highly complex task '' and ` ` it may not be successful '' , chief operating officer of BP 's exploration and production unit Doug Suttles was quoted as saying by Reuters .
+The company has also brought in more than 30 cleanup vessels and several aircraft to spray dispersant on the floating oil .
+At the moment , the weather conditions are keeping the oil away from the coastline and it is hoped the waves will break up the heavy crude oil , allowing it to harden and sink back to the ocean floor .
+The coastguard earlier said it had thought it was dealing only with a surface residual oil spill from the rig .
+` ` In addition to that , is oil emanating from the well .
+It is a big change from <TIMEX3 tid="t12" type="DATE" value="2010-04-25">yesterday</TIMEX3> ...
+This is a very serious spill , absolutely , '' said Rear Adm Mary Landry .
+In <TIMEX3 tid="t13" type="DATE" value="2009">2009</TIMEX3> , BP PLC was fined a record $ 87 m for failing to improve safety conditions following a massive explosion that killed 15 people at its Texas City refinery .
+But the US Mineral Management Services found no violations on the Deepwater Horizon rig when it carried out routine inspections in <TIMEX3 tid="t15" type="DATE" value="2010-02">February</TIMEX3> , <TIMEX3 tid="t16" type="DATE" value="2010-03">March</TIMEX3> and <TIMEX3 tid="t19" type="DATE" value="2010-04">April this year</TIMEX3> .
+President Barack Obama said on <TIMEX3 tid="t20" type="DATE" value="2010-04-22">Thursday</TIMEX3> that the government was providing ` ` all assistance needed '' for both the rescue and clean up efforts in the troubled area .
+He described the crisis on the BP - leased rig as his administration 's ` ` number one priority '' .
+No cause for the blast has yet been identified .
+</TimeML>

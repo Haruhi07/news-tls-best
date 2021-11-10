@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t1" type="DATE" value="2010-06-19">Saturday</TIMEX3> : The yacht Bob , owned by BP Chief Executive Tony Hayward , seen during the JP Morgan Asset Management Round the Island Race , near Cowes , Isle of Wight .
+AP
+If it 's any consolation to the residents of the Gulf of Mexico , BP CEO Tony Hayward did n't win the yacht race he attended <TIMEX3 tid="t2" type="DATE" value="2010-W24-WE">this weekend</TIMEX3> .
+His 52 - foot yacht , named ` ` Bob , '' finished fourth in its class .
+Nonetheless , the decision by Hayward to return to England to attend JP Morgan 's annual race around the Isle of Wight is the latest ` ` PR gaffe '' by the head of the oil giant blamed for the largest environmental disaster in U.S. history .
+` ` I think we can all conclude that Tony Hayward is not going to have a second career in PR consulting , '' White House Chief of Staff Rahm Emanuel told ABC 's ` ` <TIMEX3 tid="t3" type="DATE" value="2010-W24">This Week</TIMEX3> . ''
+As Hayward spent time sailing with his son during this Father 's Day weekend , President Obama golfed with Vice President Joe Biden .
+Emanuel did n't speak to the president 's choice of down time over <TIMEX3 tid="t4" type="DATE" value="2010-W23-WE">the weekend</TIMEX3> .
+But he did show his disdain for BP 's head , who caused cringes <TIMEX3 tid="t5" type="DATE" value="2010-05">last month</TIMEX3> when he said that he wished the crisis would end so he could get his life back ` ` To quote Tony Hayward , he 's got his life back , '' Emanuel said in the interview airing <TIMEX3 tid="t6" type="DATE" value="2010-06-20">Sunday</TIMEX3> .
+Gulf residents were outraged by Hayward 's decision to take the day off .
+` ` That 's the height of arrogance , '' said Sen. Richard Shelby , R - Ala .
+` ` He is the CEO of BP and he testified in Washington before congressional committee the other day .
+<TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">Now</TIMEX3> he 's gone over to be on his yacht over in England .
+I can tell you that yacht ought to be here skimming and cleaning up a lot of the oil .
+He ought to be down here seeing what is really going on , not in a cocoon somewhere . ''
+But BP spokesman Robert Wine said the break is Hayward 's first since the Deepwater Horizon rig that BP was leasing exploded <TIMEX3 tid="t9" type="DATE" value="2010-04-20">April 20</TIMEX3> , killing 11 workers and setting off the undersea gusher .
+` ` He 's spending <TIMEX3 tid="t11" type="DURATION" value="PTXH">a few hours</TIMEX3> with his family at <TIMEX3 tid="t12" type="DURATION" value="P1WE">a weekend</TIMEX3> .
+I ' m sure that everyone would understand that , '' Wine said .
+It 's questionable whether Hayward 's day off will change much of the clean - up effort on the ground .
+Thousands of boats are on the water trying to collect the oil -- either to use or to burn .
+About 50 miles off Louisiana 's coast , a newly expanded containment system is capturing or incinerating more than 1 million gallons of oil daily , the first time it has approached its peak capacity , according to the Coast Guard .
+BP hopes that by <TIMEX3 tid="t14" type="DATE" value="2010-06" mod="END">late June</TIMEX3> it will keep nearly 90 percent of the flow from the broken pipe from hitting the ocean .
+Defense Secretary Robert Gates told ` ` Fox News <TIMEX3 tid="t15" type="DATE" value="2010-06-20">Sunday</TIMEX3> '' that not all of the 17,500 National Guard that are awaiting deployment have been put into operation .
+But even the Pentagon is limited in its ability to help .
+` ` We have offered whatever capabilities we have .
+We do n't have the kinds of equipment or particular expertise .
+I have authorized the mobilization of up to 17,500 National Guard troops in the four states that are -- that are most affected .
+We have a standing offer .
+If there 's anything people think we can do , we absolutely will do it , '' Gates said .
+The spill is causing 35,000 to 60,000 barrels of oil to contaminate the Gulf of Mexico <TIMEX3 tid="t16" type="SET" value="P1D" quant="EACH">each day</TIMEX3> .
+<TIMEX3 tid="t18" type="DURATION" value="P62D" mod="MORE_THAN">Over 62 days</TIMEX3> , that 's anywhere from 2.1 million to 3.72 million gallons .
+But one scientist said it would take the spill more than 700 million years for the amount of oil in the Gulf to equal the amount of water -- about 650 quadrillion gallons .
+` ` This is not the death of the Gulf of Mexico , '' George Crozier , director of the Dauphin Island Sea Lab , told the Mobile -LRB-
+Ala. -RRB-
+Press - Register .
+` ` If you went Gulf - wide with this and stirred it up in the Gulf of Mexico , I ' m not sure we could find it . ''
+BP has also paid out $ 104 million to Gulf residents harmed as a result of the spill .
+It has also established a $ 20 billion fund , which Rep. Joe Barton , R - Texas , likened to a White House ` ` shakedown '' before retracting his comment in the face of outrage among his congressional caucus and others .
+Democrats have already put Barton 's apology to BP into advertising for its midterm elections <TIMEX3 tid="t21" type="DATE" value="2010-FA">this fall</TIMEX3> .
+The Associated Press contributed to this report .
+</TimeML>

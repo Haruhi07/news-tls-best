@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Why is Haiti such a poor country ?
+Haiti is one of the poorest countries in the world , which is why it 's struggling to cope with the devastation caused by <TIMEX3 tid="t1" type="DATE" value="2010-W02">last week</TIMEX3> 's earthquake .
+Organisations like the government and police do n't work very well , lots of people there do n't have any jobs , and the country does n't make much money .
+For <TIMEX3 tid="t2" type="DURATION" value="PXY">the last few years</TIMEX3> the United Nations -LRB- UN -RRB- has been helping them .
+It has soldiers there to try to keep things peaceful , and it helps the government try to run the country .
+Haiti had a lot of problems with bad governments in the past , including lots of people being killed , and leaders being overthrown .
+And it takes a long time for a country to recover from things like this .
+Find out more about why help is delayed There 's also a huge gap between rich people and poor people there .
+The country used to be owned and run by France before it became independent .
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Now</TIMEX3> the French people who are still there make up 1 % of the population , but they own half the country 's wealth .
+Lots of Haitians try to get work in other countries like America , and other places in the Caribbean .
+Another reason the country is struggling to cope with the earthquake is because it has had so many natural disasters .
+Storms and earthquakes are common there , and often there 's not enough time for people to recover before the next disaster strikes .
+Here 's a rundown of some of the biggest disasters Haiti 's had to cope with <TIMEX3 tid="t11" type="DURATION" value="PXY" mod="MORE_THAN">over the past few years</TIMEX3> ... <TIMEX3 tid="t4" type="DATE" value="1994">1994</TIMEX3> - Hurricane Gordon kills hundreds <TIMEX3 tid="t5" type="DATE" value="1998">1998</TIMEX3> - Hurricane Georges destroys 80 % of crops <TIMEX3 tid="t6" type="DATE" value="2004">2004</TIMEX3> - Floods kill 2,600 <TIMEX3 tid="t7" type="DATE" value="2007">2007</TIMEX3> - Tropical Storm <TIMEX3 tid="t10" type="DATE" value="2010-12-25">Noel</TIMEX3> triggers mudslides and floods <TIMEX3 tid="t8" type="DATE" value="2008">2008</TIMEX3> - Three hurricanes and tropical storm kill 800 <TIMEX3 tid="t9" type="DATE" value="2010">2010</TIMEX3> - Quake hits Port - Au - Prince , killing thousands -LRB-
+Sources : AP , US Geological Survey -RRB-
+</TimeML>

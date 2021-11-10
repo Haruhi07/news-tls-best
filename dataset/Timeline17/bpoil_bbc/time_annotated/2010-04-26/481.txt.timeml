@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Robot vessels used to cap Gulf of Mexico oil leak The US Coast Guard has described it as a ` ` very serious spill ''
+Robotic submersibles are being used to try to stop oil leaking into the Gulf of Mexico from a damaged well almost a mile -LRB- 1.5 km -RRB- below the surface .
+Some 1,000 barrels -LRB- 42,000 gallons -RRB- of oil <TIMEX3 tid="t3" type="DURATION" value="P1D">a day</TIMEX3> have been gushing from the well since a drilling rig exploded and sank off the Louisiana coast <TIMEX3 tid="t1" type="DATE" value="2010-W16">last week</TIMEX3> .
+British oil company BP , which leased the rig , said the ` ` first - of - its - kind '' attempt would take <TIMEX3 tid="t6" type="DURATION" value="P1D">24</TIMEX3> to <TIMEX3 tid="t5" type="DURATION" value="PT36H">36 hours</TIMEX3> .
+A nearby oil platform has been evacuated as a precaution .
+Workers on the rig , the Ocean Endeavour , were taken away because the oil slick was coming dangerously close , said the US Minerals Management Service .
+Conservation experts say the oil has the potential to damage beaches , barrier islands , wetlands and wildlife reserves along hundreds of miles of coastline in four US states .
+Whales have been spotted near the spill but they did not appear to be in distress .
+For <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">now</TIMEX3> , the weather conditions are keeping the oil away from the shore and it is hoped the waves will break up the heavy crude oil , allowing it to harden and sink back to the ocean floor .
+The oil is not expected to reach land for at least another <TIMEX3 tid="t8" type="DURATION" value="P3D">three days</TIMEX3> .
+Officials are monitoring the environmental effects by boat and plane .
+BP - which is responsible under federal law for the clean - up - said it was using four submersible vehicles , equipped with cameras and remote - controlled arms , to try to activate a blow - out preventer - a series of pipes and valves that could stop the leak .
+<TIMEX3 tid="t9" type="DATE" value="1991">1991</TIMEX3> : 520 m gallons were deliberately released from Iraqi oil tankers during the first Gulf War to impede the US invasion <TIMEX3 tid="t10" type="DATE" value="1979">1979</TIMEX3> : 140 m gallons were spilt <TIMEX3 tid="t17" type="DURATION" value="P9M" mod="MORE_THAN">over nine months</TIMEX3> after a well blow - out in the Bay of Campeche off Mexico 's coast <TIMEX3 tid="t11" type="DATE" value="1979">1979</TIMEX3> : 90 m gallons leaked from a Greek oil tanker after it collided with another ship off the coast of Trinidad <TIMEX3 tid="t12" type="DATE" value="1983">1983</TIMEX3> : 80 m gallons leaked into the Gulf <TIMEX3 tid="t18" type="DURATION" value="PXM" mod="MORE_THAN">over several months</TIMEX3> after a tanker collided with a drilling platform <TIMEX3 tid="t13" type="DATE" value="1989">1989</TIMEX3> : 11 m gallons were spilt into Alaska 's Prince William Sound in the Exxon Valdez disaster
+However , this was a ` ` highly complex task '' and ` ` it may not be successful '' , said chief operating officer of BP 's exploration and production unit , Doug Suttles .
+If the blow - out preventer does not seal off the well , the company intends to place a large dome directly over the leaks to catch the oil and send it up to the surface , where it could be collected by ships .
+This has been done before , but only in shallow waters , Mr Suttles said .
+Another alternative is to drill a ` ` relief well '' intersecting the original well , but he warned that this might take <TIMEX3 tid="t20" type="DURATION" value="P2M">two</TIMEX3> to <TIMEX3 tid="t19" type="DURATION" value="P3M">three months</TIMEX3> to stop the flow .
+BP has brought in more than 30 clean - up vessels and several aircraft to spray dispersant on the oil floating on the surface .
+Bad weather forced the operation to be suspended at <TIMEX3 tid="t21" type="DATE" value="2010-W16-WE">the weekend</TIMEX3> .
+In that time , the oil slick was estimated to have grown to about 600 sq miles -LRB- 1,550 sq km -RRB- , officials said .
+The US Coast Guard has described it as a ` ` very serious spill '' .
+Coast Guard Petty Officer Connie Terrell said 32 vessels were waiting for conditions to improve to resume the clean - up .
+She could not say when they would be back at work , but said 23,000 ft -LRB- 7 km -RRB- of containment booms had been deployed , 70,000 ft more were ready to go when the effort resumed , and another 50,000 ft were on order .
+The Deepwater Horizon burned for <TIMEX3 tid="t24" type="DURATION" value="PT36H">36 hours</TIMEX3> before it sank on <TIMEX3 tid="t22" type="DATE" value="2010-04-22">Thursday</TIMEX3> .
+It had been carrying out exploratory drilling 52 miles south - east of Venice , Louisiana , when the blast occurred .
+Eleven workers are still missing and presumed dead .
+The search for them has been called off .
+Another 126 workers were rescued .
+An investigation into the cause of <TIMEX3 tid="t25" type="DATE" value="2010-04-20">last Tuesday</TIMEX3> 's explosion is continuing .
+In <TIMEX3 tid="t27" type="DATE" value="2009">2009</TIMEX3> , BP was fined a record $ 87 m -LRB- # 53 m -RRB- for failing to improve safety conditions following a massive explosion that killed 15 people at its Texas City refinery .
+The US Mineral Management Services found no violations on the Deepwater Horizon rig when it carried out routine inspections in <TIMEX3 tid="t29" type="DATE" value="2010-02">February</TIMEX3> , <TIMEX3 tid="t30" type="DATE" value="2010-03">March</TIMEX3> and <TIMEX3 tid="t33" type="DATE" value="2010-04">April this year</TIMEX3> .
+The <TIMEX3 tid="t35" type="DATE" value="PRESENT_REF">current</TIMEX3> leak would have to continue for <TIMEX3 tid="t36" type="DURATION" value="P8M" mod="MORE_THAN">more than eight months</TIMEX3> to match the 11m - gallon spill from the oil tanker Exxon Valdez off Alaska in <TIMEX3 tid="t34" type="DATE" value="1989">1989</TIMEX3> , the worst oil spill in US history .
+The Economist \ * Trouble on oiled waters - 2 hrs ago Mail Online UK Giant underwater dome could stop oil leaking from rig explosion reaching fragile U.S. coastline - 2 hrs ago Citizen .
+co. za Robotic subs race to cap leaking US oil well - 9 hrs ago New York Times Robots Working to Stop Oil Leak in Gulf of Mexico - 14 hrs ago NEWS.com .
+</TimeML>

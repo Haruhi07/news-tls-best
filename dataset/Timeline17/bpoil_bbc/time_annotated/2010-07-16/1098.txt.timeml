@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+BP awaits crucial Gulf of Mexico oil well test data Video feeds from the floor of the Gulf of Mexico continue to show no leaking oil Oil firm BP is awaiting test results from the blown - out well in the Gulf of Mexico , <TIMEX3 tid="t4" type="DURATION" value="P1D">a day</TIMEX3> after staunching the flow of oil for the first time since <TIMEX3 tid="t1" type="DATE" value="2010-04">April</TIMEX3> .
+The firm is checking how much pressure the well can withstand while the valves on its new capping device are closed .
+US President Barack Obama hailed the move as a ` ` positive sign '' , and BP 's shares rallied in early trading in London after sharp rises in New York .
+Oil has been flowing from the well since a rig exploded on <TIMEX3 tid="t6" type="DATE" value="2010-04-20">20 April</TIMEX3> .
+Eleven workers were killed in the Deepwater Horizon explosion , and the oil spill has raised fears of an environmental catastrophe .
+BP has tried a number of ways to stop the flow , but the new capping device is the first to have succeeded in stopping it entirely .
+BP executive Kent Wells announced the success on <TIMEX3 tid="t7" type="DATE" value="2010-07-15">Thursday</TIMEX3> , saying he was ` ` excited '' by the progress .
+The firm will <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">now</TIMEX3> monitor the integrity of the well in detailed tests expected to last until <TIMEX3 tid="t9" type="DATE" value="2010-07-10">Saturday</TIMEX3> , with experts discussing the progress every <TIMEX3 tid="t10" type="DURATION" value="PT6H">six hours</TIMEX3> .
+The valves staunching the flow of oil will then be reopened and oil will be again channelled on to containment ships on the surface while experts examine seismic data garnered from the tests .
+If the well can withstand the pressure , then the valves can be shut again .
+Matt McGrath BBC News science reporter As with so many other aspects of the response to this leak , the latest steps are being taken without the luxury of being able to test them first .
+Engineers are concerned that an increase in pressure might cause new ruptures in the sea floor that could increase the amount of oil leaking into the water .
+They will also be looking specifically at the well bore - the 4 km or so of piping that stretches into the oil reservoir .
+The rise in pressure caused by stopping the flow could cause leaks or fractures in this pipe .
+And the relief wells are edging ever closer to the source of the problem .
+One is less than two metres away .
+Any leak into this well would be disastrous for the efforts to permanently stem the flow .
+The cap is intended to stop the oil spill until BP can finish drilling relief wells and permanently seal the well - an operation expected to be completed in <TIMEX3 tid="t11" type="DATE" value="2009-08">August</TIMEX3> .
+Meanwhile , BP continues to face political pressure in the US .
+A congressional committee has agreed measures that would ban the firm from new offshore drilling for <TIMEX3 tid="t12" type="DURATION" value="P7Y">seven years</TIMEX3> .
+And in a separate move , the state department is looking into allegations that BP lobbied for the release of Lockerbie bomber Abdelbaset al - Megrahi while attempting to finalize an oil deal with Libya .
+Megrahi was the only person convicted of the <TIMEX3 tid="t13" type="DATE" value="1988">1988</TIMEX3> plane bombing , in which 270 people died - most of them Americans .
+He was freed by the Scottish authorities in <TIMEX3 tid="t16" type="DATE" value="2009-08">August 2009</TIMEX3> after serving <TIMEX3 tid="t17" type="DURATION" value="P8Y">eight years</TIMEX3> because he has terminal prostate cancer and was estimated to have <TIMEX3 tid="t18" type="DURATION" value="P3M">three months</TIMEX3> left to live .
+The Senate Foreign Relations Committee announced on <TIMEX3 tid="t21" type="DATE" value="2010-07-15">Thursday</TIMEX3> it would hold a hearing on <TIMEX3 tid="t20" type="DATE" value="2010-07-29">29 July</TIMEX3> into the circumstances of Megrahi 's release .
+BP has strongly denied playing any part in discussions on the decision to free the bomber .
+On <TIMEX3 tid="t22" type="DATE" value="2010-07-16">Friday</TIMEX3> , the UK ambassador to the US , Nigel Sheinwald , wrote an open letter to the senators in an attempt to ` ` correct inaccuracies which are harmful to the UK '' .
+` ` I am troubled by the claims made in the press that Megrahi was released because of an oil deal involving BP , and that the medical evidence supporting his release was paid for by the Libyan government , '' he said .
+` ` Both of these allegations are untrue . ''
+NEW CAP FOR LEAKING OIL WELL
+In <TIMEX3 tid="t23" type="DATE" value="2010-06">June</TIMEX3> , BP placed a cap , known as an LMRP cap , over the top of the Deepwater Horizon well so oil could be collected at the surface .
+However , this continued to leak oil and has <TIMEX3 tid="t24" type="DATE" value="PRESENT_REF">now</TIMEX3> been replaced with a better fitting device .
+NEW CAP FOR LEAKING OIL
+WELL When engineers removed the LMRP cap on <TIMEX3 tid="t26" type="DATE" value="2010-07-10">10 July</TIMEX3> , oil began to freely flow from the top of the blowout preventer once more .
+However , the Q4000 containment system continued to take some oil to the surface .
+NEW CAP FOR LEAKING OIL
+WELL Engineers then bolted on a new capping stack onto the blowout preventer
+-LRB- BOP -RRB- .
+This allowed them to conduct a series of tests to see if the flow of oil could be stopped using the newly installed equipment .
+NEW CAP FOR LEAKING OIL WELL
+During the test the three ram capping stack has been closed and all sub - sea containment systems collecting the oil temporarily suspended , effectively blocking the flow of oil from the well .
+NEW CAP FOR LEAKING OIL
+WELL
+Once the tests have been successfully completed , BP will resume collecting oil .
+The Helix Producer ship was <TIMEX3 tid="t27" type="DATE" value="PAST_REF">recently</TIMEX3> connected to the BOP to provide another collection route in addition to the Q4000 rig .
+BACK -LCB- <TIMEX3 tid="t28" type="DATE" value="PRESENT_REF">current</TIMEX3> -RCB- of -LCB- total -RCB- NEXT
+The pun - ancient artform , or the lowest form of wit ?
+</TimeML>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+View how tourism , commerce and the coastline are all at risk .
+The Coast Guard and BP set fire to a portion of the crude oil floating in the Gulf of Mexico on <TIMEX3 tid="t1" type="DATE" value="2010-04-28">Wednesday</TIMEX3> in a bid to limit the impact of a widening slick , which federal officials said could touch shore in parts of the Louisiana delta as early as <TIMEX3 tid="t3" type="TIME" value="2010-04-23TEV">Friday evening</TIMEX3> .
+With BP unable to stop the flow of oil from a deepwater exploration well that blew up <TIMEX3 tid="t4" type="DATE" value="2010-W16">last week</TIMEX3> , attention was turning to the gulf 's coastlines , where the spill could threaten wildlife , tourism and the livelihoods of fishermen .
+` ` It 's premature to say this is catastrophic , '' said Coast Guard Rear Adm. Mary Landry .
+` ` I will say that this is very serious . ''
+The National Oceanic and Atmospheric Administration estimated <TIMEX3 tid="t6" type="TIME" value="2010-04-28TNI">Wednesday night</TIMEX3> that oil could be pouring out of the ground at a rate of up to 5,000 barrels <TIMEX3 tid="t8" type="DURATION" value="P1D">a day</TIMEX3> .
+That is five times BP 's earlier estimate .
+Government officials said <TIMEX3 tid="t9" type="DATE" value="2010-04-28">Wednesday</TIMEX3> they had urged BP to seek additional help from the Defense Department in protecting the shoreline .
+President Obama was briefed <TIMEX3 tid="t10" type="DATE" value="2010-04-28">Wednesday</TIMEX3> by Homeland Security Secretary Janet Napolitano on the situation .
+Earlier , the Coast Guard said the company corralled the thickest areas of the oil slick inside fireproof booms , lighted it late in the afternoon and burned it for <TIMEX3 tid="t12" type="DURATION" value="PT28M">28 minutes</TIMEX3> .
+By burning off several thousand gallons of oil , the Coast Guard said , it could limit damage to coastal areas .
+The unusual strategy has been used for damaged tankers in World War II , in an oil spill off Britain and in rare cases on inland waters in Louisiana and Texas .
+But a burn off U.S. shores and the prospect of oil landing on the gulf coastline could become powerful symbols of the perils of offshore drilling , just as President Obama and Congress appear set to open new areas to offshore oil and gas exploration .
+On <TIMEX3 tid="t13" type="DATE" value="2010-04-28">Wednesday</TIMEX3> , the Obama administration said it will open federal waters to wind farms , approving a divisive offshore project near Cape Cod in Massachusetts -- and providing a juxtaposition of controversies over both old and new energy sources .
+The crisis in the gulf is likely to get worse before it gets better .
+It began <TIMEX3 tid="t15" type="DATE" value="2010-04-20">April 20</TIMEX3> , when an oil and gas discovery blew upward , setting the Deepwater Horizon drilling rig on fire .
+The rig , owned by Transocean and leased to BP , later sank , and 11 of its workers are missing and presumed dead .
+At its <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">current</TIMEX3> rate , the spill could surpass by <TIMEX3 tid="t17" type="DATE" value="2010-W18">next week</TIMEX3> the size of the <TIMEX3 tid="t16" type="DATE" value="1969">1969</TIMEX3> Santa Barbara spill that helped lead to the far - reaching moratorium on oil and gas drilling off the Pacific and Atlantic coasts , a ban that Obama <TIMEX3 tid="t19" type="DATE" value="PAST_REF">recently</TIMEX3> said he wants to modify .
+It would take <TIMEX3 tid="t23" type="DURATION" value="P260D" mod="APPROX">about 260 days</TIMEX3> for this incident to exceed the size of the <TIMEX3 tid="t20" type="DATE" value="1989">1989</TIMEX3> Exxon Valdez oil spill off Alaska , but it took <TIMEX3 tid="t24" type="DURATION" value="PXW">several weeks</TIMEX3> for a similar oil well blowout to be brought under control off the coast of Australia <TIMEX3 tid="t21" type="DATE" value="2009">last year</TIMEX3> .
+Asked about the potential political effects of the spill , BP chief executive Tony Hayward said : ` ` It 's far too early to tell .
+I think a lot of it will be determined by the intensity of the response , the quality of the response and the success of the response . ''
+He said BP is trying to be ` ` very forward - leaning .
+We have enormous resources committed to contain it . ''
+In <TIMEX3 tid="t25" type="DATE" value="PAST_REF">recent years</TIMEX3> , BP has been plagued with other troubles , such as an explosion at a Texas refinery , construction delays on a gulf production platform and leaks in one of its Alaska pipelines .
+</TimeML>

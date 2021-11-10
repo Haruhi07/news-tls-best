@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Paramedic says Michael Jackson doctor cleaned up drugs Dr Murray , shown here in <TIMEX3 tid="t1" type="DATE" value="2010-02">February</TIMEX3> , joined Jackson 's entourage to get him fit for London concerts A second paramedic has testified that Michael Jackson 's doctor sought to clear medical paraphernalia from the bedroom in the moments after his death .
+And an emergency room doctor said Dr Conrad Murray did not inform her he had given the singer a powerful anesthetic before his death of a drug overdose .
+The testimony came at a preliminary hearing for Dr Murray , who has pleaded not guilty to involuntary manslaughter .
+Prosecutors say his negligence led to Jackson 's death aged 50 in <TIMEX3 tid="t4" type="DATE" value="2009-06">June 2009</TIMEX3> .
+At the preliminary hearing in a Los Angeles courtroom , a judge is to decide whether prosecutors have enough evidence to try Dr Murray , a cardiologist .
+It is expected to last <TIMEX3 tid="t5" type="DURATION" value="PXD">several days</TIMEX3> .
+Dr Murray faces <TIMEX3 tid="t6" type="DURATION" value="P4Y" mod="EQUAL_OR_LESS">up to four years</TIMEX3> in prison if tried and convicted .
+In Los Angeles on <TIMEX3 tid="t7" type="DATE" value="2011-01-06">Thursday</TIMEX3> , paramedic Martin Blount testified that Dr Murray cleaned up vials of the painkiller lidocaine from the bedroom where the singer died shortly after he said that he had not given Jackson any medications .
+He and his partner on the emergency run to Jackson 's bedside , paramedic Richard Senneff , have both testified that Dr Murray never mentioned he had given Jackson propofol , a powerful surgical anesthetic typically given in a clinical setting .
+Mr Blount said that when they arrived , <TIMEX3 tid="t9" type="DURATION" value="PT4M">four minutes</TIMEX3> after the emergency call was received , Jackson appeared to have been dead for <TIMEX3 tid="t11" type="DURATION" value="PT20M" mod="EQUAL_OR_MORE">at least 20 minutes</TIMEX3> , despite Dr Murray 's claim that he had stopped breathing only <TIMEX3 tid="t12" type="DURATION" value="PT1M">a minute</TIMEX3> before they were called .
+Also , emergency room Dr Richelle Cooper testified on <TIMEX3 tid="t13" type="DATE" value="2011-01-06">Thursday</TIMEX3> that Dr Murray told her only that he had given Jackson lorazepam , a sedative .
+Prosecutors contend Dr Murray 's negligent treatment contributed to Jackson 's death .
+The Los Angeles County coroner 's office has ruled the singer died from an overdose of the surgical anesthetic propofol , found in his body along with a cocktail of other sedatives .
+The pun - ancient artform , or the lowest form of wit ?
+</TimeML>

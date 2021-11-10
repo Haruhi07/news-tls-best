@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Tue <TIMEX3 tid="t3" type="DATE" value="2011-10-04">Oct 4 , 2011</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2011-10-04T18:30">6:30 pm</TIMEX3> BST -LRB- Reuters -RRB- -
+The Nobel Prize in Physics <TIMEX3 tid="t2" type="DATE" value="2011">2011</TIMEX3> was awarded ` ` for the discovery of the accelerating expansion of the Universe through observations of distant supernovae '' with one half to Saul Perlmutter and the other half jointly to Brian Schmidt and Adam Riess .
+For <TIMEX3 tid="t7" type="DURATION" value="P1CE" mod="LESS_THAN">almost a century</TIMEX3> , the Universe has been known to be expanding as a consequence of the Big Bang about 14 billion years ago .
+However , the discovery that this expansion is accelerating is astounding .
+If the expansion continues to speed up , the Universe will end frozen , the prize committee said .
+Here are some details about the winners : --
+Born in <TIMEX3 tid="t9" type="DATE" value="1959">1959</TIMEX3> in the United States , Perlmutter is professor of Physics at the University of California , Berkeley , and senior scientist at the Lawrence Berkeley National Laboratory .
+-- Perlmutter graduated from Harvard magna cum laude in <TIMEX3 tid="t10" type="DATE" value="1981">1981</TIMEX3> , and received his PhD from the University of California , Berkeley , in <TIMEX3 tid="t11" type="DATE" value="1986">1986</TIMEX3> .
+He was elected a member of the U.S. National Academy of Sciences in <TIMEX3 tid="t12" type="DATE" value="2002">2002</TIMEX3> .
+--
+He joined the University of California , Berkeley , Physics Department in <TIMEX3 tid="t13" type="DATE" value="2004">2004</TIMEX3> .
+He is also an astrophysicist at Lawrence Berkeley National Laboratory and leader of the international Supernova Cosmology Project , which first announced the results in <TIMEX3 tid="t14" type="DATE" value="1998">1998</TIMEX3> indicating that the universe will last forever , with its expansion ever accelerating .
+--
+The Supernova Cosmology Project -LRB- SCP -RRB- studies type Ia supernovae to map out the expansion history of the universe and measure cosmological parameters and the dark energy 's equation of state .
+-- Schmidt , born in <TIMEX3 tid="t17" type="DATE" value="1967-02">February 1967</TIMEX3> in Montana , is a Federation Fellow at the Australian National University 's Mount Stromlo Observatory , Canberra .
+--
+He received undergraduate degrees in Physics and Astronomy from the University of Arizona in <TIMEX3 tid="t18" type="DATE" value="1989">1989</TIMEX3> , and his Master 's degree -LRB- <TIMEX3 tid="t19" type="DATE" value="1992">1992</TIMEX3> -RRB- and PhD -LRB- <TIMEX3 tid="t20" type="DATE" value="1993">1993</TIMEX3> -RRB-
+in Astronomy from Harvard University .
+--
+In <TIMEX3 tid="t21" type="DATE" value="1994">1994</TIMEX3> he formed the HighZ SN Search team , a group of 20 astronomers on five continents who used distant exploding stars to trace the expansion of the Universe back in time .
+--
+This group 's discovery of an accelerating Universe was named Science Magazine 's Breakthrough of the Year for <TIMEX3 tid="t22" type="DATE" value="1998">1998</TIMEX3> .
+-- Schmidt joined the staff of the Australian National University in <TIMEX3 tid="t23" type="DATE" value="1995">1995</TIMEX3> , and was awarded the Australian Government 's inaugural Malcolm McIntosh award for achievement in the Physical Sciences in <TIMEX3 tid="t24" type="DATE" value="2000">2000</TIMEX3> .
+-- Schmidt has continued to work on using exploding stars to study the Universe , and is leading Mount Stromlo 's effort to build the SkyMapper telescope , a new facility that will provide a comprehensive digital map of the southern sky from ultraviolet through near infrared wavelengths .
+-- Riess , born in <TIMEX3 tid="t27" type="DATE" value="1969-12">December 1969</TIMEX3> in Washington , D.C. , is an astronomer at the Space Telescope Science Institute and a professor at Johns Hopkins University in Baltimore .
+--
+From <TIMEX3 tid="t28" type="DATE" value="1996">1996</TIMEX3> - <TIMEX3 tid="t29" type="DATE" value="1999">1999</TIMEX3> , Riess was a Miller Fellow at the University of California , Berkeley .
+Riess qualified in Physics from the Massachusetts Institute of Technology in <TIMEX3 tid="t30" type="DATE" value="1992">1992</TIMEX3> where he was inducted into the Phi
+Beta Kappa Society .
+--
+He received his PhD from Harvard University in <TIMEX3 tid="t31" type="DATE" value="1996">1996</TIMEX3> .
+--
+In <TIMEX3 tid="t32" type="DATE" value="1998">1998</TIMEX3> Riess led a study for the High - z Team which provided the first direct and published evidence that the expansion of the Universe was accelerating .
+--
+He followed this work with a number of studies to test the susceptibility of this measurement to contamination by unexpected types of dust or evolution .
+To this aim , Riess led the Hubble Higher - z Team beginning in <TIMEX3 tid="t33" type="DATE" value="2002">2002</TIMEX3> to find 25 of the most distant supernovae known with the Hubble Space Telescope .
+--
+In <TIMEX3 tid="t34" type="DATE" value="2006">2006</TIMEX3> Riess , together with Perlmutter and Schmidt , were awarded the $ 1 million Shaw Prize in astronomy , for their discovery of the mysterious ` ` dark energy '' that is causing the universe to expand at an ever - faster rate .
+</TimeML>

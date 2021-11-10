@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t1" type="DATE" value="2010-08-03">Aug 3</TIMEX3> : An employee sits in the bridge of the Helix Q4000 as it performs the ` static kill ' operation at the site of the Deepwater Horizon oil spill .
+AP <TIMEX3 tid="t2" type="DATE" value="2010-08-03">Aug 3</TIMEX3> : The Helix Q4000 , the vessel being used to conduct the ` static kill ' procedure , at the site of the Deepwater Horizon oil spill .
+AP ON THE GULF OF MEXICO --
+In a significant step toward stopping the worst offshore oil spill in U.S. history , BP said <TIMEX3 tid="t3" type="DATE" value="2010-08-04">Wednesday</TIMEX3> mud that was forced down its blown - out well was holding back the flow of crude in the Gulf of Mexico and it was in a ` ` static condition . ''
+Workers stopped pumping mud in after <TIMEX3 tid="t4" type="DURATION" value="PT8H" mod="APPROX">about eight hours</TIMEX3> of their ` ` static kill '' procedure and were monitoring the well to ensure it remained stable , BP said .
+` ` The well pressure is <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">now</TIMEX3> being controlled by the hydrostatic pressure of the drilling mud , the desired outcome of the static kill procedure , '' the company said in a statement .
+BP spokeswoman Sheila Williams said , ` ` It 's a milestone .
+It 's a step toward the killing of the well . ''
+The next step would be deciding whether to cement the well , Williams said .
+The pressure in the well dropped quickly in the first <TIMEX3 tid="t8" type="DURATION" value="PT90M">90 minutes</TIMEX3> of the static kill procedure <TIMEX3 tid="t6" type="DATE" value="2010-08-03">Tuesday</TIMEX3> , a sign that everything was going as planned , wellsite leader Bobby Bolton told AP .
+Bolton said <TIMEX3 tid="t10" type="TIME" value="2010-08-03TNI">Tuesday night</TIMEX3> that the procedure was going well .
+` ` Pressure is down and appears to be stabilizing , '' he told the AP then .
+
+But the mud that was forced down the broken wellhead to permanently plug the gusher is only half the story .
+To call the mission a success , crews working on a flotilla of vessels on a desolate patch of water need to seal off the well from two directions .
+The static kill -- also known as bullheading -- involved slowly pumping the mud from a ship down lines running to the top of the ruptured well a mile below .
+BP has said that may be enough by itself to seal the well .
+Still , an 18,000 - foot relief well that BP has been drilling for <TIMEX3 tid="t17" type="DURATION" value="P3M">the past three months</TIMEX3> will be used <TIMEX3 tid="t15" type="DATE" value="2010-08" mod="END">later this month</TIMEX3> to execute a ` ` bottom kill , '' in which mud and cement will be injected into the bedrock 21\/2 miles below the sea floor to finish the job ,
+retired Coast Guard Adm.
+Thad Allen said .
+` ` There should be no ambiguity about that , '' Allen said .
+` ` I ' m the national incident commander , and this is how this will be handled . ''
+A 75 - ton cap placed on the well in <TIMEX3 tid="t18" type="DATE" value="2010-07">July</TIMEX3> has been keeping the oil bottled up inside <TIMEX3 tid="t20" type="DURATION" value="P3W" mod="MORE_THAN">over the past three weeks</TIMEX3> , but that is considered only a temporary measure .
+BP and the Coast Guard want to plug up the hole with a column of heavy drilling mud and cement to seal it off more securely .
+Before the cap was lowered onto the well , 172 million gallons of crude flowed into the sea , unleashed by the <TIMEX3 tid="t22" type="DATE" value="2010-04-20">April 20</TIMEX3> explosion aboard the drilling rig Deepwater Horizon that killed 11 workers .
+A previous , similar effort failed in <TIMEX3 tid="t23" type="DATE" value="2010-05">May</TIMEX3> when the mud could n't overcome the unstemmed flow of oil .
+BP wo n't know for certain whether the static kill has succeeded until engineers can use the soon - to - be - completed relief well to check their work .
+The task is becoming more urgent because peak hurricane season is just around the corner , Allen said .
+Tropical Storm Colin formed then dissipated far out in the Atlantic on <TIMEX3 tid="t24" type="DATE" value="2010-08-03">Tuesday</TIMEX3> , but early forecasts say it will travel toward the East Coast rather than the Gulf .
+</TimeML>

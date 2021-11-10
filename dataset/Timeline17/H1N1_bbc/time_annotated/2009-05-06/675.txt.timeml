@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Manny Pacquiao knocked out Britain 's Ricky Hatton <TIMEX3 tid="t1" type="DATE" value="2009-W18-WE">last weekend</TIMEX3> Health officials in the Philippines have asked the country 's star boxer to delay his return from the US as a precaution against swine flu .
+Manny Pacquiao was scheduled to return home on <TIMEX3 tid="t2" type="DATE" value="2009-05-01">Friday</TIMEX3> , after his knockout victory against Britain 's Ricky Hatton in Las Vegas at <TIMEX3 tid="t3" type="DATE" value="2009-W18-WE">the weekend</TIMEX3> .
+But Philippine Health Secretary Francisco Duque urged the champion to postpone his flight .
+There is no suggestion that the boxer actually has swine flu .
+
+But his fight <TIMEX3 tid="t4" type="DATE" value="2009-W18-WE">last weekend</TIMEX3> was in Las Vegas , where confirmed cases of the H1N1 virus have been reported .
+The health secretary told reporters he wanted Mr Pacquiao to delay his triumphal return to the Philippines until at least <TIMEX3 tid="t5" type="DATE" value="2009-05-12">next Tuesday</TIMEX3> .
+Mr Duque explained that it takes <TIMEX3 tid="t7" type="DURATION" value="P5D" mod="APPROX">about five days</TIMEX3> for swine flu symptoms to appear , and he was hoping Mr Pacquiao and his entourage would impose ` ` self - quarantine '' until then , to be absolutely sure they had not contracted the virus .
+The Philippines was due to hold a ` ` national day of celebration '' for Mr Pacquiao <TIMEX3 tid="t8" type="DATE" value="2009-05-01">this Friday</TIMEX3> , in honor of his win .
+
+But Mr Duque said there were concerns that the motorcade , which was due to drive through Manila in celebration , could pose a risk of spreading the virus .
+There are no confirmed swine flu cases in the Philippines , although some patients are under observation .
+According to the latest figures from the World Health Organization , nearly 1,500 people around the globe have been infected with swine flu , most of them in Mexico .
+Two fatalities have been reported in the United States .
+</TimeML>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t3" type="DATE" value="2010-07-15">July 15 , 2010</TIMEX3> - <TIMEX3 tid="t5" type="TIME" value="2010-07-15T07:48">7:48 AM</TIMEX3> | by : Jonathan Serrie Pressure testing on the damaged oil well at the bottom of the Gulf of Mexico ran into a snag overnight when BP discovered a leak on one of the lines extending from the well 's new cap .
+It remains unclear how long it will take to repair the leak , which forced the suspension of tests , which began <TIMEX3 tid="t8" type="TIME" value="2010-07-14TAF">Wednesday afternoon</TIMEX3> -- already <TIMEX3 tid="t6" type="DATE" value="2010-07-15">a day later</TIMEX3> than originally scheduled .
+The initial delay occurred as federal officials sought additional assurances from BP that the high pressure tests 5 thousand feet below the surface would not risk more damage to the well .
+The tests involve slowly closing three valves on the cap and measuring the oil pressure that builds up over <TIMEX3 tid="t13" type="DURATION" value="P2D">a 48 hour period</TIMEX3> .
+The results will help BP and federal officials determine whether the cap is capable of temporarily shutting off the flow of oil , or if additional leaks exist inside the well .
+This information will play a crucial role in the final strategy for stopping the leak .
+As a precaution , BP has temporarily suspended drilling two relief wells during pressure testing of the cap .
+Company officials expect to finish the first relief well by <TIMEX3 tid="t16" type="DATE" value="2010-07" mod="END">the end of July</TIMEX3> and begin pumping heavy drilling mud through it to permanently plug the leak -- a process they hope to complete in <TIMEX3 tid="t15" type="DATE" value="2010-08">August</TIMEX3> .
+Results from the cap tests will give BP and the government a better idea of whether the leaking well is strong enough to withstand the pressure of the drilling mud , without suffering additional breaches .
+The results will also play a role in what course of action BP takes once it resumes drilling of the relief wells -- whether the cap is used to temporarily stop the flow of oil out of the well or whether it 's used to funnel oil into lines leading to ships on the surface .
+The initial <TIMEX3 tid="t18" type="DURATION" value="P1D">24 hour</TIMEX3> delay angered some coastal residents , who feared the extra time for analysis would simply allow more oil to spill from the well and wash up on their shores .
+` ` What the hell is so much more important than this ? ''
+said Mona Santiny , a lifelong resident of Grand Isle , Louisiana .
+` ` We do n't want any answers .
+We want a solution . ''
+Federal authorities said the delay was out of an abundance of caution .
+` ` I understand and everybody understands this has been a substantial impact on our environment , on the Gulf Coast , the people , the culture , '' said National Incident Commander Thad Allen .
+` ` We all understand the difficult times we 're going through .
+And what we did n't want to do was compound that problem by making an irreversible mistake . ''
+FOX News covers the action from all the angles .
+Get constant updates from our in - the - field reporters and producers and read stories you 'll only see here .
+</TimeML>

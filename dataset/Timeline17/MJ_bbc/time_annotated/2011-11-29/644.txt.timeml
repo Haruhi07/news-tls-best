@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Michael Jackson doctor gets <TIMEX3 tid="t1" type="DURATION" value="P4Y">four years</TIMEX3> in prison Michael Jackson 's former doctor , Conrad Murray , has been sentenced to <TIMEX3 tid="t2" type="DURATION" value="P4Y">four years</TIMEX3> in prison for causing the King of Pop 's death .
+He was found guilty <TIMEX3 tid="t4" type="DATE" value="2011-11" mod="START">earlier this month</TIMEX3> of giving the singer a fatal overdose of a sleeping drug .
+The doctor has received the maximum time for the crime - something the Jackson family 's lawyer had argued for .
+
+But Murray 's lawyer said he 'd already be punished for life by being known as ` ` the man who killed Michael Jackson '' .
+La Toya Jackson was one of the family members who turned up for Dr Murray 's sentencing Michael Jackson died on <TIMEX3 tid="t7" type="DATE" value="2009-06-25">25 June 2009</TIMEX3> and Dr Murray was with him on the night .
+A jury in Los Angeles found him guilty of a crime called involuntary manslaughter after a six - week trial .
+At the trial , Dr Murray said Michael took the lethal dose of medicine himself .
+Involuntary manslaughter is when a person did n't mean to kill someone , but may have been responsible for their death .
+</TimeML>

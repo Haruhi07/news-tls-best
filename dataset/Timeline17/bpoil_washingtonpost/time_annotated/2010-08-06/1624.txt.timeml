@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+MARSHALL , MICH .
+--
+In <TIMEX3 tid="t1" type="DATE" value="2010-SU">the Summer</TIMEX3> of the Spill , history is already repeating itself , this time in Michigan .
+But other plot points are eerily similar : A large company with safety violations .
+Regulators who did n't act fast enough .
+Broken equipment that everybody 's waiting to examine .
+And <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3> , questions about how much of the oil is gone and how much is just unaccounted for .
+` ` The pattern that we see here is a pattern of inadequate oversight and supervision -LRB- in government -RRB- and an industry that appears to cut corners , '' said the National Wildlife Federation 's Tim Warman , who helped write a report documenting hundreds of accidents in the oil and gas industry in <TIMEX3 tid="t3" type="DATE" value="200">the past decade</TIMEX3> .
+It went to the printer <TIMEX3 tid="t4" type="DATE" value="2010-07">last month</TIMEX3> , <TIMEX3 tid="t5" type="DURATION" value="P2D">two days</TIMEX3> before the Michigan spill began .
+` ` The pattern suggests that we 're going to see more of them , '' Warman said .
+The Michigan spill appears to have begun <TIMEX3 tid="t8" type="DATE" value="2010-07-25">late July 25</TIMEX3> when something broke in a 30 - inch pipeline that carries oil from Canada to Midwestern refineries .
+The leak was n't noticed until 11:45 the <TIMEX3 tid="t9" type="TIME" value="2010-08-07TMO">next morning</TIMEX3> .
+By then , an estimated 19,500 barrels -LRB- 819,000 gallons -RRB- had escaped .
+That is n't much compared with the gulf spill , in which 4.9 million barrels -LRB- 205.8 million gallons -RRB- escaped , according to an analysis <TIMEX3 tid="t10" type="DATE" value="2010-W31">this week</TIMEX3> .
+But it was enough to turn tiny Talmadge Creek into a stream of oil and make a section of the larger Kalamazoo River run black .
+An Environmental Protection Agency official on the scene said it was the most destructive oil spill ever in the Midwest .
+` ` I do n't know if we 'll feel safe ever again .
+That 's the mind - set this gives you , '' David Orban , who lives on the creek , said at a public hearing <TIMEX3 tid="t11" type="DATE" value="2010-08-02">Monday</TIMEX3> .
+Nearby homes were evacuated , and residents were left worrying about tainted air and drinking water .
+As in the gulf , scrutiny has fallen on an obscure federal agency charged with preventing this kind of calamity .
+There , it was the Minerals Management Service .
+Here , it is the Pipeline and Hazardous Materials Safety Administration , an arm of the Transportation Department .
+News , features , and opinions on environmental policy , the science of climate change , and tools to live a green life .
+</TimeML>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+President John F. Kennedy once said , ` ` Those who make peaceful revolution impossible will make violent revolution inevitable . ''
+The <TIMEX3 tid="t1" type="DATE" value="PAST_REF">recent</TIMEX3> pro - democracy mass protests around the Arab world -- in places like Tunisia , Yemen and Egypt -- reflect the beginnings of a ` ` democracy Renaissance , '' launched by the millions of citizens within these countries that have been ruled for decades by ruthless autocrats and soft dictators .
+The <TIMEX3 tid="t2" type="DATE" value="PAST_REF">recent</TIMEX3> ` ` Jasmine Revolution '' in Tunisia began with the desperate act of a young unemployed man who set himself on fire .
+And that passionate fire would ultimately rage against the Tunisian government machine until its long - serving president would be forced into exile <TIMEX3 tid="t3" type="DATE" value="2011-W02">two weeks ago</TIMEX3> .
+The young man was 26 - year - old Mohammed Bouazizi , an unemployed fruit stand owner who became distraught when a policewoman confiscated his unlicensed produce stand .
+He died from his burns .
+Following suit , several other unemployed youth around the country tried to commit suicide , and subsequent mass protests would soon topple the 23 - year reign of Tunisia 's strongman , 74 - year - old Zine el - Abidine Ben Ali .
+Long - standing autocratic rule within the Arab world shows a ` ` depressingly familiar pattern '' in terms of regional suppression of democracy , notes Egyptian - American writer Mona Eltahawy , in a <TIMEX3 tid="t5" type="DATE" value="PAST_REF">recent</TIMEX3> Washington Post opinion piece .
+Libyan leader Moammar Gaddafi , 68 years old , has been in power since <TIMEX3 tid="t6" type="DATE" value="1969">1969</TIMEX3> ; Yemen 's Ali Abdullah Saleh -LRB- 64 -RRB- has ruled since <TIMEX3 tid="t7" type="DATE" value="1978">1978</TIMEX3> and Egyptian President Hosni Mubarak -LRB-
+82 -RRB- since <TIMEX3 tid="t8" type="DATE" value="1981">1981</TIMEX3> .
+Eltahawy wrote that these dinosaur political figures are ` ` not so much fathers as grandfathers of their nations , these autocrats clinging to office -- and are increasingly out of touch with their young populaces . ''
+Much larger than Tunisia , the nation of Egypt is home to some 80 million people -- with Mubarak as its not - so - democratic leader since the assassination of Anwar Sadat in <TIMEX3 tid="t12" type="DATE" value="1981">1981</TIMEX3> .
+From creating a virtual police state to promoting censorship by placing all media under state control , Hosni Mubarak has spent the better part of <TIMEX3 tid="t14" type="DURATION" value="P30Y">30 years</TIMEX3> strengthening his autocratic rule , while millions of young Egyptians remain hungry and unemployed .
+Over time , his regime has needlessly tried to silence bloggers , imprisoned prominent pro - democracy activists such as Saad Eddin Ibrahim , and during these most <TIMEX3 tid="t16" type="DATE" value="PAST_REF">recent</TIMEX3> mass protests even placed <TIMEX3 tid="t15" type="DATE" value="2005">2005</TIMEX3>
+Nobel Peace Prize co - winner -LRB- and political opposition leader -RRB- Dr. Mohamed ElBaradei under house arrest .
+</TimeML>

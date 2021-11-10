@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON | Fri <TIMEX3 tid="t2" type="DATE" value="2011-08-12">Aug 12 , 2011</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2011-08-12T15:42">3:42 pm</TIMEX3> BST LONDON <TIMEX3 tid="t4" type="DATE" value="2011-08-12">Aug 12</TIMEX3> -LRB- Reuters -RRB- - Rollercoaster financial markets and the worst riots Britain has seen in decades have made it quite <TIMEX3 tid="t7" type="DURATION" value="P1W">a week</TIMEX3> for a time of year that is usually so dead the newspapers are filled with ` ` silly season '' tales of amusing pet antics .
+Everyone is pointing fingers -- at blundering politicians , hooded thugs , disaffected youths , bumbling police and greedy bankers -- but could the cause for all the madness really be the star at the center of our solar system ?
+There is n't a lot of evidence pointing to little green men involving themselves in Earthly affairs , but the sun has been throwing bursts of highly charged particles into space in a phenomenon known as coronal mass ejections or CMEs .
+Three large CMEs prompted U.S. government scientists to warn of solar storms that can cause power blackouts and the aurora borealis , or northern lights , caused by disturbances in the Earth 's atmosphere , have been spotted as far south as England and Colorado , NASA said .
+` ` Earth 's magnetic field is still reverberating from a CME strike on <TIMEX3 tid="t9" type="DATE" value="2011-08-05">August 5th</TIMEX3> that sparked one of the strongest geomagnetic storms in years '' , website SpaceWeather said .
+Some academics have claimed that such geomagnetic storms can affect humans , altering moods and leading people into negative behavior through effects on their biochemistry .
+Some studies have found evidence that hospital admissions for depression rise during geomagnetic storms and that incidents of suicide increase .
+A <TIMEX3 tid="t10" type="DATE" value="2003">2003</TIMEX3> study by the Federal Reserve Bank of Atlanta found that such storms could affect the stock market , as traders were more likely to make pessimistic choices .
+` ` Unusually high levels of geomagnetic activity have a negative , statistically and economically significant effect on <TIMEX3 tid="t11" type="DATE" value="2011-08-12">the following week</TIMEX3> 's stock returns for all US stock market indices , '' the authors found in their report .
+It could of course be mere coincidence that this has been a rollercoaster week on the markets , and that Britain was rocked by a wave of ferocious rioting and looting .
+But market watchers may take comfort from the fact that the space weather forecast for <TIMEX3 tid="t13" type="DATE" value="2011-08-12">Friday</TIMEX3> has gone quiet again .
+They should n't be too complacent though .
+The solar cycle is on an upswing due to peak in <TIMEX3 tid="t16" type="DATE" value="2013">2013</TIMEX3> and there are likely to be more geomagnetic storms heading Earth 's way in the months to come .
+-LRB-
+Editing by Paul Casciato -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

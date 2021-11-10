@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON | Thu <TIMEX3 tid="t2" type="DATE" value="2011-08-18">Aug 18 , 2011</TIMEX3> <TIMEX3 tid="t4" type="TIME" value="2011-08-18T22:40">10:40 pm</TIMEX3> BST LONDON -LRB-
+Reuters -RRB- - Oil markets will quietly swallow the loss of modest Syrian supplies if Europe joins Washington in slapping new sanctions on the country , but prices would spike if Syria 's ally and major oil producer
+Iran becomes directly involved in a confrontation with the West .
+Analysts and traders said it would take <TIMEX3 tid="t5" type="DURATION" value="PXW">several weeks</TIMEX3> before Syrian oil trade could grind to a halt , even if traders such as Vitol or Trafigura are forced to stop sending refined products for President Bashar Assad 's government and companies such as Shell are forced to stop producing and exporting oil from Syria .
+` ` The bigger problem could be if it provokes a wider confrontation with Iran as Assad moves closer towards Tehran .
+I would never discount Iran at some point taking some kind of retaliatory action , '' said Paul Harris from Bank of Ireland .
+The United States on <TIMEX3 tid="t6" type="DATE" value="2011-08-18">Thursday</TIMEX3> imposed fresh sanctions on Syria , freezing assets in the United States as well as banning Syrian - origin petroleum and petroleum products in response to weeks of Assad 's lethal crackdown on anti - government protesters .
+Syria 's oil production declined to 385,000 barrels per day in <TIMEX3 tid="t7" type="DATE" value="2010">2010</TIMEX3> from 581,000 bpd in <TIMEX3 tid="t8" type="DATE" value="2001">2001</TIMEX3> , or just a fraction of the 1.6 million bpd that OPEC - member Libya was producing <TIMEX3 tid="t10" type="DATE" value="2011" mod="START">earlier this year</TIMEX3> before its civil war shut down output .
+Syria exports over one third of its output to Europe , and companies such as Shell , Total , China 's CNPC and India 's ONGC are responsible for a large chunk of its production together with the state 's Syrian Petroleum Company .
+Shell and Total told Reuters on <TIMEX3 tid="t11" type="DATE" value="2011-08-18">Thursday</TIMEX3> they always comply with relevant sanctions , legislation and laws but declined to comment on whether they are ready to stop producing oil in Syria or buying its oil .
+Shell produces around 55,000 bpd in Syria .
+A Vitol spokesman said the company was not commenting on individual transactions but added that if a contract has commenced and payment has been received , the delivery would go ahead .
+` ` Trafigura is awaiting clarification of the situation following <TIMEX3 tid="t12" type="DATE" value="2011-08-18">today</TIMEX3> 's announcements with respect to sanctions related to Syria .
+The company always operates in accordance with relevant national and international regulations , '' the trading house said in a statement .
+Analysts and traders said they would not lose sleep even if all Syrian supplies were lost .
+` ` How big an issue is it with Syria when you have got Saudi Arabia acting as a potential backstop to any shortfalls ? ''
+said Michael Hewson from CMC Markets , referring to Riyadh 's decision to supply more oil from <TIMEX3 tid="t13" type="DATE" value="2011-06">June</TIMEX3> to compensate for the loss of Libyan crude and moderate prices .
+Both Bank of Ireland 's Harris and David Kirsch , director of markets and country strategies at PFC Energy , said they would not rule out that Europe could also impose oil sanctions soon given the toughening of stance on Assad .
+` ` Whether they are U.S.-based or not , oil firms are going to be very wary of crossing these sanctions , '' said Kirsch .
+Most U.S. companies have long stopped dealing with Syrian crude .
+U.S. firms such as ExxonMobil were also the first to walk away from Libyan oil dealings .
+For international banks , the sanctions on Libya also made it difficult to finance export transactions involving Libyan crude .
+In the case of Syria , the number of banks that are still providing export financing to firms dealing with Syrian oil has also shrunk grammatically in <TIMEX3 tid="t14" type="DATE" value="PAST_REF">recent months</TIMEX3> , traders say .
+Assad has been condemned by many Arab neighbors and can count only on one firm ally - Iran , the world 's fourth - largest oil producer and itself subject to years of U.S. sanctions , although it still exports oil to Europe and Asia .
+` ` The main sanctions -LRB- on Syria -RRB- that are starting to bite are really coming from Saudi Arabia , which has cut off support for Assad , '' Kirsch said .
+` ` That 's going to push Assad closer to Iran for <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">now</TIMEX3> -- they can provide him with the bullets he needs given how he 's chosen to deal with this rebellion , '' he added .
+</TimeML>

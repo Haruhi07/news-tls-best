@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Haiti starts to move quake victims Quake survivors moved out of cities Haiti has started moving its earthquake survivors to camps outside the capital , where they should be safer .
+People are living in bad conditions in Port - au - Prince , and they are struggling <TIMEX3 tid="t1" type="SET" value="P1D" quant="EVERY">every day</TIMEX3> to get food and clean water .
+It 's hoped the move will help stop the spread of disease , as there 's nowhere for people to wash or go to the toilet .
+Around 400,000 people will be moved to tent villages outside the capital <TIMEX3 tid="t2" type="DATE" value="FUTURE_REF">as soon as possible</TIMEX3> .
+The camps are n't built yet but they will be soon .
+There are fears that lots of people could start getting ill if something is n't done .
+Some people are already being moved outside the capital , to a place called Croix Des Bouquets , where the camps are being built .
+About 1.5 million people were left homeless after the earthquake , and up to 200,000 people have died .
+Around half a million people are already living in temporary camps in Port - au - Prince , but conditions there are not good .
+Police are also working hard because people have started to steal food and aid from each other .
+But once the new camps are built , it 's hoped this will stop .
+</TimeML>

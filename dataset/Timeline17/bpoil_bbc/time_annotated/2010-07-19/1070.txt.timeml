@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Shares in BP have closed down nearly 5 % in London amid uncertainty over the success of its latest attempts to stop the Gulf of Mexico oil leak .
+Earlier Thad Allen , the US official overseeing the oil clean - up , warned that BP may have to remove the cap on its damaged oil well .
+There are concerns that the cap is failing to prevent some oil leakage .
+BP 's shares ended the day at 389p , having risen from the 296p low reached at <TIMEX3 tid="t5" type="DATE" value="2010-06" mod="END">the end of June</TIMEX3> .
+But the share price is still less than 60 % of its level before the disaster began in <TIMEX3 tid="t6" type="DATE" value="2010-04">April</TIMEX3> .
+BP successfully fitted a cap to its damaged oil well on <TIMEX3 tid="t7" type="DATE" value="2010-07-16">Friday</TIMEX3> , but Admiral Allen has expressed concern that methane gas and oil could be leaking elsewhere on the sea bed .
+If that is found to be the case , the cap may have to be removed , though BP has been told it can keep the cap in place for <TIMEX3 tid="t13" type="DURATION" value="P1D" mod="EQUAL_OR_MORE">at least the next 24 hours</TIMEX3> .
+<TIMEX3 tid="t14" type="DATE" value="2010-07-19">Today</TIMEX3> 's falls have halted a <TIMEX3 tid="t15" type="DATE" value="PAST_REF">recent</TIMEX3> recovery in BP 's share price .
+Investors have been encouraged by BP 's progress and the increasing prospects of a takeover by a rival oil company or the significant investment of fresh funds , possibly from Middle East investors .
+BP has put the costs of dealing with the disaster at over $ 3.95 bn -LRB- # 2.6 bn -RRB- .
+It has already paid out more than $ 200 m to 32,000 claimants .
+The company is evaluating a further 17,000 for payment and is seeking more information on 61,000 other claims .
+The pun - ancient artform , or the lowest form of wit ?
+</TimeML>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+\ * Order for nasal spray vaccine against H1N1 flu \ * Company sees potential for additional U.S. orders LONDON , <TIMEX3 tid="t2" type="DATE" value="2009-06-01">June 1</TIMEX3> -LRB- Reuters -RRB- - AstraZeneca 's -LRB- AZN .
+L -RRB- MedImmune biotechnology unit has won an initial $ 90 million order from the U.S. government to make a live attentuated vaccine against the new H1N1 flu strain , it said on <TIMEX3 tid="t3" type="DATE" value="2009-06-01">Monday</TIMEX3> .
+The potential exists for further additional orders from the U.S. Department of Health and Human Services -LRB- HHS -RRB- , it said .
+MedImmune 's vaccine technology , <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">currently</TIMEX3> only available in the United States , is different from traditional injectable flu shots in that it is a mist sprayed into the nose , where the flu virus usually enters the body .
+It contains live , weakened virus that does not cause the flu but still prompts the body to mount an immune response .
+The HHS said on <TIMEX3 tid="t7" type="DATE" value="2009-05-22">May 22</TIMEX3> it was setting aside $ 1 billion to help companies develop vaccines against the new strain of H1N1 influenza sweeping the world .
+Experts say a vaccine against the new strain -- also known as swine flu -- would probably have to be given separately from the seasonal flu vaccine , which is a mixture of three flu strains reformulated <TIMEX3 tid="t9" type="SET" value="P1Y" quant="EVERY">every year</TIMEX3> .
+Vaccine makers are almost done with making <TIMEX3 tid="t10" type="DATE" value="2009-FA">the autumn</TIMEX3> flu vaccine for the northern hemisphere .
+MedImmune plans to begin shipping the first of 10 million doses of its seasonal FluMist vaccine to U.S. healthcare providers in <TIMEX3 tid="t11" type="DATE" value="2009-08">August</TIMEX3> .
+-LRB-
+Reporting by Ben Hirschler ; Editing by Dan Lalor -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+HOUSTON | Sun <TIMEX3 tid="t3" type="DATE" value="2010-07-11">Jul 11 , 2010</TIMEX3> <TIMEX3 tid="t6" type="TIME" value="2010-07-11T17:10">5:10 pm</TIMEX3> EDT
+HOUSTON -LRB- Reuters -RRB- - BP Plc said on <TIMEX3 tid="t5" type="DATE" value="2010-07-11">Sunday</TIMEX3> it is making progress on a new system to capture almost all the oil spewing from its blown - out well in the Gulf of Mexico and a relief well could finally plug the leak by early to mid - <TIMEX3 tid="t2" type="DATE" value="2009-08">August</TIMEX3> .
+` ` We 're pleased with our progress , '' BP senior vice president Kent Wells told reporters on a conference call .
+It will take <TIMEX3 tid="t8" type="DURATION" value="P1W" mod="EQUAL_OR_LESS">up to a week</TIMEX3> for robots working 1 mile underwater to completely fit a new cap and seal .
+Oil will flow mostly unchecked until the bigger containment system is installed , further hurting tourism and fishing in all five states along the Gulf Coast .
+The British energy giant , which is also drilling two relief wells to try to permanently plug the leak , hopes the new containment system will funnel as much as 80,000 barrels -LRB- 12.7 million liters -RRB- per day of oil to vessels on the surface -- more than three times the <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">current</TIMEX3> amount .
+It expects the first of the relief wells to intercept Macondo by <TIMEX3 tid="t13" type="DATE" value="2010-07" mod="END">the end of July</TIMEX3> , a first step in plugging the well by early to mid - <TIMEX3 tid="t12" type="DATE" value="2010-08">August</TIMEX3> .
+BP is also on track to start a rig on <TIMEX3 tid="t15" type="TIME" value="2010-07-11TEV">Sunday evening</TIMEX3> that can siphon up to 25,000 bpd from the well , Wells said .
+The Obama administration has pressed BP to take advantage of calm weather and move forward with the containment .
+Senior Obama adviser David Axelrod , asked on the ` ` Fox News <TIMEX3 tid="t18" type="DATE" value="2010-07-11">Sunday</TIMEX3> '' program about hopes the spill will be contained by <TIMEX3 tid="t17" type="DATE" value="2010-07" mod="END">the end of July</TIMEX3> , said he was ` ` reasonably confident but obviously this thing is uncharted waters . ''
+BP , which has set up a $ 20 billion spill fund under pressure from the White House , removed a smaller containment cap from the gushing well on <TIMEX3 tid="t19" type="DATE" value="2010-07-10">Saturday</TIMEX3> .
+On Day 83 of the disaster , U.S. Attorney General Eric Holder said the Justice Department has started interviewing witnesses as part of a criminal and civil investigation into the worst oil spill in U.S. history .
+BP shares have been hammered by the disaster and are likely to remain volatile until the well is capped and the company 's total costs and liabilities are clear .
+Some analysts have put BP 's likely costs at $ 20 billion to $ 40 billion but estimates have gone as high as $ 100 billion .
+Speculation is running high that BP is approaching several sovereign wealth funds for cash to ward off a takeover and to help pay for the spill .
+BP boss Tony Hayward met with an Abu Dhabi state investment fund <TIMEX3 tid="t24" type="DATE" value="2010-W26">last week</TIMEX3> .
+In Britain , The <TIMEX3 tid="t25" type="DATE" value="2010-07-11">Sunday</TIMEX3> Times newspaper said BP is in talks to sell up to $ 12 billion in assets , including a stake in Alaska , to Apache Corp. .
+Holder said the U.S. investigation could apply to other companies involved in the drilling of the damaged well .
+` ` We are in the process of accumulating documents , talking to witnesses on both the criminal side as well as the civil side , '' he told the CBS program ` ` Face the Nation . ''
+The investigation is aimed at ensuring no tax dollars pay for the cleanup ` ` and to make sure that we hold accountable anybody who was responsible for the spill , '' Holder said .
+If the Justice Department finds violations , penalties could be in the many billions of dollars .
+People living at the heart of the crisis expressed frustration over the pace of the cleanup .
+For Billy Nungesser , president of Plaquemines Parish in Louisiana , the top priority is more boats to mop up oil .
+` ` Number one is a sense of urgency , '' he said .
+` ` To get out on the water to work 24\/7 .
+We have to be on the front lines . ''
+Nungesser said he was due to meet two Obama administration officials on <TIMEX3 tid="t27" type="DATE" value="2010-07-11">Sunday</TIMEX3> , <TIMEX3 tid="t29" type="DURATION" value="P1D">a day</TIMEX3> before its first commission hearings on the spill in New Orleans .
+The administration 's commission consists of seven engineers , environmentalists and former politicians who plan to investigate decisions by oil companies and government regulators that may have led to the disaster .
+The panel will hear testimony from government officials , businesses groups like the Louisiana Shrimp Association , and BP 's Wells through <TIMEX3 tid="t33" type="DATE" value="2010-07-13">Tuesday</TIMEX3> .
+As the spill hit local economies , animal welfare groups are distributing donated dog food to Plaquemines Parish fishermen and others to help struggling owners keep their pets .
+Donna Schexnayder of the Plaquemines Animal Welfare Society said she has noticed more pets being given to the shelter and expects the number to grow .
+` ` We 're starting to see it a little more , '' she said .
+` ` Within <TIMEX3 tid="t34" type="DATE" value="2010-08">the next month</TIMEX3> or so , it will hit . ''
+Cherie Pete teared up as she described the changes confronting fisherman who are <TIMEX3 tid="t35" type="DATE" value="PRESENT_REF">now</TIMEX3> mopping up oil .
+` ` <TIMEX3 tid="t36" type="DATE" value="PRESENT_REF">Now</TIMEX3> they have the hard hats on , and the tags around their necks , '' Pete said .
+` ` They do n't look like our men .
+Our total way of life has already changed . ''
+Her home was completely submerged by Hurricane Katrina in <TIMEX3 tid="t37" type="DATE" value="2005">2005</TIMEX3> .
+But she considers the oil spill worse .
+` ` You get something like this -- I mean , Katrina was a category 5 , '' she said about the maximum rating a storm can muster .
+` ` As far as I ' m concerned this is a category 10 . ''
+Views expressed in the comments do not represent those of Reuters .
+We welcome comments on our articles for a limited period after their publication .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

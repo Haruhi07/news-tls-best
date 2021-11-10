@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t6" type="DATE" value="2005-01-24">Monday</TIMEX3> <TIMEX3 tid="t4" type="DATE" value="2005-01-24">24 January 2005</TIMEX3> 02.16 GMT Plagued by mission fatigue , casualties and a public starting to ask just how long the US plans to keep its soldiers in Iraq , the American army may have come up with a solution : robots .
+From <TIMEX3 tid="t10" type="DATE" value="2005-03">March</TIMEX3> or <TIMEX3 tid="t13" type="DATE" value="2005-04">April this year</TIMEX3> , it plans to deploy 18 armed robots to Iraq to help fight the ` ` war on terror '' .
+Although the robots have a snappy name - Swords , or Special Weapons Observation Reconnaissance Detection Systems - they are n't quite the sleek , cold - blooded androids of I , Robot .
+Rather , they look more like the sort of contraption dreamt up for the program Robot Wars .
+The Swords are essentially modified bomb disposal robots of the sort commonly deployed in Northern Ireland and Iraq , where they have been successfully used to defuse roadside bombs .
+Mounted on tracks , they have a standard army - issue automatic weapon bolted on top , capable of firing between 300 and 350 rounds <TIMEX3 tid="t15" type="DURATION" value="PT1M">a minute</TIMEX3> .
+The firing is done by a human soldier via a video camera .
+` ` It 's important to stress that not everything has to be super hi - tech , '' Anthony Sebasto , an official at Picatinny Arsenal in New Jersey , which helped develop it , told Associated Press .
+Developed at a cost of $ 2 m -LRB- # 1.07 m -RRB- , Swords have certain advantages over the traditional human fighting unit .
+They are cheap and require no food ; they can be packed away between campaigns ; they are unlikely - barring modifications - to write anguished letters home to loved ones or the media .
+They are also a much better shot than the average GI .
+But there are downsides : each robot has a top speed of 4 mph and can only operate for <TIMEX3 tid="t18" type="DURATION" value="PT1H">one</TIMEX3> to <TIMEX3 tid="t17" type="DURATION" value="PT4H">four hours</TIMEX3> before it needs to refuel .
+Swords , made by a small company in Massachusetts , are the first in a new generation of gizmos to go to war .
+Coming soon is the Future Combat System from Lockheed Martin , which includes a six - wheel , 2.5 - tonne vehicle .
+
+The Pentagon 's Defense Advanced Research Projects Agency is backing research into robots that can be dropped into combat zones from aircraft .
+</TimeML>

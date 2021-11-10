@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+A worker carries a fan into the Golden Rule Charter School after a suspected case of swine flu caused the school to close in Dallas , Texas <TIMEX3 tid="t3" type="DATE" value="2009-04-29">April 29 , 2009</TIMEX3> .
+WASHINGTON | We d <TIMEX3 tid="t6" type="DATE" value="2009-04-29">Apr 29 , 2009</TIMEX3> <TIMEX3 tid="t9" type="TIME" value="2009-04-29T17:24">5:24 pm</TIMEX3> EDT WASHINGTON -LRB-
+Reuters -RRB- - U.S. health officials confirmed a total of 91 human cases of H1N1 swine flu across the country on <TIMEX3 tid="t8" type="DATE" value="2009-04-28">Tuesday</TIMEX3> .
+` ` We 're reporting 91 confirmed cases in the United States , '' Dr. Richard Besser , acting director of the Centers for Disease Control and Prevention , told a news briefing .
+Besser said the <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">current</TIMEX3> confirmed caseload included 51 cases in New York , 16 in Texas , 14 in California , and cases in Massachusetts , Michigan , Arizona , Nevada , Indiana , Kansas and Ohio .
+He said the U.S. outbreak of swine flu -- which has killed a toddler in Texas but which in almost all other cases has resulted in only mild symptoms -- continues to develop .
+` ` These numbers are almost out of date by the time I say them , '' Besser said .
+-LRB-
+Reporting by Andrew Quinn ; Editing by Maggie Fox -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

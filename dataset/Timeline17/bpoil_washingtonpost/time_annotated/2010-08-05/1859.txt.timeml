@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t5" type="DATE" value="2010-08-05">Thursday</TIMEX3> , <TIMEX3 tid="t3" type="DATE" value="2010-08-05">August 5 , 2010</TIMEX3> ; <TIMEX3 tid="t7" type="TIME" value="2010-08-05T17:07">5:07 PM</TIMEX3> BP has finished pumping cement into the blown - out Macondo well in the Gulf of Mexico as part of its efforts to permanently plug the source of the nation 's worst oil spill , the company said <TIMEX3 tid="t6" type="DATE" value="2010-08-05">Thursday</TIMEX3> .
+Engineers started the cementing operation at <TIMEX3 tid="t8" type="TIME" value="2010-08-05T10:15">10:15 a.m.</TIMEX3> EDT and completed it at 3:15 EDT .
+It was the second step in the ` ` static kill , '' in which heavy mud was first pumped into the well from the surface to stop it from leaking crude into the gulf .
+BP said in a statement that the static kill procedure will ` ` complement '' a separate effort to plug the well through a relief well that is nearing completion in a technique known as the ` ` bottom kill . ''
+Earlier , the company announced that retired Coast Guard Adm. Thad W. Allen , the national incident commander for the disaster , had authorized the cementing operation , which was under consideration following the successful effort to pump mud into the well .
+The development comes <TIMEX3 tid="t11" type="DURATION" value="P1D">a day</TIMEX3> after the Macondo well became an apparently harmless hole in the seafloor , clogged with 13 - pound - per - gallon gunk , and barely more of a threat to spew oil into the Gulf of Mexico than to start gushing lemonade .
+On the 107th day of the Deepwater Horizon disaster , the well that tormented the nation had flatlined .
+Federal officials then green - lighted the cementing of the well , already jammed with mud , <TIMEX3 tid="t13" type="DATE" value="2010-08-04" mod="END">late Wednesday</TIMEX3> .
+Federal waters are reopening gradually to fishing .
+The oil slick , the once - horrific expanse of red - orange mousse and silver sheen , has largely disappeared , federal scientists said <TIMEX3 tid="t14" type="DATE" value="2010-08-04">Wednesday</TIMEX3> , even though the amount of oil left is more than four times that dumped by the Exxon Valdez .
+The Obama administration breathed a sigh of relief , holding a midday news conference featuring top officials who claimed credit for guiding BP in getting the well under control .
+Officials hastened to remind the public that Macondo wo n't be incontrovertibly dead until a relief well drills into it near its base and plugs it with cement .
+But even the cautious Allen , the official in charge of the federal response to the disaster , called the static kill a ` ` fairly consequential '' event and a ` ` very significant step . ''
+About three - quarters of the nearly 5 million barrels of oil that escaped Macondo has evaporated , dissolved or been dispersed by chemicals , skimmed by boats , burned , weathered and , most important , devoured by the Gulf of Mexico 's permanent oil - eating microbial workforce , according to a study released <TIMEX3 tid="t15" type="DATE" value="2010-08-04">Wednesday</TIMEX3> by the National Oceanic and Atmospheric Administration and Interior Department .
+` ` Mother Nature is assisting here considerably , '' said NOAA administrator Jane Lubchenco .
+This should terminate , once and for all , the more apocalyptic scenarios for the demise of the gulf and the spread of oil to Atlantic shores .
+There is no sign that the oil is going to ride the Loop <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">Current</TIMEX3> onto the beaches of South Florida , the Outer Banks , Bermuda , Ireland and so on .
+Just <TIMEX3 tid="t17" type="DATE" value="2010-07">a month ago</TIMEX3> , the spill was an uncontrolled calamity : Macondo mocked the technological skills of the world 's petroleum engineers , and oil was slathering birds and turtles and tar - balling hundreds of miles of coastline .
+The turning point came when BP put a new tight - fitting cap on the well <TIMEX3 tid="t22" type="DATE" value="2010-07-12">July 12</TIMEX3> and closed the valves <TIMEX3 tid="t21" type="DATE" value="2010-07-15">three days later</TIMEX3> , cutting off the ugly geyser of oil that had become a dominant image of <TIMEX3 tid="t23" type="DATE" value="2010-SU">the summer</TIMEX3> .
+Federal scientists have said that vigilance would be called for even after the static kill procedure worked , which , according to BP in a <TIMEX3 tid="t25" type="TIME" value="2010-07-15T02:00">2 a.m.</TIMEX3> announcement , it did .
+BP sent out a bulletin declaring success after spending <TIMEX3 tid="t26" type="DURATION" value="PT8H">eight hours</TIMEX3> pumping mud into the well from surface ships .
+News , features , and opinions on environmental policy , the science of climate change , and tools to live a green life .
+</TimeML>

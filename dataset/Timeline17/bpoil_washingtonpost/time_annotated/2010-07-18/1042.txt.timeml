@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+The article about the number of oil - related incidents in the Gulf of Mexico outpacing the ability of the Minerals Management Service to investigate them said that the agency , <TIMEX3 tid="t1" type="DATE" value="PAST_REF">recently</TIMEX3> renamed the Bureau of Ocean Energy Management , Regulation and Enforcement , received 12,087 reports of such incidents <TIMEX3 tid="t3" type="DURATION" value="P5Y" mod="MORE_THAN">over the past five years</TIMEX3> .
+That is the currenct number of Incidents of Non - Compliance reported to the agency , but not all were in the gulf ; a small percentage of the incidents occurred in Alaska or elsewhere in the Pacific Ocean .
+The number includes relatively minor matters such as inspection violations ; as the article reported , the number of incidents involving deaths , injuries , fires and blowouts was much lower .
+According to a database on the agency 's Web site , the number of serious incidents in the gulf totals 650 to 850 <TIMEX3 tid="t5" type="DURATION" value="P1Y">a year</TIMEX3> .
+The article also incorrectly described Frank Patton as the lead investigator of a <TIMEX3 tid="t6" type="DATE" value="2009">2009</TIMEX3> investigation into gas rising dangerously in one well and an averted rig explosion .
+Patton was one of four members of an investigative team .
+MMS investigations of oil - rig accidents have history of inconsistency <TIMEX3 tid="t8" type="DURATION" value="P1Y">A year</TIMEX3> and <TIMEX3 tid="t9" type="DURATION" value="P1D">a day</TIMEX3> before BP 's Deepwater Horizon oil rig exploded in the Gulf of Mexico , crew members on a neighboring oil rig found themselves bracing for their own potential disaster .
+A dangerous gas bubble surged up a well pipe , and the blowout preventers had n't worked .
+The crew reported hearing a ` ` deafening roar '' as fluids shot up , knocking over huge metal equipment on the deck .
+Some workers ran to lifeboats , while others stayed behind to control the well .
+The accident on the rig , leased by Louisiana Land Oil and Gas -LRB- LLOG -RRB- , was one of the 12,087 oil - related incidents in the gulf reported <TIMEX3 tid="t12" type="DURATION" value="P5Y" mod="MORE_THAN">over the past five years</TIMEX3> to the federal Minerals Management Service -- the <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">now</TIMEX3> - revamped agency investigating the BP oil spill .
+The number of accidents , spills and deaths regularly occurring in the region has far surpassed the agency 's ability to investigate them .
+Until <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">now</TIMEX3> , 60 inspectors were tasked with investigating all types of incidents .
+Between <TIMEX3 tid="t14" type="DATE" value="2006">2006</TIMEX3> and <TIMEX3 tid="t15" type="DATE" value="2009">2009</TIMEX3> , those included 30 worker deaths , 1,298 injuries , 514 fires and 23 blowouts that left wells out of control .
+They conducted 378 investigations in the gulf in roughly the same time period , with 21 considered worthy of more rigorous and extended scrutiny by a panel .
+As federal inspectors work to dissect the underlying causes of the BP accident -- an issue to be probed <TIMEX3 tid="t16" type="DATE" value="2010-W28">this week</TIMEX3> in a new round of joint panel hearings in Kenner , La. -- The Washington Post reviewed several dozen serious MMS investigations in <TIMEX3 tid="t17" type="DATE" value="PAST_REF">recent years</TIMEX3> to assess how they were conducted and found large variations in aggressiveness and outcome .
+In some cases , investigators ran their own tests , tracked down witnesses and did complicated technical calculations .
+In others , they relied heavily on information and witness interviews provided by companies .
+Once their findings were forwarded to agency officials for review , many probes resulted in small fines or none at all .
+MMS levied financial penalties 154 times in <TIMEX3 tid="t22" type="DURATION" value="P5Y">the past five years</TIMEX3> , agency officials testified <TIMEX3 tid="t20" type="DATE" value="2010-06">last month</TIMEX3> .
+Although the agency <TIMEX3 tid="t24" type="DATE" value="PRESENT_REF">now</TIMEX3> may assess fines of up to $ 35,000 per day , in <TIMEX3 tid="t27" type="DURATION" value="P5Y">five years</TIMEX3> it collected only $ 8.5 million .
+Its largest fine between <TIMEX3 tid="t28" type="DATE" value="2000">2000</TIMEX3> and <TIMEX3 tid="t29" type="DATE" value="2009">2009</TIMEX3> was $ 697,500 , according to an MMS Web site .
+It took <TIMEX3 tid="t31" type="DURATION" value="P11M">11 months</TIMEX3> for MMS to finalize its report in the LLOG case , and along the way it sometimes accepted the accounts of company officials without probing more deeply , the report shows .
+Investigators asked to see a safety valve provided by a subcontractor , Halliburton Corp. .
+When Halliburton told investigators the device was under repair and could n't be examined , an inspector accepted the company 's assertions and data .
+Kendra Barkoff , an Interior Department spokeswoman , said <TIMEX3 tid="t32" type="DATE" value="2010-07-17">Saturday</TIMEX3> that the valve played no role in the accident .
+The inquiry concluded that no rules had been broken , no fines were warranted , and the agency 's response should be to alert the industry to potential risks .
+Barkoff noted that ` ` some accidents are just that : accidents that involve no wrongdoing or criminal or negligent behavior . ''
+The team looking into that case was led by Frank Patton , a veteran investigator also responsible for monitoring the Deepwater Horizon rig .
+In <TIMEX3 tid="t33" type="DATE" value="PAST_REF">recent weeks</TIMEX3> , Patton has testified that he approved a BP drilling plan that other oil companies and drilling experts have said was deeply flawed .
+The supervisor who approved the LLOG report was J. David Dykes , co - chairman of the joint panel with the Coast Guard that on <TIMEX3 tid="t36" type="DATE" value="2010-07-12">Monday</TIMEX3> begins its second round of hearings into the BP blowout .
+Dykes referred questions to Barkoff , who also answered for Patton .
+` ` Frank Patton and David Dykes ... are committed to ensuring the safety of offshore energy operation , '' Barkoff said .
+News , features , and opinions on environmental policy , the science of climate change , and tools to live a green life .
+</TimeML>

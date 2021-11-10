@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON | We d <TIMEX3 tid="t2" type="DATE" value="2009-04-29">Apr 29 , 2009</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2009-04-29T12:20">12:20 am</TIMEX3> BST LONDON -LRB-
+Reuters -RRB- -
+The Foreign Office advised against all but essential travel to flu - hit Mexico on <TIMEX3 tid="t4" type="DATE" value="2009-04-28">Tuesday</TIMEX3> as holiday firms started canceling flights and made plans to repatriate British tourists .
+A honeymooning Scottish couple who <TIMEX3 tid="t6" type="DATE" value="PAST_REF">recently</TIMEX3> returned from Cancun , one of the country 's biggest beach resorts , have became the first in Britain to test positive for swine flu .
+On its website , the Foreign Office also said routine consular and all visa services at its embassy in Mexico City had been suspended until further notice .
+` ` British nationals resident in or visiting Mexico may wish to consider whether they should remain in Mexico at this time , '' it said .
+Travel firms Thomson Holidays and First Choice said they had decided to repatriate their customers from Mexico and to cancel flights bound for Cancun from Gatwick and Manchester on <TIMEX3 tid="t10" type="DATE" value="2009-04-28">Tuesday</TIMEX3> .
+Thomas Cook said it was canceling all flights to Mexico until <TIMEX3 tid="t12" type="DATE" value="2008-05-05">May 5</TIMEX3> , but British Airways said it would continue to operate its services .
+Prime Minister Gordon Brown said he would take part in a meeting of the government 's COBRA emergency committee on <TIMEX3 tid="t13" type="DATE" value="2009-05-05">Tuesday</TIMEX3> chaired by Health Secretary Alan Johnson .
+` ` We have been preparing for this kind of scenario for <TIMEX3 tid="t14" type="DURATION" value="PXY">many years</TIMEX3> .
+Britain is among the best prepared countries in the world , '' he told a news conference during a visit to Poland .
+` ` We , together with the World Health Organisation and our partners in Europe and internationally , will continue to take all the urgent action that is necessary to halt the spread of this virus . ''
+On <TIMEX3 tid="t15" type="DATE" value="2009-04-28">Tuesday</TIMEX3> , newspapers named the Scottish couple who tested positive for the illness as newlyweds Iain and Dawn Askham from Polmont , near Falkirk , who had been on honeymoon in Cancun .
+They flew back to Scotland <TIMEX3 tid="t16" type="DATE" value="2009-W17">last week</TIMEX3> and are being treated in hospital in Airdrie , near Glasgow , Scotland 's health minister Nicola Sturgeon told reporters in Edinburgh on <TIMEX3 tid="t17" type="DATE" value="2009-04-27">Monday</TIMEX3> .
+They are recovering well and Brown said it was hoped that one of them could return home later on <TIMEX3 tid="t18" type="DATE" value="2009-04-28">Tuesday</TIMEX3> .
+Seven other people who came into contact with the two are receiving treatment for mild symptoms of the potentially deadly H1N1 virus .
+So far , 149 people have died , all in Mexico , and the virus has since also spread to the United States , Canada and Spain .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Mon <TIMEX3 tid="t3" type="DATE" value="2011-06-13">Jun 13 , 2011</TIMEX3> <TIMEX3 tid="t7" type="TIME" value="2011-06-13T10:16">10:16 am</TIMEX3> BST LONDON , <TIMEX3 tid="t5" type="DATE" value="2011-06-13">June 13</TIMEX3>
+-LRB- Reuters -RRB- -
+The following FTSE 100 company will go ex - dividend on <TIMEX3 tid="t6" type="DATE" value="2011-06-15">Wednesday</TIMEX3> , after which investors will no longer qualify for the next dividend payout .
+According to Reuters calculations at <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">current</TIMEX3> market prices , the effect would be to take 0.10 points off the index .
+COMPANY -LRB- RIC -RRB-
+DIVIDEND INDEX IMPACT -LRB-
+pence -RRB- -LRB- points -RRB- 3i
+Group -LRB- III .
+L -RRB- 2.40 0.10 Among the FTSE 250 .
+FTMC companies going ex - dividend are : 3i Infrastructure -LRB- 3IN .
+L -RRB- 2.86 Aegis -LRB- AEGS .
+L -RRB- 2.75 Edinburgh Inv .
+L -RRB- 6.55 An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

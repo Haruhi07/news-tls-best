@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t6" type="DATE" value="2005-10-19">Wednesday</TIMEX3> <TIMEX3 tid="t3" type="DATE" value="2005-10-19">19 October 2005</TIMEX3> 18.57 BST Former Iraqi president Saddam Hussein goes on trial in Baghdad <TIMEX3 tid="t5" type="DATE" value="2005-10-19">today</TIMEX3> charged with killing 148 people in Dujail following an assassination attempt on him during a visit to the village .
+He may also face charges in relation to other alleged atrocities committed in the country , as detailed in the following reports from the Guardian archive .
+<TIMEX3 tid="t11" type="DATE" value="1974">1974</TIMEX3> : At least five Shia religious leaders are killed and possibly dozens more .
+<TIMEX3 tid="t13" type="DATE" value="197">1970s</TIMEX3> - <TIMEX3 tid="t12" type="DATE" value="2003">2003</TIMEX3> : 270 mass graves are found , leading to charges of the killing of tens of thousands of people .
+<TIMEX3 tid="t14" type="DATE" value="1983">1983</TIMEX3> : 8,000 male members of the Kurdish Barzani tribe in the northern province of Arbil are arrested and deported to southern Iraq .
+No trace of them has ever been found .
+<TIMEX3 tid="t15" type="DATE" value="1988">1988</TIMEX3> :
+The Anfal -LRB- ` Spoils ' -RRB- campaign is designed to depopulate the Kurdish regions in northern Iraq .
+Up to 182,000 people are killed or die from cold and hunger and entire villages are razed .
+</TimeML>

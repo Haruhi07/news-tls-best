@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON , <TIMEX3 tid="t4" type="DATE" value="2011-06-07">June 7</TIMEX3> -LRB- Reuters -RRB- - A major upturn in dry bulk shipping rates is not expected before <TIMEX3 tid="t3" type="DATE" value="2013" mod="END">the end of 2013</TIMEX3> as the freight market will continue to struggle with mounting fleet growth , leading ship broker Fearnleys said on <TIMEX3 tid="t5" type="DATE" value="2011-06-07">Tuesday</TIMEX3> .
+Sverre Svenning , director with Fearnley Consultants , which is part of broker Fearnleys , said net fleet growth was forecast to reach 13 percent <TIMEX3 tid="t9" type="DATE" value="2011">this year</TIMEX3> , despite a pick up in scrapping in <TIMEX3 tid="t8" type="DATE" value="2011-05">May</TIMEX3> , versus over 16 percent in <TIMEX3 tid="t6" type="DATE" value="2010">2010</TIMEX3> and nearly 10 percent in <TIMEX3 tid="t7" type="DATE" value="2009">2009</TIMEX3> .
+` ` During the course of <TIMEX3 tid="t10" type="DURATION" value="P3Y">three years</TIMEX3> , the entire dry bulk fleet will have expanded by more than 40 percent and there is no chance that demand growth can match that , '' he told a Navigate shipping conference in London .
+` ` The freight market is expected to remain subdued for the next <TIMEX3 tid="t13" type="DURATION" value="P18M">18</TIMEX3> to <TIMEX3 tid="t12" type="DURATION" value="P2Y">24 months</TIMEX3> .
+We do not foresee any significant upturn before <TIMEX3 tid="t15" type="DATE" value="2013" mod="END">the end of 2013</TIMEX3> . ''
+Ship owners went on a ship ordering spree before economic turmoil in <TIMEX3 tid="t16" type="DATE" value="2008">2008</TIMEX3> hit the sector .
+It normally takes <TIMEX3 tid="t17" type="DURATION" value="P3Y">three years</TIMEX3> for a ship to hit the water from when it is ordered .
+` ` We think <TIMEX3 tid="t18" type="DATE" value="2011">this year</TIMEX3> will become a record delivery year both for capesizes and for bulk carriers in general , '' Svenning said .
+` ` The dry bulk market has tanked , there is no doubt about it . ''
+Fearnleys estimated net fleet growth would reach 11 percent <TIMEX3 tid="t20" type="DATE" value="2012">next year</TIMEX3> before coming off substantially in <TIMEX3 tid="t19" type="DATE" value="2013">2013</TIMEX3> to 4 percent . ''
+-LRB-
+There will be -RRB- strong fleet growth through to <TIMEX3 tid="t21" type="DATE" value="2012">2012</TIMEX3> before we see a more benign development in <TIMEX3 tid="t22" type="DATE" value="2013">2013</TIMEX3> , '' he said .
+Svenning said there had been expectation that rates would stay soft when they hit a record low in <TIMEX3 tid="t24" type="DATE" value="2008" mod="END">late 2008</TIMEX3> .
+` ` Then the Chinese came back in <TIMEX3 tid="t27" type="DATE" value="2009-SP">the spring of 2009</TIMEX3> and saved everybody by increasing imports of iron ore and coal , '' he said .
+` ` After two relatively good years we see <TIMEX3 tid="t28" type="DATE" value="PRESENT_REF">now</TIMEX3> that capesizes especially and to a certain degree panamaxes are really , really low in earnings . ''
+Average capesize earnings have fallen to below $ 5,000 <TIMEX3 tid="t34" type="DURATION" value="P1D">a day</TIMEX3> <TIMEX3 tid="t30" type="DATE" value="2011">this year</TIMEX3> , below operating costs estimated at $ 7,500 to $ 8,000 <TIMEX3 tid="t35" type="DURATION" value="P1D">a day</TIMEX3> , compared with over $ 200,000 <TIMEX3 tid="t36" type="DURATION" value="P1D">a day</TIMEX3> before the financial crisis in <TIMEX3 tid="t29" type="DATE" value="2008">2008</TIMEX3> .
+They reached $ 10,937 <TIMEX3 tid="t39" type="DURATION" value="P1D">a day</TIMEX3> on <TIMEX3 tid="t37" type="DATE" value="2011-06-07">Tuesday</TIMEX3> , Baltic Exchange data showed .
+` ` Everyone is anticipating the freight market is going to be disappointingly low for probably <TIMEX3 tid="t42" type="DURATION" value="P1Y">12</TIMEX3> to <TIMEX3 tid="t41" type="DURATION" value="P2Y">24 months</TIMEX3> , '' James Leake , managing director of ICAP Shipping Research , told the conference .
+Iron ore and coal account for about two thirds of total seaborne trade of dry bulk volumes .
+Svenning said coal imports , excluding India , were down about 2 percent year - on - year in <TIMEX3 tid="t46" type="DATE" value="2011-Q1">the first quarter of this year</TIMEX3> and dropped about 7 percent from <TIMEX3 tid="t43" type="DATE" value="2010-Q4">the fourth quarter of 2010</TIMEX3> , which ` ` indicates a weaker momentum in the market '' .
+` ` We see that coal imports are increasing still , but the effect on total demand is relatively small . ''
+He said iron ore imports continued to increase and had risen 12 percent year - on - year in <TIMEX3 tid="t52" type="DATE" value="2011-Q1">the first quarter of this year</TIMEX3> , rising 6 percent from <TIMEX3 tid="t49" type="DATE" value="2010-Q4">the fourth quarter of 2010</TIMEX3> .
+` ` The problem is the steel industry in Japan , South Korea and Taiwan -- they are all producing at very closely to capacity .
+So they do n't need any more iron ore , so again we have to look to China . ''
+Simon Young , chief executive of COSCO UK , a unit of China 's top shipping conglomerate -LRB- 601919 .
+SS -RRB- , told the conference indications were growing that throughput at China 's ports was slowing down and iron ore imports could weaken .
+-LRB- IDn :
+LDE7560PK -RRB-
+He said the dry freight market had experienced a ` ` super cycle '' boom period encouraging players to expect China to have annual growth of iron ore and coal trade of over 20 percent .
+` ` The booming period was so long that this made everybody believe that China would never stop , '' he said .
+` ` Nobody could guarantee for <TIMEX3 tid="t55" type="SET" value="P1Y" quant="EVERY">every year</TIMEX3> for <TIMEX3 tid="t58" type="DURATION" value="P10Y">the next 10 years</TIMEX3> to have a 20 or 30 percent increase . ''
+Republication or redistribution ofReuters content , including by caching , framing or similar means , is expresslyprohibited without the prior written consent of Reuters .
+Reuters and the Reuterssphere logo are registered trademarks and trademarks of the Reuters group ofcompanies around the world .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

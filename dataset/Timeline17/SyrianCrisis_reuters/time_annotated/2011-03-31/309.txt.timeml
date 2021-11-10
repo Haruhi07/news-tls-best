@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON | Thu <TIMEX3 tid="t3" type="DATE" value="2011-03-31">Mar 31 , 2011</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2011-03-31T22:13">10:13 pm</TIMEX3> BST LONDON -LRB-
+Reuters -RRB- - A printing error helped a <TIMEX3 tid="t2" type="DATE" value="11">12th century</TIMEX3> English village church realize it owned a rare 400 - year - old King James Bible , the book that changed the world .
+The edition that had been sitting on a ledge in the pretty Anglican church in Wiltshire , central England for <TIMEX3 tid="t8" type="DURATION" value="P150Y">the past 150 years</TIMEX3> , barely touched and much less read , is one of only a handful that still exists .
+Although a sign above the book indicated it dated back to <TIMEX3 tid="t9" type="DATE" value="1611">1611</TIMEX3> , it was only after the parochial church council -LRB- PCC -RRB- of St Laurence in Hilmarton decided to get it authenticated during the 400th anniversary of the King James Bible that they made their discovery .
+` ` I noticed it like everyone who uses the church noticed it as an old Bible that was sort of there , but no one was sure about its origins until very <TIMEX3 tid="t10" type="DATE" value="PAST_REF">recently</TIMEX3> , '' PCC member Chris Mastin - Lee told Reuters .
+St Laurence stopped using the Bible after the introduction of more modern versions , and fewer than 200 original printings of the <TIMEX3 tid="t11" type="DATE" value="1611">1611</TIMEX3> King James version are believed to exist .
+Although the church , which has about 60 parishioners , is not expecting coach loads of tourists to suddenly turn up , Mastin - Lee said he would not be surprised to see an increase in numbers wanting to take a look .
+The St Laurence Bible , whose heavy handset Gothic script was printed on linen fabric , lacks any gold leaf or ornate illustrations , and was authenticated as a second edition because of a tell - tale misprint .
+
+A place in the Gospel of Matthew that should say Jesus entered the Garden of Gethsemane and spoke to his disciples instead says that Judas , who betrayed Jesus , entered the garden .
+The edition , which has suffered a bit of wear and tear over the years also has the first five chapters of Genesis missing .
+Other damage was caused when a former vicar , the Reverend Francis Fisher , had ornate hand - carved binding put on the book after discovering it in a church chest in <TIMEX3 tid="t12" type="DATE" value="1857">1857</TIMEX3> .
+` ` This is speculation but when he found it in the parish chest it 's likely that the edges of the pages would have been quite tatty , '' Mastin - Lee said .
+` ` When he had the Bible bound we understand that it was the custom of Victorian binders to trim the pages to make them neat . ''
+But the Bible is priceless as an example of one of the first translations of the Gospels into English .
+` ` Within <TIMEX3 tid="t14" type="DURATION" value="P300Y">300 years</TIMEX3> , this translation transformed how English people spoke to each other , how we wrote our books and how we see our God , '' the King James Bible Trust says on its website .
+` ` The translation of the Bible has had enormous consequences not just for England but America and this is still significant <TIMEX3 tid="t15" type="DATE" value="2011-03-31">today</TIMEX3> . ''
+Some phrases in the King James Bible are still used <TIMEX3 tid="t16" type="DATE" value="2011-03-31">today</TIMEX3> , such as ` ` a cross to bear , '' ` ` a broken heart '' and a ` ` law unto themselves . ''
+The church is looking to raise funds to put the Bible in a glass case , from which people would still be able to turn the pages and read it .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Police officers protest in Cairo , Egypt , on <TIMEX3 tid="t1" type="DATE" value="2011-02-13">Sunday</TIMEX3> .
+They 're calling for higher pay , shorter hours , better benefits , and more respect .
+Egypt 's new government on <TIMEX3 tid="t2" type="DATE" value="2011-02-13">Sunday</TIMEX3> ordered banks closed for <TIMEX3 tid="t4" type="DURATION" value="P2D">the next two days</TIMEX3> after protests by National Bank workers apparently drove out the head of the institution .
+The chairman of the National Bank of Egypt , Tarek Amer , told employees via e - mail that he submitted his resignation on <TIMEX3 tid="t5" type="DATE" value="2011-02-13">Sunday</TIMEX3> , according to a person who received the message .
+` ` I was saddened because I could not enter the bank 's building <TIMEX3 tid="t6" type="DATE" value="2011-02-13">today</TIMEX3> due to hundreds of protesting employees , '' the e - mail said , according to a bank employee , who was not authorized to speak to the media and asked not to be named .
+Amer was joined by two of his deputies and the bank 's head of human resources , according to the message .
+It was not clear whether the resignations have been accepted .
+But <TIMEX3 tid="t9" type="TIME" value="2011-02-13TEV">Sunday evening</TIMEX3> , Egyptian state television announced that the country 's lenders would be shut down until <TIMEX3 tid="t8" type="DATE" value="2011-02-09">Wednesday</TIMEX3> .
+The announcement asked employees to consider the national interest in the wake of the revolt that drove longtime President Hosni Mubarak from office on <TIMEX3 tid="t10" type="DATE" value="2011-02-11">Friday</TIMEX3> .
+The military council that took power from Mubarak has urged Egyptians to help bolster the country 's economy , which had been paralyzed during the protests .
+Sameh Shoukry , Egypt 's ambassador to the United States , said <TIMEX3 tid="t11" type="DATE" value="2011-02-13">Sunday</TIMEX3> that the new government has made restoring security and reviving commerce its top priorities .
+` ` The Egyptian economy has suffered during this period of unrest , and was suffering from the global recession with a rising unemployment rate , '' Shoukry told CNN 's ` ` Fareed Zakaria GPS . ''
+Bank workers complained that members of Mubarak 's family put their allies into positions of power at the bank with grossly inflated salaries .
+But the National Bank 's headquarters in Cairo continued to function during <TIMEX3 tid="t12" type="DATE" value="2011-02-13">Sunday</TIMEX3> 's protests , with disgruntled staff taking turns to work and demonstrate .
+There were reports of protests at branches of the Bank of Alexandria and the Bank of Egypt as well .
+And hundreds of police officers launched demonstrations outside Interior Ministry headquarters on <TIMEX3 tid="t13" type="DATE" value="2011-02-13">Sunday</TIMEX3> to demand higher wages , shorter hours , better benefits and more respect , participants told CNN .
+The protesters faced off with a cordon of Egyptian troops outside the ministry <TIMEX3 tid="t15" type="TIME" value="2011-02-13TEV">Sunday evening</TIMEX3> .
+They <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">currently</TIMEX3> earn 500 Egyptian pounds -LRB- about $ 85 -RRB- <TIMEX3 tid="t20" type="DURATION" value="P1M">a month</TIMEX3> -- a quarter of what army troops of comparable rank earn , they said .
+They , too , want to earn 2,000 pounds <TIMEX3 tid="t24" type="DURATION" value="P1M">a month</TIMEX3> , police protesters Mahmoud Tawfiq and Mahmoud Bedwai said .
+They also want their hours reduced and to be paid for working overtime , saying they work <TIMEX3 tid="t27" type="DURATION" value="PT12H">12</TIMEX3> to <TIMEX3 tid="t26" type="DURATION" value="PT15H">15 hour</TIMEX3> days and face imprisonment if they refuse to work past the end of their shifts .
+And they called for free transportation to their job sites and housing once they get there , saying some travel hundreds of miles from Cairo for work at their own expense .
+Both low - ranking police officers and administrative staff joined in the protest .
+</TimeML>

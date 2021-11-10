@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t6" type="DATE" value="2010-06-03">June 3</TIMEX3> | Thu <TIMEX3 tid="t5" type="DATE" value="2010-06-03">Jun 3 , 2010</TIMEX3> <TIMEX3 tid="t10" type="TIME" value="2010-06-03T09:10">9:10 am</TIMEX3> EDT <TIMEX3 tid="t8" type="DATE" value="2010-06-03">June 3</TIMEX3>
+-LRB- Reuters -RRB- - Millions of gallons -LRB- liters -RRB- of oil have poured into the Gulf of Mexico since an <TIMEX3 tid="t9" type="DATE" value="2010-04-20">April 20</TIMEX3> blast on the Deepwater Horizon rig triggered a huge spill , soiling 100 miles -LRB- 160 km -RRB- of coastline , threatening some of the richest U.S. fisheries and endangering a fragile marine ecosystem .
+Below is a timeline of the spill and its impact .
+<TIMEX3 tid="t13" type="DATE" value="2010-04-20">April 20 , 2010</TIMEX3> - Explosion and fire on Transocean Ltd 's drilling rig Deepwater Horizon licensed to BP -LRB- BP .
+L -RRB- ; 11 workers are killed .
+The rig was drilling in BP 's Macondo project 42 miles -LRB- 68 km -RRB- southeast of Venice , Louisiana , beneath about 5,000 feet -LRB- 1,525 metres -RRB- of water and 13,000 feet -LRB- 4 km -RRB- under the seabed .
+<TIMEX3 tid="t16" type="DATE" value="2010-04-22">April 22</TIMEX3> - The Deepwater Horizon rig , valued at more than $ 560 million , sinks and a five mile long -LRB- 8 km -RRB- oil slick is seen .
+<TIMEX3 tid="t19" type="DATE" value="2011-04-25">April 25</TIMEX3> - The Coast Guard approves a plan to have remote underwater vehicles activate a blowout preventer and stop leak .
+Efforts to activate the blowout preventer fail .
+<TIMEX3 tid="t21" type="DATE" value="2011-04-28">April 28</TIMEX3> - The Coast Guard says the flow of oil is 5,000 barrels per day -LRB- bpd -RRB- -LRB- 210,000 gallons\/795 , 000 litres -RRB- -- five times greater than first estimated .
+A controlled burn is held on the giant oil slick .
+<TIMEX3 tid="t23" type="DATE" value="2011-04-29">April 29</TIMEX3> - U.S. President Barack Obama pledges ` ` every single available resource , '' including the U.S. military , to contain the spreading spill .
+-- Obama also says BP is responsible for the cleanup .
+Louisiana declares state of emergency due to the threat to the state 's natural resources .
+<TIMEX3 tid="t25" type="DATE" value="2011-04-30">April 30</TIMEX3> - An Obama aide says no drilling will be allowed in new areas , as the president had <TIMEX3 tid="t26" type="DATE" value="PAST_REF">recently</TIMEX3> proposed , until the cause of the Deepwater Horizon accident is known .
+-- BP Chief Executive Tony Hayward says the company takes full responsibility for the spill and would pay all legitimate claims and the cost of the cleanup .
+<TIMEX3 tid="t28" type="DATE" value="2011-05-02">May 2</TIMEX3> - Obama visits the Gulf Coast to see cleanup efforts first hand .
+U.S. officials close areas affected by the spill to fishing for an initial period of <TIMEX3 tid="t30" type="DURATION" value="P10D">10 days</TIMEX3> .
+BP starts to drill a relief well alongside the failed well , a process that will take <TIMEX3 tid="t32" type="DURATION" value="P2M">two</TIMEX3> to <TIMEX3 tid="t31" type="DURATION" value="P3M">three months</TIMEX3> to complete .
+<TIMEX3 tid="t34" type="DATE" value="2011-05-05">May 5</TIMEX3> - A barge begins towing a 98 - ton containment chamber to the site of the leak .
+BP says one of the three leaks has been shut off by capping a valve , but that will not cut the amount of oil gushing out .
+<TIMEX3 tid="t36" type="DATE" value="2011-05-06">May 6</TIMEX3> - Oil washes ashore on the Chandeleur Islands off the Louisiana coast , uninhabited barrier islands that are part of the Breton National Wildlife Refuge .
+<TIMEX3 tid="t38" type="DATE" value="2011-05-07">May 7</TIMEX3> - BP tries to lower the containment dome over the leak , but the device was rendered useless by a slush of frozen hydrocarbons that clogged it .
+A fishing ban for federal waters off the Gulf is modified , expanded and extended .
+<TIMEX3 tid="t40" type="DATE" value="2011-05-09">May 9</TIMEX3> - BP says it might try to plug the undersea leak by pumping materials such as shredded up tires and golf balls into the well at high pressure , a method called a ` ` junk shot . ''
+<TIMEX3 tid="t41" type="DATE" value="2011-05">May</TIMEX3> 11\/12 - Executives from BP , Transocean and Halliburton appear at congressional hearings in Washington .
+Senate Energy Committee chairman Jeff Bingaman says that it appears that the explosion on the rig is due to a ` ` cascade of errors '' , technical , human and regulatory .
+The executives blame each other 's companies .
+<TIMEX3 tid="t43" type="DATE" value="2011-05-14">May 14</TIMEX3> - Obama slams companies involved in the spill , criticizing them for a ` ` ridiculous spectacle '' of publicly trading blame over the accident in his sternest comments yet .
+<TIMEX3 tid="t45" type="DATE" value="2011-05-16">May 16</TIMEX3> - BP succeeds in inserting a tube into the leaking riser pile of the well and capturing some oil and gas .
+<TIMEX3 tid="t47" type="DATE" value="2011-05-18">May 18</TIMEX3> -
+The U.S. nearly doubles a no - fishing zone in waters affected by the oil , extending it to 19 percent of U.S. waters in the Gulf .
+<TIMEX3 tid="t49" type="DATE" value="2011-05-19">May 19</TIMEX3> - The first heavy oil from the spill sloshes ashore in fragile Louisiana marshlands and part of the fragmented oil slick enters a powerful <TIMEX3 tid="t50" type="DATE" value="PRESENT_REF">current</TIMEX3> that could carry it to the Florida Keys and beyond .
+<TIMEX3 tid="t52" type="DATE" value="2011-05-26">May 26</TIMEX3> - A ` ` top kill '' maneuver starts , involving pumping heavy fluids and other material into the well shaft to try to stifle the flow .
+<TIMEX3 tid="t54" type="DATE" value="2011-05-28">May 28</TIMEX3> - Obama tours the Louisiana Gulf coast on his second visit - ` ` I am the president and the buck stops with me , '' he said .
+-- BP CEO Tony Hayward flies over the Gulf .
+BP says the disaster has so far cost the company $ 930 million .
+<TIMEX3 tid="t57" type="DATE" value="2011-05-29">May 29</TIMEX3> - BP says the complex ` ` top kill '' maneuver to plug the well has failed , crushing hopes for a quick end to the largest oil spill in U.S. history already in its 40th day .
+<TIMEX3 tid="t59" type="DATE" value="2010-06-01">June 1</TIMEX3> - BP shares plunge 17 percent in London trading , wiping $ 23 billion off its market value , on news the latest attempt to plug the well has failed .
+-- U.S. Attorney General Eric Holder says the Justice Department has launched a criminal and civil investigation into the rig explosion and the spill .
+<TIMEX3 tid="t62" type="DATE" value="2010-06-02">June 2</TIMEX3> - BP continues work on a new plan to try to capture most of the escaping oil .
+This involves using robot submarines to cut off what is left of the leaking riser pipe , then lowering a containment cap over the wellhead assembly .
+Some difficulties are encountered with the cutting operation .
+-- U.S. authorities expand fishing restrictions to cover 37 percent of U.S. federal waters in the Gulf .
+<TIMEX3 tid="t65" type="DATE" value="2010-06-03">June 3</TIMEX3> - After previous sharp declines , BP shares rise more than 3 percent on market hopes that the latest plan to control the leaking well may make some progress .
+The six - week - old crisis has wiped a third off BP 's market value since it began .
+-LRB-
+Compiled by David Cutler , London Editorial Reference Unit ; Editing by Pascal Fletcher -RRB-
+We welcome comments that advance the story through relevant opinion , anecdotes , links and data .
+Views expressed in the comments do not represent those of Reuters .
+Those attending will include Dr. John W. Farrington , interim dean of the University of Massachusetts School of Marine Science and Technology and possibly scientist from WHOI , Woods Hole Oceanographic Institution is a private , independent , not - for - profit corporation with experts on the Buzzards Bay , Massachusetts <TIMEX3 tid="t68" type="DATE" value="2003">2003</TIMEX3> oil spill .
+On <TIMEX3 tid="t73" type="DATE" value="2010-05-30">Sunday</TIMEX3> , <TIMEX3 tid="t71" type="DATE" value="2003-04-27">April 27 , 2003</TIMEX3> , the Tank Barge Bouchard No . 120 struck rocks south of Westport , MA , when it passed on the wrong side of a navigational marker at the entrance of Buzzards Bay .
+The resulting 12 - foot gash on the bottom of the hull released an estimated 98,000 Number 6 fuel oil in Buzzards Bay .
+They are calling the spill an accident ?
+Are they sure it was an accident ?
+I am no expert but the events and consequences seems to be so extreme .
+Surely BP knew the dangers ?
+Surely they knew the forces involved ?
+They are calling the spill an accident ?
+Are they sure it was an accident ?
+I am no expert but the events and consequences seems to be so extreme .
+Surely BP knew the dangers ?
+Surely they knew the forces involved ?
+This discussion is <TIMEX3 tid="t74" type="DATE" value="PRESENT_REF">now</TIMEX3> closed .
+We welcome comments on our articles for a limited period after their publication .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

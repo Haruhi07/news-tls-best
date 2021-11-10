@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+CAIRO | Mon <TIMEX3 tid="t2" type="DATE" value="2011-03-07">Mar 7 , 2011</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2011-03-07T23:53">11:53 pm</TIMEX3> GMT CAIRO -LRB-
+Reuters -RRB- - One of Muammar Gaddafi 's sons , Saadi , said Libya would descend into civil war if his father stepped down , a move rebels who control swathes of the country have demanded , Al Arabiya television said on <TIMEX3 tid="t4" type="DATE" value="2011-03-07">Monday</TIMEX3> .
+Saadi , speaking in an interview with the Arabic satellite channel , also said Libya would turn into a new Somalia and that the country 's tribes would fight against each other .
+The comments were carried in brief headlines , without giving further details .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

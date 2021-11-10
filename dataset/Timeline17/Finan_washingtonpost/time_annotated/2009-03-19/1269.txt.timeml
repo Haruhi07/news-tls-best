@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+How the Fed Failed to Tell Obama About The Bonuses Federal Reserve officials knew for months about bonuses at American International Group but failed to tell the Obama administration , according to government and company officials , exposing problems in a relationship that is vital to addressing the financial crisis .
+As pressure mounted on AIG employees to return the bonuses , new details emerged <TIMEX3 tid="t1" type="DATE" value="2009-03-18">yesterday</TIMEX3> about what the Fed , the Treasury Department and the White House knew regarding the payments and when .
+AIG executives said the Fed was informed <TIMEX3 tid="t3" type="DATE" value="2008-12">three months ago</TIMEX3> by the company that it would pay $ 165 million by <TIMEX3 tid="t4" type="DATE" value="2009-03-15">March 15</TIMEX3> to employees working at its most troubled division .
+The Treasury and White House said they learned of the payments from Fed officials only days before they were due .
+Close coordination between the Fed and the administration is <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">now</TIMEX3> more important than ever as they near the launch of two signature programs to rescue the financial system , which together could reach $ 2 trillion and are aimed at reviving consumer lending and purchasing soured assets and loans from ailing banks .
+Treasury Secretary Timothy F. Geithner , a central figure in the decision to bail out AIG <TIMEX3 tid="t9" type="DATE" value="2008-FA">last fall</TIMEX3> as president of the Federal Reserve Bank of New York , said in an interview <TIMEX3 tid="t10" type="DATE" value="2009-03-18">yesterday</TIMEX3> that he had not been aware of the size of the bonuses and the timing of the payments .
+` ` I was stunned when I learned how bad this was on <TIMEX3 tid="t15" type="DATE" value="2009-03-17">Tuesday</TIMEX3> -LRB- <TIMEX3 tid="t14" type="DATE" value="2009-03-10">March 10</TIMEX3> -RRB- , '' Geithner said .
+` ` I should n't have been in that position , but it 's my responsibility and I accept that . ''
+<TIMEX3 tid="t16" type="DATE" value="2009-03-12">Two days later</TIMEX3> , Geithner told the White House .
+The last - minute disclosure irked some of the president 's senior advisers , but they refuse to point fingers <TIMEX3 tid="t19" type="DATE" value="PRESENT_REF">now</TIMEX3> , saying the timing had little impact on the outcome or the president 's public statements <TIMEX3 tid="t18" type="DATE" value="2009-W12">this week</TIMEX3> .
+` ` Would I have liked an earlier warning system on this ?
+
+Yeah , '' said David Axelrod , a senior White House adviser .
+` ` Would it have markedly changed things ?
+
+The legal constraints are the legal constraints . ''
+One source familiar with the discussions said the company had provided details about the bonuses to senior Treasury officials <TIMEX3 tid="t20" type="DATE" value="2009-02" mod="APPROX">at least a month ago</TIMEX3> .
+A Treasury spokesman said <TIMEX3 tid="t24" type="TIME" value="2009-03-18TNI">last night</TIMEX3> that was not true .
+Democrats and Republicans in Congress are increasingly questioning how Geithner could not have known about the bonuses , given his past role in AIG 's bailout , which has totaled more than $ 170 billion .
+` ` I ' m sick and tired of hearing the administration and the Secretary of the Treasury say , ' I just found out about it , ' ''
+Rep. Paul E. Kanjorski -LRB- D - Pa .
+-RRB-
+
+The dispute over AIG 's payouts represents the most pressing controversy confronting the administration as it addresses the financial crisis .
+Some private firms say the furor has made them wary of joining the federal initiatives to help save the economy .
+Government officials add that the newly charged political environment will make it difficult to ask Congress for more rescue funds .
+When the government rescued AIG in mid - <TIMEX3 tid="t26" type="DATE" value="2008-09">September</TIMEX3> , no one was more central to the decision than Geithner .
+</TimeML>

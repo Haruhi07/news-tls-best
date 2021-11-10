@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+\ * Gas oversupply to end as early as <TIMEX3 tid="t1" type="DATE" value="2012">2012</TIMEX3> \ *
+Middle east political unrest to cut supplies \ * Post - quake Japan demand to soak up more excess supplies PERTH , <TIMEX3 tid="t4" type="DATE" value="2011-06-23">June 23</TIMEX3> -LRB- Reuters -RRB- - Surplus global gas supplies could disappear as early as <TIMEX3 tid="t6" type="DATE" value="2012-WI">winter 2012</TIMEX3> as a combination of factors including supply cuts due to Middle East turmoil and increasing demand from quake - hit Japan .
+` ` The global oversupply of gas , which was previously forecast to end in <TIMEX3 tid="t7" type="DATE" value="2015">2015</TIMEX3> , will <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">now</TIMEX3> likely end in <TIMEX3 tid="t8" type="DATE" value="2013">2013</TIMEX3> and possibly as early as <TIMEX3 tid="t9" type="DATE" value="2012">2012</TIMEX3> .
+This oversupply is most manifest in Europe , which has become the market of last resort for LNG supply , '' <TIMEX3 tid="t11" type="DATE" value="2010-12-25">Noel</TIMEX3> Tomnay , Wood Mackenzie 's head of global gas , said .
+Japan , the world 's largest importer of liquefied natural gas -LRB- LNG -RRB- , has seen the demand for the fuel jump after the earthquake <TIMEX3 tid="t13" type="DATE" value="2011" mod="START">earlier this year</TIMEX3> crippled several of its nuclear reactors and forced some of its coal - fired plants to shut .
+The increases in Japanese demand have reduced LNG supply to Europe by over 12 billion cubic meters -LRB- bcm -RRB- or 8.8 million tonnes of LNG in <TIMEX3 tid="t14" type="DATE" value="2011">2011</TIMEX3> , according to Wood Mackenzie .
+Japan 's demand for the super - cooled fuel is expected to continue growing .
+Analysts expect demand up by about 8 to 10 million tonnes <TIMEX3 tid="t16" type="DATE" value="2011">this year</TIMEX3> from 70 million tonnes in <TIMEX3 tid="t15" type="DATE" value="2010">2010</TIMEX3> .
+The nuclear crisis in Japan also spurred worries about the safety of nuclear technology with Germany deciding to shut all its nuclear plants by <TIMEX3 tid="t17" type="DATE" value="2022">2022</TIMEX3> as a result and other nations calling for safety tests of their own nuclear systems .
+As the gas glut ebbs , spot prices may climb higher than contract prices , Wood Mackenzie said .
+Contract prices are <TIMEX3 tid="t21" type="DATE" value="PRESENT_REF">currently</TIMEX3> typically higher than spot prices due to the supply security they provide .
+Supplies are also likely to dwindle as political upheaval continues in Middle Eastern countries such as Libya .
+` ` Political unrest in the Middle East and North Africa - notably the Libyan civil war and the corresponding Greenstream pipe capacity outage -- has removed 8 bcm of contracted gas , '' Tomnay said .
+Japanese demand and Middle Eastern production cuts have eroded Europe 's gas supply cushion to less than 10 bcm , the equivalent of 7.3 million tonnes of LNG , in <TIMEX3 tid="t22" type="DATE" value="2011">2011</TIMEX3> .
+Unplanned outages like those that have occurred in Nigeria and Algeria during <TIMEX3 tid="t27" type="DURATION" value="P2Y">the last two years</TIMEX3> may add to supply tightness .
+` ` The potential for future unplanned LNG outages to disrupt the smooth running of global LNG capacity can not be ruled out , whether they are technical challenges or the result of <TIMEX3 tid="t28" type="DATE" value="PAST_REF">recent</TIMEX3> unrest , as that presently seen in Yemen , '' Tomnay said .
+` ` Should such outages coincide with a cold <TIMEX3 tid="t30" type="DATE" value="2011-WI">winter</TIMEX3> , such an event combined with ongoing Libyan gas supply disruption could remove Europe 's gas cushion entirely by as early as <TIMEX3 tid="t32" type="DATE" value="2012-WI">winter of 2012</TIMEX3> . ''
+-LRB-
+Reporting by Rebekah Kebede ; Editing by Ed Lane -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

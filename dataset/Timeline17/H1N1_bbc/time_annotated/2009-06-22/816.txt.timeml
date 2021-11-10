@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Pupils have been given anti - viral medication as a precaution A school in Dorset is to close for <TIMEX3 tid="t1" type="DURATION" value="P1W">one week</TIMEX3> after a pupil tested positive for swine flu .
+The child is a pupil at Verwood Church of England First School , and has since fully recovered after contracting the H1N1 virus .
+Pupils in the child 's class are being treated with anti - viral medication as a precaution , NHS Dorset said .
+The school will close from <TIMEX3 tid="t3" type="DATE" value="2009-06-22" mod="END">the end of Monday</TIMEX3> .
+Parents have been given advice about the symptoms of the disease .
+</TimeML>

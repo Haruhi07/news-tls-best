@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+The influenza pandemic of <TIMEX3 tid="t1" type="DATE" value="1918">1918</TIMEX3> The <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">current</TIMEX3> swine flu outbreak is of the same strain , H1N1 , as the great flu pandemic of <TIMEX3 tid="t2" type="DATE" value="1918">1918</TIMEX3> .
+</TimeML>

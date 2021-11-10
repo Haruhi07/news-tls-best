@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+WASHINGTON | We d <TIMEX3 tid="t2" type="DATE" value="2011-03-02">Mar 2 , 2011</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2011-03-02T09:52">9:52 am</TIMEX3> EST WASHINGTON -LRB-
+Reuters -RRB- -
+The international community should be ready to implement a no - fly zone over Libya to prevent Libyan leader Muammar Gaddafi 's attacks on his own civilians , Senate Foreign Relations Committee Chairman John Kerry said on <TIMEX3 tid="t4" type="DATE" value="2011-03-02">Wednesday</TIMEX3> .
+` ` A no - fly zone is not a long - term proposition ... and I believe we ought to be ready to implement it as necessary , '' Kerry said at the beginning of a committee hearing which will include testimony from U.S. Secretary of State Hillary Clinton .
+-LRB-
+Reporting by Andrew Quinn ; editing by Eric Beech -RRB-
+We welcome comments that advance the story through relevant opinion , anecdotes , links and data .
+Views expressed in the comments do not represent those of Reuters .
+We have had such great success over the years intervening in Middle Eastern affairs .
+This discussion is <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">now</TIMEX3> closed .
+We welcome comments on our articles for a limited period after their publication .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

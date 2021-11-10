@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Oceanographer Simon Boxall explains how the funnel will work A ship carrying a giant metal containment box has arrived at the site where a sunken oil rig has been leaking oil into the Gulf of Mexico .
+Oil giant BP says it hopes the 90 - tonne device will help to contain the oil .
+The US is to carry out a controlled burn of some of the leaked oil .
+
+But the oil reached a beach for the first time on <TIMEX3 tid="t1" type="DATE" value="2010-05-06">Thursday</TIMEX3> , officials confirmed .
+The spill was set off by an explosion that destroyed the Deepwater Horizon rig off Louisiana <TIMEX3 tid="t2" type="DATE" value="2010-04">last month</TIMEX3> .
+Eleven rig workers died in the explosion , and the ensuing oil leak has since been threatening several southern US states .
+Coast Guard Petty Officer Connie Terrell said teams from the operation Unified Command in Robert , Louisiana , had confirmed oil on the beach , at the south end of the Chandeleur Islands , at Freemason Island .
+` ` This is the first confirmation that Unified Command has received of oil on a shoreline , '' Ms Terrell said .
+` ` It 's largely just sheen , there is no evidence of medium or heavy oil , '' she said .
+Remote - controlled submarines will <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3> be used to lower the containment device over the leak .
+The operation to fix the massive funnel in place is expected to take <TIMEX3 tid="t4" type="DURATION" value="P2D">two days</TIMEX3> , and a further <TIMEX3 tid="t5" type="DURATION" value="P2D">two days</TIMEX3> will be required to connect it to a ship above via a drill - pipe .
+If the operation is successful , BP hopes to begin pumping oil to the surface <TIMEX3 tid="t7" type="DATE" value="2010-W19" mod="START">early next week</TIMEX3> .
+BP has never deployed such a structure at a depth of 5,000 ft -LRB- 1,500 m -RRB- and difficulties may occur , said BP Chief Executive Tony Hayward .
+Mr Hayward gave no prediction as to when the oil leak would be stopped , or how much the clean - up operation will ultimately cost .
+HOW THE OIL FUNNEL WORKS The funnel is a 40 ft tall iron box , weighing 98 tonnes It will be placed over the leak , 5,000 ft down on the seabed BP hopes it will collect 85 % of the leaking oil and pipe it to the surface He denied his company had been slow to react to the disaster , saying BP had mobilised immediately to contain the threat , and adding that it was working with US authorities to contain the spill .
+` ` It 's a military operation and we are thinking of it as a battle on three fronts : beneath the sea , in the sea , and on the shore , '' said Mr Hayward .
+He said efforts to protect the southern US coastline were going well , with 100 ships involved in an operation to skim oil from the sea 's surface - including 20 of the world 's largest skimming vessels .
+Thousands of feet of boom were being used as a barrier to contain the slick and a small air force was deploying dispersants , he added .
+Some 4,000 volunteers were being paid $ 10 <TIMEX3 tid="t13" type="DURATION" value="PT1H">an hour</TIMEX3> to help defend the beaches , he said .
+A sheen of oil has already reached the shore in parts of Louisiana , but officials say coagulated crude oil is not expected to reach coastal areas until the end of the week .
+The National Oceanic and Atmospheric Administration -LRB-
+NOAA -RRB- said the oil slick was not expected to move much in <TIMEX3 tid="t15" type="DURATION" value="PXD">the next several days</TIMEX3> .
+Earlier , BP said it had managed to seal the smallest of the three leaks spilling oil into the Gulf of Mexico .
+Oil is still gushing into the sea at a rate of about 800,000 litres -LRB- 176,000 imperial gallons -RRB- <TIMEX3 tid="t17" type="DURATION" value="P1D">a day</TIMEX3> , but officials say working with only two leaks makes tackling the spill easier .
+Favourable weather conditions have <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">now</TIMEX3> allowed crews to begin burning off more of the oil where it is most heavily concentrated , AP said .
+A burn was last tried on <TIMEX3 tid="t20" type="DATE" value="2010-04-28">28 April</TIMEX3> when thousands of litres of oil were successfully removed .
+Concerns for the impact of the burn on wildlife in the area have been dismissed by the body co - ordinating the response to the spill .
+BP has told members of a US congressional committee that up to 9.5 m litres <TIMEX3 tid="t22" type="DURATION" value="P1D">a day</TIMEX3> could spill if the leaks worsen .
+</TimeML>

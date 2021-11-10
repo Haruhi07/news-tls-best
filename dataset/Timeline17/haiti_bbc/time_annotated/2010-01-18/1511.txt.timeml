@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+The text message panic kept thousands from their beds False rumors of an impending earthquake caused fear and panic in Ghana overnight , prompting many people to sleep outside .
+The rumor began on <TIMEX3 tid="t2" type="TIME" value="2010-01-17TNI">Sunday night</TIMEX3> with a text message quoting US space agency Nasa and the BBC as saying that ` ` cosmic rays '' were to hit the Earth .
+By 0300 on <TIMEX3 tid="t3" type="DATE" value="2010-01-18">Monday</TIMEX3> this was interpreted to mean an earthquake was imminent .
+
+A government minister then sought to calm nationwide fears , telling local radio stations it was all a hoax .
+Ghana last experienced a major earthquake <TIMEX3 tid="t4" type="DATE" value="1940">70 years ago</TIMEX3> .
+But the BBC 's David Amanor in the capital , Accra , says awareness of <TIMEX3 tid="t8" type="DATE" value="2010-W02">last week</TIMEX3> 's devastating earthquake in Haiti may have made people more nervous .
+
+The first text message that started doing the rounds on <TIMEX3 tid="t12" type="DATE" value="2010-01-17">Sunday</TIMEX3> said : ` ` <TIMEX3 tid="t11" type="DATE" value="2010-01-18">Today</TIMEX3> 's night 12:30 to <TIMEX3 tid="t13" type="TIME" value="2010-01-18T03:30">3:30 am</TIMEX3> COSMO RAYS entering earth from Mars .
+Switch off ur mobiles <TIMEX3 tid="t14" type="DATE" value="2010-01-18">today</TIMEX3> 's night . ?
+Plz pass to all ur friends . ''
+We are scared <TIMEX3 tid="t15" type="DATE" value="PRESENT_REF">right now</TIMEX3> BBC listener Opoku Ware Cyprian
+At <TIMEX3 tid="t16" type="TIME" value="2010-01-18T04:00">0400 GMT</TIMEX3> Deputy Information Minister Samuel Okudzeto Ablakwa phoned our correspondent to check if the BBC had indeed broadcast an earthquake warning , as there was a ` ` national panic '' .
+He than carried out a series of interviews on local radio stations to dispel the rumors .
+` ` There is no iota of scientific evidence in that - somebody has just pulled a prank on the nation , '' Mr Ablakwa told Ghana 's Joy FM station .
+Just before 0500 , the BBC 's Network Africa also told its listeners about the hoax after receiving worried texts from listeners .
+` ` We are scared <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">right now</TIMEX3> many people a -LRB- re -RRB- standing outside because we have receive messages across the country that there is going to be an earthquake some said is from BBC , '' Opoku Ware Cyprian texted from Kumasi at <TIMEX3 tid="t18" type="TIME" value="2010-01-18T03:49">0349 GMT</TIMEX3> .
+Our correspondent says many people across the country - both in urban and rural areas - did not sleep .
+He said his neighbors were standing outside their homes at 0400 fearing that buildings would collapse .
+Phone networks were also congested as people sought to warn each other , he said .
+It is not known whether the hoax was a result of deliberate mischief , a simple innocuous message , or a joke between friends .
+But our reporter says the implications are being taken seriously and the incident has reopened a controversial call by Ghana 's National Security Authority for phone operators to register names and details for every mobile phone number in the country .
+</TimeML>

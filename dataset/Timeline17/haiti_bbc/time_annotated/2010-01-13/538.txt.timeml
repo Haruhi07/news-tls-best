@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Valerie Moliere , 15 , describes the scene in Haiti in the wake of an earthquake .
+The tremor hit at <TIMEX3 tid="t1" type="DATE" value="1653">1653</TIMEX3> -LRB- <TIMEX3 tid="t3" type="TIME" value="XXXX-XX-XXT21:53">2153 GMT</TIMEX3> -RRB- , about 15 km -LRB- 10 m -RRB- south - west of Port - au - Prince .
+</TimeML>

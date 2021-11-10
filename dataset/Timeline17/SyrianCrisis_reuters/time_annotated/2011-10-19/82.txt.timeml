@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+SEOUL |
+We d <TIMEX3 tid="t2" type="DATE" value="2011-10-19">Oct 19 , 2011</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2011-10-19T08:30">8:30 am</TIMEX3> BST SEOUL -LRB-
+Reuters -RRB- -
+The former coach of South Korean club Sangmu Phoenix was found dead <TIMEX3 tid="t4" type="DATE" value="2011-10-19">Wednesday</TIMEX3> in an apparent suicide , <TIMEX3 tid="t6" type="DURATION" value="P3M">three months</TIMEX3> after being charged as part of a probe into a match - fixing scandal that rocked the country 's professional soccer league .
+Lee Su - chul was arrested in <TIMEX3 tid="t7" type="DATE" value="2011-07">July</TIMEX3> for blackmailing a player over involvement in the K - League match - fixing scandal .
+He was later found guilty and received a suspended sentence .
+Police said the circumstances of his death were still being investigated but there were no indications of foul play .
+Military side Sangmu was one of the worst hit teams with nine players being charged with various offences connected to the match fixing allegations .
+Lee 's death follows an apparent suicide in <TIMEX3 tid="t8" type="DATE" value="2012-05">May</TIMEX3> of a player for the military side who was allegedly involved in the scandal .
+Nearly 50 players were arrested <TIMEX3 tid="t10" type="DATE" value="2011" mod="START">earlier this year</TIMEX3> in connection to the worst scandal to hit the 28 - year - old league , prompting government threats of a K - League shutdown .
+Prosecutors also charged brokers including several former players with match - fixing .
+-LRB-
+Reporting by Jack Kim ; Editing by Alastair Himmer -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

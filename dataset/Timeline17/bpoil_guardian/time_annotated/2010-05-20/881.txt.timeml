@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Experts say BP 's 5,000 barrels - a - day oil spill estimate is ` nowhere near correct ' , real figure is likely to be much higher BP 's claim of 5,000 barrels <TIMEX3 tid="t2" type="DURATION" value="P1D">a day</TIMEX3> from Gulf oil spill ` nowhere near correct ' .
+Photograph : Patrick Semansky\/AP There 's worrying news from the House of Representative 's commerce and energy committee hearing on the size of the oil spill from BP 's broken Deepwater Horizon well in the Gulf of Mexico .
+According to independent experts testifying before the subcommittee hearing , the daily spill estimate of 5,000 barrels , used by BP and government agencies in <TIMEX3 tid="t3" type="DATE" value="PAST_REF">recent weeks</TIMEX3> , is far too low .
+The real figure is more likely to range between 20,000 barrels <TIMEX3 tid="t8" type="DURATION" value="P1D">a day</TIMEX3> or up to 100,000 barrels <TIMEX3 tid="t9" type="DURATION" value="P1D">a day</TIMEX3> with the experts arguing that because BP was not releasing vital data , it was difficult to make an accurate estimate .
+Some of the most chilling testimony came from Steve Wereley , a professor of mechanical engineering at Purdue University .
+Based on the latest video that BP released , he told the committee that the two wellhead leaks combined to gush 95,000 barrels <TIMEX3 tid="t11" type="DURATION" value="P1D">a day</TIMEX3> into the Gulf of Mexico , with 70,000 barrels from the largest leak and 25,000 from the smaller .
+Wereley also said his estimate could be wrong by plus or minus 20 % so the daily rate of leakage would be between 76,000 and 104,000 barrels <TIMEX3 tid="t13" type="DURATION" value="P1D">a day</TIMEX3> .
+He told the committee : ` ` The media keeps using the 5,000 barrel <TIMEX3 tid="t15" type="DURATION" value="P1D">a day</TIMEX3> estimate , but there is scientifically no chance ... BP 's estimate is nowhere near correct .
+It is certainly larger . ''
+He later said : ` ` I do n't see any possibility , any scenario under which their number is accurate . ''
+Update : My colleague Suzanne Goldenberg , the Guardian 's US environment correspondent , interviewed Wereley <TIMEX3 tid="t16" type="DATE" value="2010-W19">last week</TIMEX3> about how he arrived at his estimates : Wereley told the Guardian he based his estimate on techniques which track the speed of objects traveling in the flow stream .
+` ` You can see in the video lots of swirls and vortices pumping out of the end of the pipe , and I used a computer code to track those swirls and come up with the speed at which the oils is shooting out of the pipe , '' he said .
+` ` From there it is a very simple calculation to figure out what is the volume flow . ''
+Suzanne 's Twitter feed is also a must - follow for all those interested in news from the BP Deepwater Horizon disaster .
+| Richard Adams
+This article was published on guardian .
+</TimeML>

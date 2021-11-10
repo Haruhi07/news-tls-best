@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+BP oil spill - the static kill explained Procedure pumps heavy mud and cement through blow - out preventer to force oil back down Macondo well <TIMEX3 tid="t5" type="DATE" value="2010-08-03">Tuesday</TIMEX3> <TIMEX3 tid="t3" type="DATE" value="2010-08-03">3 August 2010</TIMEX3> 13.49 BST This BP image shows the original ` top kill ' procedure in operation , a maneuvre never before tried 5,000 ft underwater Photograph : Associated Press After <TIMEX3 tid="t7" type="DURATION" value="P3M">three months</TIMEX3> of trying to stem the oil flow gushing from the Macondo well in the Gulf of Mexico and becoming responsible for the largest accidental oil spill in history , BP hopes its ` ` static kill '' method will seal it once and for all .
+Static kill is similar to the top kill method that BP attempted to use back in <TIMEX3 tid="t8" type="DATE" value="2010-05">May</TIMEX3> .
+The procedure works by essentially pumping heavy mud and cement through the blow - out preventer and into the well .
+The idea being that the mud is so dense that it will suffocate the flow of oil , forcing it back down the well into the reservoir .
+-LRB-
+See graphic -RRB- .
+In a <TIMEX3 tid="t9" type="DATE" value="PAST_REF">recent</TIMEX3> technical update , Kent Wells , BP senior vice - president , said the key difference between top kill and static kill is that during the top kill the well was flowing .
+` ` We had to pump at tremendous rates and pressures to overcome that , '' he said .
+` ` <TIMEX3 tid="t10" type="DATE" value="2010-08-03">Today</TIMEX3> we have the well shut in , we do n't have that flow we have to overcome , so we can go at very slow rates , very little additional pressure above what the well shut - in pressure already is .
+` ` It 's a much more controlled fashion . ''
+The heavy drilling mud , which weighs about 13 lb per gallon , will be pumped to the seabed from a ship , and through a manifold a device that controls the mud flow before being forced down into the well through the blow - out preventer .
+If the mud successfully smothers the oil , BP could then pump concrete down into the well in a bid to seal it .
+The company will conduct an ` ` injectivity test '' <TIMEX3 tid="t11" type="TIME" value="2010-08-03TMO">this morning</TIMEX3> , and if successful could attempt the static kill <TIMEX3 tid="t12" type="TIME" value="2010-08-03TAF">this afternoon</TIMEX3> .
+Although , a spokesman warned that the procedure could take <TIMEX3 tid="t13" type="DURATION" value="PTXH">a few hours</TIMEX3> but might take ` ` much longer '' .
+Finally , sealing the well would represent an enormous relief for beleaguered BP executives .
+The flow of oil was first stemmed on <TIMEX3 tid="t15" type="DATE" value="2010-07-15">15 July</TIMEX3> , when the company fitted a cap to the blow - out preventer .
+The cap prevented leaking oil for the first time since <TIMEX3 tid="t17" type="DATE" value="2010-04-20">20 April</TIMEX3> , ending <TIMEX3 tid="t18" type="DURATION" value="P3M">three months</TIMEX3> of attempted shut - off procedures .
+BP 's initial efforts to contain the spill focused on trapping and burning the oil on the water surface , while repairing the blow - out preventer , so it could shut off the flow .
+When this failed in <TIMEX3 tid="t20" type="DATE" value="2010-04" mod="END">late April</TIMEX3> , the company began to drill two relief wells , but warned they would take <TIMEX3 tid="t22" type="DURATION" value="P2M">two</TIMEX3> to <TIMEX3 tid="t21" type="DURATION" value="P3M">three months</TIMEX3> to become operational .
+While beginning this drilling , the company successfully stemmed one of the three leaks by attaching a valve to the end of the crippled drilling pipe , and after constructing three huge cofferdams or containment domes tried to lower one over the main source of the leak .
+In <TIMEX3 tid="t24" type="DATE" value="2010-05" mod="START">early May</TIMEX3> , the cofferdam failed due to a build up of crystallised gas , and as the oil began to wash ashore , BP focused instead on trying to capture some of the leaking oil , rather than stopping the flow all at once .
+At <TIMEX3 tid="t26" type="DATE" value="2010-05" mod="END">the end of May</TIMEX3> , the terms ` ` top kill '' and ` ` junk shot '' entered the worldwide vernacular , as BP tried to force heavy mud , and later golf balls and bits of tyre through the blow - out preventer .
+It did n't work , and in <TIMEX3 tid="t29" type="DATE" value="2010-06" mod="START">early June</TIMEX3> , BP turned to capping the well , with some success , before replacing the original cap with a tighter fitting one , sealing the well , in <TIMEX3 tid="t28" type="DATE" value="2010-07">July</TIMEX3> .
+</TimeML>

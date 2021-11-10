@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+The Guardian 's Iraq correspondent , Rory Carroll , was <TIMEX3 tid="t1" type="TIME" value="2005-10-19TNI">last night</TIMEX3> missing after being kidnapped by gunmen in Baghdad .
+Carroll , 33 , an experienced foreign correspondent , had been conducting an interview in the city with a victim of Saddam Hussein 's regime .
+He had been preparing an article for <TIMEX3 tid="t2" type="DATE" value="2005-10-20">today</TIMEX3> 's paper on the opening of the former dictator 's trial <TIMEX3 tid="t3" type="DATE" value="2005-10-19">yesterday</TIMEX3> .
+Carroll , who was accompanied by two drivers and a translator , was confronted by the gunmen as he left the house where he had been carrying out the interview .
+He and one of the drivers were bundled into cars .
+The driver was released <TIMEX3 tid="t4" type="DATE" value="UNDEF-REF-minute-PLUS-20" mod="APPROX">about 20 minutes later</TIMEX3> .
+Carroll has been in Iraq since <TIMEX3 tid="t7" type="DATE" value="2005-01">January</TIMEX3> .
+He volunteered for the assignment and his coverage has been critical of the US - led coalition .
+Before Iraq , he had been the paper 's correspondent in Africa , based in Johannesburg , since <TIMEX3 tid="t8" type="DATE" value="2002">2002</TIMEX3> .
+In <TIMEX3 tid="t10" type="DURATION" value="P3Y">the previous three years</TIMEX3> he had been based in Rome , where he covered the aftermath of the Kosovo war .
+He was born in Dublin , attended university there and worked for various Irish papers before moving to London .
+He has an Irish passport .
+The Irish government was <TIMEX3 tid="t11" type="TIME" value="2005-10-19TNI">last night</TIMEX3> in contact with its embassies throughout the Middle East to try to secure help in finding him .
+Alan Rusbridger , the Guardian 's editor , said : ` ` We 're deeply concerned at Rory 's disappearance .
+He is in Iraq as a professional journalist - and he 's a very good , straight journalist whose only concern is to report fairly and truthfully about the country .
+We urge those holding him to release him swiftly - for the sake of his family and for the sake of anyone who believes the world needs to be kept fully informed about events in Iraq <TIMEX3 tid="t12" type="DATE" value="2005-10-20">today</TIMEX3> . ''
+</TimeML>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+BP oil spill : tar balls from Deepwater Horizon reach Texas Discovery of balls on two Texas beaches means all five states on Gulf of Mexico have <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">now</TIMEX3> been affected <TIMEX3 tid="t7" type="DATE" value="2010-07-06">Tuesday</TIMEX3> <TIMEX3 tid="t3" type="DATE" value="2010-07-06">6 July 2010</TIMEX3> 18.50 BST <TIMEX3 tid="t9" type="DURATION" value="P2M" mod="MORE_THAN">More than two months</TIMEX3> after oil from BP 's exploded well on the seabed first reached shore in Louisiana , tar balls have washed on to two Texas beaches , meaning that all five states on the Gulf of Mexico have <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">now</TIMEX3> been affected .
+Bad weather has forced a fleet of skimmers that should be cleaning the worst - hit areas to stay in port .
+For <TIMEX3 tid="t11" type="DURATION" value="P1W" mod="MORE_THAN">more than a week</TIMEX3> , storms have made the water off Florida , Alabama and Mississippi too choppy for the boats to operate .
+BP was operating the Deepwater Horizon drilling rig when it exploded on <TIMEX3 tid="t14" type="DATE" value="2010-04-20">20 April</TIMEX3> , killing 11 workers and starting the worst oil spill in the Gulf 's history .
+</TimeML>

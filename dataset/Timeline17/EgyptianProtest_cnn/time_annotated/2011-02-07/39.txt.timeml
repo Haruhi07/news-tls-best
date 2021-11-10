@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t4" type="DATE" value="2011-02-07">February 07 , 2011</TIMEX3> | By Bruce Rutherford , Special to CNN
+The demonstrations that erupted on <TIMEX3 tid="t6" type="DATE" value="2011-01-25">January 25</TIMEX3> were driven by Egyptians ' aspirations for greater dignity in their lives .
+Most Egyptians have seen their standard of living deteriorate over <TIMEX3 tid="t7" type="DATE" value="200">the past decade</TIMEX3> because of rising unemployment , persistent inflation and stagnant wages .
+They have also suffered from a corrupt and brutal police force that subjected the population to arbitrary arrest , torture and myriad indignities large and small .
+These sources of anger have been simmering for some time .
+The events that caused them to boil over were the demonstrations in Tunisia that led to the overthrow of that country 's long - serving dictator , Zine El Abidine Ben Ali , <TIMEX3 tid="t8" type="DATE" value="PAST_REF">a few weeks ago</TIMEX3> .
+These events fundamentally altered the way many Egyptians viewed demonstrations .
+Before Ben Ali 's departure , many Egyptians saw little point in going to the streets to express their anger .
+There was little chance things would change , and they would probably be beaten by the security police .
+After Ben Ali 's departure , many thousands of Egyptians decided that demonstrations could actually bring about meaningful change and were worth the risk , so they turned out in droves .
+The situation remains very fluid , and the result is still uncertain .
+As this process of change unfolds , there are three actors who will play particularly important roles : Can they form a leadership that articulates clear demands beyond the removal of Mubarak and that can negotiate with the regime ?
+So far the protesters -- who have been savvy in so many ways , from utilizing social media to creating a minicity in Tahrir Square -- have been remarkably unsavvy about the substance of politics .
+Maybe it 's a reflection of the internet generation 's resentment of hierarchy .
+They had better get over this hesitation quickly and appoint credible and effective leaders or their sacrifices may be for naught .
+Also , will large numbers of demonstrators continue to turn out ?
+It looks like President Hosni Mubarak is determined to hold on for another <TIMEX3 tid="t13" type="DURATION" value="P7M">seven months</TIMEX3> .
+The only way this will change is if demonstrators continue to come to Tahrir Square en masse , even as life otherwise returns to normal .
+The most likely way for this to unfold is for the <TIMEX3 tid="t14" type="DATE" value="2011-02-04">Friday</TIMEX3> of <TIMEX3 tid="t15" type="SET" value="P1W" quant="EACH">each week</TIMEX3> to become the ` ` day of demonstration '' in which average people , who work during the week , come down to Tahrir for <TIMEX3 tid="t17" type="DURATION" value="P1D">a day</TIMEX3> of protest in ever - larger numbers .
+If these <TIMEX3 tid="t19" type="DATE" value="2011-02-04">Friday</TIMEX3> demonstrations steadily grow in size , Mubarak may eventually take the hint and accept an early exit .
+</TimeML>

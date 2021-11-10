@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+NEW YORK | We d <TIMEX3 tid="t4" type="DATE" value="2011-05-25">May 25 , 2011</TIMEX3> <TIMEX3 tid="t7" type="TIME" value="2011-05-25T16:07">4:07 pm</TIMEX3> EDT NEW YORK <TIMEX3 tid="t6" type="DATE" value="2011-05-25">May 25</TIMEX3>
+-LRB- Reuters -RRB- - U.S. oil refiner Tesoro -LRB- TSO .
+N -RRB- has bought a cargo of crude oil from Libya 's eastern rebel movement to run in its Hawaii refinery , the company told Reuters on <TIMEX3 tid="t8" type="DATE" value="2011-05-25">Wednesday</TIMEX3> .
+The cargo of crude , estimated at about 1 million barrels , has been sitting idle near Singapore since <TIMEX3 tid="t11" type="DATE" value="2011-04" mod="END">late April</TIMEX3> and was originally bought from Libyan rebels in <TIMEX3 tid="t12" type="DATE" value="2011-04" mod="START">early April</TIMEX3> , according to tanker tracking data and trading sources .
+The crude is aboard an oil tanker chartered by Swiss oil trading giant Vitol SA .
+Tesoro spokesman Mike Marcy confirmed by email that San Antonio , Texas - based Tesoro has bought the Libyan crude cargo to run in its 94,000 barrel per day Hawaii refinery .
+Reuters tanker tracking data shows the cargo will arrive in Honolulu around <TIMEX3 tid="t14" type="DATE" value="2011-06-07">June 7</TIMEX3> .
+` ` This purchase was made in strict accordance with the relevant White House Executive Order , signed by President Obama , '' Marcy wrote in an email .
+Some Libyan crude is subject to sanctions due to the civil war in the North African country .
+However , the U.S. government has approved doing business with Libya 's eastern rebel movement .
+-LRB-
+Reporting by Joshua Schneyer , Bruce Nichols and Emma Farge ; Editing by David Gregorio -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

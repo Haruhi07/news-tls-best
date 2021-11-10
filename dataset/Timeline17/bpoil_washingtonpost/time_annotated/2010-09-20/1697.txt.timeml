@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t5" type="DATE" value="2010-09-20">Monday</TIMEX3> , <TIMEX3 tid="t3" type="DATE" value="2010-09-20">September 20 , 2010</TIMEX3> ; <TIMEX3 tid="t8" type="TIME" value="2010-09-20T22:47">10:47 PM</TIMEX3> BP said <TIMEX3 tid="t6" type="DATE" value="2010-09-20">Monday</TIMEX3> that it would join the oil spill response group formed over <TIMEX3 tid="t7" type="DATE" value="2010-SU">the summer</TIMEX3> by Exxon Mobil , Royal Dutch Shell , ConocoPhillips and Chevron .
+The other four companies said they would spend $ 1 billion to fabricate equipment and train teams that could be deployed in the event of a future spill in the Gulf of Mexico .
+They took out full - page ads in newspapers <TIMEX3 tid="t10" type="DATE" value="2010-W37">last week</TIMEX3> promoting their effort .
+BP said it would make its underwater well containment equipment and technical personnel available to the group , called the Marine Well Containment Co. , which will be operated by Exxon Mobil .
+BP arranged for the fabrication of containment devices only after its Macondo well began gushing oil into the gulf , after its Deepwater Horizon rig blew out on <TIMEX3 tid="t12" type="DATE" value="2010-04-20">April 20</TIMEX3> .
+The new response organization would have equipment on standby .
+</TimeML>

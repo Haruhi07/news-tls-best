@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+BP gears up to plug ` world 's biggest ' oil spill
+The Macondo well has been temporarily sealed with a cap for just <TIMEX3 tid="t1" type="DURATION" value="P2W" mod="MORE_THAN">over two weeks</TIMEX3> The US government has said the oil spill in the Gulf of Mexico is the biggest oil leak ever , as BP prepares its ` ` static kill '' operation to permanently seal its well .
+A new government estimate suggests BP 's Macondo well leaked 4.9 million barrels of oil before being capped <TIMEX3 tid="t2" type="DATE" value="2010-07">last month</TIMEX3> .
+Scientists said only a fifth of the leaking oil - around 800,000 barrels - was captured during the clean - up .
+The well broke open after an explosion on a drilling rig in <TIMEX3 tid="t3" type="DATE" value="2010-04">April</TIMEX3> .
+The new assessment of the leak is higher than previous estimates .
+The figure will be crucial in calculating the environmental damage done , as well as the money to be paid to the US government by BP .
+The BP spill is greater than the <TIMEX3 tid="t4" type="DATE" value="1979">1979</TIMEX3> Ixtoc I leak in the Gulf of Mexico , which gushed 3.3 million barrels .
+Only the intentional release of an estimated eight million barrels of oil into the Gulf by Iraqi troops during the Gulf War in <TIMEX3 tid="t5" type="DATE" value="1991">1991</TIMEX3> was greater .
+On <TIMEX3 tid="t6" type="DATE" value="2010-08-03">Tuesday</TIMEX3> , BP started tests to establish how it can move to a procedure known as ` ` static kill '' .
+The tests - which will last <TIMEX3 tid="t8" type="DURATION" value="PTXH">several hours</TIMEX3> - were due on <TIMEX3 tid="t7" type="DATE" value="2010-08-02">Monday</TIMEX3> but were delayed by a leak in a hydraulic line .
+The ` ` static kill '' will see heavy drilling fluid known as ` ` mud '' used to force the oil in the well back into the reservoir .
+It is likely to take between 33 - <TIMEX3 tid="t10" type="DURATION" value="PT61H">61 hours</TIMEX3> , the US government 's incident commander Adm Thad Allen has said .
+Admiral Thad Allen : ` ` This thing wo n't truly be sealed until the relief wells are done ''
+A decision will then be made on whether the well can be immediately sealed with cement from the top .
+
+But the relief well - <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">currently</TIMEX3> 100 ft away from intersecting with the damaged well - will continue , Adm Allen said .
+Tropical Storm Colin has formed in the Atlantic , but is not on track to hit the oil spill in the Gulf of Mexico , the US National Hurricane Center has said .
+The well initially leaked about 62,000 barrels of oil per day , higher than any previous estimate of the flow .
+But as the reservoir of oil became depleted , the flow slowed to about 53,000 barrels per day .
+The flow ended on <TIMEX3 tid="t13" type="DATE" value="2010-07-15">15 July</TIMEX3> , when BP closed a new cap it had put on the well .
+<TIMEX3 tid="t14" type="DATE" value="2010-W30">Last week</TIMEX3> , BP reported a record $ 17bn -LRB- # 11bn -RRB- loss , having set aside $ 32bn to cover the costs of the spill .
+The static kill , also known as ` ` bullheading '' , takes place in three stages .
+First , a test determines if oil can be pushed back down the well into the reservoir If that goes well , the static kill is begun by pumping in mud at low pressure .
+This could take <TIMEX3 tid="t16" type="DURATION" value="P1D">a day</TIMEX3> or more Then , engineers will have to decide whether to pump in cement at the top of the well or wait and pump in cement from the relief well into the bottom of the damaged well .
+The relief well will reach the damaged well some time between <TIMEX3 tid="t19" type="DATE" value="2010-08-11">11</TIMEX3> and <TIMEX3 tid="t18" type="DATE" value="2010-08-15">15 August</TIMEX3> .
+The permanent ` ` bottom kill '' will take anywhere between a number of days and <TIMEX3 tid="t20" type="DURATION" value="PXW">a few weeks</TIMEX3> .
+An earlier effort , in <TIMEX3 tid="t21" type="DATE" value="2010-05">May</TIMEX3> , to pump mud into the well using much of the same equipment failed because the pressure of the spewing oil and gas was too great .
+<TIMEX3 tid="t22" type="DATE" value="PRESENT_REF">Now</TIMEX3> it should prove easier because of the sealed cap on the well .
+The pun - ancient artform , or the lowest form of wit ?
+</TimeML>

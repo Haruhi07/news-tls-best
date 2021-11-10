@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+OCEAN SPRINGS , Miss.
+-- In a story <TIMEX3 tid="t1" type="DATE" value="2010-11-21">Nov. 21</TIMEX3> , The Associated Press reported that Gulf oil spill victims have until <TIMEX3 tid="t2" type="DATE" value="2010-11-17">Wednesday</TIMEX3> to file claims for short - term damages from BP PLC . .
+The actual deadline is <TIMEX3 tid="t5" type="TIME" value="2010-11-16T23:59">11:59 p.m. Tuesday</TIMEX3> .
+</TimeML>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+In pics : Powerful quake hits Haiti Large areas of Haiti in the Caribbean have been devastated by its worst earthquake in <TIMEX3 tid="t4" type="DURATION" value="P200Y">200 years</TIMEX3> .
+The quake struck near the capital , Port - au - Prince , but its tremors were felt all over the country .
+Loads of people joined the search for survivors immediately after the minute - long quake , which measured 7.0 on the Richter scale .
+
+But emergency services struggled to reach those who were injured as many of the streets were blocked by rubble .
+Hundreds of people are feared to have died in the disaster , with rescue workers warning the final death toll could run into thousands .
+Rescue teams from all over the world , including this team from Taiwan , are <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">now</TIMEX3> traveling to Haiti to help in the search for survivors .
+Haiti 's national palace in Port - au - Prince was among the buildings destroyed .
+</TimeML>

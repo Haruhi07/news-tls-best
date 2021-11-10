@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t7" type="DURATION" value="P5D">Five Days</TIMEX3> That Transformed Wall Street : <TIMEX3 tid="t2" type="DATE" value="2008-09-15">Sept. 15</TIMEX3> - <TIMEX3 tid="t4" type="DATE" value="2008-09-19">19</TIMEX3> , <TIMEX3 tid="t1" type="DATE" value="2008">2008</TIMEX3>
+The Dow Jones industrial average , which jumped between massive losses and gains , closed <TIMEX3 tid="t5" type="DATE" value="2008-09-19">Friday</TIMEX3> , <TIMEX3 tid="t3" type="DATE" value="2008-09-19">Sept. 19</TIMEX3> up 3.4 percent after the Bush administration proposed an unprecedented $ 500 billion bailout for financial firms in direct response to the mortgage crisis .
+How the week unfolded : SOURCE :
+Bloomberg | GRAPHIC :
+By Brenna Maloney and Todd Lindeman , The Washington Post ; Photo by Mary Altaffer , Associated Press - <TIMEX3 tid="t9" type="DATE" value="2008-09-20">September 20</TIMEX3> , 2008
+</TimeML>

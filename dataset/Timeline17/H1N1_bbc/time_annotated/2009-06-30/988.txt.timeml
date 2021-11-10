@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+First swine flu fatality in Spain More than 700 people have been infected with swine flu in Spain A 20 - year - old Moroccan woman infected with swine flu has died in Madrid , becoming Spain 's first fatality from the virus and the fourth in the EU .
+The woman , who suffered from asthma , died of a respiratory illness caused by the flu , Spain 's health ministry said .
+She was <TIMEX3 tid="t3" type="DURATION" value="P7M">seven months</TIMEX3> pregnant when she was admitted to hospital on <TIMEX3 tid="t2" type="DATE" value="2009-06-15">15 June</TIMEX3> .
+She had an emergency Caesarean section on <TIMEX3 tid="t4" type="DATE" value="2009-06-29">Monday</TIMEX3> after her condition worsened .
+Her baby is said to be in good health and has not been affected by the virus .
+Since it first appeared in <TIMEX3 tid="t5" type="DATE" value="2009-03">March</TIMEX3> , 717 people have been infected with the H1N1 virus in Spain , according to the country 's health ministry .
+One person is said to be in a serious condition in a hospital in Catalonia .
+The latest global figures issued by the World Health Organization -LRB- WHO -RRB- on <TIMEX3 tid="t6" type="DATE" value="2009-06-29">Monday</TIMEX3> gave the number of recorded swine flu cases as 70,893 worldwide , with 311 deaths .
+The other three recorded fatalities in the EU have occurred in the UK .
+A nine - year - old girl died in Birmingham on <TIMEX3 tid="t8" type="TIME" value="2009-06-26TEV">Friday evening</TIMEX3> .
+</TimeML>

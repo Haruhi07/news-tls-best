@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t1" type="DATE" value="2009">2009</TIMEX3> 06 24 07:14
+JST CHICAGO -LRB-
+Reuters -RRB- -
+The U.S. government is investing in a new technique for making flu vaccines that it hopes will help the nation respond quickly to outbreaks such as the H1N1 swine flu virus .
+Health and Human Services Secretary Kathleen Sebelius said on <TIMEX3 tid="t2" type="DATE" value="2009-06-23">Tuesday</TIMEX3> her department had awarded a $ 35 million contract to privately held Protein Sciences Corp Inc of Meriden , Connecticut , to use its new gene - based techniques to develop a vaccine and test it in clinical trials .
+If testing goes well , the contract could be expanded <TIMEX3 tid="t5" type="DURATION" value="P5Y" mod="MORE_THAN">over five years</TIMEX3> for a total of nearly $ 150 million .
+` ` The technology has advanced in <TIMEX3 tid="t6" type="DATE" value="PAST_REF">recent years</TIMEX3> to a point that we believe it could help meet a surge in demand for U.S.-based vaccine for seasonal and pandemic flu , '' Sebelius said in a statement .
+` ` We want to use the technology to help our nation respond to emerging infectious diseases . ''
+The United States has set aside $ 1 billion for a vaccine to combat the H1N1 strain that has caused a global pandemic .
+The cash infusion comes as Protein Sciences , which is developing a quicker way to make vaccines , fights to stay in business .
+Three creditors filed a petition on <TIMEX3 tid="t10" type="DATE" value="2009-06-22">Monday</TIMEX3> in Delaware court seeking to force the company into involuntary bankruptcy .
+</TimeML>

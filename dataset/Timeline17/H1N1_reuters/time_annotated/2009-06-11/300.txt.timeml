@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+BERLIN | Thu <TIMEX3 tid="t2" type="DATE" value="2009-06-11">Jun 11 , 2009</TIMEX3> <TIMEX3 tid="t4" type="TIME" value="2009-06-11T07:40">7:40 am</TIMEX3> EDT BERLIN -LRB-
+Reuters -RRB- - German authorities have confirmed 30 cases of the H1N1 flu at a school in the western city of Dusseldorf , the most concentrated outbreak of the virus so far in Europe 's largest economy .
+The health ministry in the state of North Rhine - Westphalia said on <TIMEX3 tid="t5" type="DATE" value="2009-06-11">Thursday</TIMEX3> the majority of the cases at a Japanese school in the city were detected on <TIMEX3 tid="t7" type="TIME" value="2009-06-10TEV">Wednesday evening</TIMEX3> .
+Additional confirmed infections were likely to emerge , said Kathrin Rebbe , a spokeswoman for the ministry .
+Parents of the infected children and people who had been in contact with them would be tested on <TIMEX3 tid="t8" type="DATE" value="2009-06-11">Thursday</TIMEX3> , said Heiko Schneitler , head of the city health 's authority .
+Most of the children affected were Japanese , he said .
+One of the children was confirmed with H1N1 <TIMEX3 tid="t9" type="DATE" value="2009-W23">last week</TIMEX3> , and had <TIMEX3 tid="t10" type="DATE" value="PAST_REF">recently</TIMEX3> been to Malta , a spokesman for the health authority said .
+The children are <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">now</TIMEX3> in quarantine , he added .
+The school has been closed until <TIMEX3 tid="t13" type="DATE" value="2009-W25" mod="END">the end of next week</TIMEX3> , said Hiromi Kida , a senior official at the school .
+Dusseldorf is home to a large Japanese community .
+Rebbe at the NRW health ministry said four additional cases of H1N1 had been detected at a school in nearby Cologne .
+Germany had 86 confirmed cases of H1N1 prior to the school infections , according to the Robert Koch Institute , the country 's federal agency for infectious diseases .
+-LRB-
+Reporting by Dave Graham ; Editing by Louise Ireland -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

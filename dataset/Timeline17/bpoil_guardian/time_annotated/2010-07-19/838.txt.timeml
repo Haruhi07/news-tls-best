@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+BP oil spill clean - up operations Since BP 's Deepwater Horizon oil rig exploded on <TIMEX3 tid="t2" type="DATE" value="2010-04-20">20 April</TIMEX3> , it has been estimated that 40,000 barrels of oil <TIMEX3 tid="t4" type="DURATION" value="P1D">a day</TIMEX3> have leaked into the sea around the Gulf of Mexico .
+On the ocean floor marine engineers are still trying to plug the leak while up above thousands of workers are toiling to clean up the water and protect wildlife and local residents from the toxic crude oil Letters for publication should be sent to : letters@guardian.co.uk If you need help using the site : userhelp@guardian.co.uk Call the main Guardian and Observer switchboard : <TIMEX3 tid="t6" type="DATE" value="2011-05-05">5 May</TIMEX3> : Shrimp boats were used to collect oil with booms in the waters of Chandeleur Sound , Louisiana , Gulf of Mexico Eric Gay\/AP
+</TimeML>

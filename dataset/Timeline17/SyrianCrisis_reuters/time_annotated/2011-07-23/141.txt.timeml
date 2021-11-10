@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+SHANGHAI | Sat <TIMEX3 tid="t2" type="DATE" value="2011-07-23">Jul 23 , 2011</TIMEX3> <TIMEX3 tid="t4" type="TIME" value="2011-07-23T09:19">9:19 am</TIMEX3> BST SHANGHAI -LRB-
+Reuters -RRB- - Michael Phelps has won 14 Olympic gold medals , 22 world championship titles and set numerous world records , yet the American still regards himself as just a regular guy .
+` ` In my eyes , I consider myself a normal person , '' the 26 - year - old from Baltimore told reporters at a media conference stuffed full of reporters , television cameras and photographers .
+` ` Yeah there are a lot more cameras pointing at me <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">right now</TIMEX3> than most other people but this is my life .
+This is what I consider normal .
+` ` I ' m getting ready for a world championships and I live my life how I want to live it .
+If I want to walk down the street and get a bite to eat , I 'll do that .
+` ` If I want to play 18 holes of golf , I will go and play 18 holes of golf . ''
+Phelps has had to endure a disappointing <TIMEX3 tid="t6" type="DURATION" value="P3Y">three years</TIMEX3> since he carved his name into the Olympic annals with a stunning eight - gold medal performance at Beijing .
+He admitted he was not quite ready for a return to the strenuous training regime implemented by long - time coach Bob Bowman after the Olympics while he also suffered embarrassment when he was photographed inhaling from a pipe typically used for smoking marijuana .
+In <TIMEX3 tid="t7" type="DATE" value="2009">2009</TIMEX3> , he was badly beaten by Germany 's Paul Biedermann at the Rome world championships in the 200 metres freestyle -- one of the events he had won in Beijing <TIMEX3 tid="t9" type="DATE" value="2008">a year earlier</TIMEX3> .
+Phelps is entered in the 100 and 200 metres butterfly , 200 freestyle and 200 individual medley as well as possibly three relays in Shanghai and is to use the championships to gauge what program he would swim <TIMEX3 tid="t12" type="DATE" value="2012">next year</TIMEX3> in London before he retires .
+` ` Everything is a stepping stone .
+<TIMEX3 tid="t14" type="DURATION" value="P2Y">The last two years</TIMEX3> have n't been how we have wanted them to be but they were what they were .
+` ` <TIMEX3 tid="t15" type="DATE" value="2011">This year</TIMEX3> I feel like we have taken some steps forward and made some progress that is going to be big for <TIMEX3 tid="t16" type="DATE" value="2012">the next year</TIMEX3> .
+` ` Hopefully , I am ahead of schedule of where I want to be but <TIMEX3 tid="t17" type="DATE" value="2011-W29">this week</TIMEX3> is going to be a big test ... to see what my body can handle for <TIMEX3 tid="t18" type="DATE" value="2012">next year</TIMEX3> .
+` ` Being able to handle the semis and finals schedule that I have here will tell us what to fix and gives us <TIMEX3 tid="t20" type="DURATION" value="P1Y">a year</TIMEX3> to prepare for Olympic trials and we will move on from there . ''
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

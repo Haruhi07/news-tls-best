@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Sean ` Diddy ' Combs to host Haiti concert and telethon Sean ` ` Diddy '' Combs starred in two episodes of CSI :
+Miami <TIMEX3 tid="t1" type="DATE" value="2009">last year</TIMEX3> Hip hop stars Sean ` ` Diddy '' Combs , Pharrell Williams and Queen Latifah are to host a two - hour concert and telethon for Haiti <TIMEX3 tid="t2" type="DATE" value="2010-W05">next week</TIMEX3> .
+Wyclef Jean , Chris Brown and Lil Wayne will also perform at the Black Entertainment TV -LRB- BET -RRB- event which takes place on <TIMEX3 tid="t4" type="DATE" value="2010-02-05">5 February</TIMEX3> .
+The two - hour concert , titled SOS Saving OurSelves - Help for Haiti , will be broadcast live from Miami .
+Mary J Blige , Justin Bieber and Monica will also take to the stage .
+The event will air live on US TV channels MTV , VH1 , BET and Centric at <TIMEX3 tid="t5" type="TIME" value="2010-02-05T20:00">8 pm</TIMEX3> EST . .
+The proceeds will go towards aid organizations including CARE , Project Medishare , Yele Haiti and Children 's Safe Drinking Water .
+The Hope For Haiti <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Now</TIMEX3> telethon and gig , which took place <TIMEX3 tid="t7" type="DATE" value="2010-01" mod="START">earlier this month</TIMEX3> , has raised $ 66 m -LRB- # 42.1 m -RRB-
+so far .
+Actor George Clooney organised the event , with some of the world 's top celebrities taking part in the broadcast from New York , Los Angeles , London and Haiti .
+Some of them performed while others , including director Steven Spielberg , singer Stevie Wonder and TV star Ellen DeGeneres , took telephone pledges from viewers .
+</TimeML>

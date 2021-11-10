@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t1" type="DURATION" value="P5D">Five days</TIMEX3> on : Children rescued from under Haiti 's rubble Rescuers have pulled a six - year - old boy free from the ruins of a building in Haiti <TIMEX3 tid="t2" type="DURATION" value="P5D">five days</TIMEX3> after the earthquake caused the structure to collapse .
+A 14 - year - old girl was also found alive .
+</TimeML>

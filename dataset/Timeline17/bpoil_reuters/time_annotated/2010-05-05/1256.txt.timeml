@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+BANGALORE | We d <TIMEX3 tid="t3" type="DATE" value="2010-05-05">May 5 , 2010</TIMEX3> <TIMEX3 tid="t7" type="TIME" value="2010-05-05T15:51">3:51 pm</TIMEX3> EDT BANGALORE -LRB- Reuters -RRB- - Shares of companies playing a part in tackling the Gulf of Mexico oil spill are likely to retreat further after an initial rally , as gains from the clean - up operations will likely fall short of expectations .
+Shares of waste management services firm Clean Harbors -LRB- CLH .
+N -RRB- soared more than 25 percent to a 20 - month high in the wake of the <TIMEX3 tid="t9" type="DATE" value="2010-04-21">April 21</TIMEX3> explosion at the Deepwater Horizon drilling rig , while shares in water treatment services company Nalco Holding NLC .
+N rose nearly 20 percent to <TIMEX3 tid="t11" type="DURATION" value="P1Y">a year</TIMEX3> high .
+Even though it is still unclear how much gains the companies can book , analysts say the revenue potential from the spill does not justify the sharp rise in share prices .
+Wedbush Securities analyst David Rose said the Nalco share move was exaggerated .
+` ` The stock was getting ahead of itself based on these expectations , '' he said .
+` ` The impact should be relatively minimal . ''
+Wunderlich Securities analyst Michael Hoffman was similarly skeptical of the Clean Harbors share move .
+` ` While the Gulf oil spill may represent a large clean - up opportunity , we do not believe it warrants Clean Harbors ' <TIMEX3 tid="t13" type="DATE" value="PAST_REF">recent</TIMEX3> price move , '' he said .
+` ` No question , the stock over - reacted . ''
+Both stocks have pulled back more than 15 percent from their initial gains , suggesting that investors were reassessing their initial optimism .
+` ` They -LRB- Clean Harbors -RRB- were being appropriately reserved on the call .
+As a result , the stock fell as much as it did <TIMEX3 tid="t16" type="DATE" value="2010-05-05">today</TIMEX3> , '' Hoffman said .
+Clean Harbors shares fell as much as 6 percent on <TIMEX3 tid="t17" type="DATE" value="2010-05-05">Wednesday</TIMEX3> in intra - day trade .
+In a similar scenario , <TIMEX3 tid="t18" type="DATE" value="2005">five years ago</TIMEX3> , Clean Harbors ' stock shed more than 20 percent , after the company 's dour outlook on gains from clean - up following Hurricane Katrina disappointed investors .
+
+Since the Transocean RIGN .
+N -RRB- rig exploded and sank <TIMEX3 tid="t20" type="DATE" value="2010-04">last month</TIMEX3> , claiming 11 lives , hundreds of thousands of gallons of crude have been gushing into the Gulf from the ocean floor with no easy solution in sight .
+That has boosted demand for products that can contain or dissipate the oil , such as oil booms , detergents and emulsifiers .
+Naperville , Illinois - based Nalco said it is working with BP Plc -LRB- BP .
+L -RRB- to apply one of its proprietary chemicals that breaks down oil into small parts that can be eaten and dissolved by naturally occurring bacteria .
+The rig was contracted to BP , which will bear the cost of clean - up from an ever widening oil spill , while Anadarko Petroleum Corp -LRB- APC .
+N -RRB- had a 25 percent interest in the well .
+` ` Assuming a clean - up effort on par with -LRB- the <TIMEX3 tid="t21" type="DATE" value="1989">1989</TIMEX3> Exxon -LRB- XOM .
+N -RRB- -RRB-
+Valdez spill is awarded to Clean Harbors , the inflation adjusted non - recurring profit would be an estimated $ 50 million to $ 60 million , or $ 2.00 to $ 2.50 per share , '' Wunderlich 's Hoffman said .
+So far , efforts to plug the oil leak have failed .
+If unchecked , it will take <TIMEX3 tid="t25" type="DURATION" value="P50D" mod="APPROX">about 50 days</TIMEX3> to eclipse the Exxon Valdez spill , the worst U.S. oil spill , which sent 10.8 million gallons of crude into Alaska 's Prince William Sound .
+On a conference call with analysts , Clean Harbors ' executives said it would be premature to speculate on the revenue potential at this time .
+` ` We are participating in the cleanup , but the extent of our involvement has yet to be determined , '' they said .
+Estimates for Nalco 's profits are also modest .
+<TIMEX3 tid="t27" type="DATE" value="2010-W18" mod="START">Earlier this week</TIMEX3> , Nalco CEO Erik Fyrwald said sales related to the spill , till date , had not had a material financial impact .
+` ` We look at anywhere between a penny to 2 cents in potential positive impact , between <TIMEX3 tid="t28" type="DATE" value="PRESENT_REF">now</TIMEX3> -LRB- the second - quarter -RRB- and the third , '' Wedbush analyst Rose said .
+` ` On the whole , we do not expect a significant impact . ''
+-LRB-
+Reporting by Adveith Nair and Krishna N. Das , with additional reporting by Vinay Sarawagi ; Editing by Gopakumar Warrier -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

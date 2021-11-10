@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t1" type="DATE" value="2011-08-03">Aug. 3</TIMEX3> : In this image taken from video provided by BP PLC , the new 75 - ton cap sits atop the site of the Deepwater Horizon oil spill in the Gulf of Mexico .
+AP NEW ORLEANS --
+Engineers removed a temporary cap <TIMEX3 tid="t3" type="DATE" value="2010-09-02">Thursday</TIMEX3> that stopped oil from gushing into the Gulf of Mexico from BP 's blown - out well in mid - <TIMEX3 tid="t2" type="DATE" value="2010-07">July</TIMEX3> .
+No more oil was expected to leak into the sea , but crews were standing by with collection vessels just in case .
+The cap was removed as a prelude to raising the massive piece of equipment underneath that failed to prevent the worst offshore oil spill in U.S. history .
+The government wants to replace the failed blowout preventer first to deal with any pressure that is caused when a relief well BP has been drilling intersects the blown - out well .
+Once that intersection occurs sometime after <TIMEX3 tid="t4" type="DATE" value="2010-09-06">Labor Day</TIMEX3> , BP is expected to use mud and cement to plug the blown - out well for good from the bottom .
+
+The <TIMEX3 tid="t6" type="DATE" value="2010-04-20">April 20</TIMEX3> rig explosion killed 11 workers and led to 206 million gallons of oil spewing from BP 's well .
+BP was leasing the rig from owner Transocean Ltd. .
+As the cap was slowly removed at <TIMEX3 tid="t7" type="TIME" value="2010-04-20T16:25">4:25 p.m.</TIMEX3> CDT , hours after a pipe latched to the top of it , there was no sight of anything spewing into the water .
+Undersea video feeds showed the cap suspended in the water .
+BP planned to place the cap on the seafloor nearby .
+With the cap gone , the old blowout preventer can be removed and a new one put in place before engineers try to seal the well for good deep underground .
+Once the blowout preventer is removed , a lot will be riding on the stability of a plug that was created when mud and cement were pumped down into the well from the top .
+Essentially , the pressure exerted downward served to counter the pressure coming up .
+
+But Rice University engineering professor George Hirasaki said there is still uncertainty about whether the cement settled everywhere it needed to in order to keep oil and gas from finding its way up .
+` ` Just because it did n't flow when they tested it does n't mean the cement displaced all of the oil and gas , '' Hirasaki said .
+That 's why many people have felt that finishing a relief well and pumping mud and cement in through the bottom would be the ultimate solution to the crisis , said Hirasaki , who was involved in the oil containment effort in the Bay Marchand field off Louisiana after a rig burned in <TIMEX3 tid="t9" type="DATE" value="197" mod="START">the early 1970s</TIMEX3> .
+The government still plans on ordering BP PLC , the majority owner of the well , to do the so - called bottom kill operation .
+But it believes the wisest course is to put on a new blowout preventer first to deal with any pressure that is caused when the relief well intersects the blown - out well .
+Another potential risk : What happens if the crane attached to the blowout preventer accidentally drops the 50 - foot , 300 - ton device onto the wellhead ?
+By itself , that might not cause more oil to spew , as long as the plug held , but it would make it difficult to continue the operation , Hirasaki said .
+` ` It would crush everything , '' he said .
+` ` It would be hard to place another blowout preventer on top of it .
+<TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">Right now</TIMEX3> the wellhead condition is in good condition .
+But if you dropped it , everything could be opened up . ''
+Retired Coast Guard Adm. Thad Allen , the government 's point man on the oil spill response , told reporters <TIMEX3 tid="t11" type="DATE" value="2010-09-01">Wednesday</TIMEX3> during a visit to BP 's U.S. offices in Houston that engineers believe the crane will be able to handle the weight of the blowout preventer and some fragile pipe that is believed to be lodged inside .
+
+But if the crane were to swing like a pendulum , that could cause problems , which is why officials have been waiting for rough seas at the site to calm down before continuing with removal of the blowout preventer .
+With the cap <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">now</TIMEX3> removed , the Helix Q4000 will soon latch its hooks onto the blowout preventer and wait for instructions to begin lifting it up .
+Engineers are prepared to exert a tremendous amount of pressure to get the blowout preventer free , but they must be careful not to damage it because it is a key piece of evidence in ongoing investigations .
+Allen said there is no ` ` significant risk '' of more oil leaking into the environment .
+But he said that after the cap and blowout preventer are removed , ` ` The goal there will be to secure the annulus as quick as we can . ''
+The annulus is an area between the inner piping and the outer casing .
+Based on an updated timeline Allen released <TIMEX3 tid="t13" type="DATE" value="2010-09-01">Wednesday</TIMEX3> , the blowout preventer could begin being raised <TIMEX3 tid="t16" type="DATE" value="2010-09-02" mod="END">late Thursday</TIMEX3> or <TIMEX3 tid="t17" type="DATE" value="2010-08-27" mod="START">early Friday</TIMEX3> .
+But Allen cautioned that timeline could be stretched again if high seas continue to kick up .
+The final plugging of the well is n't expected until after <TIMEX3 tid="t18" type="DATE" value="2010-09-06">Labor Day</TIMEX3> .
+A 12 - person government evidence team is waiting to take possession of the blowout preventer when it reaches the surface .
+</TimeML>

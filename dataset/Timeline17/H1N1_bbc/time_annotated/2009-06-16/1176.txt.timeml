@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+UK swine flu highest in Europe The UK has the highest number of confirmed swine flu cases in Europe An extra 141 cases of swine flu have been confirmed in England , making the UK home to the highest number of confirmed cases in Europe .
+The national total <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3> stands at 1,461 patients since <TIMEX3 tid="t4" type="DATE" value="2009-04">April 2009</TIMEX3> .
+This number does not include clinically diagnosed cases in Scotland where the virus has spread particularly fast .
+These are yet to be confirmed .
+At <TIMEX3 tid="t5" type="DATE" value="2009-W24-WE">the weekend</TIMEX3> a 38 - year - old Scottish woman became the first victim of the virus outside America .
+Jacqui Fleming from Glasgow had given birth to a premature boy <TIMEX3 tid="t6" type="DURATION" value="P2W">two weeks</TIMEX3> before her death at the Royal Alexandra Hospital in Paisley .
+The baby , named Jack , who also died did not have swine flu .
+In a statement the family said , ` ` our whole family is absolutely devastated . ''
+Professor Hugh Pennington , a bacteriologist at Aberdeen University , says the death does not indicate that the virus is any more virulent .
+` ` It does not point to the virus getting nastier .
+All the evidence to date suggests the virus is not changing at all , '' he said .
+A Department of Health spokesperson said ` ` The localized cases of swine flu found in the UK have so far been generally mild in most people , but are proving to be severe in a small minority of cases .
+All the evidence to date suggests the virus is not changing at all ` ` We are continuing to work to slow the spread of the disease and to put in place arrangements to ensure that the UK is well - placed to deal with this new infection . ''
+<TIMEX3 tid="t9" type="DATE" value="2009-W24">Last week</TIMEX3> , the World Health Organisation -LRB- WHO -RRB- held an emergency meeting at which it declared a global flu pandemic , the first in <TIMEX3 tid="t11" type="DURATION" value="P40Y">40 years</TIMEX3> .
+A pandemic is declared on geographical terms as the virus spreads , but it does not mean that it is causing more severe illness or a greater number of deaths .
+The swine flu
+-LRB- H1N1 -RRB- virus has <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">now</TIMEX3> spread to 76 countries after it was first detected in Mexico in <TIMEX3 tid="t12" type="DATE" value="2009-04">April</TIMEX3> .
+Young working age adults have been the most likely to contract the virus , with a third to a half of complications presenting in otherwise healthy people .
+The government has been stockpiling antivirals like Tamiflu and has ordered vaccine .
+The first doses could be administered in <TIMEX3 tid="t14" type="DATE" value="2008-10">October</TIMEX3> .
+Anyone suffering from flu - like symptoms is advised to seek medical attention and stay at home .
+</TimeML>

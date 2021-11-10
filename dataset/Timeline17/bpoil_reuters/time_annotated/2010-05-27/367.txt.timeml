@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+President Obama departs the East Room of the White House following his news conference , <TIMEX3 tid="t3" type="DATE" value="2010-05-27">May 27 , 2010</TIMEX3> .
+WASHINGTON | Thu <TIMEX3 tid="t7" type="DATE" value="2010-05-27">May 27 , 2010</TIMEX3> <TIMEX3 tid="t10" type="TIME" value="2010-05-27T15:54">3:54 pm</TIMEX3> EDT WASHINGTON -LRB-
+Reuters -RRB- - President Barack Obama took responsibility for the U.S. response to the Gulf of Mexico oil spill on <TIMEX3 tid="t9" type="DATE" value="2010-05-27">Thursday</TIMEX3> and extended for <TIMEX3 tid="t11" type="DURATION" value="P6M">six months</TIMEX3> a moratorium on offshore drilling , dealing a potential setback to his own energy policy .
+Obama , who has come under increased pressure to show leadership over the spill , suspended planned exploration off the coast of Alaska , and canceled a pending lease sale in the Gulf of Mexico and a proposed lease sale off Virginia .
+Addressing reporters at the White House , a worn - looking Obama said even his daughter had asked him when the oil would stop leaking .
+` ` In case you 're wondering who 's responsible , I take responsibility , '' he said , leaning over his podium .
+` ` It is my job to make sure that every thing is done to shut this down , '' he said .
+The president rejected criticism that he and the federal government had not taken charge as BP Plc -LRB- BP .
+L -RRB- struggles to stop the gushing deep - sea oil well .
+` ` There should n't be any confusion here .
+The federal government is fully engaged , and I ' m fully engaged , '' he said .
+` ` From the moment this disaster began , the federal government has been in charge of the response effort . ''
+Offshore oil drilling is a key part of Obama 's efforts to rejig the country 's energy policy and a needed sweetener for gaining Republican support for a bill in the Senate .
+But the spill has forced him and fellow Democrats to rethink their support for such an expansion , which many environmentalists oppose .
+` ` Extraction is more expensive and it is going to be inherently more risky , '' Obama said .
+` ` That 's part of the reason you never heard me say , ` drill , baby , drill , ' because we ca n't drill our way out of the problem . ''
+The Obama administration ordered a halt in new drilling permits after BP 's oil rig , owned by Transocean -LRB- RIG .
+S , exploded in the Gulf on <TIMEX3 tid="t13" type="DATE" value="2010-04-20">April 20</TIMEX3> .
+Some U.S. lawmakers have called on the administration to lift the permit ban , at least for exploration in the shallow waters of the Gulf while keeping it in place in deeper waters where BP was operating .
+Mike Breard , an analyst at Hodges Capital Management , said the decision would force companies to move rigs to places such as Brazil , forcing the United States to import more and increasing the possibility of tanker accidents .
+` ` You 're trading a risk of one type of spill for another type of spill , '' Breard said .
+Obama has established a presidential commission to investigate the causes of the spill , which by government estimates is the country 's largest ever .
+His announcement on <TIMEX3 tid="t14" type="DATE" value="2010-05-27">Thursday</TIMEX3> was meant to amplify his administration 's response before that panel draws its own conclusions on what went wrong .
+The moratorium on permits to drill new deepwater wells will continue for a period of <TIMEX3 tid="t15" type="DURATION" value="P6M">six months</TIMEX3> while the commission does its work .
+Political fallout has not been limited to legislation .
+Interior Secretary Ken Salazar said Liz Birnbaum , the head of Minerals Management Service , which oversees U.S. offshore oil drilling , had resigned .
+Obama said he had learned of the resignation on <TIMEX3 tid="t17" type="TIME" value="2010-05-27TMO">Thursday morning</TIMEX3> .
+He declared that reforms are needed in the government 's process for approving oil drilling permits and said the MMS suffered from a relationship with the oil industry that was ` ` scandalously close . ''
+Obama has come under increasing pressure to stop the spill and halt its environmental and economic consequences for Gulf states .
+BP , which has been publicly scolded by the president , was working on <TIMEX3 tid="t18" type="DATE" value="2010-05-27">Thursday</TIMEX3> to plug the leaking well in a procedure known as ` ` top kill . ''
+Obama promised to hold BP accountable in the catastrophic spill and said his administration would do everything necessary to protect and restore the coast .
+` ` We 're exploring any reasonable strategies to try and save the Gulf from a spill that may otherwise last until the relief wells are finished and that 's a process that could take months , '' Obama said .
+</TimeML>

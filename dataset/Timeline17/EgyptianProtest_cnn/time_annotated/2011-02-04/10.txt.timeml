@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Activists protest against the naming of the new Prime Minister Marouf Bakhit on <TIMEX3 tid="t3" type="DATE" value="2011-02-02">February 2 , 2011</TIMEX3> in Amman , Jordan .
+<TIMEX3 tid="t5" type="DATE" value="2011-02-04">Friday</TIMEX3> 's demonstration in Amman was the smallest in weeks Amman , Jordan -LRB-
+CNN -RRB- --
+Several hundred protesters braved rain and cold temperatures here in the capital to protest against Jordan 's new prime minister <TIMEX3 tid="t6" type="DATE" value="2011-02-04">Friday</TIMEX3> .
+The demonstration , called by the Islamic Action Front , passed off without incident amid a low - profile police presence .
+The protesters chanted ` ` Alahu Akhbar '' -LRB-
+` ` God is Great '' -RRB- , demanded political reforms and railed against government corruption .
+Most of them marched from <TIMEX3 tid="t8" type="DATE" value="2011-02-04">Friday</TIMEX3> prayers at Salahuddin Mosque the short distance to the office of Prime Minister Marouf Bakhit , who was appointed by King Abdullah II <TIMEX3 tid="t7" type="DATE" value="PAST_REF">a few days ago</TIMEX3> .
+They then moved on to the Egyptian embassy before dispersing .
+It was the smallest <TIMEX3 tid="t10" type="DATE" value="2011-02-04">Friday</TIMEX3> demonstration in Amman in <TIMEX3 tid="t11" type="DURATION" value="PXW">several weeks</TIMEX3> .
+Other groups involved in previous protests decided not to join <TIMEX3 tid="t12" type="DATE" value="2011-W05">this week</TIMEX3> , leaving the Islamists and a small leftist party as the only groups involved .
+<TIMEX3 tid="t14" type="DATE" value="2011-W05" mod="START">Earlier this week</TIMEX3> , King Abdullah promised the new government would launch a national dialogue on political reform , tackle corruption and review Jordan 's restrictive election law to involve a wider range of political opinion .
+The king met with Islamist leaders <TIMEX3 tid="t15" type="DATE" value="2011-02-03">Thursday</TIMEX3> , among them the leadership of the Islamic Action Front and Muslim Brotherhood .
+Afterwards , the Islamists described the meeting as ` ` clear and frank '' in which they asked for political reform beginning with a new more democratic election law and a government chosen by Parliament rather than the king .
+The Palace said the king had emphasized inclusive reforms that could overcome ` ` external forces '' who are resisting change for their own personal interests .
+The general secretary of the Islamic Action Front , Hamza Mansour , told CNN <TIMEX3 tid="t16" type="DATE" value="2011-02-03">Thursday</TIMEX3> that democracy in Jordan was marginalized and warned that when political and economical conditions worsen , social violence surfaces .
+</TimeML>

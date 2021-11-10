@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+HOUSTON -- Interior Secretary Ken Salazar said <TIMEX3 tid="t1" type="DATE" value="2010-05-23">Sunday</TIMEX3> that ` ` I am angry and I am frustrated '' that BP has not been able to seal its blown - out oil well in the Gulf of Mexico .
+` ` We are <TIMEX3 tid="t3" type="DURATION" value="P33D">33 days</TIMEX3> into this effort , and deadline after deadline has been missed , '' he told reporters after visiting BP 's U.S. headquarters in Houston .
+` ` If we find they 're not doing what they 're supposed to be doing , we 'll push them out of the way appropriately . ''
+Coast Guard Adm.
+Thad W. Allen , who is leading the federal response to the spill , acknowledged <TIMEX3 tid="t4" type="DATE" value="2010-05-23">Sunday</TIMEX3> that the government is being forced to rely on BP and the private oil sector to try to plug the gusher .
+At the same time , BP said the containment method it was attempting on the seafloor was capturing much less of the leaking oil than <TIMEX3 tid="t5" type="DATE" value="2010-05-21">three days ago</TIMEX3> .
+BP has deployed a long suction tube to the larger of two leaks from the well , but a BP spokesman said <TIMEX3 tid="t7" type="DATE" value="2010-05-23">Sunday</TIMEX3> that this captured only 1,360 barrels of oil over <TIMEX3 tid="t10" type="DURATION" value="P1D">the 24 hours</TIMEX3> to <TIMEX3 tid="t9" type="TIME" value="2010-05-22T24:00">midnight Saturday</TIMEX3> .
+The flow has been declining from the 5,000 barrels -LRB- 210,000 gallons -RRB- per day the company had said the tube was siphoning <TIMEX3 tid="t12" type="DATE" value="2010-05-21">three days ago</TIMEX3> .
+BP engineers are <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">now</TIMEX3> preparing a ` ` top kill , '' pumping heavy fluids into the well to try to shut it off , an operation to begin <TIMEX3 tid="t17" type="DATE" value="2010-05-18" mod="END">late Tuesday</TIMEX3> or <TIMEX3 tid="t18" type="DATE" value="2010-05-19" mod="START">early Wednesday</TIMEX3> , its managing director , Bob Dudley , told CNN . ''
+</TimeML>

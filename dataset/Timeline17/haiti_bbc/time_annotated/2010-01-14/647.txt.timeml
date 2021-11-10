@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+The Caribbean is better known for its hurricanes The Caribbean may be better known for hurricanes but the region is also at risk from earthquakes .
+Experts say the region is a seismically active area .
+The Seismic Research Unit of the University of the West Indies says hundreds of earthquakes occur <TIMEX3 tid="t4" type="SET" value="P1Y" quant="EACH">each year</TIMEX3> , in and around the Eastern Caribbean , the area it monitors .
+Not all are felt , however , but they are recorded by scientists .
+The first earthquake in the sub - region <TIMEX3 tid="t6" type="DATE" value="2010">this year</TIMEX3> was recorded on <TIMEX3 tid="t7" type="DATE" value="2010-01-04">4 January</TIMEX3> at <TIMEX3 tid="t8" type="TIME" value="2010-01-04T23:36">11:36 p.m.</TIMEX3> local time north of Paria Peninsula in northern Venezuela - an area that separates the Gulf of Paria and Caribbean Sea .
+The earthquake was reported as felt in Glencoe , Westmoorings in Trinidad .
+No damage was reported .
+<TIMEX3 tid="t9" type="DATE" value="2010-01-12">Tuesday</TIMEX3> 's huge magnitude 7.0 tremor in Haiti in the western Caribbean was the largest ever known to hit Haiti , according to the US Geological Survey .
+It was also the worst for <TIMEX3 tid="t11" type="DURATION" value="P200Y">200 years</TIMEX3> and among the largest ever in the region .
+The death toll is still unknown but could run into the tens of thousands .
+That would dwarf the figures for other major quakes in the Caribbean , mostly from the distant past .
+For instance , in <TIMEX3 tid="t12" type="DATE" value="1692">1692</TIMEX3> in Jamaica , a quake of an unspecified magnitude killed 2,000 ; in Leeward Islands in <TIMEX3 tid="t13" type="DATE" value="1843">1843</TIMEX3> , an 8.3 - magnitude quake killed 5,000 ; and another in Jamaica in <TIMEX3 tid="t14" type="DATE" value="1907">1907</TIMEX3> , a 6.5 - magnitude quake killed 1,000 .
+The Haiti quake occurred along a vertical fault line that runs from Montego Bay , Jamaica , to the southern part of Hispaniola , the island shared by Haiti and the Dominican Republic .
+Paul Mann of the University of Texas at Austin says the plates have been pushing against that particular fault since a major quake in <TIMEX3 tid="t15" type="DATE" value="1760">1760</TIMEX3> .
+Earthquakes have not been a priority in the Caribbean when it comes to disaster planning .
+
+But that could change , according to Simon Young , supervisor of the Caribbean Catastrophe Risk Insurance Facility .
+` ` Coming off a slow hurricane season , there will be a lot more talk about earthquake exposure in the Caribbean , '' he told Business News Americas news service .
+` ` This needs to be on the agenda all the time , but unfortunately it takes big events to bring it back to the forefront . ''
+Seismologist Joan Latchman told the Trinidad Express newspaper : ` ` We need to be prepared because it is better to prepare and it does n't happen , than we do n't prepare and it does . ''
+<TIMEX3 tid="t17" type="DATE" value="2010-01-12">12 Jan 12 , 2010</TIMEX3> : Port - au - Prince , Haiti .
+Number of dead unknown .
+<TIMEX3 tid="t21" type="DATE" value="2007-11-29">29 Nov , 2007</TIMEX3> :
+Martinique region , Windward Islands .
+Quake destroyed buildings , and much of the island lost electricity .
+<TIMEX3 tid="t24" type="DATE" value="1946-08-04">4 Aug 1946</TIMEX3> : Samana , Dominican Republic .
+Quake and resulting tsunami killed 1,600 <TIMEX3 tid="t28" type="DATE" value="1918-10-11">11 Oct , 1918</TIMEX3> : Northwestern Mona Passage , Puerto Rico .
+Quake killed 116 people and caused $ 4 million in property damage .
+<TIMEX3 tid="t32" type="DATE" value="1843-02-08">8 Feb 1843</TIMEX3> : Leeward Islands .
+At least 5,000 people died in a quake felt from St. Kitts to Dominica .
+This was the largest earthquake to hit the Eastern Caribbean .
+<TIMEX3 tid="t37" type="DATE" value="1787-05-02">2 May 1787</TIMEX3> :
+Puerto Rico .
+Possibly the strongest earthquake to hit the region .
+It caused widespread damage across Puerto Rico .
+</TimeML>

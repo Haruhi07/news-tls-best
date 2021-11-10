@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Mon <TIMEX3 tid="t2" type="DATE" value="2011-07-11">Jul 11 , 2011</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2011-07-11T24:33">12:33 pm</TIMEX3> BST -LRB-
+Reuters -RRB- - Divers searching a Russian river boat which sank in the Volga at <TIMEX3 tid="t4" type="DATE" value="2011-W27-WE">the weekend</TIMEX3> said they saw more than a hundred bodies trapped inside .
+In <TIMEX3 tid="t6" type="DATE" value="1986">1986</TIMEX3> Russia suffered one of its worst shipping disasters when passenger liner , the Admiral Nakhimov , hit the cargo ship Pyotr Vasev off the Black Sea port of Novorossiysk .
+At least 423 passengers and crew died .
+Following are some of the major transport disasters in Russia <TIMEX3 tid="t12" type="DURATION" value="P20Y" mod="MORE_THAN">over the last twenty years</TIMEX3> : <TIMEX3 tid="t9" type="DATE" value="1989-06-04">June 4 , 1989</TIMEX3> -
+At least 575 people are killed in the Ural mountains in the Soviet Union when two passenger trains are engulfed in an explosion from a leaking gas pipeline .
+<TIMEX3 tid="t15" type="DATE" value="1994-01-03">January 3 , 1994</TIMEX3> - All 124 people on board a Russian Tupolev-154 are killed when it crashes minutes after taking off from the Siberian city of Irkutsk on a flight to Moscow .
+<TIMEX3 tid="t19" type="DATE" value="1994-03-23">March 23 , 1994</TIMEX3> - An Airbus A-310 belonging to Russian state airline Aeroflot crashes near Novokuznetsk , killing 70 people .
+Investigators say crash was caused mainly by the pilot 's teenage son inadvertently disconnecting the autopilot .
+<TIMEX3 tid="t23" type="DATE" value="1996-08-29">August 29 , 1996</TIMEX3> - A Tupolev 154 , chartered by the Russian mining company Trust Arktik Ugol , carrying 129 passengers and a crew of 12 to the remote Arctic island of Spitzbergen crashed killing all aboard .
+<TIMEX3 tid="t28" type="DATE" value="1997-12-06">December 6 , 1997</TIMEX3> - <TIMEX3 tid="t26" type="DATE" value="1948">48</TIMEX3> people are killed when an Antonov-124 , carrying two Sukhoi fighter planes , ploughs into a residential area on the outskirts of Irkutsk in Siberia .
+<TIMEX3 tid="t32" type="DATE" value="2000-10-25">October 25 , 2000</TIMEX3> - Eighty - two people , including eight children , are killed when a Russian Ilyushin-18 military plane slams into a mountain in Georgia to avoid heavy rain and lightning .
+<TIMEX3 tid="t36" type="DATE" value="2001-05-23">May 23 , 2001</TIMEX3> -
+A train smashes into a bus on a level crossing in the Baltic enclave of Kaliningrad , killing 14 .
+<TIMEX3 tid="t39" type="DATE" value="2011-07-03">July 3</TIMEX3> - A Vlastivostok Avia TU 154 on a flight from Yekaterinburg to Vladivostok , crashes near Irkutsk at Burdanovka killing all 145 aboard .
+<TIMEX3 tid="t42" type="DATE" value="2006-01-13">January 13 , 2006</TIMEX3> - Twenty - one people are killed at a rail crossing in the Ust - Labinsky district of Krasnodar region in southern Russia when a bus collided with a train in fog .
+<TIMEX3 tid="t45" type="DATE" value="2011-07-09">July 9</TIMEX3> - A Russian Airbus A-310 run by Sibir airlines carrying 195 passengers and eight crew , crashes during a domestic flight to Siberia , killing 122 .
+<TIMEX3 tid="t47" type="DATE" value="2010-08-22">August 22</TIMEX3> - A Russian Tu-154 operated by Pulkovo Airlines crashes 30 miles -LRB- 48 km -RRB- north of the east Ukrainian town of Donetsk , killing all 170 passengers and crew .
+<TIMEX3 tid="t50" type="DATE" value="2011-06-20">June 20 , 2011</TIMEX3> - Forty - four people are killed when a Tupolev-134 aircraft breaks up on landing in northern Russia .
+<TIMEX3 tid="t54" type="DATE" value="2011-07-10">July 10</TIMEX3> - The Bulgaria , a two - deck boat built in <TIMEX3 tid="t52" type="DATE" value="1955">1955</TIMEX3> traveling from the town of Kazan east of Moscow , sinks in minutes on the River Volga .
+At least 110 people , including some 30 children are killed .
+</TimeML>

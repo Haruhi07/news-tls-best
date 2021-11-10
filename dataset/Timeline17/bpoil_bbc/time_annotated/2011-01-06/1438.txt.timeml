@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t3" type="DATE" value="2011-01-06">6 January 2011</TIMEX3> Last updated at 12:45 GMT Help Shares in BP opened higher on <TIMEX3 tid="t5" type="DATE" value="2011-01-06">Thursday</TIMEX3> despite a US presidential commission criticising the oil company 's contractors and regulators as well as BP for the Gulf of Mexico oil spill .
+The explosion at the Deepwater Horizon rig in <TIMEX3 tid="t7" type="DATE" value="2010-04">April</TIMEX3> killed 11 men and led to the largest ever offshore oil leak .
+Despite the findings , BP shares rose above 500 pence for the first time since <TIMEX3 tid="t10" type="DATE" value="2010-05">May last year</TIMEX3> .
+BBC business correspondent Maryam Moshiri spoke to Nick McGregor , an oil analyst with stockbrokers Redmayne Bentley .
+</TimeML>

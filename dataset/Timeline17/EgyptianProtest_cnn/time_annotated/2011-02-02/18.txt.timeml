@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+By Dan Primack <TIMEX3 tid="t3" type="DATE" value="2011-02-02">February 2 , 2011</TIMEX3> : <TIMEX3 tid="t5" type="TIME" value="2011-02-02T14:24">2:24 PM</TIMEX3> ET <TIMEX3 tid="t6" type="DURATION" value="P1D">One day</TIMEX3> before Egyptians took to the streets in protest , a Cairo - based venture capital firm called Sawari Ventures formally launched .
+It is the nation 's only privately - funded VC firm , with plans to invest between $ 2 and $ 5 million in local technology and telecom startups .
+<TIMEX3 tid="t12" type="DATE" value="2011-02-02" mod="START">Earlier today</TIMEX3> I spoke with Leslie Jump , a Sawari Ventures partner who works out of Washington , D.C. -LRB-
+her husband is Edward Walker , U.S. Ambassador to Egypt between <TIMEX3 tid="t9" type="DATE" value="1994">1994</TIMEX3> and <TIMEX3 tid="t10" type="DATE" value="1997">1997</TIMEX3> -RRB- .
+Below is an edited transcript of our conversation :
+Fortune : Is it safe to say that business is on hold for Sawari Ventures ?
+Leslie Jump : Definitely .
+The country is dealing with existential questions <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">right now</TIMEX3> , and <TIMEX3 tid="t14" type="DATE" value="2011-02-02">today</TIMEX3> you have thugs on camels attacking people in the streets .
+So obviously all regular business has been put on hold .
+One of our Egyptian partners has a non - Egyptian wife , so he took her to London to keep her safe -- but he plans to return soon .
+Our other partner is out in his neighborhood with a cricket bat , helping to protect it from looters .
+It was great to see our entrepreneurs come back online <TIMEX3 tid="t15" type="DATE" value="2011-02-02">today</TIMEX3> , although they 're all out protesting .
+How are your firm 's investors reacting ?
+Our lead investor is Naguib Sawiris , the richest man in Egypt .
+He has been coming out with statements about how we need to get through this period first , and then remember that investment is key to Egypt 's economic development .
+We completely agree , of course .
+Obviously the American investors are a different story , and are a bit more cautious .
+We knew that a majority of our funding would come from the region , but we wanted some Americans involved to help validate the market .
+You said that you hope that there is a continued interest in economic development through investment .
+I believe in the pragmatism of the Egyptian people .
+Political folks keep asking if Egypt will turn into Turkey or turn into Iran , but I have a very hard time believing the latter is possible .
+The people are devout , but not fanatical , and the protests have been driven by middle and upper - middle class educated people who understand that economic reform is critical .
+Well , if I had the ear of the minister of finance in the prevailing government , I 'd tell him that the number one issue for entrepreneurs is that the country 's bankruptcy laws must be reformed .
+It takes <TIMEX3 tid="t16" type="DURATION" value="P2D">two days</TIMEX3> to start up a company in Egypt and <TIMEX3 tid="t17" type="DURATION" value="P2Y">two years</TIMEX3> to wind it down .
+You can not have a successful and thriving entrepreneurial ecosystem unless you can fail fast .
+The second thing is access to capital .
+Speaking of which , how many other venture capital firms are active in Egypt besides Sawari ?
+Before <TIMEX3 tid="t20" type="DATE" value="2011-01-25">January 25</TIMEX3> , I used to tell people that the Arab digital economy was a lot like the U.S. digital economy in <TIMEX3 tid="t18" type="DATE" value="1995">1995</TIMEX3> .
+In terms of venture capital , it 's more like <TIMEX3 tid="t21" type="DATE" value="1975">1975</TIMEX3> .
+There are just seven firms in the region : Two in Dubai , two in Egypt -- one is public , and we 're the private one -- one in Jordan , one in the West Bank and Intel Capital .
+Egypt is a market of 80 million people who speak a common language , but it is very under - served in terms of access to capital .
+Despite the political challenges , Egyptians are rampant consumers of consumer technologies and are digital natives because the vast majority is under the age of 30 .
+I ' m hoping that , once things begin to stabilize , we 'll be part of helping to build out an entrepreneurial ecosystem that has incredible potential .
+Dan Primack joined Fortune.com in <TIMEX3 tid="t24" type="DATE" value="2010-09">September 2010</TIMEX3> to cover deals and dealmakers , from Wall Street to Sand Hill Road .
+Previously , Dan was an editor - at - large with Thomson Reuters , where he launched both peHUB.com and the peHUB Wire email service .
+In a past journalistic life , Dan ran a community paper in Roxbury , Massachusetts .
+He <TIMEX3 tid="t25" type="DATE" value="PRESENT_REF">currently</TIMEX3> lives just outside of Boston .
+Market indexes are shown in real time , except for the DJIA , which is delayed by <TIMEX3 tid="t26" type="DURATION" value="PT2M">two minutes</TIMEX3> .
+All times are ET .
+Disclaimer LIBOR Warning : Neither BBA Enterprises Limited , nor the BBA LIBOR Contributor Banks , nor Reuters , can be held liable for any irregularity or inaccuracy of BBA LIBOR .
+Morningstar : <TIMEX3 tid="t27" type="DATE" value="2013">2013</TIMEX3> Morningstar , Inc. .
+Disclaimer
+The Dow Jones IndexesSM are proprietary to and distributed by Dow Jones & Company , Inc. and have been licensed for use .
+All content of the Dow Jones IndexesSM <TIMEX3 tid="t28" type="DATE" value="2013">2013</TIMEX3> is proprietary to Dow Jones & Company , Inc. .
+The market data is the property of Chicago Mercantile Exchange Inc. and its licensors .
+FactSet Research Systems Inc. <TIMEX3 tid="t29" type="DATE" value="2013">2013</TIMEX3> .
+Most stock quote data provided by BATS .
+</TimeML>

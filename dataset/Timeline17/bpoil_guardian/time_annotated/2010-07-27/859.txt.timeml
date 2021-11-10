@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+BP 's Tony Hayward : resignation statement Outgoing chief executive Tony Hayward says BP will be a changed company as a result of the oil spill ` and it is right that it should embark on its next phase under new leadership ' <TIMEX3 tid="t5" type="DATE" value="2010-07-27">Tuesday</TIMEX3> <TIMEX3 tid="t3" type="DATE" value="2010-07-27">27 July 2010</TIMEX3> 08.38
+BST BP chief executive Tony Hayward is leaving the oil group after <TIMEX3 tid="t9" type="DURATION" value="P30Y" mod="LESS_THAN">almost 30 years</TIMEX3> with a # 1 m payoff and a pension expected to be about half a million pounds <TIMEX3 tid="t10" type="DURATION" value="P1Y">a year</TIMEX3> .
+He will hand over as chief executive in <TIMEX3 tid="t11" type="DATE" value="2010-10">October</TIMEX3> but will remain on the BP board until <TIMEX3 tid="t13" type="DATE" value="2010-11-30">30 November</TIMEX3> .
+BP plans to nominate him as a non - executive director at its Russian joint venture , TNK - BP .
+` ` The Gulf of Mexico explosion was a terrible tragedy for which as the man in charge of BP when it happened I will always feel a deep responsibility , regardless of where blame is ultimately found to lie .
+` ` From day one I decided that I would personally lead BP 's efforts to stem the leak and contain the damage , a logistical operation unprecedented in scale and cost .
+We have <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">now</TIMEX3> capped the oil flow and we are doing everything within our power to clean up the spill and to make restitution to everyone with legitimate claims .
+` ` I would like to thank all of the BP people involved in the response and the many thousands of others along the Gulf Coast who have joined us in our efforts .
+` ` I believe the decision I have reached with the board to step down is consistent with the responsibility BP has shown throughout these terrible events .
+BP will be a changed company as a result of Macondo and it is right that it should embark on its next phase under new leadership .
+` ` I will be working closely with Bob Dudley over the <TIMEX3 tid="t15" type="DATE" value="FUTURE_REF">coming months</TIMEX3> to ensure a smooth transition .
+It has been a privilege to serve BP for <TIMEX3 tid="t18" type="DURATION" value="P30Y" mod="LESS_THAN">nearly 30 years</TIMEX3> and to lead it for the last three .
+I am sad to leave so many fine colleagues and friends who have helped this great company to achieve so much over the years .
+I am sorry that achievement has been overshadowed by the tragedy in the Gulf of Mexico . ''
+</TimeML>

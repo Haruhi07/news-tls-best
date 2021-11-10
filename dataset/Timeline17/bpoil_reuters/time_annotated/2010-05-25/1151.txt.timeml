@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+HOUSTON | Tue <TIMEX3 tid="t3" type="DATE" value="2010-05-25">May 25 , 2010</TIMEX3> <TIMEX3 tid="t6" type="TIME" value="2010-05-25T14:22">2:22 pm</TIMEX3> EDT HOUSTON -LRB- Reuters -RRB- - Insurer Lloyd 's of London has asked a U.S. court to block a claim filed by oil major BP seeking damages against driller Transocean , which drilled the well which is <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">currently</TIMEX3> gushing crude into the Gulf of Mexico .
+Lloyds underwriting syndicates and other insurers who provided $ 700 million of cover to Transocean lodged a case with a federal court in Houston , arguing that the policies provided to Transocean preclude claims related to environmental damage caused by leaks from the well .
+According to court documents , the insurers argue that Transocean 's contract with BP only makes it liable for environmental damage caused by any spills from its rig , which exploded and sank , causing the pipe running from the rig to the well to snap .
+The well is leaking oil .
+BP said it had lodged a claim against the insurers but declined to comment further .
+No one was available for comment at Transocean .
+Even if BP was awarded the full $ 700 million of cover the insurers provided to Swiss - based Transocean , it would be only a small fraction of the total bill for the cleanup operation and compensating people who suffered losses due to the spill .
+Analysts at UBS put the likely cost of this at $ 12 billion , in a report issued on <TIMEX3 tid="t9" type="DATE" value="2010-05-25">Tuesday</TIMEX3> .
+-LRB-
+Reporting by Tom Bergin ; Editing by Cynthia Osterman -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

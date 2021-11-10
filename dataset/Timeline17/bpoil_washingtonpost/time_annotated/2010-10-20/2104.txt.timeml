@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+How much has BP paid out ?
+BP has paid nearly $ 2.5 billion to people and businesses affected by the oil spill .
+In <TIMEX3 tid="t1" type="DATE" value="2009">2009</TIMEX3> , gulf seafood was worth $ 629.3 million .
+SOURCES : BP , Gulf Coast Claims Facility , NOAA |
+The Washington Post - <TIMEX3 tid="t2" type="DATE" value="2010-10-20">Oct. 20</TIMEX3> , 2010
+</TimeML>

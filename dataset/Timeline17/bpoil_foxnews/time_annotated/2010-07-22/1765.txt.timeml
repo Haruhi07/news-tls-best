@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+The U.S. federal government began evacuating oil spill cleanup vessels from the Macondo well <TIMEX3 tid="t1" type="DATE" value="2010-07-22">Thursday</TIMEX3> in advance of a storm hitting the Gulf of Mexico region .
+DEVELOPING :
+Specialized boats were being moved out of the path of a tropical storm system <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">currently</TIMEX3> over the Bahamas ` ` to ensure that oil recovery operations can resume <TIMEX3 tid="t3" type="DATE" value="FUTURE_REF">as soon as possible</TIMEX3> after a storm , '' according to a statement from the Obama administration 's command center in New Orleans .
+The storm has a 50 percent chance of becoming a tropical cyclone , and will likely move westward over the Gulf of Mexico , The National Hurricane Center said .
+Some on - land equipment is also being transported to higher - lying areas to prevent the risk of water damage in the event of flooding .
+` ` There will be no reductions in effort , urgency or commitment even as we sustain the long - term relief effort , '' Rear Adm. Paul Zukunft said .
+BP 's Macondo well , <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">currently</TIMEX3> plugged from gushing oil for the first time in <TIMEX3 tid="t5" type="DURATION" value="P3M">three months</TIMEX3> , is located 50 miles off the coast of Louisiana .
+This is a developing story .
+Refresh page for updates .
+Last complete story appears below : MIAMI -- A tropical depression racing toward the Gulf of Mexico <TIMEX3 tid="t6" type="DATE" value="2010-07-22">Thursday</TIMEX3> increased pressure on BP and the U.S. government to decide whether to evacuate dozens of ships at the site of the ruptured oil well .
+The National Hurricane Center in Miami said a cluster of thunderstorms in the Bahamas formed into a tropical depression <TIMEX3 tid="t8" type="TIME" value="2010-07-22TMO">Thursday morning</TIMEX3> .
+It could reach the spill site within two and a half days , said Lexion Avila , a senior hurricane specialist .
+She said they were awaiting an evacuation order for key vessels .
+Work on plugging the well is at a standstill just days before the expected completion of a relief tunnel to permanently throttle the free - flowing crude .
+Worse yet , the government 's spill chief said foul weather could require reopening the cap that has contained the oil for <TIMEX3 tid="t10" type="DURATION" value="P1W" mod="LESS_THAN">nearly a week</TIMEX3> , allowing oil to gush into the sea again for days while engineers wait out the storm .
+` ` This is necessarily going to be a judgment call , '' said retired Coast Guard Adm. Thad Allen , who was waiting to see how the storm developed before deciding whether to order any of the ships to leave .
+BP spokesman Scott Dean said <TIMEX3 tid="t13" type="TIME" value="2010-07-22TMO">Thursday morning</TIMEX3> that no decisions had been made yet .
+Crews had planned to spend <TIMEX3 tid="t14" type="DATE" value="2010-07-21">Wednesday</TIMEX3> and <TIMEX3 tid="t15" type="DATE" value="2010-07-22">Thursday</TIMEX3> reinforcing with cement the last few feet of the relief tunnel that will be used to pump mud into the gusher and kill it once and for all .
+But BP put the task on hold and instead placed a temporary plug called a storm packer deep inside the tunnel , in case it has to be abandoned until the storm passes .
+` ` What we did n't want to do is be in the middle of an operation and potentially put the relief well at some risk , '' BP vice president Kent Wells said .
+If the work crews are evacuated , it could be <TIMEX3 tid="t16" type="DURATION" value="P2W">two weeks</TIMEX3> before they can resume the effort to kill the well .
+That would upset BP 's timetable , which called for finishing the relief tunnel by <TIMEX3 tid="t19" type="DATE" value="2010-07" mod="END">the end of July</TIMEX3> and plugging the blown - out well by <TIMEX3 tid="t20" type="DATE" value="2009-08" mod="START">early August</TIMEX3> .
+Scientists have been scrutinizing underwater video and pressure data for days , trying to determine if the capped well is holding tight or in danger of rupturing and causing an even bigger disaster .
+If the storm prevents BP from monitoring the well , the cap may simply be reopened , allowing oil to spill into the water , Allen said .
+BP and government scientists were meeting to discuss whether the cap could be monitored from shore .
+As the storm drew closer , boat captains hired by BP for skimming duty were sent home and told they would n't be going back out for <TIMEX3 tid="t25" type="DURATION" value="P5D">five</TIMEX3> or <TIMEX3 tid="t24" type="DURATION" value="P6D">six days</TIMEX3> , said Tom Ard , president of the Orange Beach Fishing Association in Alabama .
+In Florida , crews removed booms intended to protect waterways in the Panhandle from oil .
+High winds and storm surge could carry the booms into sensitive wetlands .
+Also , Shell Oil began evacuating empman for Transocean , the owner of the rig leased by BP , confirmed the existence of the reports to The Associated Press .
+` ` As part of Transocean 's unwavering commitment to safety and rigorous maintenance discipline on all our rigs , we proactively commissioned the safety survey and the rig assessment review , '' Transocean spokesman Lou Colasuonno said in an e - mail <TIMEX3 tid="t27" type="DATE" value="2010-07-22" mod="START">early Thursday</TIMEX3> .
+` ` A fair reading of those detailed third - party reviews indicates clearly that while certain areas could be enhanced , overall rig maintenance met or exceeded regulatory and industry standards and the Deepwater Horizon 's safety management was strong and a culture of safety was robust on board the rig . ''
+The ` ` Great Snowstorm '' came to an end .
+This storm produced the heaviest snowfall over the largest area of any storm studied by weather historian David Ludlum .
+Accumulations exceeded 10 inches from the Ohio Valley across much of the Atlantic coast north of Georgia .
+Washington , DC reported 13 inches with 18 inches at Baltimore , Maryland , 18 to 36 inches near Philadelphia , Pennsylvania , 15 to 20 inches at new York city , and 20 to 30 inches over southern New England .
+The second severe arctic outbreak of the year hit the United States .
+A vast anticyclone from British Columbia to Louisiana , was centered over Kansas at 30.50 inches .
+The zero line went into Texas with the temperature at Amarillo falling from 55 degrees to 1 degree below zero and Oklahoma city dropping from 62 degrees to 10 degrees .
+A <TIMEX3 tid="t28" type="DATE" value="2010-WI">winter</TIMEX3> storm produced 61 inches of snow at Rye , Colorado , and wind gusts to 100 mph in Utah .
+The storm then spread heavy snow from the Texas Panhandle to Indiana .
+Tulia , Texas received 16 inches of snow , and up to 14 inches blanketed western Oklahoma .
+A powerful Pacific storm battered the coast of southern California .
+Winds gusting to 65 mph uprooted trees in the San Diego area , while Los Angeles recorded a barometric pressure reading of 29.25 inches of mercury -- the lowest in <TIMEX3 tid="t32" type="DURATION" value="P100Y">100 years</TIMEX3> of official record keeping .
+Heavy snow fell across the Prince Williams Sound area and the Susitna Valley of southern Alaska .
+Valdez was buried under 64.9 inches of snow in <TIMEX3 tid="t35" type="DURATION" value="P2D" mod="LESS_THAN">less than two days</TIMEX3> , including a record 47.5 inches in <TIMEX3 tid="t37" type="DURATION" value="P1D">24 hours</TIMEX3> .
+Up to 44 inches of snow was reported in the Susitna Valley .
+The heavy snow sank a half dozen vessels in the harbor .
+Bitterly cold air prevailed across the great lakes and the northeastern U.S. Alpena , Michigan dipped to 28 degrees below zero to tie its record low for <TIMEX3 tid="t38" type="DATE" value="2010-01">January</TIMEX3> .
+Rochester , New York plunged to 17 degrees below zero for a new record low temperature for <TIMEX3 tid="t39" type="DATE" value="2010-01">January</TIMEX3> .
+Boston , Massachusetts mean temperature for the day was only 2 degrees -- the city 's coldest day in <TIMEX3 tid="t43" type="DURATION" value="P26Y">26 years</TIMEX3> .
+Watertown , New York was the cold spot in the nation , with a morning low of 43 degrees below zero .
+Williston , North Dakota recorded 12.6 inches of snow in <TIMEX3 tid="t47" type="DURATION" value="P1D">24 hour</TIMEX3> for its greatest <TIMEX3 tid="t48" type="DURATION" value="P1D">24 hour</TIMEX3> snowfall on record .
+The temperature plunged to 50 degrees below zero at Big Black River , Maine for the state 's coldest temperature on record .
+</TimeML>

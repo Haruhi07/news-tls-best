@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+The fate of the gushing Gulf of Mexico oil well , and of deep - water oil drilling in general , remained very much unresolved <TIMEX3 tid="t1" type="DATE" value="2010-07-12">Monday</TIMEX3> , even as BP engineers finally installed a massive new sealing cap that could potentially enable them to shut down the well permanently .
+The drama in the depths off the coast of Louisiana unfolded as , in Washington , Interior Secretary Ken Salazar issued a new moratorium on offshore drilling , trying a new tack to get around an injunction issued <TIMEX3 tid="t2" type="DATE" value="PAST_REF">recently</TIMEX3> by a New Orleans federal judge .
+Instead of banning offshore drilling based on water depth , he barred drilling by the types of rigs and equipment used in deep water .
+An Interior Department spokesman said that none of the 33 rigs whose work was interrupted in <TIMEX3 tid="t3" type="DATE" value="2010-05">May</TIMEX3> would be able to resume their activity .
+` ` I am basing my decision on evidence that grows <TIMEX3 tid="t4" type="SET" value="P1D" quant="EVERY">every day</TIMEX3> of the industry 's inability in the deep water to contain a catastrophic blowout , respond to an oil spill and to operate safely , '' Salazar said .
+BP and its oil - industry allies hope that in the days ahead they will gain the upper hand on the Macondo well , drilled by the Deepwater Horizon rig and spewing oil since the fatal blowout <TIMEX3 tid="t6" type="DATE" value="2010-04-20">April 20</TIMEX3> .
+If all goes perfectly , the well could stop polluting the gulf before it is plugged at its base with mud and concrete .
+On <TIMEX3 tid="t9" type="DATE" value="2010-07-10">Saturday</TIMEX3> , BP yanked away the ` ` top hat '' containment cap that had been lopsidedly parked on the well since <TIMEX3 tid="t8" type="DATE" value="2010-06" mod="START">early last month</TIMEX3> .
+<TIMEX3 tid="t12" type="DURATION" value="P2D" mod="MORE_THAN">Over the next 48 hours</TIMEX3> , technicians used robotic submersibles and hardware lowered from the surface to reconfigure the well 's outlet .
+Instead of the jagged hole of the sheared - off riser pipe , the well was fitted with a new , simple chimney - like opening , which <TIMEX3 tid="t13" type="DATE" value="2010-07-12">Monday</TIMEX3> spurted a plume of oil made frothy by injected chemical dispersants .
+The new chimney enabled BP to deploy a huge structure known as the ` ` 3 ram capping stack . ''
+It has three valves that can be used to close the flow of oil .
+First it had to be installed -- no slam - dunk in the cold , dark , highly pressurized deep - sea environment , where ice - like methane hydrates can quickly form and clog openings .
+With the new cap in place , oil and gas still flow out a perforated pipe at the top of the stack .
+Next will come the critical ` ` integrity test . ''
+It 's really a pressure test .
+How the well performs in the test will shape everything that follows .
+Before the test begins , BP will stop collecting oil from the well .
+Although the top hat , which funneled oil to a surface ship , is no longer in the picture , there is still oil flowing to a surface rig called the Q4000 via a line attached to the blowout preventer .
+The Q4000 has been burning about 8,000 barrels -LRB- 336,000 gallons -RRB- of oil <TIMEX3 tid="t15" type="DURATION" value="P1D">a day</TIMEX3> .
+On <TIMEX3 tid="t16" type="DATE" value="2010-07-12">Monday</TIMEX3> , a new ship , the Helix Producer , began siphoning oil through a different line connected to the blowout preventer .
+That ship potentially could capture up to 25,000 barrels <TIMEX3 tid="t18" type="DURATION" value="P1D">a day</TIMEX3> if ramped to full production .
+To test the well 's integrity , BP will gradually shut down the flow of oil and gas until the flow stops -- nothing out the top , nothing to surface ships .
+BP engineers and government scientists will scrutinize the pressure building in the well .
+` ` Higher pressures are good news .
+They indicate that the well bore has integrity , '' said Doug Suttles , BP 's chief operating officer .
+If the pressure does n't rise as expected , that will suggest that the well has been damaged below the seafloor .
+Suttles played down the possibility that the test could damage the well and cause leaks into the surrounding rock formation .
+But clearly these will be anxious moments in the gulf .
+` ` The last thing you want to happen is have the well blow out and collapse around the wellhead , '' said Greg McCormack , director of the Petroleum Extension Service at the University of Texas .
+` ` When that happens , you have a heck of a time killing that well . ''
+` ` You can think of it as this great big faucet that we 're going to slowly crank down and turn off the flow and then check the pressure over a period of time , '' BP spokesman Steve Rinehart said <TIMEX3 tid="t19" type="DATE" value="2010-07-12">Monday</TIMEX3> .
+The pressure readings will offer clues to what 's happening out of sight , below the gulf floor , in the well bore , Rinehart said .
+` ` Will it hold ?
+Or will it leak out ? ''
+If the pressure test suggests that the well has n't been compromised , BP will leave the well ` ` shut in . ''
+That wo n't mean the well is dead .
+The killing of the well is still the job of the relief well .
+About <TIMEX3 tid="t21" type="DATE" value="2010-07" mod="END">the end of this month</TIMEX3> , Suttles said , BP will intercept the Macondo well and attempt to kill it with heavy mud and then concrete .
+The deep - sea activity and Washington political pronouncements formed a backdrop for the first public hearing by the presidential commission investigating the spill .
+Oystermen and sports anglers described businesses in peril .
+A senior Coast Guard official testified that tar balls will wash up for ` ` weeks , if not months . ''
+Some witnesses pleaded for the commission to take a stand on the drilling moratorium .
+Among the most vocal were representatives of companies that service the oil industry .
+They contended that jobs will be lost permanently and that rigs will leave the region .
+Larry Dickerson , chief executive of Diamond Offshore Drilling , said two deep - water rigs that had employed 150 people will move to Egypt and West Africa rather than wait out the ban .
+He speculated that the cause of the Deepwater Horizon disaster will be found to be ` ` reckless operating mistakes , '' probably tied to pressure to hasten drilling .
+His employees , Dickerson said , talk about the federal bailout of the auto industry : ` ` They ask how come they get bailed out and we get driven out ? ''
+The commission must deliver a report to President Obama <TIMEX3 tid="t23" type="DURATION" value="P6M">six months</TIMEX3> from <TIMEX3 tid="t22" type="DATE" value="2010-07-12">Monday</TIMEX3> .
+Flaherty reported from New Orleans .
+Staff writer Steven Mufson contributed to this report . ''
+</TimeML>

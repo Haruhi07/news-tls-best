@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t3" type="DATE" value="2012-02-03">03 February 12</TIMEX3> 17:03 GMT Russia 's deputy foreign minister says his country ` ` can not support '' a draft United Nations Security Council resolution on Syria .
+According to the Interfax news agency , Gennady Gatilov said that despite changes that took some of its concerns into account , Russia could not support the text in its <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">current</TIMEX3> form .
+` ` This is not enough for us , '' he said .
+The resolution , drafted by European and Arab countries , endorses an Arab League plan for Syria .
+That league 's plan calls on Mr Assad to hand over power to a deputy to oversee a political transition .
+The watered - down UN text drops explicit calls for the president to step aside , which were included in an earlier draft .
+However the document still ` ` fully supports '' what it calls the league 's decision ` ` to facilitate a political transition '' .
+Western diplomats say this means that it still clearly backs the substance of the Arab plan .
+It is not clear whether Mr Gatilov 's comments mean that Moscow , which has a permanent seat on the UN Security Council , would veto the resolution or abstain from voting .
+Russia , a long - standing ally of Syrian President Bashar al - Assad , has opposed any suggestion that the resolution could be seen as backing for regime change in Damascus , and demanded guarantees that it would not lead to outside military intervention .
+Moscow has continued to supply weapons to Syria despite the uprising there .
+BBC UN correspondent Barbara Plett says a senior Western official there had expressed cautious optimism that Russia had received the assurances it wanted in order not to veto the resolution .
+Negotiations between diplomats at the UN headquarters in New York <TIMEX3 tid="t5" type="DURATION" value="PXD" mod="MORE_THAN">over the past few days</TIMEX3> were described as ` ` a roller - coaster '' by Russia 's ambassador , Vitaly Churkin .
+In Syria itself , 18 people were killed in clashes across the country on <TIMEX3 tid="t6" type="DATE" value="2012-02-03">Friday</TIMEX3> , according to activists .
+Thousands of people demonstrated in Hama to mark <TIMEX3 tid="t9" type="DURATION" value="P30Y">30 years</TIMEX3> since the country 's worst massacre of <TIMEX3 tid="t7" type="DATE" value="PAST_REF">recent</TIMEX3> times - when more than 10,000 people were killed in the city .
+Hafez al - Assad , the father of the <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">current</TIMEX3> leader Bashar , sent the troops there in <TIMEX3 tid="t10" type="DATE" value="1982">1982</TIMEX3> to put down a revolt by the outlawed Muslim Brotherhood .
+Syria has been convulsed by nationwide protests against Bashar al - Assad 's regime for <TIMEX3 tid="t13" type="DURATION" value="P1Y" mod="LESS_THAN">almost a year</TIMEX3> .
+The United Nations stopped estimating the death toll from the uprising after it passed 5,400 in <TIMEX3 tid="t15" type="DATE" value="2012-01">January</TIMEX3> , saying it was too difficult to confirm numbers .
+The Syrian government says at least 2,000 members of its security forces have been killed combating ` ` armed gangs and terrorists '' .
+</TimeML>

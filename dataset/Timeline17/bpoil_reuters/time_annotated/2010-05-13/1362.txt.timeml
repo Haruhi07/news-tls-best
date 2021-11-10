@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+OTTAWA | Thu <TIMEX3 tid="t3" type="DATE" value="2010-05-13">May 13 , 2010</TIMEX3> <TIMEX3 tid="t6" type="TIME" value="2010-05-13T15:28">3:28 pm</TIMEX3> EDT OTTAWA -LRB-
+Reuters -RRB- - Exasperated Canadian legislators grilled the head of BP Plc Canadian unit on <TIMEX3 tid="t5" type="DATE" value="2010-05-13">Thursday</TIMEX3> , concerned about the risks of the company 's plans to drill in Arctic waters after the catastrophic Gulf of Mexico oil spill .
+
+But Anne Drinkwater , president of BP Canada , offered few answers at a hearing at Parliament 's Standing Committee on Natural Resources on the safety of drilling in the Far North .
+Drinkwater , who has also run BP operations in Indonesia , Angola and Norway , declined to answer technical questions and said she had not compared Canadian and U.S. drilling regulations , straining the credulity of some on the committee .
+` ` You 'd think coming to a hearing like this that British Petroleum would have as many answers as possible to assure the Canadian public .
+We got nothing <TIMEX3 tid="t7" type="DATE" value="2010-05-13">today</TIMEX3> from them , '' said Nathan Cullen of the left - leaning New Democrats .
+` ` I was very disappointed .
+I think British Petroleum is going to have to do a lot better job if they want to drill in Canadian waters , '' Cullen told reporters afterward .
+Larry Bagnell of the Liberals , after asking Drinkwater to compare regulations in Canada and the United States , said : ` ` I thought she did n't have answers to a lot of questions ...
+I was asking for a very simple answer . ''
+Critics say an oil blowout in the Canadian Arctic would be much worse than the <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">current</TIMEX3> Gulf disaster , given the ice , severe weather conditions and the lack of infrastructure in one of the world 's most remote regions .
+In <TIMEX3 tid="t9" type="DATE" value="2008">2008</TIMEX3> , BP paid C$ 1.2 billion -LRB- $ 1.8 billion -RRB- for rights to explore three parcels in Canada 's Beaufort Sea , north of the Arctic Circle .
+It has yet to announce plans to drill in the region but shortly before the U.S. disaster , BP and other oil companies urged Canadian regulators to drop a requirement stipulating that companies operating in the Arctic had to drill relief wells in the same season as the primary well .
+Cullen argued the companies had made this request because drilling a relief well within the required time limit would be too expensive , given the difficult Arctic conditions .
+` ` It 's not a question of cost , '' said Drinkwater .
+` ` Your submission does say it 's a question of cost .
+...
+You cite money because you 're concerned about money , '' retorted Cullen , reading from a BP document filed with the NEB , then listing <TIMEX3 tid="t10" type="DATE" value="PAST_REF">recent</TIMEX3> disasters BP had been involved in .
+Drinkwater -- who said BP was not rejecting the option of a relief well -- declined to answer reporters ' questions following the hearing .
+Canadian governments and regulators are reassessing the country 's preparedness for an offshore disaster following the <TIMEX3 tid="t12" type="DATE" value="2011-04-20">April 20</TIMEX3> explosion of Transocean Ltd 's Deepwater Horizon drilling rig .
+The explosion killed 11 workers and triggered what could prove to be the worst U.S. oil spill if the crude keeps spewing unchecked into the Gulf .
+The National Energy Board , Canada 's federal oil and gas regulator , launched a review of Arctic safety and environmental drilling requirements <TIMEX3 tid="t13" type="DATE" value="2010-W19">this week</TIMEX3> and canceled hearings into the relief
+well issue .
+NEB Chief Executive Gaetan Caron said it was too early to say what the review might conclude .
+Asked whether a similar accident could happen in the Arctic , Caron replied : ` ` No safety regulator can possibly say that an accident will never happen . ''
+Provincial governments are also reviewing offshore drilling regulations .
+The government of Nova Scotia on <TIMEX3 tid="t16" type="DATE" value="2010-05-13">Thursday</TIMEX3> extended a moratorium on oil and gas exploration on the Georges Bank , an important fishing region , by <TIMEX3 tid="t17" type="DURATION" value="P3Y">three years</TIMEX3> to <TIMEX3 tid="t15" type="DATE" value="2015" mod="END">the end of 2015</TIMEX3> .
+The government of Newfoundland is also launching a review of offshore safety practices , though it said it is satisfied with the <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">current</TIMEX3> level of environmental protection practiced by the industry .
+Indeed , Chevron Corp <TIMEX3 tid="t20" type="DATE" value="2010-W19" mod="START">earlier this week</TIMEX3> began drilling a deepwater well in the Orphan basin off the province .
+The Atlantic off Newfoundland is home to Canada 's three producing oil projects .
+</TimeML>

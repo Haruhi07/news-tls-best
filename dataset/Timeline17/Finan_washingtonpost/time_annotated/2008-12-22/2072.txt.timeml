@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t1" type="DURATION" value="P1M">One month</TIMEX3> after world leaders vowed at a Washington summit to combat the global financial crisis collectively and adhere to free - market principles , a number of nations are putting up roadblocks .
+GRAPHIC :
+Richard Furno , The Washington Post <TIMEX3 tid="t3" type="DATE" value="2008-12-22">December 22</TIMEX3> , 2008
+</TimeML>

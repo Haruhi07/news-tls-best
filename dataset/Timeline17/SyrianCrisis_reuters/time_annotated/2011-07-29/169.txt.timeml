@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON | Fri <TIMEX3 tid="t2" type="DATE" value="2011-07-29">Jul 29 , 2011</TIMEX3> <TIMEX3 tid="t4" type="TIME" value="2011-07-29T11:36">11:36 am</TIMEX3> BST LONDON -LRB-
+Reuters -RRB- - British fund managers are heading to domestic stocks and bonds as mounting worries about sovereign debt in the euro zone and United States add to the UK 's allure as a safe haven in a volatile world , a Reuters poll shows .
+A <TIMEX3 tid="t8" type="SET" value="XXXX-XX">monthly</TIMEX3> survey of 14 investment managers found the average allocation in global equity portfolios to the UK increased 3 percentage points to 15.6 percent in <TIMEX3 tid="t5" type="DATE" value="2011-07">July</TIMEX3> from <TIMEX3 tid="t6" type="DATE" value="2011-06">a month earlier</TIMEX3> .
+Allocations to the euro zone and the United States , where fears of possible defaults on creaking sovereign debt burdens have rattled markets , both fell during the month .
+The average exposure to U.S. equities slid to 41.3 percent , from 42.1 percent , while euro zone allocations were at 14.9 percent , from 16.3 percent <TIMEX3 tid="t10" type="DATE" value="2011-05">a month earlier</TIMEX3> .
+Performance figures from Lipper <TIMEX3 tid="t18" type="DATE" value="2011-07" mod="START">earlier this month</TIMEX3> showed macro - economic shocks -- from the euro zone debt crisis to <TIMEX3 tid="t16" type="DATE" value="2011-05">May</TIMEX3> 's commodities sell - off -- had helped lift the performance of domestically focused funds during <TIMEX3 tid="t13" type="DATE" value="2011-H1">the first half of 2011</TIMEX3> .
+An annual survey published <TIMEX3 tid="t21" type="DATE" value="2011-W30">this week</TIMEX3> by British funds lobby group the IMA shows equity allocations to the UK have been declining steadily in <TIMEX3 tid="t22" type="DATE" value="PAST_REF">recent years</TIMEX3> , from around 59 percent in <TIMEX3 tid="t19" type="DATE" value="2006">2006</TIMEX3> to 42.6 percent in <TIMEX3 tid="t20" type="DATE" value="2010">2010</TIMEX3> .
+Several of the managers and chief investment officers surveyed by Reuters said a <TIMEX3 tid="t25" type="DATE" value="PAST_REF">recent</TIMEX3> deal to make private investors shoulder some of the burden of bailing out Greece to stop contagion is unlikely to resolve the crisis conclusively .
+` ` Crises , packages and tactical rallies will follow -- ultimately radical , comprehensive , broad scale solutions will be needed in large size , '' said Andrew Milligan , head of global strategy at Standard Life Investments -LRB- SL .
+` ` Remain moderately light in the euro and certain peripheral bonds , buy export orientated equities , but in particular prepare portfolios for considerable future volatility . ''
+Shares in British companies , which aggressively cut costs in readiness for the economic downturn , have emerged as an unlikely safe haven in <TIMEX3 tid="t26" type="DATE" value="PAST_REF">recent weeks</TIMEX3> on account of strong balance sheets and resilient earnings .
+But UK fixed income is also popular , the poll shows , with allocations to Britain in global bond portfolios rising to 37.1 percent from 34.4 percent <TIMEX3 tid="t29" type="DATE" value="2011-04">a month earlier</TIMEX3> .
+The poll echoes sentiment on currency markets in which Britain 's growing appeal as an island of relative fiscal health in spite of a still sluggish economy has driven sterling to <TIMEX3 tid="t32" type="DURATION" value="P6W">six week</TIMEX3> highs against the dollar .
+Meanwhile , allocations in balanced portfolios by asset class remained broadly unchanged from <TIMEX3 tid="t33" type="DATE" value="2011-03">a month earlier</TIMEX3> with average exposure to equities at 52.6 percent and bonds at 23.5 percent .
+Cash holdings were at 3.7 percent with 2.6 percent in property and 17.6 percent in alternative investments .
+` ` This is not a time for the faint of heart , but bravery will be rewarded , '' said Lee Robertson , Chief Executive of Investment Quorum , a wealth manager based in London .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

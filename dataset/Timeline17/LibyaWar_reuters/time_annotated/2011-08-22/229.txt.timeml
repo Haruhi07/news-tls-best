@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+An employee counts money at a fuel station in Kolkata <TIMEX3 tid="t3" type="DATE" value="2011-04-07">April 7 , 2011</TIMEX3> .
+NEW YORK | Mon <TIMEX3 tid="t6" type="DATE" value="2011-08-22">Aug 22 , 2011</TIMEX3> <TIMEX3 tid="t9" type="TIME" value="2011-08-22T16:46">4:46 pm</TIMEX3> BST NEW YORK -LRB-
+Reuters -RRB- - Brent crude fell more than 1 percent on <TIMEX3 tid="t8" type="DATE" value="2011-08-22">Monday</TIMEX3> as investors anticipated a resumption of oil exports from the OPEC - member Libya , where rebels moved to control most of Tripoli and an end to the 6 - month - old civil war seemed close .
+Libyan government tanks and snipers put up scattered resistance in Tripoli after rebels swept into the heart of the capital , cheered on by crowds hailing the end of Muammar Gaddafi 's <TIMEX3 tid="t11" type="DURATION" value="P42Y">42 years</TIMEX3> in power .
+` ` A resolution of the conflict is modestly bearish for crude oil prices , but it is less likely that we will get a $ 10 - $ 20 drop in price of crude , '' Jason Schenker , president at Prestige Economics LLC in Austin , Texas , said in a note .
+` ` While the fundamentals of the conflict resolution appear at first glance to be only bearish , it could turn out to be quite bullish , as it could engender further conflict in the region , '' Schenker said .
+Brent losses were limited by the dollar 's weakness .
+DXY and the greenback 's slip and a bounce by equities on Wall Street helped lift U.S. crude prices , for both the expiring front - month <TIMEX3 tid="t14" type="DATE" value="2010-09">September</TIMEX3> and <TIMEX3 tid="t15" type="DATE" value="2010-10">October</TIMEX3> contracts .
+The euro edged up , helped by a rise in European shares , while the dollar weakened on speculation that the Federal Reserve may show some indication <TIMEX3 tid="t17" type="DATE" value="2011-W34">this week</TIMEX3> about the need to take additional measures to support an ailing economy .
+ICE Brent <TIMEX3 tid="t20" type="DATE" value="2010-10">October</TIMEX3> crude fell $ 1.25 to $ 107.37 a barrel by <TIMEX3 tid="t21" type="TIME" value="2011-08-22T11:09">11:09 a.m.</TIMEX3> -LRB- <TIMEX3 tid="t22" type="TIME" value="2011-08-22T16:09">4:09 p.m.</TIMEX3>
+BST -RRB- , having recover from a $ 105.15 intraday low .
+U.S. expiring <TIMEX3 tid="t23" type="DATE" value="2010-09">September</TIMEX3> crude rose 84 cents to $ 83.10 a barrel , having reached as high as $ 84.30 .
+More actively traded <TIMEX3 tid="t24" type="DATE" value="2010-10">October</TIMEX3> crude rose 79 cents to $ 83.20 a barrel .
+Brent 's premium to U.S. crude narrowed to $ 24.05 a barrel , after reaching a record $ 26.69 on <TIMEX3 tid="t25" type="DATE" value="2011-08-19">Friday</TIMEX3> .
+Part of U.S. crude divergence from Brent is because traders are starting to bail out of their Brent\/U .
+S. spread positions , said Dominick Chirichella of the Energy Management Institute .
+Speculators raised slightly their long exposure to Brent in the week to <TIMEX3 tid="t27" type="DATE" value="2011-08-16">August 16</TIMEX3> , data from the Intercontinental Exchange showed .
+Selling by ` ` soft longs '' who increased exposure <TIMEX3 tid="t28" type="DATE" value="2011-W33">last week</TIMEX3> and profit taking by traders with long - held positions could put more short - term pressure on Brent , according to brokers .
+Libya pumped around 1.6 million barrels per day -LRB- bpd -RRB- , nearly 2 percent of global supply , before the war cut its output .
+Most of Libya 's high - quality crude flowed to European refiners .
+After Libyan exports ceased , tighter supply drove Brent to a two - year high of $ 127.02 in <TIMEX3 tid="t29" type="DATE" value="2011-04">April</TIMEX3> .
+Production fell to almost nothing during the conflict but technical staff from Italy 's oil and gas major ENI -LRB- ENI .
+MI -RRB- have already arrived in Libya to look into restarting oil facilities .
+Some Libyan output will be able to restart in <TIMEX3 tid="t33" type="DURATION" value="PXM">a few months</TIMEX3> , but it will take as long as <TIMEX3 tid="t32" type="DURATION" value="P18M">18 months</TIMEX3> to reach the prewar level , Libya 's former top oil official Shokri Ghanem said on <TIMEX3 tid="t30" type="DATE" value="2011-08-22">Monday</TIMEX3> .
+</TimeML>

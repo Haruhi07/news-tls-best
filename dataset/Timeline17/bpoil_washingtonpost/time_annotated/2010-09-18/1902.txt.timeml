@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+BP Macondo oil well successfully capped Two offshore oil platform rigs in Port Fourchon , La. , shown under construction in <TIMEX3 tid="t1" type="DATE" value="2010-06">June</TIMEX3> as cleanup continued on the oil spill .
+-LRB- Saul Loeb -RRB- <TIMEX3 tid="t6" type="DATE" value="2010-09-18">Saturday</TIMEX3> , <TIMEX3 tid="t4" type="DATE" value="2010-09-18">September 18 , 2010</TIMEX3> ; <TIMEX3 tid="t7" type="TIME" value="2010-09-18T01:48">1:48 AM</TIMEX3> At last , the well is dead .
+BP 's Macondo oil well is physically incapable of leaking another drop , according to the head of the U.S. government 's response effort .
+Retired Coast Guard Adm.
+Thad W. Allen said <TIMEX3 tid="t8" type="DATE" value="2010-09-17">Friday</TIMEX3> that this discovery was made after a ` ` relief well '' finally broke through into the Macondo well more than 17,000 feet below the Gulf of Mexico floor .
+` ` The well presents no further threat of discharge , '' Allen said .
+But just to be sure , BP plugged it a little bit more .
+<TIMEX3 tid="t12" type="TIME" value="2010-09-17T16:00" mod="APPROX">About 4 p.m. Friday</TIMEX3> , authorities began the long - awaited - and <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">now</TIMEX3> , rather anti - climactic - ` ` bottom kill , '' filling in that empty space with cement .
+The cement should be set by <TIMEX3 tid="t14" type="TIME" value="2010-09-18TAF">Saturday afternoon</TIMEX3> , Allen said , and a final pressure test will allow the declaration of death .
+After the American people spent <TIMEX3 tid="t15" type="DATE" value="2010-SU">the summer</TIMEX3> watching the fearsome oil well spill , Allen said this last step was as much for our benefit as it was for the gulf 's .
+He said the intent was ` ` psychologically , for people in the gulf to understand that there is a stake in the heart of this beast . ''
+BP 's well spent <TIMEX3 tid="t16" type="DURATION" value="P3M" mod="APPROX">about three months</TIMEX3> repelling all attempts to kill it - eventually spilling 4.9 million barrels , or 205.8 million gallons , into the gulf .
+Then , it spent <TIMEX3 tid="t22" type="DURATION" value="P2M">the next two months</TIMEX3> dying : The well was sealed off <TIMEX3 tid="t20" type="DATE" value="2010-07-15">July 15</TIMEX3> , and cement was forced down its central pipe in a so - called ` ` static kill '' in <TIMEX3 tid="t19" type="DATE" value="2010-08" mod="START">early August</TIMEX3> .
+Through it all , a rig in the gulf was slowly drilling down to provide the final nail in its coffin .
+The relief well 's progress was slowed by passing storms - which made the gulf too choppy - but also by the depth of its target .
+Drilling began on the gulf floor a mile down and continued for another 2.4 miles into the earth .
+Finally , on <TIMEX3 tid="t24" type="TIME" value="2010-09-16TAF">Thursday afternoon</TIMEX3> , the drill hit its target , a seven - inch shaft .
+It opened a hole into the space between the shaft 's wall and the outer layer of pipe .
+There was no camera recording it , but engineers could learn about the outer space around the Macondo well pipe by studying fluid that rose from the other well 's drill pipe .
+When no oil came up , they knew that the Macondo well was plugged at its source .
+That was a good thing for the gulf .
+
+But it could also be a good thing for BP 's legal case , because it could be a signal that the blowout was not caused by a problem with BP 's design for the well 's pipes .
+</TimeML>

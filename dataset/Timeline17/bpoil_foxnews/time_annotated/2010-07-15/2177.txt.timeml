@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+The old idiom ` ` in like a lion , out like a lamb '' might need some revising in <TIMEX3 tid="t1" type="DATE" value="2011">2011</TIMEX3> .
+Based on a <TIMEX3 tid="t4" type="DATE" value="PAST_REF">recent</TIMEX3> study by the University of Hawaii , <TIMEX3 tid="t5" type="DATE" value="2011-03">March 2011</TIMEX3> will go out more like a sea monster -- thanks to the BP oil spill .
+As BP abruptly halts efforts to cap the open Gulf Coast rig and drill a relief well , <TIMEX3 tid="t8" type="DATE" value="2011-SP">spring 2011</TIMEX3> bodes badly .
+According to a simulation conducted by the scientists at the University of Hawaii at Manoa , oil from the Deepwater Horizon leak could reach Georgia , the Carolinas , and even Europe by day 360 of the spill .
+<TIMEX3 tid="t10" type="DATE" value="2010-07-15">July 15</TIMEX3> marks day 87 .
+The study , titled ` ` The long - term fate of the oil spill in the Atlantic , '' uses a high - resolution ocean flow simulator called Ocean General Circulation Model for the Earth Simulator -LRB-
+OFES -RRB- .
+Researchers based their analysis on the fate of 8 million buoyant particles -- which are representative of the oil spilled .
+` ` The paths of the particles were calculated in eight typical years <TIMEX3 tid="t13" type="DURATION" value="P360D" mod="MORE_THAN">over 360 days</TIMEX3> from the beginning of the spill ...
+From these eight typical years , five were selected to create an animation for which the calculated extent of the spill best matches <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">current</TIMEX3> observational estimates , '' said Fabian Schloesser , graduate assistant in the Department of Oceanography .
+In addition , researchers used the following assumptions : Within <TIMEX3 tid="t23" type="DURATION" value="P150D">150 days</TIMEX3> of the <TIMEX3 tid="t18" type="DATE" value="2010-04-20">April 20</TIMEX3> spill -LRB- that is , by <TIMEX3 tid="t15" type="DATE" value="2010-09">September</TIMEX3> -RRB- , BP will have stopped the oil flow ; an estimated 50,000 barrels of oil from the Deepwater Horizon rig will leak <TIMEX3 tid="t20" type="SET" value="P1D" quant="EACH">each day</TIMEX3> for those <TIMEX3 tid="t24" type="DURATION" value="P150D">150 days</TIMEX3> ; northeasterly winds in <TIMEX3 tid="t16" type="DATE" value="2010-10">October</TIMEX3> and <TIMEX3 tid="t17" type="DATE" value="2010-11">November</TIMEX3> will push the oil east along the U.S. coastline ; and 20 % of the oil must pass through a narrow channel of the Florida <TIMEX3 tid="t19" type="DATE" value="PRESENT_REF">Current</TIMEX3> , which will filter the oil via a bottleneck .
+The purpose of the study is to ` ` help guide research and mitigation efforts , '' according to a press release from the school .
+Axel Timmermann , professor of Oceanography , and Oliver Elison Timm also worked on the simulation .
+Both are from the SOEST International Pacific Research Center , which is sponsored by the Japan Agency for Marine - Earth Science and Technology -LRB- JAMSTEC -RRB- , NASA and NOAA .
+<TIMEX3 tid="t26" type="TIME" value="2010-07-14TMO">Wednesday morning</TIMEX3> , BP halted testing of a new temporary well cap following a federal call to re - evaluate the testing procedure .
+On <TIMEX3 tid="t27" type="DATE" value="2010-07-12">Monday</TIMEX3> , BP installed the 75 - ton cap to slow the flow of oil in the Gulf of Mexico until a permanent fix with cement and mud could take place .
+On <TIMEX3 tid="t28" type="DATE" value="2010-07-13">Tuesday</TIMEX3> , BP began to close the cap 's three valves to analyze the effect on internal pressure and check for leaks surrounding the rig .
+</TimeML>

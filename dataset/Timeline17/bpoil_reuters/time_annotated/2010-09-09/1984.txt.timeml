@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LONDON | Thu <TIMEX3 tid="t3" type="DATE" value="2010-09-09">Sep 9 , 2010</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2010-09-09T07:46">7:46 am</TIMEX3> EDT LONDON -LRB-
+Reuters -RRB- - British Members of Parliament -LRB- MPs -RRB- will <TIMEX3 tid="t2" type="DATE" value="2010-W37">next week</TIMEX3> grill outgoing BP Plc Chief Executive Tony Hayward , as part of an investigation into risks around deepwater drilling in the North Sea .
+BP 's Gulf of Mexico oil spill has raised concerns globally about the dangers of drilling in ever - deeper waters .
+North Sea producers are fighting to convince the British government that the UK does not need a moratorium on drilling , like the one imposed in the U.S. by President Barack Obama , pending a review of the cause of the disaster .
+Norway has halted new offshore projects until the causes of the rig blast that led to the BP oil spill are known .
+
+A statement from the Commons Energy and Climate Change Select Committee on <TIMEX3 tid="t7" type="DATE" value="2010-09-09">Thursday</TIMEX3> said Hayward would testify on <TIMEX3 tid="t8" type="DATE" value="2010-09-15">Wednesday</TIMEX3> <TIMEX3 tid="t6" type="DATE" value="2010-W37">next week</TIMEX3> and be accompanied by BP 's North Sea boss Bernard Looney and Mark Bly , BP 's head of safety .
+On <TIMEX3 tid="t10" type="DATE" value="2010-09-08">Wednesday</TIMEX3> <TIMEX3 tid="t9" type="DATE" value="2010-W36">this week</TIMEX3> , Bly presented BP 's internal probe into the accident which laid most of the blame for the accident on BP 's contractors , driller Transocean and Halliburton , the company which cemented the well .
+The companies rejected the accusations .
+Transocean 's North Sea boss Paul King appeared before the Commons committee on <TIMEX3 tid="t11" type="DATE" value="2010-09-07">Tuesday</TIMEX3> and was challenged about a report from the UK safety regulator in which employees alleged they had been pressured not to report safety concerns .
+While the committee said it would question Hayward about the implications of the Gulf of Mexico oil spill for deepwater drilling in the UK , the agenda did not specifically include plans to discuss the causes of the spill itself .
+Hayward is due to be replaced <TIMEX3 tid="t12" type="DATE" value="2010-10">next month</TIMEX3> by Bob Dudley , who is <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">currently</TIMEX3> leading the BP cleanup effort in the Gulf .
+-LRB-
+Reporting by Tom Bergin ; Editing by Hans Peters -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

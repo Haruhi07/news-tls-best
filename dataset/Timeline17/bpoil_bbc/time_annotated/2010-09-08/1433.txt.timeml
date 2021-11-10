@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+BP spreads blame over oil spill Eleven people were killed and 17 people were injured in the explosion A ` ` sequence of failures involving a number of different parties '' was to blame for the Deepwater Horizon oil spill in the Gulf of Mexico , BP says .
+An investigation carried out by BP said it was responsible in part for the disaster , but it also blamed two other companies working on the well .
+However both firms criticised the report .
+BP faces billions of dollars worth of legal claims for compensation over the spill , the worst in <TIMEX3 tid="t1" type="DATE" value="PAST_REF">recent</TIMEX3> US history .
+An estimated 4.9 m barrels of oil leaked into the Gulf after the blast .
+The well was capped on <TIMEX3 tid="t3" type="DATE" value="2010-07-15">15 July</TIMEX3> , and an operation to permanently seal it is due to take place in <TIMEX3 tid="t4" type="DURATION" value="PXW">the next few weeks</TIMEX3> .
+In the 193 - page internal report released on its website , BP said that decisions made by ` ` multiple companies and work teams '' contributed to the accident , which it said arose from ` ` a complex and interlinked series of mechanical failures , human judgements , engineering design , operational implementation and team interfaces '' .
+BP was leasing the Deepwater Horizon rig from Transocean , and its cement contractor was Halliburton .
+The BP report was critical of the processes and actions of teams from both firms .
+However , in a statement issued after the report , Transocean dismissed BP 's criticism , calling the company 's own well design ` ` fatally flawed '' .
+` ` In both its design and construction , BP made a series of cost - saving decisions that increased risk - in some cases , severely , '' the Associated Press reported Transocean as saying .
+Halliburton also criticised the BP report , saying that it had ` ` a number of substantial omissions and inaccuracies '' .
+` ` Halliburton remains confident that all the work it performed with respect to the Macondo well was completed in accordance with BP 's specifications , '' Cathy Mann , Halliburn 's director of corporate affairs , said in a statement .
+The report , conducted by BP 's head of safety , Mark Bly , highlighted eight key failures that , in combination , led to the explosion .
+BP said that both BP and Transocean staff incorrectly interpreted a safety test which should have flagged up risks of a blowout .
+It is in BP 's recommendations for change that many will see the real story '' ` ` Over a 40 - minute period , the Transocean rig crew failed to recognize and act on the influx of hydrocarbons into the well '' which eventually caused the explosion .
+BP criticised the cementing of the well - carried out by Halliburton - and repeated previous criticism of the blowout preventer .
+Among the other findings , the report said : There were ` ` no indications '' that Transocean had tested intervention systems at the surface , ` ` as was required by Transocean policy '' , before they were deployed on the well ` ` Improved engineering rigor , cement testing and communication of risk '' by Halliburton could have identified flaws in cement design and testing , quality assurance and risk assessment
+A Transocean rig crew and a team described as ` ` mudloggers '' working for Halliburton Sperry Sun may have been distracted by what are described as ` ` end - of - well activities '' and , as a result , important monitoring was not carried out for <TIMEX3 tid="t11" type="DURATION" value="PT7H" mod="MORE_THAN">more than seven hours</TIMEX3> Crew may have had more time to respond before the explosion if they had diverted escaping fluids overboard .
+` ` To put it simply , there was a bad cement job and a failure of the shoe track barrier at the bottom of the well , which let hydrocarbons from the reservoir into the production casing , '' said outgoing chief executive Tony Hayward .
+` ` The negative pressure test was accepted when it should not have been , there were failures in well control procedures and in the blowout preventer ; and the rig 's fire and gas system did not prevent ignition , '' he said .
+The blowout preventer that failed was recovered from the Gulf of Mexico on <TIMEX3 tid="t12" type="DATE" value="2010-09-04">Saturday</TIMEX3> and transported to a Nasa facility near New Orleans where it will be placed in the custody of the US Justice Department and examined .
+BP 's incoming chief executive Bob Dudley said the report proved that the explosion was ` ` a shared responsibility among many entities '' .
+The company said it had accepted all the recommendations in the report , and would implement them worldwide .
+<TIMEX3 tid="t19" type="DATE" value="2011-04-20">20 April</TIMEX3> : Deepwater Horizon rig explodes , killing 11 people <TIMEX3 tid="t20" type="DATE" value="2011-04-28">28 April</TIMEX3> : Coastguard fears one of worst spills in US history <TIMEX3 tid="t21" type="DATE" value="2011-05-08">8
+May</TIMEX3> : Giant metal dome fails to cap leak <TIMEX3 tid="t22" type="DATE" value="2011-06-02">2 June</TIMEX3> : US government begins criminal inquiry <TIMEX3 tid="t23" type="DATE" value="2011-07-15">15 July</TIMEX3> : New cap brings temporary halt to spill <TIMEX3 tid="t24" type="DATE" value="2011-08-04">4 August</TIMEX3> : BP says ` ` static kill '' of well successful .
+President Obama says battle to stop leak close to an end The environmental group Greenpeace has described the report as revealing ` ` a devastating litany of human error , incompetence and technical failure '' .
+BP 's shares rose after the report was published at <TIMEX3 tid="t27" type="TIME" value="2011-08-04T11:00">1100 GMT</TIMEX3> -LRB- <TIMEX3 tid="t26" type="DATE" value="1200">1200</TIMEX3> BST -RRB- .
+BP says dealing with the aftermath of the spill has cost $ 8bn -LRB- # 5.2 bn -RRB- , and it has already paid out about $ 399 m in claims to people affected by the spill .
+The leak caused widespread disruption to jobs in the fishing and tourism industries along the US Gulf Coast .
+A national commission is expected to submit a report to President Barack Obama by mid - <TIMEX3 tid="t31" type="DATE" value="2011-01">January next year</TIMEX3> .
+A Congressional joint investigation will submit a report later than month .
+
+The US justice department is also investigating the disaster , but its investigations will conclude only when lawyers and investigators have decided whether or not there is evidence of criminal wrongdoing .
+The Deepwater Horizon explosion according to BP <TIMEX3 tid="t39" type="DATE" value="2010-04-19">19 April</TIMEX3> - ` Bad ' cement pumped down casing to stop gas and oil leaking into welbore <TIMEX3 tid="t40" type="DATE" value="2010-04-20">20 April</TIMEX3> - Gas and oil leak through shoe track barrier and float collar <TIMEX3 tid="t41" type="DATE" value="2010-04-20">20 April</TIMEX3> - Tests carried out on the rig incorrectly suggest pressure is at a safe level The crew do not recognize there is a major problem or act to control it until the hydrocarbons are flowing rapidly up the riser
+The crew close the blowout preventer and diverter , routing oil and gas to the mud gas separator -LRB- MGS -RRB- system rather than diverting it overboard The MGS is overwhelmed by the force of oil and gas which leaks into the rig 's ventilation system The heating , ventilation and air conditioning system is thought to have sent a gas - rich mixture into the engine rooms <TIMEX3 tid="t32" type="DATE" value="2149">2149</TIMEX3> local time There are two explosions , killing 11 men <TIMEX3 tid="t37" type="DATE" value="2011-04-21">April 21</TIMEX3> - <TIMEX3 tid="t38" type="DATE" value="2011-04-22">22</TIMEX3> -
+The BOP designed to work automatically failed to seal the well as control pods and cutter -LRB- blind sheer ram -RRB- were not working The pun - ancient artform , or the lowest form of wit ?
+</TimeML>

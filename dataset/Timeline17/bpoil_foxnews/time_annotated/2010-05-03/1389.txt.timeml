@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Talk about bad timing ...
+The Interior Department 's Mineral Management Service has postponed a <TIMEX3 tid="t1" type="DATE" value="2010-05-03">Monday</TIMEX3> safety awards luncheon at which a nominee for two awards was BP -- which operated the oil rig that sank in the Gulf of Mexico , threatening an unprecedented environmental disaster along much of the nation 's Gulf Coast .
+The awards ceremony recognizes ` ` outstanding safety and pollution prevention performance by the offshore oil and gas industry . ''
+BP was nominated for its work on the outer continental shelf .
+The big winner of <TIMEX3 tid="t2" type="DATE" value="2009">last year</TIMEX3> 's SAFE award was Transocean , the owner of the Deepwater Horizon rig that exploded <TIMEX3 tid="t3" type="DATE" value="2010-04">last month</TIMEX3> under BP 's management .
+BP was also a finalist at the <TIMEX3 tid="t4" type="DATE" value="2009">2009</TIMEX3> conference .
+MMS acknowledges bad timing , noting that it 's dedicating too many resources to the Gulf cleanup to hold a luncheon .
+` ` The ongoing situation with the Transocean Deepwater Horizon drilling accident has caused the MMS to dedicate considerable resources to the successful resolution of this event , which will conflict with holding this ceremony <TIMEX3 tid="t5" type="DATE" value="2010-W19">next week</TIMEX3> , '' the statement said .
+` ` The MMS will announce how the agency will proceed with the <TIMEX3 tid="t6" type="DATE" value="2010">2010</TIMEX3> SAFE Award program during <TIMEX3 tid="t8" type="DURATION" value="PXW">the next several weeks</TIMEX3> .
+The MMS apologizes for any inconvenience and thanks the organizers of the OTC for their understanding of our <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">current</TIMEX3> situation . ''
+The decision to postpone <TIMEX3 tid="t10" type="DATE" value="2010-05-03">Monday</TIMEX3> 's awards luncheon comes as BP announced it will pay for all the cleanup costs from the massive oil spill that continues spewing crude oil into the Gulf <TIMEX3 tid="t12" type="DURATION" value="P11D">11 days</TIMEX3> after the rig explosion .
+The company posted a fact sheet on its website saying it takes responsibility for the response and will pay compensation for legitimate claims for property damage , personal injury and commercial losses .
+Fox News ' Trish Turner and Fox News Radio 's Mike Majchrowitz contributed to this report .
+</TimeML>

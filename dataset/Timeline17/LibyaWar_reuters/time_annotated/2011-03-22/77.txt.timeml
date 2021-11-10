@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+SAO PAULO | Tue <TIMEX3 tid="t2" type="DATE" value="2011-03-22">Mar 22 , 2011</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2011-03-22T06:12">6:12 am</TIMEX3> GMT SAO PAULO
+-LRB- Reuters -RRB- -
+The Brazilian government called late on <TIMEX3 tid="t4" type="DATE" value="2011-03-21">Monday</TIMEX3> for a cease - fire in Libya , where air attacks by the United States and its allies sought to stop the advance of Muammar Gaddafi 's forces on rebel - held towns .
+The goal of a cease - fire should be to protect civilians and pave the way for dialogue between the Libyan government and its opponents , the Foreign Affairs Ministry said in a statement made just hours after a visit by U.S. President Barack Obama to Brazil .
+` ` After regretting the loss of lives because of the conflict in the country , the Brazilian government hopes that an effective cease - fire be implemented <TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">as soon as possible</TIMEX3> to allow the protection of civilians and the start of dialogue , '' the statement said .
+<TIMEX3 tid="t7" type="DATE" value="2011-W11">Last week</TIMEX3> , Brazil , China , India , Germany and Russia abstained from passing a U.N. Security Council resolution authorizing the use of force to impose a no - fly zone in Libya .
+Libya 's conflict gained momentum in <TIMEX3 tid="t9" type="DATE" value="2011-02" mod="END">late February</TIMEX3> after a wave of citizen protests against Gaddafi 's government grew into a rebel movement that took control of some territory .
+Troops loyal to Gaddafi have advanced on rebel - held towns , raising concern over the danger to civilians .
+Anti - aircraft fire rang out across Tripoli for a third night on <TIMEX3 tid="t10" type="DATE" value="2011-03-21">Monday</TIMEX3> , but air attacks on Libya are likely to slow , a U.S. general said , as Washington holds back from being sucked into the Libyan civil war .
+Coalition airstrikes against Libya led by the United States , France and Britain began on <TIMEX3 tid="t11" type="DATE" value="2011-03-19">Saturday</TIMEX3> during Obama 's visit to Brazil , his first stop on a trip to Latin America .
+Obama is scheduled to fly to El Salvador from Chile later on <TIMEX3 tid="t12" type="DATE" value="2011-03-22">Tuesday</TIMEX3> .
+-LRB-
+Reporting by Bruno Marfinati ; Writing by Guillermo Parra - Bernal ; Editing by Eric Beech -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

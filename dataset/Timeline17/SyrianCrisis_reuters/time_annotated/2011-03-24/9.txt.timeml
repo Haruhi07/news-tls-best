@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+PARIS | Thu <TIMEX3 tid="t2" type="DATE" value="2011-03-24">Mar 24 , 2011</TIMEX3> <TIMEX3 tid="t5" type="TIME" value="2011-03-24T06:11">6:11 am</TIMEX3> EDT PARIS -LRB-
+Reuters -RRB- - France urged Syria on <TIMEX3 tid="t4" type="DATE" value="2011-03-24">Thursday</TIMEX3> to open up to dialogue and democratic change , after Syrian forces killed six people in an attack on protesters and opened fire on hundreds of youths marching in solidarity .
+In all , 14 civilians have been killed by Syrian forces in <TIMEX3 tid="t8" type="DURATION" value="P6D">six days</TIMEX3> of demonstrations for political freedom and an end to corruption , in a protest movement spreading across the Arab world since a popular uprising in Tunisia <TIMEX3 tid="t7" type="DATE" value="2010" mod="END">late last year</TIMEX3> .
+` ` We urge Syria to listen to the voice of dialogue and of democracy , '' French Foreign Minister Alain Juppe told reporters .
+` ` A great change is under way .
+For a long time , France 's Arab policy aimed for stability .
+<TIMEX3 tid="t9" type="DATE" value="2011-03-24">Today</TIMEX3> , Arab policy is to listen to the aspirations of the people and that applies to Syria , which must take on board this widespread movement . ''
+France , the former colonial ruler of Tunisia and Syria , has repeatedly condemned what it says is excessive force being used in Syria and has called for an investigation into civilian deaths and the release of detained protesters .
+France 's relations with Syria were strained by the <TIMEX3 tid="t10" type="DATE" value="2005">2005</TIMEX3> assassination of Lebanese Prime Minister Rafik al - Hariri , where initial U.N. reports implicated Syrian and Lebanese security agencies but Damascus denied any involvement .
+Since <TIMEX3 tid="t11" type="DATE" value="2008">2008</TIMEX3> , Paris has sought to improve ties with Damascus .
+-LRB-
+Reporting by John Irish ; Writing by Catherine Bremer -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

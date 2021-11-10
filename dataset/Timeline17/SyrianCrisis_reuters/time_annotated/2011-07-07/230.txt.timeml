@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+NEW YORK | Thu <TIMEX3 tid="t3" type="DATE" value="2011-07-07">Jul 7 , 2011</TIMEX3> <TIMEX3 tid="t8" type="TIME" value="2011-07-07T15:09">3:09 pm</TIMEX3> BST NEW YORK -LRB-
+Reuters -RRB- - New York City will open its clerk 's offices on <TIMEX3 tid="t6" type="DATE" value="2011-07-10">Sunday</TIMEX3> , <TIMEX3 tid="t5" type="DATE" value="2011-07-24">July 24</TIMEX3> , to allow same - sex couples to we d on the first day the state 's gay marriage bill goes into effect , officials said on <TIMEX3 tid="t7" type="DATE" value="2011-07-06">Wednesday</TIMEX3> .
+City clerk 's offices in the five boroughs of New York normally are closed on weekends , but Mayor Michael Bloomberg said that for this special occasion they will be open .
+` ` This is a historic moment for New York , a moment many couples have waited years and even decades to see -- and we are not going to make them wait <TIMEX3 tid="t9" type="DURATION" value="P1D">one day</TIMEX3> longer than they have to , '' Bloomberg said in a statement .
+City Clerk Michael McSweeney added that his office expected ` ` large numbers of people on the first day . ''
+New York Governor Andrew Cuomo <TIMEX3 tid="t10" type="DATE" value="2011-06">last month</TIMEX3> signed the state 's Marriage Equality Act into law , making the state the sixth and most populous in the United States to allow gay marriage .
+<TIMEX3 tid="t12" type="DATE" value="2011-W27" mod="START">Earlier this week</TIMEX3> , same - sex couples eager to marry in New York hit a bureaucratic snag when marriage license applications made available to them still used the terms ` ` bride '' and ` ` groom . ''
+But the forms were later changed to include the terms ` ` Spouse A '' and ` ` Spouse B. ''
+State law generally requires couples to wait <TIMEX3 tid="t14" type="DURATION" value="P1D">24 hours</TIMEX3> after receiving a marriage license before they can we d. .
+But on <TIMEX3 tid="t17" type="DATE" value="2011-07-10">Sunday</TIMEX3> , <TIMEX3 tid="t16" type="DATE" value="2011-07-24">July 24</TIMEX3> , state judges will volunteer to perform ceremonies and review requests for waivers of the 24 - hour waiting period , according to the mayor 's office .
+The New York city clerk 's offices will be open <TIMEX3 tid="t18" type="DATE" value="UNDEF-REF-hour-PLUS-2">two hours later</TIMEX3> than usual for the first five weekdays after the same - sex marriage bill goes into effect to accommodate what is expected to be heavy demand from same - sex couples seeking marriage licenses and civil ceremonies .
+When a California Supreme Court ruling legalized same - sex marriage in <TIMEX3 tid="t22" type="DATE" value="2008-06">June 2008</TIMEX3> , the state saw a spike in marriage licenses issued , as gay and lesbian couples lined up to we d at municipal offices .
+California voters later banned gay marriages by approving a constitutional amendment in the <TIMEX3 tid="t25" type="DATE" value="2008-11">November 2008</TIMEX3> election .
+-LRB-
+Reporting by Alex Dobuzinskis .
+Editing by Peter Bohan -RRB-
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

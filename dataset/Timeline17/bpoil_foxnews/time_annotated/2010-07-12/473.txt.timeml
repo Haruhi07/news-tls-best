@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+In this image taken from video provided by BP PLC at 18:01 CDT , oil flows from the broken well , center , as a new containment cap , left , hovers near the site of the Deepwater Horizon oil spill in the Gulf of Mexico , <TIMEX3 tid="t5" type="DATE" value="2010-07-12">Monday</TIMEX3> , <TIMEX3 tid="t3" type="DATE" value="2010-07-12">July 12 , 2010</TIMEX3> .
+Deep - sea robots swarmed around BP 's ruptured oil well <TIMEX3 tid="t6" type="DATE" value="2010-07-12">Monday</TIMEX3> in a delicately choreographed effort to attach a tighter - fitting cap that could finally stop crude from gushing into the Gulf of Mexico <TIMEX3 tid="t7" type="DURATION" value="P3M" mod="LESS_THAN">nearly three months</TIMEX3> into the crisis .
+-LRB- AP Photo\/BP PLC
+-RRB-
+NO SALES NEW ORLEANS -- BP robots attached a new , tighter - fitting cap on top of the gushing Gulf of Mexico oil leak <TIMEX3 tid="t8" type="DATE" value="2010-07-12">Monday</TIMEX3> , raising hopes that the crude could be kept from polluting the water for the first time in <TIMEX3 tid="t9" type="DURATION" value="P3M" mod="LESS_THAN">nearly three months</TIMEX3> .
+Placing the cap on top of the leak was the climax of <TIMEX3 tid="t11" type="DURATION" value="P2D">two days</TIMEX3> of delicate preparation work and <TIMEX3 tid="t12" type="DURATION" value="P1D">a day</TIMEX3> of slowly lowering it into position a mile below the sea .
+
+The capping project -- akin to building an underwater Lego tower -- is just a temporary fix , but the oil giant 's best hope for containing the spill .
+The next unknown is whether the 18 - foot - high , 150,000 - pound metal stack of pipes and valves will work .
+BP plans to start tests <TIMEX3 tid="t13" type="DATE" value="2010-07-06">Tuesday</TIMEX3> , gradually shutting the valves to see if the oil stops or if it starts leaking from another part of the well .
+Residents have been skeptical BP can deliver on its promise to control the spill , but the news was still welcome on the coast .
+Dwayne Touchet , a 44 - year - old shrimper from Welsh , La. , said he was relieved to hear the cap was on and can only pray that it works .
+Touchet is working in the Vessels of Opportunity program , where BP employs local boat owners and fisherman out of work because of the spill .
+` ` It 's not over , there 's still a lot of oil to clean up .
+We do n't know how it will affect it -LRB- the water -RRB- in the years to come , all we can do is trust in the Lord , '' he said .
+<TIMEX3 tid="t14" type="TIME" value="2010-07-06T18:30" mod="APPROX">Around 6:30 p.m.</TIMEX3>
+CDT , live video streams trained on the wellhead showed the cap being slowly lowered into place , <TIMEX3 tid="t16" type="DURATION" value="PT11H">11 hours</TIMEX3> after BP Chief Operating Officer Doug Suttles said the company was close to putting the seal in place .
+BP officials said the device was attached <TIMEX3 tid="t17" type="TIME" value="2010-07-06T19:00" mod="APPROX">around 7 p.m.</TIMEX3> .
+The cap will be tested and monitored to see if it can withstand pressure from oil and gas starting <TIMEX3 tid="t19" type="TIME" value="2010-07-06TMO">Tuesday morning</TIMEX3> for six to <TIMEX3 tid="t21" type="DURATION" value="P2D">48 hours</TIMEX3> , according to National Incident Commander Thad Allen .
+On his Facebook page , Allen also shared news of the development .
+` ` Getting there , '' Allen wrote in a status update shortly after the cap landed on the well .
+The cap will be tested by closing off three separate valves that fit together snugly like pairs of fists , choking off the oil and blocking it from entering the Gulf .
+BP does n't want the flow of oil to stop instantaneously , said Don Van Nieuwenhuise , director of Professional Geosciences Programs at the University of Houston .
+Shutting the oil off too quickly could cause another explosion , he said .
+` ` Rather than like a train running into a brick wall , it 'll be more like putting the brakes on slowly , '' he said .
+` ` That 's what they 're aiming for .
+You can keep the brakes on and everyone arrives alive , or you hit the wall and have big problems . ''
+Engineers will be watching pressure readings .
+High pressure is good , because it would mean the leak has been contained inside the wellhead machinery .
+
+But if readings are lower than expected , that could mean there is another leak elsewhere in the well .
+` ` Another concern <TIMEX3 tid="t22" type="DATE" value="PRESENT_REF">right now</TIMEX3> would be how much pressure the well can take , '' and whether intense pressure would further damage the well , said Eric Smith , associate director of the Tulane Energy Institute .
+Even if the cap works , the blown - out well will still be leaking .
+But the newer , tighter cap will enable BP to capture all the oil , or help funnel it up to ships on the surface if necessary .
+One of those ships , the Helix Producer , began operating <TIMEX3 tid="t23" type="DATE" value="2010-07-12">Monday</TIMEX3> and should be up to its capacity of collecting roughly 1 million gallons of oil <TIMEX3 tid="t26" type="DURATION" value="P1D">a day</TIMEX3> within <TIMEX3 tid="t25" type="DURATION" value="PXD">a few days</TIMEX3> , Chief Operating Officer Doug Suttles said .
+A permanent fix will have to wait until one of two relief wells being drilled reaches the broken well , which will then be plugged up with drilling mud and cement .
+That may not happen until mid - <TIMEX3 tid="t28" type="DATE" value="2010-08">August</TIMEX3> .
+Meanwhile , the Obama administration issued a revised moratorium on deep - water offshore drilling <TIMEX3 tid="t31" type="DATE" value="2010-07-12">Monday</TIMEX3> to replace the one that was struck down by the courts as heavy - handed .
+The new ban , in effect until <TIMEX3 tid="t32" type="DATE" value="2010-11-30">Nov. 30</TIMEX3> , does not appear to deviate much from the original moratorium , as it still targets deep - water drilling operators while defining them in a different way .
+Work on the new capping operation began <TIMEX3 tid="t33" type="DATE" value="2010-07-10">Saturday</TIMEX3> with the removal of a leaky cap that captured about 1 million of the 1.5 million to 2.5 million gallons of oil the government estimates is spilling from the well <TIMEX3 tid="t34" type="SET" value="P1D" quant="EVERY">every day</TIMEX3> .
+Gulf residents closely watched the operation , knowing the damage already done to the biologically rich Gulf and the coast 's two leading industries , fishing and tourism .
+` ` I think we 're going to see oil out in the Gulf of Mexico , roaming around , taking shots at us , for <TIMEX3 tid="t35" type="DATE" value="2011">the next year</TIMEX3> , maybe two , '' said Billy Nungesser , president of Louisiana 's oil - stained Plaquemines Parish .
+` ` If you told me <TIMEX3 tid="t36" type="DATE" value="2010-07-12">today</TIMEX3> no more oil was coming ashore , we ' ve still got a massive cleanup ahead . ''
+BP ` ` ca n't do much , but they know how to drill wells , '' dock master Jimmy Beason said at a marina in Orange Beach , Ala.
+` ` I think that by the end of the month it will be stopped , and this work with the cap is part of it .
+I see the light at the end of the tunnel . ''
+As of <TIMEX3 tid="t37" type="DATE" value="2010-07-12">Monday</TIMEX3> , the 83rd day of the disaster , between 89 million and 176 million gallons of oil had poured into the Gulf , according to government estimates .
+The spill started <TIMEX3 tid="t39" type="DATE" value="2010-04-20">April 20</TIMEX3> when the Deepwater Horizon rig , leased by BP from Transocean Ltd , exploded and burned , killing 11 workers .
+It sank <TIMEX3 tid="t40" type="DATE" value="2010-04-22">two days later</TIMEX3> .
+</TimeML>

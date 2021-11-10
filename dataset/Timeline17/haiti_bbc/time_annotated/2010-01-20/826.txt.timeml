@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Haiti struggles to get enough aid The world still can not deliver enough food and water to the hungry and thirsty in earthquake - hit Haiti .
+It is <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> thought that 200,000 people are dead , a quarter of a million have been injured and one and a half million are homeless .
+Aid groups are complaining of a crippling lack of leadership and coordination as a strong aftershock rocked the country , <TIMEX3 tid="t5" type="DURATION" value="P8D">eight days</TIMEX3> after another quake devastated the country .
+</TimeML>

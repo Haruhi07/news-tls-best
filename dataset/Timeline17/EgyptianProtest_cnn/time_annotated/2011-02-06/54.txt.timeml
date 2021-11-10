@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+A woman holds a poster with a picture of former Egyptian President Nasser at a protest in Paris on <TIMEX3 tid="t2" type="DATE" value="2011-02-05">February 5</TIMEX3> .
+France suspended the sale of arms and tear gas to Egypt , a spokeswoman for French Prime Minister Francois Fillon said <TIMEX3 tid="t3" type="DATE" value="2011-02-06">Sunday</TIMEX3> .
+It 's not clear how much effect the move will have on Egypt , which has been wracked by anti - government demonstrations for <TIMEX3 tid="t4" type="DURATION" value="P2W" mod="LESS_THAN">nearly two weeks</TIMEX3> .
+France did not deliver any arms to the country between <TIMEX3 tid="t5" type="DATE" value="2005">2005</TIMEX3> and <TIMEX3 tid="t6" type="DATE" value="2008">2008</TIMEX3> , according to a U.S. Congressional report .
+The United States is Egypt 's largest arms supplier by far , delivering $ 4.8 billion in weaponry to the country in that period .
+China was second with $ 500 million in deliveries , according to the Congressional Research Service report , ` ` Conventional Arms Transfers to Developing Nations , <TIMEX3 tid="t7" type="DATE" value="2001">2001</TIMEX3> - <TIMEX3 tid="t8" type="DATE" value="2008">2008</TIMEX3> , '' published in <TIMEX3 tid="t11" type="DATE" value="2009-09">September 2009</TIMEX3> .
+</TimeML>

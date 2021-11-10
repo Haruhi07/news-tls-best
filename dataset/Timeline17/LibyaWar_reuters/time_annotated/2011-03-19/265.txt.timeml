@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+WASHINGTON , <TIMEX3 tid="t5" type="DATE" value="2011-03-19">March 19</TIMEX3> | Sat <TIMEX3 tid="t4" type="DATE" value="2011-03-19">Mar 19 , 2011</TIMEX3> <TIMEX3 tid="t9" type="TIME" value="2011-03-19T15:50">3:50 pm</TIMEX3> EDT WASHINGTON , <TIMEX3 tid="t7" type="DATE" value="2011-03-19">March 19</TIMEX3> -LRB- Reuters -RRB- - A U.S. warship launched cruise missiles against Libya on <TIMEX3 tid="t8" type="DATE" value="2011-03-19">Saturday</TIMEX3> as part of the international effort against leader Muammar Gaddafi , CNN reported , citing defense officials .
+We welcome comments that advance the story through relevant opinion , anecdotes , links and data .
+Views expressed in the comments do not represent those of Reuters .
+Neverthele ss , despite it being well into <TIMEX3 tid="t10" type="DATE" value="20">the 21st Century</TIMEX3> , it has begun -- again .
+And soon Nato forces , in tandem with other countries , will have to send in thousands of troops to train the new Libyan military as well as what will be called ` ` restoring order '' .
+<TIMEX3 tid="t12" type="DURATION" value="P10Y">Ten years</TIMEX3> from <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">now</TIMEX3> , based on history , we will be asking -- again -- how long this expensive fight will last .
+Meanwhile , the first 110 American cruise missiles , probably worth a couple of hundred million dollars , have been launched as just the first phase of the attack to end the Libyan civil war , under the guise of protecting what many people are probably calling our side , even though it is essentiall y a war between tribes whose civilian population s are aligned along tribal lines rather than being democratic freedom fighters as the West likes to call them .
+However , one can hope this civil war will end sooner than appears likely .
+This discussion is <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">now</TIMEX3> closed .
+We welcome comments on our articles for a limited period after their publication .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

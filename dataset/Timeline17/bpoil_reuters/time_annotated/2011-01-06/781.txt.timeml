@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+WASHINGTON | Thu <TIMEX3 tid="t3" type="DATE" value="2011-01-06">Jan 6 , 2011</TIMEX3> <TIMEX3 tid="t6" type="TIME" value="2011-01-06T16:17">4:17 pm</TIMEX3> EST WASHINGTON -LRB-
+Reuters -RRB- - Bacteria ate nearly all the potentially climate - warming methane that spewed from BP 's broken wellhead in the Gulf of Mexico <TIMEX3 tid="t2" type="DATE" value="2010">last year</TIMEX3> , scientists reported on <TIMEX3 tid="t5" type="DATE" value="2011-01-06">Thursday</TIMEX3> .
+Nearly 200,000 tons of methane -- more than any other single hydrocarbon emitted in the accident -- were released from the wellhead , and nearly all of it went into the deep water of the Gulf , researcher David Valentine of the University of California - Santa Barbara said in a telephone interview .
+Bacteria managed to take in the methane before it could rise from the sea bottom and be released into the atmosphere , but the process contributed to a loss of about 1 million tons of dissolved oxygen in areas southwest of the well .
+That sounds like a lot of oxygen loss , but it was widely spread out , so that the bacterial munching did not contribute to a life - sapping low - oxygen condition known as hypoxia , said Valentine , whose study was published in the journal Science .
+What happens to methane has been a key question for climate scientists , because methane is over 20 times more effective at trapping heat in the atmosphere than carbon dioxide .
+Like carbon dioxide , methane comes from natural and human - made sources , including the petroleum industry .
+For <TIMEX3 tid="t11" type="DURATION" value="P2M">two months</TIMEX3> after the BP blowout on <TIMEX3 tid="t9" type="DATE" value="2010-04-20">April 20 , 2010</TIMEX3> , methane was not being consumed in and around the wellhead , leading some scientists to suspect it might linger in the water and eventually make its way into the air , where it could potentially trap heat and contribute to climate change .
+` ` If you have a very large release of methane like this , and it did make it into the atmosphere , that would be a problem , '' Valentine said .
+` ` There have been a number of ... large - scale methane releases in the past that have come from the ocean that have warmed the climate . ''
+Those methane releases came from natural sources , and researchers like Valentine and his co - authors wondered what role bacteria might have had in those cases .
+The BP spill offered an ` ` accidental experiment '' that showed particular bacteria with an all - methane diet multiplied quickly as the methane spread with the underwater plume from the broken well .
+Peak consumption of methane probably came in <TIMEX3 tid="t14" type="DATE" value="2010-07" mod="END">late July</TIMEX3> and <TIMEX3 tid="t15" type="DATE" value="2010-08" mod="START">early August</TIMEX3> , Valentine said .
+Other organisms dealt with other hydrocarbons , including ethane and propane emitted in the worst offshore oil spill in U.S. history .
+The methane - eating bacteria were the last to the hydrocarbon banquet , and based on past observation , the scientists questioned whether they could do the job .
+` ` Given observations about how slowly methane is normally consumed , we did n't think the -LRB- bacteria -RRB- population was up to the challenge at all ...
+we thought it would be a lot slower , '' Valentine said .
+The fact the bacteria took in that large amount of methane could indicate that bacteria might absorb other large - scale deep ocean methane releases , the scientists said .
+The U.S. government filed a civil suit <TIMEX3 tid="t16" type="DATE" value="2010-12">last month</TIMEX3> against BP and its partners for damage caused by the spill .
+The White House commission on the oil spill said on <TIMEX3 tid="t17" type="DATE" value="2011-01-05">Wednesday</TIMEX3> that BP and its partners made a series of cost - cutting decisions that ultimately contributed to the spill .
+We welcome comments that advance the story through relevant opinion , anecdotes , links and data .
+Views expressed in the comments do not represent those of Reuters .
+I do n't think we could produce enough GM bacteria to handle the load .
+This discussion is <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">now</TIMEX3> closed .
+We welcome comments on our articles for a limited period after their publication .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

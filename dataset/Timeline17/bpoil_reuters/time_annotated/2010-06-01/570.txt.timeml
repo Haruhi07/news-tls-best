@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Tue <TIMEX3 tid="t3" type="DATE" value="2010-06-01">Jun 1 , 2010</TIMEX3> <TIMEX3 tid="t6" type="TIME" value="2010-06-01T13:33">1:33 pm</TIMEX3> EDT -LRB- Reuters -RRB- - Millions of gallons -LRB- liters -RRB- of oil have poured into the Gulf of Mexico since an <TIMEX3 tid="t5" type="DATE" value="2010-04-20">April 20</TIMEX3> blast on the Deepwater Horizon rig triggered a huge spill , soiling 100 miles of coastline , threatening some of the United States ' richest fisheries and endangering a fragile ecosystem .
+Below is a timeline of the spill and its impact : <TIMEX3 tid="t9" type="DATE" value="2010-04-20">April 20 , 2010</TIMEX3> - Explosion and fire on Transocean Ltd 's drilling rig Deepwater Horizon licensed to BP ; 11 workers are killed .
+The rig was drilling in BP 's Macondo project 42 miles southeast of Venice , Louisiana , beneath about 5,000 feet of water and 13,000 feet under the seabed .
+<TIMEX3 tid="t12" type="DATE" value="2010-04-22">April 22</TIMEX3> - The Deepwater Horizon rig , valued at more than $ 560 million , sinks and a five mile long oil slick is seen .
+<TIMEX3 tid="t15" type="DATE" value="2011-04-25">April 25</TIMEX3> - The Coast Guard says remote underwater cameras detect the well is leaking 1,000 barrels of crude oil per day .
+It approves a plan to have remote underwater vehicles activate a blowout preventer and stop leak .
+Efforts to activate the blowout preventer fail .
+<TIMEX3 tid="t17" type="DATE" value="2011-04-28">April 28</TIMEX3> - The Coast Guard says the flow of oil is 5,000 barrels per day -LRB- bpd -RRB- -LRB- 210,000 gallons\/795 , 000 liters -RRB- -- five times greater than first estimated .
+A controlled burn is held on the giant oil slick .
+<TIMEX3 tid="t19" type="DATE" value="2011-04-29">April 29</TIMEX3> - Obama pledges ` ` every single available resource , '' including the U.S. military , to contain the spreading spill .
+-- Obama also says BP is responsible for the cleanup .
+Louisiana declares state of emergency due to the threat to the state 's natural resources .
+<TIMEX3 tid="t21" type="DATE" value="2011-04-30">April 30</TIMEX3> - An Obama aide says no drilling will be allowed in new areas , as the president had <TIMEX3 tid="t22" type="DATE" value="PAST_REF">recently</TIMEX3> proposed , until the cause of the Deepwater Horizon accident is known .
+-- BP Chairman Tony Hayward says the company takes full responsibility for the spill and would pay all legitimate claims and the cost of the cleanup .
+<TIMEX3 tid="t24" type="DATE" value="2011-05-02">May 2</TIMEX3> - Obama visits the Gulf Coast to see cleanup efforts first hand .
+U.S. officials close areas affected by the spill to fishing for an initial period of <TIMEX3 tid="t26" type="DURATION" value="P10D">10 days</TIMEX3> .
+BP starts to drill a relief well alongside the failed well , a process that could take <TIMEX3 tid="t28" type="DURATION" value="P2M">two</TIMEX3> to <TIMEX3 tid="t27" type="DURATION" value="P3M">three months</TIMEX3> to complete .
+<TIMEX3 tid="t30" type="DATE" value="2011-05-05">May 5</TIMEX3> - A barge begins towing a 98 - ton containment chamber to the site of the leak .
+BP says one of the three leaks has been shut off by capping a valve , but that would not cut the amount of oil gushing out .
+<TIMEX3 tid="t32" type="DATE" value="2011-05-06">May 6</TIMEX3> - Oil washes ashore on the Chandeleur Islands off the Louisiana coast , uninhabited barrier islands that are part of the Breton National Wildlife Refuge .
+<TIMEX3 tid="t34" type="DATE" value="2011-05-07">May 7</TIMEX3> - BP tries to lower a containment dome over the leak , but the 100 - tonne device was rendered useless by a slush of frozen hydrocarbons that clogged it .
+--
+A fishing ban for federal waters off the Gulf is modified , expanded and extended to <TIMEX3 tid="t36" type="DATE" value="2010-05-17">May 17</TIMEX3> .
+<TIMEX3 tid="t38" type="DATE" value="2011-05-09">May 9</TIMEX3> - BP says it might try to plug the undersea leak by pumping materials such as shredded up tires and golf balls into the well at high pressure , a method called a ` ` junk shot . ''
+<TIMEX3 tid="t39" type="DATE" value="2011-05">May</TIMEX3> 11\/12 - Executives from BP , Transocean and Halliburton appear at congressional hearings in Washington .
+Senate Energy committee chairman Jeff Bingaman says that it appeared that the explosion on the rig was due to a ` ` cascade of errors , technical , human and regulatory .
+The executives blame each other 's companies .
+<TIMEX3 tid="t41" type="DATE" value="2011-05-14">May 14</TIMEX3> - Obama slams companies involved in the spill , criticizing them for a ` ` ridiculous spectacle '' of publicly trading blame over the accident in his sternest comments yet .
+<TIMEX3 tid="t43" type="DATE" value="2011-05-16">May 16</TIMEX3> - BP succeeds in inserting a tube into the leaking well and capturing some oil and gas .
+<TIMEX3 tid="t45" type="DATE" value="2011-05-18">May 18</TIMEX3> -
+The U.S. nearly doubles a no - fishing zone in waters affected by the oil , extending it to 19 percent of U.S. waters in the Gulf .
+<TIMEX3 tid="t47" type="DATE" value="2011-05-19">May 19</TIMEX3> - The first heavy oil from the spill sloshes ashore in fragile Louisiana marshlands and part of the mess enters a powerful <TIMEX3 tid="t48" type="DATE" value="PRESENT_REF">current</TIMEX3> that could carry it to Florida and beyond .
+<TIMEX3 tid="t50" type="DATE" value="2011-05-26">May 26</TIMEX3> - A ` ` top kill '' maneuver starts involving pumping heavy fluids and other material into the well shaft to stifle the flow , then sealing it with cement .
+<TIMEX3 tid="t52" type="DATE" value="2011-05-28">May 28</TIMEX3> - Obama tours the Louisiana Gulf coast on his second visit - ` ` I am the president and the buck stops with me , '' he said .
+-- BP CEO Tony Hayward flies over the Gulf .
+BP says that the cost of the disaster so far is $ 930 million .
+<TIMEX3 tid="t55" type="DATE" value="2011-05-29">May 29</TIMEX3> - BP says the complex ` ` top kill '' maneuver to plug the well has failed , crushing hopes for a quick end to the largest oil spill in U.S. history already in its 40th day .
+<TIMEX3 tid="t59" type="DATE" value="2011-05-31">May 31</TIMEX3> - The U.S. government and BP are warning that the blown - out oil well may not be stopped until <TIMEX3 tid="t58" type="DATE" value="2009-08">August</TIMEX3> as the company prepares a new attempt to capture leaking crude .
+<TIMEX3 tid="t63" type="DATE" value="2010-06-01">June 1</TIMEX3> - BP shares plunge 17 percent in London trading , wiping $ 23 billion off its market value , on news its latest attempt to plug the well has failed .
+-LRB-
+Reporting by Erwin Seba and Ros Krasny : Additional writing and editing by David Cutler , London Editorial Reference Unit -RRB-
+We welcome comments that advance the story through relevant opinion , anecdotes , links and data .
+Views expressed in the comments do not represent those of Reuters .
+The TV show ` ` Issues '' on Headline News channel is saying they will have the some revealing news regarding this pathetic oil spill <TIMEX3 tid="t65" type="TIME" value="2010-06-01TNI">tonight</TIMEX3> on the show .
+They are truley pathetic .
+It is almost as if they are trying to not fix it .
+Weeks ago I submitted suggestions on the BP site .
+They asked for suggestion form the public , engineers , etc . .
+It had to just be a publicity stunt .
+Thet are still trying the same old failed attempts .
+My second suggestion to them is still better than any they tried .
+Take a 16 inch or larger flexible pipe surrounded at the bottom 50 feet with several inflatable high pressure bags\/balloons .
+Have the robots insert the pipe into the damaged well hole .
+The pipe is open to help the pressure go up the pipe and not push the pipr out .
+When the pipe is inserted deep enough to cover the inflatable balloons , fill them with the proper viscosity fluid to withstand the atmospheric pressure .
+This will fill the gap around the pipe and prevent oil from escaping .
+If they can put all the junk and smaller pipes into the hole they can put this pipe in the hole as well .
+The oil will flow into the pipe to the ships and barges waiting for the oil .
+They should have and could have done <TIMEX3 tid="t66" type="DATE" value="2010-W22">this weeks</TIMEX3> ago .
+What are they thinking ?
+Anybody that uses a car to get from point A to point B shares the blame for the oil spill .
+BP would not be in this risky business if we had not created the demand for it .
+So the spill is OUR problem , as many of us have recognized from the outset .
+Even those that do not drive still get their goods and services from those that do .
+But before we get too far ahead with finger - pointing , we ought to first plug the well .
+Since conventional ideas have not worked , anybody s thoughts are as good as another s .
+No idea is foolish , if it could somehow work .
+So share your thoughts with the rests of us .
+We re in this together .
+This discussion is <TIMEX3 tid="t67" type="DATE" value="PRESENT_REF">now</TIMEX3> closed .
+We welcome comments on our articles for a limited period after their publication .
+An ultra - low latency infrastructure for electronic trading and data distribution A connected approach to governance , risk and compliance Our next generation legal research platform
+</TimeML>

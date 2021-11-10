@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+With Close Ties to Wall St. , Hoboken , N.J. , Feels Strain of Financial Crisis Jonathan Gordon had to leave Hoboken , N.J. , after losing his financial - sector job .
+He <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> lives in San Antonio .
+-LRB-
+By Joel Salcido
+For The Washington Post -RRB-
+The Manhattan skyline as seen from Hoboken .
+The city 's proximity to Wall Street helped it become a trendy place to live .
+-LRB-
+By Mark Lennihan -- Associated Press -RRB- HOBOKEN , N.J. -- Jonathan Gordon is a survivor .
+On <TIMEX3 tid="t3" type="DATE" value="2001-09-11">Sept. 11 , 2001</TIMEX3> , Gordon , a longtime Hoboken resident , was working for the financial firm Instinet on the 13th floor of the World Trade Center 's North Tower when the first hijacked plane hit .
+He recalls clambering out of the burning tower ` ` one step at a time , '' and reaching the sidewalk only to look up at the second plane striking the South Tower .
+He had to run to avoid being hit by debris .
+` ` I view it as a relatively good day because I got out unscathed -- a number of my friends did n't , '' Gordon said .
+<TIMEX3 tid="t5" type="DATE" value="2008">This year</TIMEX3> , Wall Street experienced another type of crisis : a financial meltdown that saw some of New York 's most storied investment and banking houses fail , be forced into mergers or get rescued through government bailouts .
+This time , Gordon 's luck ran out .
+In <TIMEX3 tid="t6" type="DATE" value="2008-03">March</TIMEX3> , his new firm , Bear Stearns , was taken over by J.P. Morgan Chase .
+The day after <TIMEX3 tid="t7" type="DATE" value="2008-09-01">Labor Day</TIMEX3> , Gordon returned to the office after <TIMEX3 tid="t8" type="DURATION" value="P2W">two weeks</TIMEX3> off for surgery and was told he was being dismissed .
+With tens of thousands of layoffs in the financial sector and few jobs to be found , Gordon , 55 , has been forced to leave Hoboken , his home of <TIMEX3 tid="t11" type="DURATION" value="P24Y">the past 24 years</TIMEX3> and where he had become well known as a community activist and constant presence at City Council budget meetings .
+<TIMEX3 tid="t13" type="DATE" value="2008-11" mod="END">Late last month</TIMEX3> , Gordon resettled in San Antonio .
+` ` I found a job -- a lot of my friends are n't so lucky , '' he said in a telephone interview from his new home .
+He said he knows of other colleagues from Bear Stearns who have relocated for jobs in other parts of the country .
+Gordon said he will miss Hoboken , calling it ` ` a wonderful community . ''
+Speaking of the city 's inextricable link to the fortunes of the financial capital across the Hudson River , he said , ` ` When Wall Street sneezes , Hoboken catches cold . ''
+A generation ago , Hoboken was probably best known as the birthplace of Frank Sinatra and the gritty setting for the Marlon Brando film ` ` On the Waterfront . ''
+But since the boom days on Wall Street during the heady and prosperous <TIMEX3 tid="t14" type="DATE" value="199">1990s</TIMEX3> , Hoboken has been able to reinvent itself as a city of pricey high - rise condos , top - rated restaurants and thriving , often raucous , nightlife -- all based on its proximity to Wall Street , <TIMEX3 tid="t15" type="DURATION" value="PTXM">a few minutes</TIMEX3> away by ferry or PATH commuter trains .
+Its most famous resident <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">now</TIMEX3> is New York Giants quarterback Eli Manning .
+Just across the river from Manhattan , Hoboken was often jokingly called New York 's sixth borough .
+But being tied so closely to Wall Street also carries huge vulnerabilities , as Hoboken saw with the 2001 terrorist attacks .
+Hoboken was the area , by Zip code , to suffer the largest number of casualties per capita , with 57 residents killed .
+-LRB-
+The official numbers vary because some Hoboken victims carried driver 's licenses from other jurisdictions .
+-RRB- ` ` We 're a city which is a square mile with 50,000 people living in it , but in the greater metropolitan area , we had the largest loss of life in the world , '' said Hoboken Mayor David Roberts , who was mayor on <TIMEX3 tid="t20" type="DATE" value="2001-09-11">Sept. 11 , 2001</TIMEX3> .
+` ` That 's not a laudable statistic , '' he said .
+` ` It 's just a fact of life that we are so linked to the city .
+We are so linked to Wall Street , and so many of our people are in the financial industry . ''
+</TimeML>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t4" type="DATE" value="2011-07-20">July 20 , 2011</TIMEX3> | By Ivan Watson , CNN Libyan rebel fighter wearing his old national flag as a cape flashes the ` victory ' sign as he looks at an airforce fighter jet flying overhead at a checkpoint on the outskirts of the oil town of Ras Lanuf on <TIMEX3 tid="t6" type="DATE" value="2012-03-07">March 7</TIMEX3> .
+The Libyan government in Tripoli estimates the grinding conflict that has been tearing the country apart for <TIMEX3 tid="t9" type="DURATION" value="P5M">the past five months</TIMEX3> has cost the national economy some $ 50 billion .
+` ` The cost is colossal , '' said Abdulhafid Zlitni , planning and finance minister for the Tripoli government .
+In an interview with CNN , Zlitni said the suspension of oil and gas exports had accounted for a huge chunk of the losses .
+` ` The income foregone because of the stoppage of the export of oil is something like $ 20 billion , '' he said .
+This has brought an end to what had been a surge in prosperity for the North African country .
+<TIMEX3 tid="t11" type="DATE" value="2010">Last year</TIMEX3> , Libya 's economy was booming , with gross domestic product surging 10.3 % , according to the International Monetary Fund .
+And in a report published <TIMEX3 tid="t13" type="DATE" value="2011-02-15">February 15</TIMEX3> , the IMF 's executive board concluded , ` ` The outlook for Libya 's economy remains favorable . ''
+But <TIMEX3 tid="t14" type="DATE" value="2011-02-17">two days later</TIMEX3> , protests against Col . Moammar Gadhafi 's 41 - year rule erupted in the eastern city of Benghazi .
+As protests spread to other cities and towns across the country , the Gadhafi regime embarked on a bloody crackdown .
+<TIMEX3 tid="t16" type="DATE" value="2011-07-20">Today</TIMEX3> , the country is split into territories controlled by loyalists and opposition rebels .
+A NATO military alliance is <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">now</TIMEX3> into the fourth month of a campaign of airstrikes against government targets after the U.N. Security Council passed a resolution authorizing the use of force to protect civilian lives .
+The civil war has all but shattered ambitious plans to upgrade transport , housing and infrastructure in a country that had long been isolated from the international community .
+` ` The main objective was to create capacity for the economy to stand on its feet away from oil and gas production , '' recalled Zlitni somewhat wistfully , as he described a five - year , $ 170 billion plan to modernize Libya .
+In <TIMEX3 tid="t19" type="DATE" value="2011-03">March</TIMEX3> , the legions of foreign workers who had been contracted to build railroads , airports , apartment buildings and telecommunications networks began fleeing the rapidly escalating conflict by the tens of thousands .
+The exodus included large numbers of engineers , construction and oil workers from China , Turkey , Egypt , and the Philippines , who crossed the western border with Tunisia on foot .
+At the time , many of them told CNN stories of being robbed at gunpoint by Libyan security forces who took their cell phones , laptops and money .
+</TimeML>

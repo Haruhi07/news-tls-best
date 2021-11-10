@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+LEEVILLE , LA . --
+Their eyes are bloodshot .
+Their scraggy skin glows reddish - brown .
+They clutch cans of beer .
+On the wooden deck of Griffin 's Marina and Ice , they recoil when approached , like a nest of vipers .
+` ` We used to be fishermen , '' one sneers , drunk , seething with wounded pride .
+` ` But <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> we work for BP . ''
+They wo n't say more than that .
+From their perch , they glare across the silent street at the gorgeous marshland <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3> closed to fishing .
+At dusk they screech away in pickup trucks , barely pausing at the town 's one blinking traffic light .
+They surrender Leeville to shadow , to the mosquitoes , to what used to be and <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3> is n't , to a solemn reality captured in two words that embody the collapse of a way of life .
+At the blinking traffic light , most drivers turn right and glide over the bayou to Port Fourchon , which services 90 percent of deep - water drilling structures in the Gulf of Mexico .
+Then it 's on to Grand Isle , a paradise for sunbathers and beachfront property owners .
+Confused drivers proceed through the light , past the sign that says ` ` NO OUTLET , '' past two gas stations , four RV parks , a half - dozen bait - and - tackle shops , two motels and one bar , then run smack into a ` ` ROAD CLOSED '' sign just before pavement halts at the marsh .
+About a mile long , hugged by bayou , full - time home to a handful of people .
+No more than 60 .
+Maybe not even 30 .
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Right now</TIMEX3> there should be hundreds of visiting fishermen leasing their own heavenly corner of the town 's bayou front , but with waters closed by the Deepwater Horizon leak , there 's no reason to come , no reason to stay .
+For decades , storm surges have swallowed 14 square miles <TIMEX3 tid="t5" type="SET" value="P1Y" quant="EVERY">every year</TIMEX3> in the basins of Terrebonne and Lafourche parishes .
+<TIMEX3 tid="t6" type="DATE" value="2009">Last year</TIMEX3> the state redirected Highway 1 around Leeville to elevate the hurricane evacuation route .
+The town 's only thoroughfare became a dead end .
+<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Now</TIMEX3> residents worry that a hurricane will drench the area with oil <TIMEX3 tid="t7" type="DATE" value="2010-SU">this summer</TIMEX3> , killing the root structure that keeps the very earth together .
+` ` To me , Leeville was gone <TIMEX3 tid="t11" type="DATE" value="1990">20 years ago</TIMEX3> , '' says Windell Curole , general manager of the South Lafourche Levee District , who says the town was 90 percent marsh in the ' <TIMEX3 tid="t10" type="DATE" value="196">60s</TIMEX3> and is <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">now</TIMEX3> 90 percent underwater .
+` ` When we did not take the action to protect the marshes around Leeville , that was the beginning of the end .
+The communities in southern Louisiana remain here despite floodwaters because this place produces tremendous amounts of biomass .
+A 7 - year - old can go fish in back and catch enough food to feed his family . ''
+</TimeML>
