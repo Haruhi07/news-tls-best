@@ -71,7 +71,7 @@ def get_average_results(tmp_results):
 
 
 def evaluate(tls_model, dataset, result_path, trunc_timelines=False, time_span_extension=0):
-
+    cluster_dir = Path('/content/drive/MyDrive/results/cluster/')
     results = []
     metric = 'align_date_content_costs_many_to_one'
     evaluator = rouge.TimelineRougeEvaluator(measures=["rouge_1", "rouge_2"])
@@ -111,6 +111,8 @@ def evaluate(tls_model, dataset, result_path, trunc_timelines=False, time_span_e
             k = data.get_average_summary_length(ref_timeline)
 
             pred_timeline_, n_clusters = tls_model.predict(
+                j,
+                cluster_dir,
                 collection,
                 max_dates=l,
                 max_summary_sents=k,
