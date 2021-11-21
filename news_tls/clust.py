@@ -92,7 +92,7 @@ class ClusteringTimelineGenerator():
             c_sents = self._select_sents_from_cluster(c)
             #print("C", date, len(c_sents), "M", sys_m, "L", sys_l)
             #summary = self.summarizer.summarize(c_sents)
-            summary = self.summarizer.summarize(c_sents, max_summary_sents, vectorizer, embedder)
+            summary = self.summarizer.summarize(c_sents, max_summary_sents, doc_vectorizer, embedder)
 
             if summary:
                 if self.unique_dates and date in date_to_summary:
