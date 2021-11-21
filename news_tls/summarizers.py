@@ -144,15 +144,15 @@ class CentroidOpt(Summarizer):
         selected = []
         while len(remaining) > 0 and len(selected) < k:
             if len(selected) > 0:
-                #summary_vector = sparse.vstack([X[i] for i in selected])
-                #summary_vector = sparse.csr_matrix(summary_vector.sum(0))
-                summary_vector = np.sum(np.vstack([X[i] for i in selected]), axis=0)
+                summary_vector = sparse.vstack([X[i] for i in selected])
+                summary_vector = sparse.csr_matrix(summary_vector.sum(0))
+                #summary_vector = np.sum(np.vstack([X[i] for i in selected]), axis=0)
             i_to_score = {}
             for i in remaining:
                 if len(selected) > 0:
                     new_x = X[i]
-                    #new_summary_vector = sparse.vstack([new_x, summary_vector])
-                    new_summary_vector = np.sum(np.vstack([new_x, summary_vector]), axis=0).reshape(1, -1)
+                    new_summary_vector = sparse.vstack([new_x, summary_vector])
+                    #new_summary_vector = np.sum(np.vstack([new_x, summary_vector]), axis=0).reshape(1, -1)
                     new_summary_vector = normalize(new_summary_vector)
                 else:
                     new_summary_vector = X[i]
@@ -177,8 +177,8 @@ class CentroidOpt(Summarizer):
 
     def is_redundant(self, new_i, selected, X):
         summary_vectors = [X[i] for i in selected]
-        new_x = np.array(X[new_i]).reshape(1, -1)
-        #new_x = X[new_i]
+        #new_x = np.array(X[new_i]).reshape(1, -1)
+        new_x = X[new_i]
         for x in summary_vectors:
             x = np.array(x).reshape(1, -1)
             if cosine_similarity(new_x, x)[0] > self.max_sim:
