@@ -187,7 +187,8 @@ class CentroidOpt(Summarizer):
 
     def summarize(self, sents, k, vectorizer, embedder, filter=None):
         raw_sents = [s.raw for s in sents]
-        X = embedder.encode(raw_sents)
+        X = vectorizer.fit_transform(raw_sents)
+        #X = embedder.encode(raw_sents)
         Xsum = np.sum(X, axis=0).reshape(1, -1)
         centroid = normalize(Xsum)
         selected = self.optimise(centroid, X, sents, k, filter)
