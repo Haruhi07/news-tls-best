@@ -3,7 +3,7 @@ from pathlib import Path
 from tilse.data.timelines import Timeline as TilseTimeline
 from tilse.data.timelines import GroundTruth as TilseGroundTruth
 from tilse.evaluation import rouge
-from news_tls import utils, data, datewise, clust, summarizers
+from news_tls import utils, data, datewise, clust_bak, summarizers
 from pprint import pprint
 
 
@@ -180,12 +180,12 @@ def main(args):
         )
 
     elif args.method == 'clust':
-        cluster_ranker = clust.ClusterDateMentionCountRanker()
-        clusterer = clust.TemporalMarkovClusterer()
+        cluster_ranker = clust_bak.ClusterDateMentionCountRanker()
+        clusterer = clust_bak.TemporalMarkovClusterer()
         summarizer = summarizers.CentroidOpt()
         #clusterer = clust.AffinityPropagationClusterer()
         #summarizer = summarizers.Pegasus()
-        system = clust.ClusteringTimelineGenerator(
+        system = clust_bak.ClusteringTimelineGenerator(
             cluster_ranker=cluster_ranker,
             clusterer=clusterer,
             summarizer=summarizer,

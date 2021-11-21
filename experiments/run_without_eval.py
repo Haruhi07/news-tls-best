@@ -1,6 +1,6 @@
 import argparse
 from pathlib import Path
-from news_tls import utils, data, datewise, clust, summarizers
+from news_tls import utils, data, datewise, clust_bak, summarizers
 from pprint import pprint
 
 
@@ -62,10 +62,10 @@ def main(args):
         )
 
     elif args.method == 'clust':
-        cluster_ranker = clust.ClusterDateMentionCountRanker()
-        clusterer = clust.TemporalMarkovClusterer()
+        cluster_ranker = clust_bak.ClusterDateMentionCountRanker()
+        clusterer = clust_bak.TemporalMarkovClusterer()
         summarizer = summarizers.CentroidOpt()
-        system = clust.ClusteringTimelineGenerator(
+        system = clust_bak.ClusteringTimelineGenerator(
             cluster_ranker=cluster_ranker,
             clusterer=clusterer,
             summarizer=summarizer,
