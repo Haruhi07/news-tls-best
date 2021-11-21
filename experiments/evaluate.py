@@ -189,7 +189,7 @@ def main(args):
             cluster_ranker=cluster_ranker,
             clusterer=clusterer,
             summarizer=summarizer,
-            clip_sents=5,
+            clip_sents=2,
             unique_dates=True,
         )
     else:
