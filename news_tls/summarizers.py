@@ -191,7 +191,7 @@ class CentroidOpt(Summarizer):
         X = sparse.csr_matrix(X)
         Xsum = sparse.csr_matrix(X.sum(0))
         #X = embedder.encode(raw_sents)
-        Xsum = np.sum(X, axis=0).reshape(1, -1)
+        #Xsum = np.sum(X, axis=0).reshape(1, -1)
         centroid = normalize(Xsum)
         selected = self.optimise(centroid, X, sents, k, filter)
         summary = [sents[i].raw for i in selected]
