@@ -154,7 +154,7 @@ class CentroidOpt(Summarizer):
                     new_summary_vector = sparse.vstack([new_x, summary_vector])
                     #new_summary_vector = np.sum(np.vstack([new_x, summary_vector]), axis=0).reshape(1, -1)
                     #new_summary_vector = normalize(new_summary_vector)
-                    new_summary_vector = normalize(new_summary_vector(0))
+                    new_summary_vector = normalize(new_summary_vector.sum(0))
                 else:
                     new_summary_vector = X[i]
 
