@@ -114,8 +114,8 @@ class ClusteringTimelineGenerator():
     def _select_sents_from_cluster(self, cluster):
         sents = []
         for a in cluster.articles:
-            for s in a.sentences[:self.clip_sents]:
-            #for s in a.sentences:
+            #for s in a.sentences[:self.clip_sents]:
+            for s in a.sentences:
                 sents.append(s)
         return sents
 
@@ -373,7 +373,7 @@ class AffinityPropagationClusterer(Clusterer):
 
         times = [a.time for a in articles]
 
-        def calculate_similarity(method = 'euclid'):
+        def calculate_similarity(method='euclid'):
             if method == 'euclid':
                 S = np.zeros((len(X), len(X)))
                 for i in range(len(X)):
