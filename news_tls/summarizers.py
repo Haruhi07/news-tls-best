@@ -153,12 +153,13 @@ class CentroidOpt(Summarizer):
                     new_x = X[i]
                     new_summary_vector = sparse.vstack([new_x, summary_vector])
                     #new_summary_vector = np.sum(np.vstack([new_x, summary_vector]), axis=0).reshape(1, -1)
-                    new_summary_vector = normalize(new_summary_vector)
+                    #new_summary_vector = normalize(new_summary_vector)
+                    new_summary_vector = normalize(new_summary_vector(0))
                 else:
                     new_summary_vector = X[i]
 
-                new_summary_vector = np.array(new_summary_vector).reshape(1, -1)
-                centroid = np.array(centroid).reshape(1, -1)
+                #new_summary_vector = np.array(new_summary_vector).reshape(1, -1)
+                #centroid = np.array(centroid).reshape(1, -1)
                 score = cosine_similarity(new_summary_vector, centroid)[0, 0]
                 i_to_score[i] = score
 
