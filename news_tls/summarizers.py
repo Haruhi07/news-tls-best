@@ -181,7 +181,7 @@ class CentroidOpt(Summarizer):
         #new_x = np.array(X[new_i]).reshape(1, -1)
         new_x = X[new_i]
         for x in summary_vectors:
-            x = np.array(x).reshape(1, -1)
+            #x = np.array(x).reshape(1, -1)
             if cosine_similarity(new_x, x)[0] > self.max_sim:
                 return True
         return False
