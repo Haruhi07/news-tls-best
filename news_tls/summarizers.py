@@ -188,7 +188,10 @@ class CentroidOpt(Summarizer):
 
     def summarize(self, sents, k, vectorizer, embedder, filter=None):
         raw_sents = [s.raw for s in sents]
-        X = vectorizer.transform(raw_sents)
+        try:
+            X = vectorizer.transform(raw_sents)
+        except:
+            return None
         X = sparse.csr_matrix(X)
         Xsum = sparse.csr_matrix(X.sum(0))
         #X = embedder.encode(raw_sents)
