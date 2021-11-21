@@ -304,8 +304,8 @@ class TemporalMarkovClusterer(Clusterer):
 
         n_items = X.shape[0]
 
-        #S = sparse.lil_matrix((n_items, n_items))
-        S = np.zeros((n_items, n_items))
+        S = sparse.lil_matrix((n_items, n_items))
+        #S = np.zeros((n_items, n_items))
         start, end = min(times), max(times)
         total_days = (end - start).days + 1
 
@@ -320,8 +320,8 @@ class TemporalMarkovClusterer(Clusterer):
                 if len(indices) == 0:
                     continue
 
-                #X_n = sparse.vstack([X[i] for i in indices])
-                X_n = np.vstack([X[i] for i in indices])
+                X_n = sparse.vstack([X[i] for i in indices])
+                #X_n = np.vstack([X[i] for i in indices])
                 S_n = cosine_similarity(X_n)
                 n_items = len(indices)
                 for i_x, i_n in zip(indices, range(n_items)):
@@ -335,10 +335,10 @@ class TemporalMarkovClusterer(Clusterer):
                 if len(new_indices) == 0:
                     continue
 
-                #X_prev = sparse.vstack([X[i] for i in prev_indices])
-                #X_new = sparse.vstack([X[i] for i in new_indices])
-                X_prev = np.vstack([X[i] for i in prev_indices])
-                X_new = np.vstack([X[i] for i in new_indices])
+                X_prev = sparse.vstack([X[i] for i in prev_indices])
+                X_new = sparse.vstack([X[i] for i in new_indices])
+                #X_prev = np.vstack([X[i] for i in prev_indices])
+                #X_new = np.vstack([X[i] for i in new_indices])
                 S_n = cosine_similarity(X_prev, X_new)
                 n_prev, n_new = len(prev_indices), len(new_indices)
                 for i_x, i_n in zip(prev_indices, range(n_prev)):
