@@ -180,12 +180,12 @@ def main(args):
         )
 
     elif args.method == 'clust':
-        cluster_ranker = clust_bak.ClusterDateMentionCountRanker()
-        clusterer = clust_bak.TemporalMarkovClusterer()
+        cluster_ranker = clust.ClusterDateMentionCountRanker()
+        clusterer = clust.TemporalMarkovClusterer()
         #summarizer = summarizers.CentroidOpt()
         #clusterer = clust.AffinityPropagationClusterer()
         summarizer = summarizers.Pegasus()
-        system = clust_bak.ClusteringTimelineGenerator(
+        system = clust.ClusteringTimelineGenerator(
             cluster_ranker=cluster_ranker,
             clusterer=clusterer,
             summarizer=summarizer,
