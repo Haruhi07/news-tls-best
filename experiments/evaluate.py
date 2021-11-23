@@ -3,7 +3,7 @@ from pathlib import Path
 from tilse.data.timelines import Timeline as TilseTimeline
 from tilse.data.timelines import GroundTruth as TilseGroundTruth
 from tilse.evaluation import rouge
-from news_tls import utils, data, datewise, clust_bak, summarizers
+from news_tls import utils, data, datewise, clust, summarizers
 from pprint import pprint
 
 
