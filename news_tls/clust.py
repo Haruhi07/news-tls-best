@@ -110,8 +110,8 @@ class ClusteringTimelineGenerator():
         sents = []
         for a in cluster.articles:
             pub_d = a.time.date()
-            for s in a.sentences[:self.clip_sents]:
-            #for s in a.sentences:
+            #for s in a.sentences[:self.clip_sents]:
+            for s in a.sentences:
                 sents.append(s)
         return sents
 
