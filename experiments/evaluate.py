@@ -182,9 +182,9 @@ def main(args):
     elif args.method == 'clust':
         cluster_ranker = clust_bak.ClusterDateMentionCountRanker()
         clusterer = clust_bak.TemporalMarkovClusterer()
-        summarizer = summarizers.CentroidOpt()
+        #summarizer = summarizers.CentroidOpt()
         #clusterer = clust.AffinityPropagationClusterer()
-        #summarizer = summarizers.Pegasus()
+        summarizer = summarizers.Pegasus()
         system = clust_bak.ClusteringTimelineGenerator(
             cluster_ranker=cluster_ranker,
             clusterer=clusterer,
