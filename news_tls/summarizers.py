@@ -15,8 +15,7 @@ class Summarizer:
 
 class Pegasus():
     def __init__(self):
-        #self.model_name = 'google/pegasus-large'
-        self.model_name = 'human-centered-summarization/financial-summarization-pegasus'
+        self.model_name = 'google/pegasus-multi_news'
         self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
         self.tokenizer = PegasusTokenizer.from_pretrained(self.model_name)
         self.model = PegasusForConditionalGeneration.from_pretrained(self.model_name).to(self.device)
