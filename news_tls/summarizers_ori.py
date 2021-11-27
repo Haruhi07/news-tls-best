@@ -1,34 +1,15 @@
 import networkx as nx
-import numpy as np
 from scipy import sparse
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.preprocessing import normalize
 from sklearn.cluster import MiniBatchKMeans
-from transformers import PegasusForConditionalGeneration, PegasusTokenizer
-import torch
 
 
 class Summarizer:
 
-    def summarize(self, sents, k, vectorizer, embedder, filter=None):
+    def summarize(self, sents, k, vectorizer, filters=None):
         raise NotImplementedError
 
-class Pegasus():
-    def __init__(self):
-        self.model_name = 'google/pegasus-multi_news'
-        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
-        self.tokenizer = PegasusTokenizer.from_pretrained(self.model_name)
-        self.model = PegasusForConditionalGeneration.from_pretrained(self.model_name).to(self.device)
-
-    def summarize(self, sents):
-        sents = [s.raw for s in sents]
-        src_text = ' '.join(sents)
-        print(src_text)
-        batch = self.tokenizer(src_text, truncation=True, padding='longest', return_tensors="pt").to(self.device)
-        translated = self.model.generate(**batch)
-        tgt_text = self.tokenizer.batch_decode(translated, skip_special_tokens=True)
-        print(tgt_text)
-        return tgt_text
 
 class TextRank(Summarizer):
 
@@ -48,7 +29,7 @@ class TextRank(Summarizer):
         scores = [pagerank[i] for i in nodes]
         return scores
 
-    def summarize(self, sents, k, vectorizer, embedder, filter=None):
+    def summarize(self, sents, k, vectorizer, filter=None):
         raw_sents = [s.raw for s in sents]
         try:
             X = vectorizer.transform(raw_sents)
@@ -96,7 +77,7 @@ class CentroidRank(Summarizer):
         scores = cosine_similarity(X, centroid)
         return scores
 
-    def summarize(self, sents, k, vectorizer, embedder, filter=None):
+    def summarize(self, sents, k, vectorizer, filter=None):
         raw_sents = [s.raw for s in sents]
         try:
             X = vectorizer.transform(raw_sents)
@@ -146,20 +127,14 @@ class CentroidOpt(Summarizer):
             if len(selected) > 0:
                 summary_vector = sparse.vstack([X[i] for i in selected])
                 summary_vector = sparse.csr_matrix(summary_vector.sum(0))
-                #summary_vector = np.sum(np.vstack([X[i] for i in selected]), axis=0)
             i_to_score = {}
             for i in remaining:
                 if len(selected) > 0:
                     new_x = X[i]
                     new_summary_vector = sparse.vstack([new_x, summary_vector])
-                    #new_summary_vector = np.sum(np.vstack([new_x, summary_vector]), axis=0).reshape(1, -1)
-                    #new_summary_vector = normalize(new_summary_vector)
                     new_summary_vector = normalize(new_summary_vector.sum(0))
                 else:
                     new_summary_vector = X[i]
-
-                #new_summary_vector = np.array(new_summary_vector).reshape(1, -1)
-                #centroid = np.array(centroid).reshape(1, -1)
                 score = cosine_similarity(new_summary_vector, centroid)[0, 0]
                 i_to_score[i] = score
 
@@ -178,15 +153,13 @@ class CentroidOpt(Summarizer):
 
     def is_redundant(self, new_i, selected, X):
         summary_vectors = [X[i] for i in selected]
-        #new_x = np.array(X[new_i]).reshape(1, -1)
         new_x = X[new_i]
         for x in summary_vectors:
-            #x = np.array(x).reshape(1, -1)
             if cosine_similarity(new_x, x)[0] > self.max_sim:
                 return True
         return False
 
-    def summarize(self, sents, k, vectorizer, embedder, filter=None):
+    def summarize(self, sents, k, vectorizer, filter=None):
         raw_sents = [s.raw for s in sents]
         try:
             X = vectorizer.transform(raw_sents)
@@ -194,8 +167,6 @@ class CentroidOpt(Summarizer):
             return None
         X = sparse.csr_matrix(X)
         Xsum = sparse.csr_matrix(X.sum(0))
-        #X = embedder.encode(raw_sents)
-        #Xsum = np.sum(X, axis=0).reshape(1, -1)
         centroid = normalize(Xsum)
         selected = self.optimise(centroid, X, sents, k, filter)
         summary = [sents[i].raw for i in selected]
@@ -289,9 +260,13 @@ class SubmodularSummarizer(Summarizer):
 
         return selected
 
-    def summarize(self, sents, k, vectorizer, embedder, filter=None):
+    def summarize(self, sents, k, vectorizer, filter=None):
         raw_sents = [s.raw for s in sents]
-        X = embedder.encode(raw_sents)
+        try:
+            X = vectorizer.transform(raw_sents)
+        except:
+            return None
+
         ix_to_label = self.cluster_sentences(X)
         pairwise_sims = cosine_similarity(X)
         sent_coverages = pairwise_sims.sum(0)
