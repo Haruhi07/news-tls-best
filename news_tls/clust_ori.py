@@ -112,7 +112,6 @@ class ClusteringTimelineGenerator():
             t = datetime.datetime(d.year, d.month, d.day)
             timeline.append((t, summary))
         timeline.sort(key=lambda x: x[0])
-        print(timeline)
 
         return data.Timeline(timeline)
 

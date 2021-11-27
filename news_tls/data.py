@@ -352,10 +352,8 @@ class Timeline:
         self.time_to_summaries = dict((t, s) for t, s in items)
         self.date_to_summaries = dict((t.date(), s) for t, s in items)
         self.times = sorted(self.time_to_summaries)
-        print(self.time_to_summaries)
 
     def __getitem__(self, item):
-        print(f'item={item}')
         return self.time_to_summaries[item]
 
     def __len__(self):
