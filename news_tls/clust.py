@@ -51,12 +51,12 @@ class ClusteringTimelineGenerator():
         print('clustering articles...')
 
         # word embedding & cluster
-        vectorizer = None
-        embedder = SentenceTransformer('paraphrase-distilroberta-base-v1')
-        clusters = self.clusterer.cluster(collection, None, embedder)
-        #embedder = None
-        #doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
-        #clusters = self.clusterer.cluster(collection, doc_vectorizer, None)
+        #vectorizer = None
+        #embedder = SentenceTransformer('paraphrase-distilroberta-base-v1')
+        #clusters = self.clusterer.cluster(collection, None, embedder)
+        embedder = None
+        doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
+        clusters = self.clusterer.cluster(collection, doc_vectorizer, None)
         clusters_num = len(clusters)
 
         # assign dates
@@ -91,8 +91,8 @@ class ClusteringTimelineGenerator():
             date = c.time.date()
             c_sents = self._select_sents_from_cluster(c)
             #print("C", date, len(c_sents), "M", sys_m, "L", sys_l)
-            summary = self.summarizer.summarize(c_sents)
-            #summary = self.summarizer.summarize(c_sents, max_summary_sents, doc_vectorizer, embedder)
+            #summary = self.summarizer.summarize(c_sents)
+            summary = self.summarizer.summarize(c_sents, max_summary_sents, doc_vectorizer, embedder)
 
             if summary:
                 if self.unique_dates and date in date_to_summary:
