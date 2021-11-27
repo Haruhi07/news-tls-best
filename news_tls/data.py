@@ -349,8 +349,6 @@ class ArticleCollection:
 class Timeline:
     def __init__(self, items):
         self.items = sorted(items, key=lambda x: x[0])
-        with open("data_log.txt", "a") as ftmp:
-            print(self.items, file=ftmp)
         self.time_to_summaries = dict((t, s) for t, s in items)
         self.date_to_summaries = dict((t.date(), s) for t, s in items)
         self.times = sorted(self.time_to_summaries)
