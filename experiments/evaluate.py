@@ -117,7 +117,7 @@ def evaluate(tls_model, dataset, result_path, trunc_timelines=False, time_span_e
                 collection,
                 max_dates=l,
                 max_summary_sents=k,
-                ref_tl=ref_timeline # only oracles need this
+                ref_tl=ref_timeline.dates_to_summaries # only oracles need this
             )
             ave_cluster = ave_cluster + n_clusters
 
