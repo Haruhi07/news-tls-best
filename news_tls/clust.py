@@ -403,6 +403,11 @@ class AffinityPropagationClusterer(Clusterer):
             af = AffinityPropagation(preference=-50, affinity='precomputed', random_state=None).fit(S)
             cluster_centers = af.cluster_centers_indices_
             labels = af.labels_
+        elif labels[0] == -1:
+            print('none')
+            af = AffinityPropagation(preference=-50, random_state=None).fit(X)
+            cluster_centers = af.cluster_centers_indices_
+            labels = af.labels_
 
         print(f'times: {len(set(times))} articles: {len(articles)} '
               f'clusters: {len(set(labels))}')
