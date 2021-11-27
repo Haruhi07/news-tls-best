@@ -9,6 +9,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from scipy import sparse
 from typing import List
 from news_tls import utils, data
+import pickle
 
 
 class ClusteringTimelineGenerator():
@@ -28,6 +29,8 @@ class ClusteringTimelineGenerator():
         self.clip_sents = clip_sents
 
     def predict(self,
+                j,
+                cluster_dir,
                 collection,
                 max_dates=10,
                 max_summary_sents=1,
@@ -48,6 +51,12 @@ class ClusteringTimelineGenerator():
 
         print('ranking clusters...')
         ranked_clusters = self.cluster_ranker.rank(clusters, collection)
+        batch = {
+            'cluster': ranked_clusters,
+            'ref': ref_tl
+        }
+        with open(cluster_dir / f'{collection.name}_{j}.pkl', 'wb') as f:
+            pickle.dump(batch, file=f)
 
         print('vectorizing sentences...')
         raw_sents = [s.raw for a in collection.articles() for s in
