@@ -23,11 +23,9 @@ class Pegasus():
     def summarize(self, sents):
         sents = [s.raw for s in sents]
         src_text = ' '.join(sents)
-        print(src_text)
         batch = self.tokenizer(src_text, truncation=True, padding='longest', return_tensors="pt").to(self.device)
         translated = self.model.generate(**batch)
         tgt_text = self.tokenizer.batch_decode(translated, skip_special_tokens=True)
-        print(tgt_text)
         return tgt_text
 
 class TextRank(Summarizer):
