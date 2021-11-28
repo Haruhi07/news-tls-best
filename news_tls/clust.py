@@ -116,8 +116,8 @@ class ClusteringTimelineGenerator():
     def _select_sents_from_cluster(self, cluster):
         sents = []
         for a in cluster.articles:
-            #for s in a.sentences[:self.clip_sents]:
-            for s in a.sentences:
+            for s in a.sentences[:self.clip_sents]:
+            #for s in a.sentences:
                 sents.append(s)
         return sents
 
