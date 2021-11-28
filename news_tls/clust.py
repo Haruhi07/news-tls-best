@@ -51,12 +51,12 @@ class ClusteringTimelineGenerator():
         print('clustering articles...')
 
         # word embedding & cluster
-        vectorizer = None
-        embedder = SentenceTransformer('paraphrase-distilroberta-base-v1')
-        clusters = self.clusterer.cluster(collection, None, embedder)
-        #embedder = None
-        #doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
-        #clusters = self.clusterer.cluster(collection, doc_vectorizer, None)
+        #vectorizer = None
+        #embedder = SentenceTransformer('paraphrase-distilroberta-base-v1')
+        #clusters = self.clusterer.cluster(collection, None, embedder)
+        embedder = None
+        doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
+        clusters = self.clusterer.cluster(collection, doc_vectorizer, None)
         clusters_num = len(clusters)
 
         # assign dates
