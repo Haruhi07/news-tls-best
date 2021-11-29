@@ -60,7 +60,7 @@ class ClusteringTimelineGenerator():
         except Exception:
             print('Using TM...')
             doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
-            clusters = self.clusterer.cluster(collection, doc_vectorizer, None)
+            clusters = self.markov_clusterer.cluster(collection, doc_vectorizer, None)
         return None, None
 
         clusters_num = len(clusters)
