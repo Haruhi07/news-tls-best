@@ -191,7 +191,7 @@ def main(args):
             clusterer=clusterer,
             markov_clusterer=markov_clusterer,
             summarizer=summarizer,
-            clip_sents=4,
+            clip_sents=2,
             unique_dates=True,
         )
     else:
