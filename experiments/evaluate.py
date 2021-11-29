@@ -119,7 +119,6 @@ def evaluate(tls_model, dataset, result_path, trunc_timelines=False, time_span_e
                 max_summary_sents=k,
                 ref_tl=ref_timeline # only oracles need this
             )
-            continue
             ave_cluster = ave_cluster + n_clusters
 
             # print('*** PREDICTED ***')
