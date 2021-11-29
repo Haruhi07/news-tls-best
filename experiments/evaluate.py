@@ -72,7 +72,7 @@ def get_average_results(tmp_results):
 
 def evaluate(tls_model, dataset, result_path, trunc_timelines=False, time_span_extension=0):
     #cluster_dir = Path('/content/drive/MyDrive/results/cluster/')
-    cluster_dir = Path('/content/drive/MyDrive/results/cluster/')
+    cluster_dir = Path('/content/drive/MyDrive/results/crisis/cluster/')
     results = []
     metric = 'align_date_content_costs_many_to_one'
     evaluator = rouge.TimelineRougeEvaluator(measures=["rouge_1", "rouge_2"])
@@ -181,15 +181,15 @@ def main(args):
 
     elif args.method == 'clust':
         cluster_ranker = clust.ClusterDateMentionCountRanker()
-        clusterer = clust.TemporalMarkovClusterer()
+        #clusterer = clust.TemporalMarkovClusterer()
         #summarizer = summarizers.CentroidOpt()
-        #clusterer = clust.AffinityPropagationClusterer()
+        clusterer = clust.AffinityPropagationClusterer()
         summarizer = summarizers.Pegasus()
         system = clust.ClusteringTimelineGenerator(
             cluster_ranker=cluster_ranker,
             clusterer=clusterer,
             summarizer=summarizer,
-            clip_sents=8,
+            clip_sents=6,
             unique_dates=True,
         )
     else:
