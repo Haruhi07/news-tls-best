@@ -52,7 +52,7 @@ class ClusteringTimelineGenerator():
 
         # word embedding & cluster
         vectorizer = None
-        embedder = SentenceTransformer('paraphrase-distilroberta-base-v1')
+        embedder = SentenceTransformer('paraphrase-distilroberta-base-v2')
         clusters = self.clusterer.cluster(collection, None, embedder)
         #embedder = None
         #doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
