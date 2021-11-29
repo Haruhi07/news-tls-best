@@ -25,6 +25,7 @@ from nltk.stem.porter import *
 class ClusteringTimelineGenerator():
     def __init__(self,
                  clusterer=None,
+                 markov_clusterer=None,
                  cluster_ranker=None,
                  summarizer=None,
                  clip_sents=2,
@@ -32,6 +33,7 @@ class ClusteringTimelineGenerator():
                  unique_dates=True):
 
         self.clusterer = clusterer
+        self.markov_clusterer = markov_clusterer
         self.cluster_ranker = cluster_ranker
         self.summarizer = summarizer
         self.key_to_model = key_to_model
@@ -51,12 +53,15 @@ class ClusteringTimelineGenerator():
         print('clustering articles...')
 
         # word embedding & cluster
-        #vectorizer = None
-        #embedder = SentenceTransformer('paraphrase-distilroberta-base-v1')
-        #clusters = self.clusterer.cluster(collection, None, embedder)
-        embedder = None
-        doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
-        clusters = self.clusterer.cluster(collection, doc_vectorizer, None)
+        try:
+            print('trying AP...')
+            embedder = SentenceTransformer('paraphrase-distilroberta-base-v1')
+            clusters = self.clusterer.cluster(collection, None, embedder)
+        except Exception:
+            print('Using TM...')
+            doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
+            clusters = self.clusterer.cluster(collection, doc_vectorizer, None)
+
         clusters_num = len(clusters)
 
         # assign dates
