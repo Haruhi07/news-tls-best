@@ -190,7 +190,7 @@ def main(args):
             clusterer=clusterer,
             markov_clusterer=markov_clusterer,
             summarizer=summarizer,
-            clip_sents=8,
+            clip_sents=9,
             unique_dates=True,
         )
     else:
