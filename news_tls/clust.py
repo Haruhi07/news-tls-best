@@ -399,14 +399,14 @@ class AffinityPropagationClusterer(Clusterer):
                         S[i][j] = -100
             return S
 
-        S = calculate_similarity('euclid')
+        S = calculate_similarity('cosine')
         af = AffinityPropagation(preference=-50, affinity='precomputed', random_state=None).fit(S)
         cluster_centers = af.cluster_centers_indices_
         labels = af.labels_
 
         if labels[0] == -1:
-            print('cosine')
-            S = calculate_similarity('cosine')
+            print('euclid')
+            S = calculate_similarity('euclid')
             af = AffinityPropagation(preference=-50, affinity='precomputed', random_state=None).fit(S)
             cluster_centers = af.cluster_centers_indices_
             labels = af.labels_
@@ -420,14 +420,14 @@ class AffinityPropagationClusterer(Clusterer):
         print(f'times: {len(set(times))} articles: {len(articles)} '
               f'clusters: {len(set(labels))}')
 
-        print(labels)
-        print(cluster_centers)
+        #print(labels)
+        #print(cluster_centers)
 
         idx_clusters = collections.defaultdict(list)
         for i in range(len(X)):
             idx_clusters[cluster_centers[labels[i]]].append(i)
-        for c in idx_clusters:
-            print('{} {}'.format(c, idx_clusters[c]))
+        #for c in idx_clusters:
+        #    print('{} {}'.format(c, idx_clusters[c]))
 
         clusters = []
         for c in idx_clusters:
