@@ -53,18 +53,18 @@ class ClusteringTimelineGenerator():
         print('clustering articles...')
 
         # word embedding & cluster
-        #try:
-        #    print('trying AP...')
-        #    embedder = SentenceTransformer('paraphrase-distilroberta-base-v1')
-        #    clusters = self.clusterer.cluster(collection, None, embedder)
-        #except Exception:
-        #    print('Using TM...')
-        #    doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
-        #    clusters = self.markov_clusterer.cluster(collection, doc_vectorizer, None)
+        try:
+            print('trying AP...')
+            embedder = SentenceTransformer('paraphrase-distilroberta-base-v1')
+            clusters = self.clusterer.cluster(collection, None, embedder)
+        except Exception:
+            print('Using TM...')
+            doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
+            clusters = self.markov_clusterer.cluster(collection, doc_vectorizer, None)
 
-        doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
-        clusters = self.markov_clusterer.cluster(collection, doc_vectorizer, None)
-        clusters_num = len(clusters)
+        #doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
+        #clusters = self.markov_clusterer.cluster(collection, doc_vectorizer, None)
+        #clusters_num = len(clusters)
 
         # assign dates
         print('assigning cluster times...')
@@ -118,7 +118,7 @@ class ClusteringTimelineGenerator():
             timeline.append((t, summary))
         timeline.sort(key=lambda x: x[0])
 
-        return data.Timeline(timeline), clusters_num
+        return data.Timeline(timeline), len(ranked_clusters)
 
     def _select_sents_from_cluster(self, cluster):
         sents = []
